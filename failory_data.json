@@ -1,0 +1,722 @@
+[
+  {
+    "Name": "BioCatch",
+    "Website": "http://www.biocatch.com/",
+    "Industry": "Analytics",
+    "Founded": "2011",
+    "Funding": "$323.7M",
+    "Last Round": "Secondary Market"
+  },
+  {
+    "Name": "Seemplicity",
+    "Website": "https://seemplicity.io/",
+    "Industry": "Security",
+    "Founded": "2020",
+    "Funding": "$82M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Optimove",
+    "Website": "http://www.optimove.com/",
+    "Industry": "Analytics",
+    "Founded": "2009",
+    "Funding": "$95M",
+    "Last Round": "Secondary Market"
+  },
+  {
+    "Name": "Ox Security",
+    "Website": "https://www.ox.security/",
+    "Industry": "AI",
+    "Founded": "2021",
+    "Funding": "$94M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "IVIX",
+    "Website": "http://www.ivix.ai/",
+    "Industry": "Analytics",
+    "Founded": "2020",
+    "Funding": "$85.5M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Shield",
+    "Website": "https://www.shieldfc.com/",
+    "Industry": "AI",
+    "Founded": "2018",
+    "Funding": "$35M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Koi",
+    "Website": "https://www.koi.security/",
+    "Industry": "Hardware",
+    "Founded": "2023",
+    "Funding": "$48M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Aim Security",
+    "Website": "https://www.aim.security/",
+    "Industry": "AI",
+    "Founded": "2023",
+    "Funding": "$28M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "QuantHealth",
+    "Website": "https://quanthealth.ai/",
+    "Industry": "AI",
+    "Founded": "2020",
+    "Funding": "$17M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Cato Networks",
+    "Website": "http://www.catonetworks.com/",
+    "Industry": "Cloud",
+    "Founded": "2015",
+    "Funding": "$1.2B",
+    "Last Round": "Series G"
+  },
+  {
+    "Name": "Sola Security",
+    "Website": "https://sola.security/",
+    "Industry": "AI",
+    "Founded": "2024",
+    "Funding": "$93M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Sentra",
+    "Website": "https://www.sentra.io/",
+    "Industry": "Security",
+    "Founded": "2021",
+    "Funding": "$103M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "LayerX",
+    "Website": "https://www.layerxsecurity.com/",
+    "Industry": "Security",
+    "Founded": "2021",
+    "Funding": "$44.5M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Hailo",
+    "Website": "https://hailo.ai/",
+    "Industry": "AI",
+    "Founded": "2017",
+    "Funding": "$343.9M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Komodor",
+    "Website": "https://komodor.com/",
+    "Industry": "Media",
+    "Founded": "2020",
+    "Funding": "$67M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Astrix Security",
+    "Website": "https://www.astrix.security/",
+    "Industry": "AI",
+    "Founded": "2021",
+    "Funding": "$85M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Vega Security",
+    "Website": "https://vega.io/",
+    "Industry": "Security",
+    "Founded": "2023",
+    "Funding": "$65M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Tabnine",
+    "Website": "https://www.tabnine.com/",
+    "Industry": "AI",
+    "Founded": "2013",
+    "Funding": "$57.1M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Lumen",
+    "Website": "http://lumen.me/",
+    "Industry": "Media",
+    "Founded": "2014",
+    "Funding": "$79.3M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Seraphic Security",
+    "Website": "https://seraphicsecurity.com/",
+    "Industry": "SaaS",
+    "Founded": "2019",
+    "Funding": "$29M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Riverside",
+    "Website": "https://riverside.com/",
+    "Industry": "Media",
+    "Founded": "2019",
+    "Funding": "$77M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Leo AI",
+    "Website": "https://www.getleo.ai/",
+    "Industry": "AI",
+    "Founded": "2023",
+    "Funding": "$5M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Hush Security",
+    "Website": "https://www.hush.security/",
+    "Industry": "Hardware",
+    "Founded": "2024",
+    "Funding": "$11M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Cynomi",
+    "Website": "https://www.cynomi.com/",
+    "Industry": "AI",
+    "Founded": "2021",
+    "Funding": "$60.5M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "MetalBear",
+    "Website": "https://metalbear.com/",
+    "Industry": "Infrastructure",
+    "Founded": "2022",
+    "Funding": "$12.5M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "AI21 Labs",
+    "Website": "http://www.ai21.com/",
+    "Industry": "AI",
+    "Founded": "2017",
+    "Funding": "$626.5M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "Balance",
+    "Website": "https://www.getbalance.com/",
+    "Industry": "Enterprise",
+    "Founded": "2020",
+    "Funding": "$431M",
+    "Last Round": "Debt Financing"
+  },
+  {
+    "Name": "ONE ZERO",
+    "Website": "https://www.onezerobank.com/",
+    "Industry": "Fintech",
+    "Founded": "2019",
+    "Funding": "$282M",
+    "Last Round": "Undisclosed"
+  },
+  {
+    "Name": "Dream Security",
+    "Website": "https://www.dreamgroup.com/",
+    "Industry": "AI",
+    "Founded": "2023",
+    "Funding": "$198.6M",
+    "Last Round": "Secondary Market"
+  },
+  {
+    "Name": "LightSolver",
+    "Website": "https://lightsolver.com/",
+    "Industry": "Hardware",
+    "Founded": "2019",
+    "Funding": "$12.5M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Torq",
+    "Website": "https://torq.io/",
+    "Industry": "AI",
+    "Founded": "2020",
+    "Funding": "$190M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Atera",
+    "Website": "http://www.atera.com/",
+    "Industry": "Infrastructure",
+    "Founded": "2011",
+    "Funding": "$102M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "groundcover",
+    "Website": "http://www.groundcover.com/",
+    "Industry": "Infrastructure",
+    "Founded": "2021",
+    "Funding": "$59.5M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "D-ID",
+    "Website": "http://www.d-id.com/",
+    "Industry": "AI",
+    "Founded": "2017",
+    "Funding": "$47.9M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Classiq Technologies",
+    "Website": "https://www.classiq.io/",
+    "Industry": "Hardware",
+    "Founded": "2020",
+    "Funding": "$171.8M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "TechSee",
+    "Website": "http://www.techsee.me/",
+    "Industry": "AI",
+    "Founded": "2015",
+    "Funding": "$53.5M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "LIGHTYX",
+    "Website": "https://www.lightyx.com/",
+    "Industry": "Manufacturing",
+    "Founded": "2018",
+    "Funding": "$11M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Infinidat",
+    "Website": "http://www.infinidat.com/",
+    "Industry": "Data",
+    "Founded": "2011",
+    "Funding": "$370M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "Kela Technologies",
+    "Website": "https://kelasys.com/",
+    "Industry": "SaaS",
+    "Founded": "2024",
+    "Funding": "$39M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Wonderful",
+    "Website": "https://www.wonderful.ai/",
+    "Industry": "AI",
+    "Founded": "2025",
+    "Funding": "$34M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Token Security",
+    "Website": "https://token.security/",
+    "Industry": "Security",
+    "Founded": "2023",
+    "Funding": "$27M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Agora",
+    "Website": "http://agorareal.com/",
+    "Industry": "Fintech",
+    "Founded": "2019",
+    "Funding": "$63.9M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "NewPhotonics",
+    "Website": "http://newphotonics.com/",
+    "Industry": "Cloud",
+    "Founded": "2020",
+    "Funding": "$28.6M",
+    "Last Round": "Grant"
+  },
+  {
+    "Name": "Simply",
+    "Website": "http://www.hellosimply.com/",
+    "Industry": "Education",
+    "Founded": "2011",
+    "Funding": "$92M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "Trigo",
+    "Website": "https://www.trigoretail.com/",
+    "Industry": "AI",
+    "Founded": "2008",
+    "Funding": "$199M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "ControlMonkey",
+    "Website": "https://www.controlmonkey.io/",
+    "Industry": "Cloud",
+    "Founded": "2022",
+    "Funding": "$7M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Oktopost",
+    "Website": "http://www.oktopost.com/",
+    "Industry": "Enterprise",
+    "Founded": "2013",
+    "Funding": "$20.8M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Mitiga",
+    "Website": "https://www.mitiga.io/",
+    "Industry": "Security",
+    "Founded": "2020",
+    "Funding": "$75M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Scopio Labs",
+    "Website": "http://www.scopiolabs.com/",
+    "Industry": "AI",
+    "Founded": "2015",
+    "Funding": "$125.1M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "Onebeat",
+    "Website": "http://1beat.com/",
+    "Industry": "Retail",
+    "Founded": "2018",
+    "Funding": "$30M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Dig",
+    "Website": "https://dig.ai/",
+    "Industry": "AI",
+    "Founded": "2021",
+    "Funding": "$22M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "SysAid",
+    "Website": "https://www.sysaid.com/",
+    "Industry": "Enterprise",
+    "Founded": "2002",
+    "Funding": "$30M",
+    "Last Round": "Private Equity"
+  },
+  {
+    "Name": "Briya",
+    "Website": "https://briya.com/",
+    "Industry": "Cloud",
+    "Founded": "2021",
+    "Funding": "$17M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Intuition Robotics",
+    "Website": "http://www.intuitionrobotics.com/",
+    "Industry": "AI",
+    "Founded": "2016",
+    "Funding": "$83M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Lasso Security",
+    "Website": "https://www.lasso.security/",
+    "Industry": "Security",
+    "Founded": "2023",
+    "Funding": "$12.5M",
+    "Last Round": "—"
+  },
+  {
+    "Name": "Grip Security",
+    "Website": "https://www.grip.security/",
+    "Industry": "Security",
+    "Founded": "2021",
+    "Funding": "$66M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Cycode",
+    "Website": "https://cycode.com/",
+    "Industry": "Security",
+    "Founded": "2019",
+    "Funding": "$80.6M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Overwolf",
+    "Website": "http://overwolf.com/",
+    "Industry": "Media",
+    "Founded": "2010",
+    "Funding": "$97.2M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "capitalise.ai",
+    "Website": "https://www.capitalise.ai/",
+    "Industry": "Fintech",
+    "Founded": "2015",
+    "Funding": "$10M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "WSC Sports",
+    "Website": "https://wsc-sports.com/",
+    "Industry": "AI",
+    "Founded": "2011",
+    "Funding": "$136M",
+    "Last Round": "Series D"
+  },
+  {
+    "Name": "deepdub",
+    "Website": "https://deepdub.ai/",
+    "Industry": "AI",
+    "Founded": "2019",
+    "Funding": "$20M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Oligo Security",
+    "Website": "https://www.oligo.security/",
+    "Industry": "Media",
+    "Founded": "2022",
+    "Funding": "$78M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Windward",
+    "Website": "https://windward.ai/",
+    "Industry": "Analytics",
+    "Founded": "2010",
+    "Funding": "$32.3M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Blockaid",
+    "Website": "https://www.blockaid.io/",
+    "Industry": "Crypto",
+    "Founded": "2022",
+    "Funding": "$83M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "myInterview",
+    "Website": "http://www.myinterview.com/",
+    "Industry": "Enterprise",
+    "Founded": "2020",
+    "Funding": "$17.4M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Pecan",
+    "Website": "https://www.pecan.ai/",
+    "Industry": "AI",
+    "Founded": "2016",
+    "Funding": "$116M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "CYE",
+    "Website": "https://www.cyesec.com/",
+    "Industry": "Security",
+    "Founded": "2012",
+    "Funding": "$120M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Zencity",
+    "Website": "http://www.zencity.io/",
+    "Industry": "Analytics",
+    "Founded": "2015",
+    "Funding": "$91.2M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Explorium",
+    "Website": "https://www.explorium.ai/",
+    "Industry": "Analytics",
+    "Founded": "2017",
+    "Funding": "$125.1M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Marketeam.ai",
+    "Website": "https://www.marketeam.ai/",
+    "Industry": "AI",
+    "Founded": "2021",
+    "Funding": "$5M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Applitools",
+    "Website": "http://applitools.com/",
+    "Industry": "Cloud",
+    "Founded": "2013",
+    "Funding": "$41.8M",
+    "Last Round": "Private Equity"
+  },
+  {
+    "Name": "Axiom",
+    "Website": "https://axiom.security/",
+    "Industry": "Security",
+    "Founded": "2021",
+    "Funding": "$7M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Artlist",
+    "Website": "https://artlist.io/",
+    "Industry": "Media",
+    "Founded": "2016",
+    "Funding": "$48M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Five Sigma",
+    "Website": "https://www.fivesigmalabs.com/",
+    "Industry": "Enterprise",
+    "Founded": "2017",
+    "Funding": "$26M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Finout",
+    "Website": "https://finout.io/",
+    "Industry": "Cloud",
+    "Founded": "2021",
+    "Funding": "$84.8M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Ray Security",
+    "Website": "https://raysecurity.io/",
+    "Industry": "Security",
+    "Founded": "2024",
+    "Funding": "$11M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "bananaz",
+    "Website": "https://www.bananaz.ai/",
+    "Industry": "AI",
+    "Founded": "2023",
+    "Funding": "$5.3M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Exodigo",
+    "Website": "https://www.exodigo.com/",
+    "Industry": "Media",
+    "Founded": "2021",
+    "Funding": "$212M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Port",
+    "Website": "https://www.getport.io/",
+    "Industry": "Infrastructure",
+    "Founded": "2022",
+    "Funding": "$60M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Oosto",
+    "Website": "https://oosto.com/",
+    "Industry": "Security",
+    "Founded": "2015",
+    "Funding": "$352M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "aiOla",
+    "Website": "https://aiola.ai/",
+    "Industry": "AI",
+    "Founded": "2020",
+    "Funding": "$58M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "GK8 by Galaxy",
+    "Website": "https://www.gk8.io/",
+    "Industry": "Fintech",
+    "Founded": "2018",
+    "Funding": "$12M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Savvy",
+    "Website": "http://savvy.security/",
+    "Industry": "Media",
+    "Founded": "2021",
+    "Funding": "$30M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Justt",
+    "Website": "https://justt.ai/",
+    "Industry": "AI",
+    "Founded": "2020",
+    "Funding": "$100M",
+    "Last Round": "Series C"
+  },
+  {
+    "Name": "Cyabra",
+    "Website": "https://cyabra.com/",
+    "Industry": "Data",
+    "Founded": "2018",
+    "Funding": "$12.3M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "FIRMUS",
+    "Website": "http://www.firmus.ai/",
+    "Industry": "Manufacturing",
+    "Founded": "2019",
+    "Funding": "$4.5M",
+    "Last Round": "Venture Round"
+  },
+  {
+    "Name": "Hypernative",
+    "Website": "https://www.hypernative.io/",
+    "Industry": "Security",
+    "Founded": "2022",
+    "Funding": "$76.5M",
+    "Last Round": "Series B"
+  },
+  {
+    "Name": "Backslash Security",
+    "Website": "https://www.backslash.security/",
+    "Industry": "Cloud",
+    "Founded": "2022",
+    "Funding": "$8M",
+    "Last Round": "Seed"
+  },
+  {
+    "Name": "Sett",
+    "Website": "https://www.sett.ai/",
+    "Industry": "AI",
+    "Founded": "2022",
+    "Funding": "$27M",
+    "Last Round": "Series A"
+  },
+  {
+    "Name": "Incredibuild",
+    "Website": "https://www.incredibuild.com/",
+    "Industry": "Infrastructure",
+    "Founded": "2002",
+    "Funding": "$35M",
+    "Last Round": "Series B"
+  }
+]
