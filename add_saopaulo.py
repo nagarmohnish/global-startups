@@ -1,0 +1,114 @@
+"""Merge São Paulo data and add tab to global_startups_final.xlsx."""
+import json, re, sys
+sys.stdout.reconfigure(encoding="utf-8")
+import pandas as pd
+from openpyxl import load_workbook
+from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
+from openpyxl.utils import get_column_letter
+from openpyxl.utils.dataframe import dataframe_to_rows
+
+COL_ORDER = ["Name","Website","Industry","Description","Founded","Funding","Last Round","Founders","Top Investors","Team Size"]
+
+def normalize_name(name):
+    n = name.lower().strip()
+    n = re.sub(r"\s*\(.*?\)", "", n)
+    n = re.sub(r"\s*(ltd\.?|inc\.?|co\.?|corp\.?|pte\.?|ag|gmbh|sa|sas|corporation|technologies|tech|security|ai)\s*\.?$", "", n, flags=re.IGNORECASE)
+    return re.sub(r"[^a-z0-9]", "", n)
+
+def merge_deduplicate(sources_list):
+    seen = {}
+    for source in sources_list:
+        for row in source:
+            key = normalize_name(row.get("Name",""))
+            if not key:
+                continue
+            if key in seen:
+                existing = seen[key]
+                for col in COL_ORDER:
+                    if (not existing.get(col) or existing[col] in ("N/A","")) and row.get(col) and row[col] not in ("N/A",""):
+                        existing[col] = row[col]
+            else:
+                seen[key] = {col: row.get(col,"") for col in COL_ORDER}
+                seen[key]["Name"] = row.get("Name","")
+    return list(seen.values())
+
+def format_sheet(ws, df):
+    header_font = Font(bold=True, color="FFFFFF", size=11)
+    header_fill = PatternFill(start_color="2F5496", end_color="2F5496", fill_type="solid")
+    header_alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+    cell_alignment = Alignment(vertical="top", wrap_text=True)
+    thin_border = Border(
+        left=Side(style="thin"), right=Side(style="thin"),
+        top=Side(style="thin"), bottom=Side(style="thin"),
+    )
+    for col_num in range(1, len(df.columns) + 1):
+        cell = ws.cell(row=1, column=col_num)
+        cell.font = header_font
+        cell.fill = header_fill
+        cell.alignment = header_alignment
+        cell.border = thin_border
+    alt_fill = PatternFill(start_color="D6E4F0", end_color="D6E4F0", fill_type="solid")
+    for row in range(2, len(df) + 2):
+        for col in range(1, len(df.columns) + 1):
+            cell = ws.cell(row=row, column=col)
+            cell.alignment = cell_alignment
+            cell.border = thin_border
+            if row % 2 == 0:
+                cell.fill = alt_fill
+    col_widths = {
+        "Name": 25, "Website": 35, "Industry": 15, "Description": 55,
+        "Founded": 12, "Funding": 14, "Last Round": 18, "Founders": 40,
+        "Top Investors": 50, "Team Size": 25,
+    }
+    for col_num, col_name in enumerate(df.columns, 1):
+        letter = get_column_letter(col_num)
+        ws.column_dimensions[letter].width = col_widths.get(col_name, 20)
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = ws.dimensions
+
+with open("failory_saopaulo.json", encoding="utf-8") as f:
+    failory = json.load(f)
+with open("seedtable_saopaulo.json", encoding="utf-8") as f:
+    seedtable = json.load(f)
+with open("f6s_saopaulo.json", encoding="utf-8") as f:
+    f6s = json.load(f)
+
+merged = merge_deduplicate([failory, seedtable, f6s])
+print(f"Failory: {len(failory)}, Seedtable: {len(seedtable)}, F6S: {len(f6s)}, Merged: {len(merged)}")
+
+df = pd.DataFrame(merged)
+df = df.drop_duplicates(subset=["Name"], keep="first")
+for col in COL_ORDER[1:]:
+    if col in df.columns:
+        df[col] = df[col].replace("", "N/A")
+df["Description"] = df["Description"].apply(lambda x: (x[:300]+"...") if isinstance(x,str) and len(x)>300 else x)
+df = df[[c for c in COL_ORDER if c in df.columns]]
+
+# Try both possible filenames
+import os
+if os.path.exists("global_startups_final_new.xlsx"):
+    src = "global_startups_final_new.xlsx"
+else:
+    src = "global_startups_final.xlsx"
+wb = load_workbook(src)
+
+if "Sao Paulo" in wb.sheetnames:
+    del wb["Sao Paulo"]
+
+ws = wb.create_sheet("Sao Paulo")
+for r_idx, row in enumerate(dataframe_to_rows(df, index=False, header=True), 1):
+    for c_idx, value in enumerate(row, 1):
+        ws.cell(row=r_idx, column=c_idx, value=value)
+
+format_sheet(ws, df)
+outfile = "global_startups_final.xlsx"
+try:
+    wb.save(outfile)
+except PermissionError:
+    outfile = "global_startups_final_v2.xlsx"
+    wb.save(outfile)
+    print(f"(original locked - saved as {outfile})")
+print(f"Sao Paulo tab added: {len(df)} startups")
+print(f"Sheets: {wb.sheetnames}")
+print(f"\nFirst 10:")
+print(df[["Name","Website","Funding"]].head(10).to_string(index=False))
