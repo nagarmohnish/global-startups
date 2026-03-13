@@ -1,14 +1,17 @@
-# Intermediate/debug files
-page_debug.html
-
-# Old/duplicate Excel outputs
-f6s_tel_aviv_startups.xlsx
-f6s_tel_aviv_startups_v2.xlsx
-tel_aviv_startups.xlsx
-global_startups.xlsx
-global_startups_v2.xlsx
-
 # Python
 __pycache__/
 *.pyc
 .env
+
+# Debug/temp files
+page_debug.html
+~$*.xlsx
+
+# Old output files (superseded by global_startups_final.xlsx)
+f6s_tel_aviv_startups*.xlsx
+tel_aviv_startups.xlsx
+global_startups.xlsx
+global_startups_v2.xlsx
+global_startups_final_new.xlsx
+global_startups_final_tmp.xlsx
+global_startups_final_v2.xlsx
