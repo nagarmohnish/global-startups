@@ -3,25 +3,30 @@
     "Name": "Startale",
     "F6S URL": "https://www.f6s.com/company/startale",
     "Tagline": "Mission to build the next civilization by bringing the world onchain.",
-    "Description": "",
+    "Description": "10 Feb 2026—Startale is a series A company based in Singapore (Singapore), founded in 2023. It operates as a Provider of web3 infrastructure platform.",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
     "Funding": "$13.3m",
     "Investors": "Sony Innovation Fund",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://builtinsingapore.com/company/startale",
+    "Last Round": "Series A",
+    "Industry": "Blockchain",
+    "Team Size": "70 employees"
   },
   {
     "Name": "Firmus Technologies",
     "F6S URL": "https://www.f6s.com/company/firmus-technologies",
     "Tagline": "Creating the most efficient AI infrastructure.",
-    "Description": "",
+    "Description": "AI Singapore and Firmus Technologies partner to advance sustainable AI infrastructure · 1. Access to Singapore's fastest, most advanced GPUs · 2. Deployment of ...",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
     "Funding": "",
     "Investors": "Coatue",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://firmus.co/newsroom/AI-Singapore-and-Firmus-Technologies-partner-to-advance-sustainable-AI-infrastructure",
+    "Industry": "AI",
+    "Last Round": "Debt"
   },
   {
     "Name": "Aspire(Aspire FT Pte Ltd)",
@@ -33,55 +38,64 @@
     "Funding": "$40.1m",
     "Investors": "Creation Investments Capital Management",
     "Team Members": "Andrea, Giovanni and Stefano",
-    "Website": ""
+    "Website": "https://www.datanyze.com/companies/aspire/473134207",
+    "Industry": "Fintech"
   },
   {
     "Name": "Deep Intelligent Pharma",
     "F6S URL": "https://www.f6s.com/company/deep-intelligent-pharma",
     "Tagline": "AI-native multi-agent platform technology.",
-    "Description": "",
+    "Description": "DeepIntelligentPharmapioneers the pharmaceutical industry's transformation through our revolutionary AI-native multi-agent platform.‹ › Why ChooseDeepIntelligentPharma. The fundamental differences that set us apart.",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$60M",
     "Investors": "Trustar Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.dip-ai.com/home",
+    "Industry": "Pharma",
+    "Last Round": "Series D"
   },
   {
     "Name": "Zelostech",
     "F6S URL": "https://www.f6s.com/company/zelostech",
     "Tagline": "Shaping the Future of Delivery: Intelligent, Autonomous, and Effortless.",
-    "Description": "",
+    "Description": "Zelostech. Motor Vehicle Manufacturing. The Metropolis,Singapore2,638 followers. The Global Pioneer of RoboVan, deploying autonomous logistics infrastructure at global scale.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$400M",
     "Investors": "CDH Investments",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://zelostech.ai/autonomous-delivery-vehicles-enter-households-how-zelostech-is-reshaping-the-logistics-ecosystem/",
+    "Industry": "Logistics",
+    "Last Round": "Series B"
   },
   {
     "Name": "Princeton Digital Group",
     "F6S URL": "https://www.f6s.com/company/princeton-digital-group",
     "Tagline": "Leading Pan-Asia platform for hyperscale infrastructure requirements.",
-    "Description": "",
+    "Description": "OCP Ready™ Facility Princeton Digital Group (PDG) Singapore. A high-growth developer and operator of internet infrastructure with presence in key digital ...",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
     "Funding": "$580m",
     "Investors": "Mubadala Investment",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.opencompute.org/facilities/10/princeton-digital-group-sg1-singapore",
+    "Industry": "Construction",
+    "Last Round": "Series C"
   },
   {
     "Name": "Oatside",
     "F6S URL": "https://www.f6s.com/company/oatside",
     "Tagline": "We’re the creamy oat milk made for people who don't care for plant milks.",
-    "Description": "",
+    "Description": "Feb 10, 2026 ·Oatsideis a series B company based inSingapore(Singapore), founded in 2020 by Benedict Lim. It operates as a Brand offering milk products.Oatsidehas raised $101M in funding from GGV Capital and Temasek. The company has 5 active competitors, including 2 funded and 1 that has exited.A...",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$101M",
     "Investors": "Juniper Park Capital",
     "Team Members": "Benedict",
-    "Website": ""
+    "Website": "https://oatside.com/",
+    "Industry": "Marketing/AdTech",
+    "Last Round": "Series B"
   },
   {
     "Name": "Amperesand",
@@ -93,31 +107,37 @@
     "Funding": "$16.5m",
     "Investors": "Material Impact",
     "Team Members": "Ju Nie and GARY",
-    "Website": ""
+    "Website": "https://amperesand.io/",
+    "Last Round": "Seed",
+    "Industry": "Delivery/Logistics"
   },
   {
     "Name": "Pave Bank",
     "F6S URL": "https://www.f6s.com/company/pave-bank",
     "Tagline": "The world's first programmable bank",
-    "Description": "",
+    "Description": "Empowering businesses with 24/7 global, secure, multi-asset banking. Welcome to Pave Bank. Get Started. As featured in.",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$39M",
     "Investors": "Yolo Investments",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://pavebank.com/",
+    "Industry": "Banking/Fintech",
+    "Last Round": "Series A"
   },
   {
     "Name": "Amber Group (ambergroup.io)",
     "F6S URL": "https://www.f6s.com/company/amber-group-ambergroup.io",
     "Tagline": "Building the future of digital assets.",
-    "Description": "",
+    "Description": "Amberboasts an expansive and exceptionally skilled trading team, recognized as one of the largest and most proficient in the industry. Through in-depth market analysis and quantitative strategies, we help clients capitalize on opportunities to achieve stable growth of their crypto holdings.",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$200M",
     "Investors": "Harvest Capital (China)",
     "Team Members": "Yi",
-    "Website": "https://ambergroup.io"
+    "Website": "https://ambergroup.io",
+    "Industry": "Fintech",
+    "Last Round": "Series C"
   },
   {
     "Name": "Zoth.io",
@@ -129,7 +149,9 @@
     "Funding": "$710k",
     "Investors": "SOSV",
     "Team Members": "Pritam",
-    "Website": ""
+    "Website": "https://finance.yahoo.com/news/zoth-expands-chain-trade-finance-121500616.html",
+    "Industry": "Blockchain",
+    "Last Round": "Seed"
   },
   {
     "Name": "Avalanche.",
@@ -141,55 +163,65 @@
     "Funding": "",
     "Investors": "Aegis Ventures (Seoul)",
     "Team Members": "Randy",
-    "Website": ""
+    "Website": "https://techbehemoths.com/companies/avalanche/singapore",
+    "Industry": "Blockchain",
+    "Last Round": "Grant"
   },
   {
     "Name": "Sleek Corp",
     "F6S URL": "https://www.f6s.com/company/sleek-tech",
     "Tagline": "Operating system for SMEs",
-    "Description": "",
+    "Description": "One-stop-shop for entrepreneurs to start & grow their business in Australia, Hong Kong,Singaporeand the UK. Built by entrepreneurs, for entrepreneurs, Sleek’smission is to make the lives...",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
     "Funding": "$5m",
     "Investors": "Fintech Nation",
     "Team Members": "Julien and Adrien",
-    "Website": ""
+    "Website": "https://sleek.com/sg/",
+    "Industry": "Banking/Fintech",
+    "Last Round": "Debt"
   },
   {
     "Name": "Endowus",
     "F6S URL": "https://www.f6s.com/company/endowus",
     "Tagline": "Invest better to live easier today & better tomorrow.",
-    "Description": "",
+    "Description": "Endowus is an influential fee-only wealth-tech platform in Asia. Headquartered in Singapore, they are among the pioneers in digital advisors.Missing:startup| Show results with:startup",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$35M",
     "Investors": "Asia Companion Fund (ACF)",
     "Team Members": "Samuel",
-    "Website": ""
+    "Website": "https://lsvp.com/company/endowus/",
+    "Last Round": "Series C",
+    "Industry": "AI"
   },
   {
     "Name": "Advance Intelligence Group",
     "F6S URL": "https://www.f6s.com/company/advancegroup1",
     "Tagline": "Al-driven technology company in Asia-Pacific.",
-    "Description": "",
+    "Description": "Advance Intelligence Group is an AI-driven technology company, headquartered in Singapore, Advance Intelligence Group consists of three core business lines: ...",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2016",
+    "Funding": "$480M",
     "Investors": "Warburg Pincus",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.advancegroup.com/",
+    "Industry": "Fintech",
+    "Last Round": "Series E"
   },
   {
     "Name": "Qapita",
     "F6S URL": "https://www.f6s.com/company/qapita",
     "Tagline": "Provides capitalization table and employee stock ownership plans management",
-    "Description": "",
+    "Description": "Qapita provides cap table management, valuations and ESOP administration for Singapore & SEA startups. Built for investor readiness and operational scale.",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$65.5M",
     "Investors": "Charles Schwab",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.qapita.com/sg",
+    "Last Round": "Series B",
+    "Industry": "Fintech"
   },
   {
     "Name": "Transcelestial",
@@ -201,7 +233,10 @@
     "Funding": "",
     "Investors": "SEEDS Capital",
     "Team Members": "Vivian",
-    "Website": ""
+    "Website": "https://transcelestial.com/",
+    "Industry": "Telecom",
+    "Last Round": "Series B",
+    "Founders": "Rohit Jha and Mohammad Danesh"
   },
   {
     "Name": "Tricog Health, PTE Ltd",
@@ -210,10 +245,12 @@
     "Description": "Our mission is to empower doctors to save lives with the help of innovative technology and advanced AI algorithms. Founded in 2014, Tricog is one of the world’s largest predictive healthcare analytics firms. Tricog was first started by Dr Charit Bhograj — an Interventional Cardiologist — who realized that the cardiac issues got severe due to a delay in preliminary diagnosis (ECG).\nElectrocardiograms (ECGs) are the primary means of diagnosing serious cardiac conditions like heart attacks. Misdiagnosis and delayed diagnosis, a delay of an hour in diagnosing heart attacks (golden hour) has been ...",
     "Location": "Singapore, Singapore",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$23.5M",
     "Investors": "Omron  Healthcare",
     "Team Members": "Udayan",
-    "Website": ""
+    "Website": "https://www.sgpbusiness.com/company/Tricog-Health-Pte-Ltd",
+    "Industry": "Fintech",
+    "Last Round": "Series B"
   },
   {
     "Name": "CARRO (carro.co)",
@@ -225,19 +262,26 @@
     "Funding": "$145.6m",
     "Investors": "Cool Japan Fund",
     "Team Members": "KENJI and Douglas",
-    "Website": "https://carro.co"
+    "Website": "https://carro.co",
+    "Industry": "Automotive",
+    "Founders": "Aaron Tan, Aditya Lesmana",
+    "Last Round": "Series C"
   },
   {
     "Name": "Eruditus",
     "F6S URL": "https://www.f6s.com/company/eruditus",
     "Tagline": "It provides global access to executive education programs",
-    "Description": "",
+    "Description": "Mar 7, 2026 ·Eruditusis a series F company based inSingapore(Singapore), founded in 2010 by Chaitanya Kalipatnapu and Ashwin Venkata Damera. It operates as a Platform offers executive education programs from top global universities for working professionals.Erudituswas founded in 2010 to make wor...",
     "Location": "Singapore, Singapore",
     "Founded": "2010",
-    "Funding": "",
+    "Funding": "$150M",
     "Investors": "TPG Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://eruditus.com/",
+    "Industry": "EdTech",
+    "Team Size": "750 employees",
+    "Last Round": "Series F",
+    "Founders": "Ashwin Damera"
   },
   {
     "Name": "Whale (whale.sg)",
@@ -255,49 +299,56 @@
     "Name": "GXS Bank",
     "F6S URL": "https://www.f6s.com/company/gxs-bank",
     "Tagline": "The digital bank that Breaks boundaries not sweat.",
-    "Description": "",
+    "Description": "27 Mar 2025—GXS Bank is a digital bank based in Singapore with a relentless focus to make banking better for the everyday consumer and small business.",
     "Location": "Singapore, Singapore",
-    "Founded": "",
+    "Founded": "2020",
     "Funding": "$170m",
     "Investors": "Grab.",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sailpoint.com/customers/gxs-bank",
+    "Industry": "Banking/Fintech"
   },
   {
     "Name": "Tyme Group",
     "F6S URL": "https://www.f6s.com/company/tyme-group",
     "Tagline": "Tyme. The multi-country digital banking group for emerging markets.",
-    "Description": "",
+    "Description": "Dec 18, 2024 ·The multi-country digital banking group headquarter inSingapore,TymeGrouphas officially achieved unicorn status after completing its Series D capital raise led be LatAm financial services platform, Nubank.",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$508M",
     "Investors": "Tencent",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.tyme.com/news-room/latin-americas-nubank-leads-newly-minted-unicorn-tymes-capital-raise",
+    "Industry": "Banking/Fintech",
+    "Last Round": "Series D"
   },
   {
     "Name": "SHEIN Group",
     "F6S URL": "https://www.f6s.com/company/shein-group",
     "Tagline": "",
-    "Description": "",
+    "Description": "The company is currently headquartered in Singapore. Known for ... ^ \"Our Global Presence - SHEIN Group\". www.sheingroup.com. 31 August 2023 ...HistoryMarketingManufacturingTax treatmentControversies",
     "Location": "Singapore, Singapore",
     "Founded": "2012",
     "Funding": "$44.8m",
     "Investors": "IDG Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sheingroup.com/",
+    "Industry": "Marketing/AdTech",
+    "Last Round": "Ipo"
   },
   {
     "Name": "GRVT",
     "F6S URL": "https://www.f6s.com/company/grvt",
     "Tagline": "Finance that just flows. Trade, Invest, Earn",
-    "Description": "",
+    "Description": "GRVTis a series Acompanybased inSingapore(Singapore), founded in 2022 by Aaron Ong, Matthew Quek and Hong Gyu Yea. It operates as a Provider of hybrid derivatives exchange offering finance using blockchain.",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
     "Funding": "$5m",
     "Investors": "Further Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://grvt.io/blog/grvt-raises-19m-to-pioneer-privacy-first-onchain-finance-and-unlock-trillion-dollar-markets/",
+    "Industry": "Blockchain",
+    "Last Round": "Series A"
   },
   {
     "Name": "Supermom",
@@ -309,19 +360,23 @@
     "Funding": "",
     "Investors": "Qualgro",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://technode.global/2024/06/11/singapores-supermom-projects-100-percent-revenue-growth-in-2024-amid-expansion-plans/",
+    "Last Round": "Series B",
+    "Founders": "Joan Ong, Luke Lim, Lynn Yeoh and Rebecca Koh",
+    "Industry": "AI"
   },
   {
     "Name": "Solv Protocol",
     "F6S URL": "https://www.f6s.com/company/solv-protocol",
     "Tagline": "Your On-chain Fund Platform",
-    "Description": "",
+    "Description": "Facilitates flexible and secure asset management solutions. Solv Protocol is a leading Bitcoin staking platform, powered by its innovative Staking Abstraction ...",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$6M",
     "Investors": "YZi Labs (Binance Labs)",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://fprimecapital.com/company/solv-protocol/",
+    "Industry": "Blockchains And Fintech"
   },
   {
     "Name": "Funding Societies | Modalku",
@@ -333,7 +388,8 @@
     "Funding": "$37.9m",
     "Investors": "Cool Japan Fund",
     "Team Members": "Iwan and Kelvin",
-    "Website": ""
+    "Website": "https://moneylive-insights.com/sponsors/funding-societies/",
+    "Last Round": "Series B"
   },
   {
     "Name": "Airalo",
@@ -342,82 +398,98 @@
     "Description": "Airalo is the world’s first eSIM store for travelers to access eSIMS in over 190 countries and regions at the most affordable rates from around the world, all via eSIM compatible smartphone, tablet or PC.\n\nWe offer a digital and contact less method of staying connected. So a traveler would never have to carry multiple SIM cards, internet devices or opt in for expensive roaming plans\n\nWe basically tie up with local telco players (like LGU+, Dtac, Ooredo, Annatel, China Telecom, AIS, Africell, MEO and more) and list the best eSIM plans from across the world under our store - enabling traveler...",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$60M",
     "Investors": "T Capital Partners",
     "Team Members": "Mridula",
-    "Website": ""
+    "Website": "https://www.airalo.com/?srsltid=AfmBOooj5VZlk2L8BCKgtsomMS_Aoft1gXfGoqdtcdmUFGT3eEg5oGjn",
+    "Industry": "Telecom",
+    "Last Round": "Series C"
   },
   {
     "Name": "TONIK",
     "F6S URL": "https://www.f6s.com/company/tonik",
     "Tagline": "The first neobank in the Philippines.",
-    "Description": "",
+    "Description": "Its holding company is Singapore-based Tonik Financial Pte Ltd. Tonik Bank. Industry. Financial services · Banking. Founded, March 18, 2021; 4 years ago (2021 ...",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
     "Funding": "",
     "Investors": "Plio Limited",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.finastra.com/press-media/tonik-achieves-record-growth-and-innovation-milestones-finastras-essence-software",
+    "Industry": "Banking/Fintech",
+    "Last Round": "Series B"
   },
   {
     "Name": "MetaComp",
     "F6S URL": "https://www.f6s.com/company/metacomp",
     "Tagline": "We Bridge Traditional Finance with Digital Assets.",
-    "Description": "",
+    "Description": "2 days ago—Singapore's MetaComp, a Web2.5 payments platform, has raised $35M with backing from Alibaba to fund its global expansion and AI development.",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$35M",
     "Investors": "Eastern Bell Capital",
     "Team Members": "Eugene",
-    "Website": ""
+    "Website": "https://www.startupresearcher.com/news/singapore-s-metacomp-secures-alibaba-investment-raising-35-million",
+    "Industry": "AI",
+    "Last Round": "Seed",
+    "Team Size": "10 employees"
   },
   {
     "Name": "SynaXG Technologies",
     "F6S URL": "https://www.f6s.com/company/synaxg-technologies",
     "Tagline": "Shaping an intelligent future.",
-    "Description": "",
+    "Description": "Headquarters: SynaXG Technologies Pte. Ltd. #11-01/02, Solaris 1 Fusionopolis Walk, Singapore 138628. Linkedin ...",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
     "Funding": "",
     "Investors": "Vertex Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.synaxg.com/",
+    "Industry": "Energy",
+    "Last Round": "Series D"
   },
   {
     "Name": "SingAuto",
     "F6S URL": "https://www.f6s.com/company/singauto",
     "Tagline": "We are not just creating better mobility solutions for today.",
-    "Description": "",
+    "Description": "AtSingAuto, we are pioneering the future of complete new energy intelligent logistics chain with revolutionary electric vehicles and services.",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$45M",
     "Investors": "MetaVerse Green Exchange",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.tech360.tv/refrigerated-trucks-could-give-singapore-startup-advantage-china-ev-market",
+    "Industry": "Logistics",
+    "Last Round": "Series A"
   },
   {
     "Name": "RockFlow",
     "F6S URL": "https://www.f6s.com/company/rockflow",
     "Tagline": "The investment wonderland for new generations.",
-    "Description": "",
+    "Description": "RockFlowis an AI fintechcompanybased inSingapore, committed to delivering all-in-one investment and financial services across multiple markets and assets to young investors globally.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
     "Funding": "",
     "Investors": "Monolith Management",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://rockflow.ai/about",
+    "Industry": "Fintech",
+    "Last Round": "Angel",
+    "Team Size": "10 employees"
   },
   {
     "Name": "Pyxis (thepyxis.co)",
     "F6S URL": "https://www.f6s.com/company/pyxis-thepyxis.co",
     "Tagline": "The future is here, and it's electrifying.",
-    "Description": "",
+    "Description": "17 Dec 2025—Pyxis, a Singapore-based maritime electrification startup, has secured S$13 million ($10.06 million) in the first close of its S$18 million ...",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
     "Funding": "",
     "Investors": "OCBC Bank",
     "Team Members": "",
-    "Website": "https://thepyxis.co"
+    "Website": "https://thepyxis.co",
+    "Industry": "Energy",
+    "Last Round": "Seed"
   },
   {
     "Name": "Fimmo (finmo.net)",
@@ -426,82 +498,95 @@
     "Description": "",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$27M",
     "Investors": "Citi Ventures",
     "Team Members": "Akhil",
-    "Website": "https://finmo.net"
+    "Website": "https://finmo.net",
+    "Industry": "Fintech",
+    "Last Round": "Series A"
   },
   {
     "Name": "Olea Global Pte Ltd",
     "F6S URL": "https://www.f6s.com/company/olea-global-pte-ltd",
     "Tagline": "Empower Sustainable Trade",
-    "Description": "",
+    "Description": "OleaGlobalPte.Ltd. (“Olea”), a leading digital trade finance platform, announced support for real-time stablecoin payments via Circle’s USDC across Olea’s global trade network",
     "Location": "Singapore, Singapore",
     "Founded": "2003",
     "Funding": "",
     "Investors": "Banco Bilbao Vizcaya Argentaria (BBVA)",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://olea.net/",
+    "Industry": "Payments/Fintech",
+    "Last Round": "Series A"
   },
   {
     "Name": "SMC - Sustainable Metal Cloud",
     "F6S URL": "https://www.f6s.com/company/smc-sustainable-metal-cloud",
     "Tagline": "",
-    "Description": "",
+    "Description": "SMC-SustainableMetalCloud| 4.673 Follower:innen auf LinkedIn. SMC is the world's most energy-efficient GPU cloud for ultra-low latency AI training, fine-tuning and inference.",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
     "Funding": "$703.7m",
     "Investors": "ST Telemedia Global Data Centres",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://theorg.com/org/smc-sustainable-metal-cloud",
+    "Industry": "AI"
   },
   {
     "Name": "Particle Network",
     "F6S URL": "https://www.f6s.com/company/particle-network",
     "Tagline": "One Account, One Balance, Any Chain",
-    "Description": "",
+    "Description": "Particle Network. Products; Blog · Documentation. YOUR APP,. READY FOR THE WORLD.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$7M",
     "Investors": "Alibaba.com",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://particle.network/",
+    "Last Round": "Series A",
+    "Industry": "Software"
   },
   {
     "Name": "Elfie Pte. Ltd",
     "F6S URL": "https://www.f6s.com/company/elfie-pte.-ltd",
     "Tagline": "Elfie is a product that reduces the burden of chronic diseases",
-    "Description": "",
+    "Description": "Feb 15, 2026 ·Elfieis a series Acompanybased inSingapore(Singapore), founded in 2020 by Jean-Francois Legourd, Ofir Ejnes and Andy Prakash. It operates as a Developer of a digital health platform rewarding users for health monitoring.Elfiehas raised $12M in funding from White Star Capital.",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$12M",
     "Investors": "iSeed Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.elfie.co/about-us",
+    "Last Round": "Seed",
+    "Industry": "Healthcare"
   },
   {
     "Name": "Digital Entertainment Asset",
     "F6S URL": "https://www.f6s.com/company/digital-entertainment-asset",
     "Tagline": "Solving real world problems with gamification",
-    "Description": "",
+    "Description": "DigitalEntertainmentAssetis an IT servicescompanythat offers web3 advertising, gaming, and media services.Singapore, Central Region,Singapore. 11-50.",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$22M",
     "Investors": "ASICS Ventures Corporation",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sgpbusiness.com/company/Digital-Entertainment-Asset-Pte-Ltd",
+    "Industry": "Gaming",
+    "Last Round": "Seed"
   },
   {
     "Name": "Oasys Games",
     "F6S URL": "https://www.f6s.com/company/oasys-games",
     "Tagline": "Oasys is a blockchain-based game development platform",
-    "Description": "",
+    "Description": "Developer of a gaming platform designed to provide an ecosystem for the distribution of gaming channels.Feb 16, 2026 ·Oasysis a series B company based inSingapore(Singapore), founded in 2021 by Wang Yuhui. It operates as a Blockchain network for games.Oasyshas raised $20M in funding from Republic...",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$20M",
     "Investors": "MZ Web3 Fund",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.oasys.games/",
+    "Industry": "Blockchain",
+    "Last Round": "Series B"
   },
   {
     "Name": "SkyArk Studio",
@@ -510,10 +595,13 @@
     "Description": "SkyArk Studio provides solutions for brands from Web2 world looking to build in Web3. We help incubate brands through our proprietary NFT Engine, SkyEngine, facilitating their entry into the Web3 metaverse at great convenience for seamless engagement experiences.\n\nOur mission is to empower the next generation of brands with our technology and build a sustainable crypto ecosystem through a combination of economic monitoring, high-quality design, and continuous development.\n\n​",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$15M",
     "Investors": "Widus Strategic Investments",
     "Team Members": "Kelvin",
-    "Website": ""
+    "Website": "https://www.skyarkchronicles.com/news/deep-dive-in-the-sea-of-blockchain-gaming/",
+    "Industry": "Blockchain",
+    "Last Round": "Ipo",
+    "Founders": "Chris Ng"
   },
   {
     "Name": "99 Group",
@@ -525,19 +613,23 @@
     "Funding": "$47m",
     "Investors": "Gaw Capital Partners",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://yourstory.com/companies/99co",
+    "Last Round": "Series C",
+    "Industry": "Real Estate"
   },
   {
     "Name": "Nuevocor",
     "F6S URL": "https://www.f6s.com/company/nuevocor",
     "Tagline": "Pioneering novel therapies for untreatable cardiac diseases.",
-    "Description": "",
+    "Description": "Jul 7, 2025 ·With global operations across the United States, Europe andSingapore,Nuevocorfocuses on treating heart conditions known as cardiomyopathies by addressing their underlying mechanical defects.",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$80.6M",
     "Investors": "SEEDS Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.nuevocor.com/",
+    "Industry": "Biotech",
+    "Last Round": "Series B"
   },
   {
     "Name": "ZUZU Hospitality Solutions",
@@ -549,19 +641,23 @@
     "Funding": "",
     "Investors": "Latin Leap",
     "Team Members": "Girish and Dan",
-    "Website": ""
+    "Website": "https://hoteltechreport.com/operations/hotel-management-software/zuzu-hospitality",
+    "Industry": "Software",
+    "Last Round": "Angel"
   },
   {
     "Name": "Doctor Anywhere",
     "F6S URL": "https://www.f6s.com/company/doctoranywhere1",
     "Tagline": "Bringing healthcare to you.",
-    "Description": "",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives forDoctorAnywhere. Use the PitchBook Platform to explore the full profile.Apr 24, 2024 ·ThisSingaporeteleconsult company redefines healthcare with its medical suiteDoctorAnywhere’sdual online and offline presence highlights ...",
     "Location": "Singapore, Singapore",
     "Founded": "2017",
     "Funding": "$56m",
     "Investors": "Kamet Capital Partners",
     "Team Members": "Xintian",
-    "Website": ""
+    "Website": "https://doctoranywhere.com/",
+    "Industry": "Healthcare",
+    "Last Round": "Bridge"
   },
   {
     "Name": "ShopBack",
@@ -570,46 +666,54 @@
     "Description": "ShopBack: For the wins\nThe ShopBack Group is Asia-Pacific’s leading shopping and rewards platform, serving over 35 million shoppers across ten markets.\n\nShopBack was founded in 2014 and today, ShopBackers across the region continue to win over shoppers by constantly upping their game - be it rewards or meaningful experiences - such that shoppers can achieve a personal victory every time they use ShopBack.\n\nThe Group powers over US$3.5 billion in annual sales for over 10,000 online and in-store merchant partners. In 2022, ShopBack launched ShopBack Pay and PayLater, extending the platform's off...",
     "Location": "Singapore, Singapore",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$350M",
     "Investors": "East Ventures",
     "Team Members": "Jay and Bryan",
-    "Website": ""
+    "Website": "https://reference.nlb.gov.sg/launch/stories/shopback/",
+    "Industry": "E-Commerce",
+    "Founders": "Joel Leong",
+    "Last Round": "Series F"
   },
   {
     "Name": "Pollo AI",
     "F6S URL": "https://www.f6s.com/company/pollo-ai",
     "Tagline": "Your One-Stop AI Image & Video Creation Platform",
-    "Description": "",
+    "Description": "Pollo AI is an all-in-one video creation platform that brings together the best AI image and video generators, models, tools, and effects in one place.",
     "Location": "Singapore, Singapore",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$14M",
     "Investors": "Gaocheng Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://pollo.ai/",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "Axis (axis.to)",
     "F6S URL": "https://www.f6s.com/company/axis-axis.to",
     "Tagline": "Instant onchain access to institutional-grade yields, everywhere in DeFi.",
-    "Description": "",
+    "Description": "There are 5 ways to get fromAxistoTokyo DisneySea by plane, bus, or car. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2Rio's travel planner.",
     "Location": "Singapore, Singapore",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$100M",
     "Investors": "Galaxy Venture",
     "Team Members": "",
-    "Website": "https://axis.to"
+    "Website": "https://axis.to",
+    "Industry": "Travel/Tourism",
+    "Last Round": "Pre-Seed"
   },
   {
     "Name": "Future (future.holdings)",
     "F6S URL": "https://www.f6s.com/company/future-future.holdings",
     "Tagline": "Switzerland’s Premier Bitcoin Treasury Company",
-    "Description": "",
+    "Description": "... Future, Future Holdings 2002 Limited and the sellers named therein dated 30 October 2019 (as amended, modified, restated or supplemented from time to time) ...",
     "Location": "Singapore, Singapore",
     "Founded": "2025",
     "Funding": "",
     "Investors": "TOBAM",
     "Team Members": "",
-    "Website": "https://future.holdings"
+    "Website": "https://future.holdings",
+    "Industry": "AI"
   },
   {
     "Name": "H3 Zoom.AI",
@@ -621,103 +725,119 @@
     "Funding": "$2m",
     "Investors": "H3 Dynamics Holdings",
     "Team Members": "Shaun",
-    "Website": ""
+    "Website": "https://www.h3zoom.ai/our-mission",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "Multiplier Holdings",
     "F6S URL": "https://www.f6s.com/company/multiplier-holdings",
     "Tagline": "All successful professional services firms will be technology companies.",
-    "Description": "",
+    "Description": "18 Jun 2025—Multiplier Holdings, a technology company building AI-native professional services firms, publicly launched with $27.5 million in Seed and Series A funding.",
     "Location": "Singapore, Singapore",
-    "Founded": "",
+    "Founded": "2020",
     "Funding": "",
     "Investors": "Ribbit Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.multiplierholdings.com/",
+    "Last Round": "Seed",
+    "Industry": "AI"
   },
   {
     "Name": "CARV (carv.io)",
     "F6S URL": "https://www.f6s.com/company/carv-carv.io",
     "Tagline": "BUILDING THE LARGEST AGENTIC FUTURE OF DATA SOVEREIGNTY",
-    "Description": "",
+    "Description": "Contribute tocarv-protocol/carv-contracts development by creating an account on GitHub.Enterprises. Small and medium teams.Startups. Nonprofits.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
     "Funding": "",
     "Investors": "Arweave SCP Ventures",
     "Team Members": "",
-    "Website": "https://carv.io"
+    "Website": "https://carv.io",
+    "Industry": "Blockchain/Crypto"
   },
   {
     "Name": "Hupo",
     "F6S URL": "https://www.f6s.com/company/hupo",
     "Tagline": "Elevate Frontline Performance at Scale.",
-    "Description": "",
+    "Description": "Operating across APAC and EMEA With hubs inSingapore, Hong Kong, London, and strategic customers globally. Exceptional people choose to build their lives across the globe. That's why we builtHupoas a remote and fully distributedcompanyfrom the beginning.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$13M",
     "Investors": "DST Global",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://hupo.co/about/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "Cosmos Innovation",
     "F6S URL": "https://www.f6s.com/company/cosmos-innovation",
     "Tagline": "AI-first company building next-gen solar and semiconductor technologies",
-    "Description": "",
+    "Description": "With its AI platform technology,CosmosInnovationis going full-stack to build perovskite/silicon tandem solar technology, to capture a once-in-a-lifetime shift in the solar space: a fast-growing market with a 260B TAM by 2030, driven by the massive shift to renewable energy.",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$19.7M",
     "Investors": "Eni Next",
     "Team Members": "Gautam",
-    "Website": ""
+    "Website": "https://www.cosmosinnovation.com/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "Yinson Production",
     "F6S URL": "https://www.f6s.com/company/yinson-production",
     "Tagline": "Passionately delivering powerful solutions",
-    "Description": "",
+    "Description": "Offshore specialistYinson Productioneyes IPO, among other exit options for investors TheSingapore-basedcompanyis expanding into carbon capture and storage, while eyeing opportunities in Namibia",
     "Location": "Singapore, Singapore",
     "Founded": "1983",
     "Funding": "",
     "Investors": "RRJ Group",
     "Team Members": "Shamir",
-    "Website": ""
+    "Website": "https://www.yinson-production.com/our-business/",
+    "Last Round": "Debt"
   },
   {
     "Name": "Neon (neonglobal.com)",
     "F6S URL": "https://www.f6s.com/company/neon-neonglobal.com",
     "Tagline": "",
-    "Description": "",
+    "Description": "NEONis located inSingapore, Central Region,Singapore. Who invested inNEON?NEONhas 7 investors including 65 Equity Partners and Pavilion Capital. When was the lastfundinground forNEON? NEON closed its lastfundinground on. from a Private Equity round. Who areNEON's competitors?Neonoffers a serverle...",
     "Location": "Singapore, Singapore",
-    "Founded": "",
+    "Founded": "2017",
     "Funding": "$111.1m",
     "Investors": "65 Equity Partners",
     "Team Members": "",
-    "Website": "https://neonglobal.com"
+    "Website": "https://neonglobal.com",
+    "Industry": "Blockchain"
   },
   {
     "Name": "Chocolate Finance",
     "F6S URL": "https://www.f6s.com/company/chocolate-finance",
     "Tagline": "Make your spare cash work harder, every single day.",
-    "Description": "",
+    "Description": "Chocolate Financeis a brand of Chocfin Pte Ltd (UEN 202347190R). Chocfin Pte Ltd is licensed and regulated by the Monetary Authority ofSingapore(CMS101452) to perform fund management activities.",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
     "Funding": "",
     "Investors": "Nikko Asset Management Europe",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.chocolatefinance.com/",
+    "Industry": "Fintech",
+    "Last Round": "Series A"
   },
   {
     "Name": "Emeritus (emeritus.org)",
     "F6S URL": "https://www.f6s.com/company/emeritus-emeritus.org",
     "Tagline": "",
-    "Description": "",
+    "Description": "Country:Singapore| Funding: $1B (+) Website: https://emeritus.org/Emeritusis an EdTechstartupthat provides accessible and affordable educational programs.",
     "Location": "Singapore, Singapore",
     "Founded": "2015",
     "Funding": "$350m",
     "Investors": "CPP Investments",
     "Team Members": "",
-    "Website": "https://emeritus.org"
+    "Website": "https://emeritus.org",
+    "Industry": "EdTech",
+    "Team Size": "098 employees",
+    "Last Round": "Ipo"
   },
   {
     "Name": "TopView.ai",
@@ -726,10 +846,12 @@
     "Description": "TopView.ai is online AI video editor powered by the knowledge of millions of good performance ads videos. It can make video in 1 minute, save your hours on editing video.\nIt make a video in 3 step:\nupload your video materials and describle you product briefly\ngenerate the video script, base on the analysis result of ads videos, topview.ai can give you a viral video script hooks, pick a script you like,\nthen AI will automatically organize your videos base on the video materials you provided and the script you choosen, all you need is to preview the video and exports it.",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$14M",
     "Investors": "Kamet Capital Partners",
     "Team Members": "Albert",
-    "Website": ""
+    "Website": "https://www.topview.ai/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "Alternō",
@@ -741,7 +863,9 @@
     "Funding": "$990k",
     "Investors": "Touchstone Partners",
     "Team Members": "Hai",
-    "Website": ""
+    "Website": "https://alterno.net/",
+    "Industry": "CleanTech",
+    "Last Round": "Series A"
   },
   {
     "Name": "Quantified Energy",
@@ -753,19 +877,23 @@
     "Funding": "",
     "Investors": "ADB Ventures",
     "Team Members": "WANG, Yong Sheng and Karl",
-    "Website": ""
+    "Website": "https://solarimpulse.com/companies/quantified-energy",
+    "Industry": "Energy",
+    "Last Round": "Series A"
   },
   {
     "Name": "Dora Factory",
     "F6S URL": "https://www.f6s.com/company/dora-factory",
     "Tagline": "Dora Provides DAO-as-a-service infrastructure for on-chain governance",
-    "Description": "",
+    "Description": "May 23, 2024 ·DoraFactorybuilds protocols and infrastructures to enable decentralized governance and efficient funding for the global hacker movement, open-source communities, and Web3 public goods.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$10M",
     "Investors": "YZi Labs (Binance Labs)",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.globalbankingandfinance.com/dora-factory-secures-10m-in-strategic-funding/",
+    "Last Round": "Series A",
+    "Founders": "Calvin Liu"
   },
   {
     "Name": "GoPlus Security",
@@ -777,7 +905,9 @@
     "Funding": "",
     "Investors": "Gydra Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://ecosystem.madrimasd.org/companies/gopluslabs",
+    "Industry": "Software",
+    "Last Round": "Seed"
   },
   {
     "Name": "Ultiverse",
@@ -789,7 +919,9 @@
     "Funding": "$5m",
     "Investors": "YZi Labs (Binance Labs)",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://ultiverse.io/",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "SynFutures",
@@ -798,10 +930,12 @@
     "Description": "SynFutures democratizes the derivatives market by employing an Amazon-like business model, giving users the tools to freely trade any assets and list arbitrary futures contracts within seconds. It is the first protocol in the decentralized derivatives industry to introduce permissionless asset listings powered by an innovative Synthetic Automated Market Making (sAMM) model.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$22.0M",
     "Investors": "SIG Susquehanna",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.synfutures.com/",
+    "Industry": "Blockchain/Crypto",
+    "Last Round": "Series B"
   },
   {
     "Name": "Sea (Formerly Garena)",
@@ -813,7 +947,9 @@
     "Funding": "$3.4k",
     "Investors": "Dabin Kim",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://en.everybodywiki.com/Sea_Group",
+    "Industry": "E-Commerce",
+    "Last Round": "Ipo"
   },
   {
     "Name": "ARPA Network",
@@ -825,7 +961,9 @@
     "Funding": "$4.5m",
     "Investors": "YZi Labs (Binance Labs)",
     "Team Members": "Yemu, Felix and Bomo",
-    "Website": ""
+    "Website": "https://builtin.com/job/operations-analyst/4662977",
+    "Industry": "Marketing/AdTech",
+    "Last Round": "Venture Round"
   },
   {
     "Name": "Janio",
@@ -834,10 +972,12 @@
     "Description": "Janio is your go-to supply chain partner and an extension of your supply chain team. We handle all your end-to-end logistics needs so you can focus on your core business.\n\nAt Janio, we empower you to achieve more efficient supply chain operations, enhance customer experiences and optimise costs with our end-to-end supply chain management solutions.\n\nOur future-ready products and processes provide you with real-time insights and analytics to support better decision making.",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$8.0M",
     "Investors": "BEENEXT",
     "Team Members": "Nathaniel",
-    "Website": ""
+    "Website": "https://www.janio.asia/",
+    "Industry": "Logistics",
+    "Last Round": "Series B"
   },
   {
     "Name": "Peaq Technology",
@@ -849,19 +989,22 @@
     "Funding": "$20m",
     "Investors": "CoinList.co",
     "Team Members": "Max, Sara and Oxana",
-    "Website": ""
+    "Website": "https://app.welcometothejungle.com/jobs/nDcMhW-7",
+    "Industry": "Automotive"
   },
   {
     "Name": "StashAway",
     "F6S URL": "https://www.f6s.com/company/stashaway",
     "Tagline": "Wealth management, like it should be",
-    "Description": "",
+    "Description": "Sep 20, 2025 ·StashAwayis a series D company based inSingapore(Singapore), founded in 2016 by Nino Ulsamer, Michele Ferrario and Freddy Lim. It operates as an App-based robo advisor and savings platform for individuals.StashAwayis an intelligent investment management platform designed to build an...",
     "Location": "Singapore, Singapore",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$33.34M",
     "Investors": "Peak XV Partners",
     "Team Members": "Aloysius",
-    "Website": ""
+    "Website": "https://www.stashaway.sg/about-us",
+    "Industry": "Fintech",
+    "Last Round": "Series D"
   },
   {
     "Name": "SleekFlow",
@@ -873,7 +1016,9 @@
     "Funding": "$13m",
     "Investors": "MARS Growth Capital",
     "Team Members": "Siu Hang, Henson and Jack",
-    "Website": ""
+    "Website": "https://sleekflow.io/en-sg/about",
+    "Industry": "E-Commerce",
+    "Last Round": "Series A"
   },
   {
     "Name": "Chope",
@@ -885,7 +1030,9 @@
     "Funding": "$15m",
     "Investors": "Ant Group",
     "Team Members": "Ronnie",
-    "Website": ""
+    "Website": "https://e27.co/startups/chope/",
+    "Industry": "Social Media",
+    "Last Round": "Series D"
   },
   {
     "Name": "Hydroleap",
@@ -894,226 +1041,270 @@
     "Description": "Hydroleap is specialized in water/wastewater treatment. Armed with its unique patented technology involving electrical treatment. Hydroleap is able to tackle various challenges in this field that benefits countless industries such as construction, tannery, abattoir, textile, mining, oil & gas, semiconductors, food & beverage, municipality, just to name a few.\n\nOur Electrocatalytic Treatment system is able to remove suspended solids, emulsified oil and fat, heavy metals, COD, bacteria and many more. We have coupled our technology with some of the most advanced ceramic membranes to deliver a one...",
     "Location": "Singapore, Singapore",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$11.1M",
     "Investors": "SEEDS Capital",
     "Team Members": "Mohammad and Wai Jun",
-    "Website": ""
+    "Website": "https://unreasonablegroup.com/ventures/hydroleap",
+    "Industry": "IoT",
+    "Last Round": "Series A"
   },
   {
     "Name": "GoZem",
     "F6S URL": "https://www.f6s.com/company/gozem",
     "Tagline": "",
-    "Description": "",
+    "Description": "Aug 7, 2020 ·When Gozem was being set up, Dana stuck withSingaporefor a bunch of reasons. His newstartupis only present in the city-state as a holding company— for tax, accounting, and governance purposes—but is taking advantage ofSingapore’s unique investment environment.",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$5M",
     "Investors": "SAS Shipping Agencies Services",
     "Team Members": "Emeka",
-    "Website": ""
+    "Website": "https://technode.global/2020/08/07/gozem-building-africa-super-app/",
+    "Industry": "Delivery/Logistics",
+    "Team Size": "181 employees",
+    "Last Round": "Series B"
   },
   {
     "Name": "MiRXES",
     "F6S URL": "https://www.f6s.com/company/mirxes",
     "Tagline": "Mirxes leverages miRNA for life-saving early disease detection.",
-    "Description": "",
+    "Description": "Jun 2, 2025 ·Mirxes, which invented and produces the world’s first blood test kit to detect early stage gastric cancer, is helmed by Dr Zhou Lihan, a naturalisedSingaporeanfrom the country’s maiden...",
     "Location": "Singapore, Singapore",
-    "Founded": "",
+    "Founded": "2014",
     "Funding": "$40m",
     "Investors": "CBC Group Singapore",
     "Team Members": "David",
-    "Website": ""
+    "Website": "https://www.straitstimes.com/asia/east-asia/spores-billion-dollar-biotech-firm-life-sciences-scholar-leads-start-up-to-list-in-hk",
+    "Industry": "Biotech",
+    "Last Round": "Ipo",
+    "Team Size": "10 employees"
   },
   {
     "Name": "Livspace",
     "F6S URL": "https://www.f6s.com/company/livspace",
     "Tagline": "",
-    "Description": "",
+    "Description": "Livspace(pronounced as li-v-space), is a home interior and renovationcompanyheadquartered inSingapore. It provides interior design and renovation services inSingaporeand India.",
     "Location": "Singapore, Singapore",
     "Founded": "2015",
     "Funding": "$63.6m",
     "Investors": "Saint-Gobain",
     "Team Members": "Aanchal and Rajnish",
-    "Website": ""
+    "Website": "https://www.livspace.com/",
+    "Industry": "E-Commerce",
+    "Founders": "Ramakant Sharma and Anuj Srivastava",
+    "Last Round": "Ipo"
   },
   {
     "Name": "Ninja Van",
     "F6S URL": "https://www.f6s.com/company/ninjavan",
     "Tagline": "Logistics Designed for E-Commerce",
-    "Description": "",
+    "Description": "NinjaVanis Southeast Asia’s leading logistics provider, with the highest service coverage over 6 countries in the region. Experience the joy of hassle-free deliveries by shipping withNinjaVantoday.",
     "Location": "Singapore, Singapore",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$80M",
     "Investors": "Carmenta Capital Management",
     "Team Members": "Nguyen",
-    "Website": ""
+    "Website": "https://www.ninjavan.co/",
+    "Industry": "Logistics",
+    "Last Round": "Series E",
+    "Founders": "Eduardo Saverin"
   },
   {
     "Name": "Kyo Finance",
     "F6S URL": "https://www.f6s.com/company/kyo-finance",
     "Tagline": "Operator of a decentralized trading platform designed to token exchanges.",
-    "Description": "",
+    "Description": "Kyo Finance was founded in 2024. Where is Kyo Finance headquartered? Kyo Finance is headquartered in Singapore, Singapore. What industry is Kyo Finance in?",
     "Location": "Singapore, Singapore",
     "Founded": "2024",
     "Funding": "",
     "Investors": "Startale",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://startale.com/en/blog/kyo-finance-secures-strategic-funding-from-startale-ventures-to-power-compliant-multi-chain-de-fi-infrastructure",
+    "Industry": "Blockchain",
+    "Last Round": "Series A"
   },
   {
     "Name": "4Divinity",
     "F6S URL": "https://www.f6s.com/company/4divinity",
     "Tagline": "4Divinity expertise to Bring your Game to the Next Level.",
-    "Description": "",
+    "Description": "4Divinity Pte Ltd is the games publishing subsidiary of GCL Global Holdings. Operating from Singapore and Hong Kong with publishing partners across the ...Missing:Singapore| Show results with:Singapore",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
     "Funding": "$10m",
     "Investors": "ADATA Technology",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.4divinity.com/",
+    "Team Size": "10 employees",
+    "Industry": "Gaming",
+    "Last Round": "Grant"
   },
   {
     "Name": "VIVANCE Technologies",
     "F6S URL": "https://www.f6s.com/company/vivance-technologies",
     "Tagline": "Vivance is a patient-centric medical technology company",
-    "Description": "",
+    "Description": "VIVANCE Technologies. VIVANCE Technologies is a clinical-stage, medical device company that has developed a disruptive peritoneal dialysis (PD) device based ...",
     "Location": "Singapore, Singapore",
     "Founded": "2007",
     "Funding": "$11.2m",
     "Investors": "Advanced MedTech",
     "Team Members": "Suresha",
-    "Website": ""
+    "Website": "https://eckuity.com/regions/singapore/",
+    "Industry": "EdTech"
   },
   {
     "Name": "MYX.Finance",
     "F6S URL": "https://www.f6s.com/company/myx.finance",
     "Tagline": "The New Species of Perpetual DEX, CEX-level Fees, Completely Decentralized",
-    "Description": "",
+    "Description": "How to start trading on MYX.Finance? To start trading on MYX.Finance, follow these steps: •. Wallet Connection: Ensure you have a compatible crypto wallet ...Missing:Singapore| Show results with:Singapore",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2023",
+    "Funding": "$5M",
     "Investors": "Lecca Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.myx.finance/",
+    "Last Round": "Seed",
+    "Industry": "Fintech"
   },
   {
     "Name": "PvX Partners",
     "F6S URL": "https://www.f6s.com/company/pvx-partners",
     "Tagline": "A financial services and data intelligence platform empowering growth.",
-    "Description": "",
+    "Description": "Start your application. Apply now to access a credit line from PvX Partners Close. Work Email Address. Full Name. Company Name. Company HQ.",
     "Location": "Singapore, Singapore",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$3.8M",
     "Investors": "Drive by DraftKings",
     "Team Members": "Ridzki and Ridzki",
-    "Website": ""
+    "Website": "https://pvxpartners.com/",
+    "Last Round": "Seed",
+    "Industry": "Software",
+    "Team Size": "10 employees"
   },
   {
     "Name": "Sanctum Labs",
     "F6S URL": "https://www.f6s.com/company/sanctum-labs",
     "Tagline": "Building the infinite LST future",
-    "Description": "",
+    "Description": "... Sanctum Labs, and others. And these aren't just SG stories — they're global category leaders, many of whom now give back as angels, advisors ...",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
     "Funding": "",
     "Investors": "BOOGLE",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.lbank.com/price/sanctum",
+    "Industry": "Leaders, Many Of Whom Now Give Back As Angels, Advisors"
   },
   {
     "Name": "Apr.io",
     "F6S URL": "https://www.f6s.com/company/apr.io",
     "Tagline": "MEV Powered Liquid Staking",
-    "Description": "",
+    "Description": "... apr.io. Ownership Status. Privately Held (backing). Financing Status. Venture Capital-Backed. Corporate Office. Singapore. ·. Primary Industry. Financial ...",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
     "Funding": "",
     "Investors": "Big Brain Holdings",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://usethebitcoin.com/airdrop/apriori-airdrop-guide/",
+    "Industry": "Software",
+    "Last Round": "Seed"
   },
   {
     "Name": "Digital Edge DC",
     "F6S URL": "https://www.f6s.com/company/digital-edge-dc",
     "Tagline": "Champions of building responsible digital ecosystems",
-    "Description": "",
+    "Description": "Also Known As Digital Edge DC. Operating Status Active. Company Type For ... company aims to bring new colocation and interconnect options to the Asian market, ...",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
     "Funding": "",
     "Investors": "Stonepeak",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.dcbyte.com/company/digital-edge-dc/",
+    "Industry": "Telecom",
+    "Last Round": "Debt"
   },
   {
     "Name": "ANEXT Bank",
     "F6S URL": "https://www.f6s.com/company/anext-bank",
     "Tagline": "",
-    "Description": "",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Anext Bank. Use the PitchBook Platform to explore the full profile.",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
     "Funding": "$148m",
     "Investors": "Ant Group",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://kr-asia.com/anext-bank-recognized-as-best-digital-bank-in-singapore",
+    "Industry": "Banking/Fintech"
   },
   {
     "Name": "Initia Labs",
     "F6S URL": "https://www.f6s.com/company/initia-labs",
     "Tagline": "Initia is a network for interwoven rollups",
-    "Description": "",
+    "Description": "Initiais a network for 0-to-1 omnichain rollups built by fusing a novel L1 with an interwoven application-specific L2 infrastructure system. TheInitiaPlatform provides product ready rollups that enables teams to build scalable and sovereign systems while eliminating the UX complexities end users ...",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2023",
+    "Funding": "$22.0M",
     "Investors": "YZi Labs (Binance Labs)",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.bouncewatch.com/explore/startup/initia-labs",
+    "Industry": "Biotech",
+    "Last Round": "Seed",
+    "Team Size": "20 employees",
+    "Founders": "Ezaan Mangalji"
   },
   {
     "Name": "Blackpanda",
     "F6S URL": "https://www.f6s.com/company/blackpanda",
     "Tagline": "",
-    "Description": "",
+    "Description": "Sep 25, 2024 ·Blackpandais Asia's premier cyber emergency response firm, dedicated to providing businesses across the region with comprehensive solutions to prepare for, respond to, and recover from cyber attacks. We serve businesses of all sizes, fromstartupsand SMEs to multinational corporations.",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2015",
+    "Funding": "$6.7M",
     "Investors": "Gaw Capital Partners",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.blackpanda.com/blog/blackpanda-series-a2",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series A"
   },
   {
     "Name": "MagicBlock Labs",
     "F6S URL": "https://www.f6s.com/company/magicblock-labs",
     "Tagline": "The framework for the next generation of onchain games",
-    "Description": "",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives forMagicBlockLabs. Use the PitchBook Platform to explore the full profile.We’re backed by tier-1 investors and trusted by builders across DeFi, DePIN, gaming, and consumer apps. Our team blends engineers, researchers, and cr...",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
     "Funding": "$3m",
     "Investors": "a16z Crypto Investments",
     "Team Members": "Edvin Evgeny",
-    "Website": ""
+    "Website": "https://www.sgpbusiness.com/company/Magicblock-Labs-Pte-Ltd",
+    "Industry": "Cybersecurity",
+    "Founders": "Andrea Fortugno and Gabriele Picco",
+    "Last Round": "Seed"
   },
   {
     "Name": "SDAX",
     "F6S URL": "https://www.f6s.com/company/sdax",
     "Tagline": "",
-    "Description": "",
+    "Description": "SDAX is an investment and trading platform providing international access to private markets and alternative investments.",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2016",
+    "Funding": "$68M",
     "Investors": "Muscat Precious Metals Refining Company",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sdax.co/about-sdax/",
+    "Industry": "Blockchain",
+    "Last Round": "Series B"
   },
   {
     "Name": "Bitlayer Labs",
     "F6S URL": "https://www.f6s.com/company/bitlayer-labs",
     "Tagline": "The First Bitcoin Layer 2 Based on the BitVM Paradigm",
-    "Description": "",
+    "Description": "Jul 23, 2024 ·SINGAPORE, July 23, 2024 /PRNewswire/ --BitlayerLabs, the first Bitcoin Layer 2 based on the BitVM paradigm, today announced the successful completion of its $11 million Series A funding...",
     "Location": "Singapore, Singapore",
     "Founded": "",
-    "Funding": "",
+    "Funding": "$11M",
     "Investors": "G-20 Group",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.prnewswire.com/news-releases/bitlayer-raises-11m-in-series-a-round-led-by-franklin-templeton-and-abcde-302202992.html",
+    "Last Round": "Series A",
+    "Industry": "Fintech"
   },
   {
     "Name": "Aprisium",
@@ -1125,7 +1316,9 @@
     "Funding": "$4m",
     "Investors": "Cocoon Capital",
     "Team Members": "Alison and Raghav",
-    "Website": ""
+    "Website": "https://aprisium.net/about-us",
+    "Industry": "Software",
+    "Last Round": "Series A"
   },
   {
     "Name": "NFTGo",
@@ -1137,7 +1330,9 @@
     "Funding": "",
     "Investors": "500 Global",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.newsfilecorp.com/release/138098/NFTGo.io-Launches-RealTime-NFT-API-to-Help-Web3-Products-Scale",
+    "Industry": "Data Analytics",
+    "Last Round": "Seed"
   },
   {
     "Name": "Oobit Technologies",
@@ -1146,10 +1341,13 @@
     "Description": "Oobit is a fast-growing fintech startup that services people who are focused on gaining more freedom with their money.\n\nOobit provides “in-store payments with crypto” with an unbelievable \"Apple Pay\" experience, thanks to its cutting-edge payments technology and the magic it does behind the scenes.\n\nOobit has built a robust ecosystem that allows consumers to pay with crypto anytime and anywhere on the existing VISA / MasterCard POS terminals. While consumers pay with crypto, the merchants receive fiat money settlements the very same way as all other credit card payments.",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$25M",
     "Investors": "CMCC Global",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.oobit.com/",
+    "Industry": "Payments/Fintech",
+    "Last Round": "Series A",
+    "Founders": "Anatoly Yakovenko"
   },
   {
     "Name": "Pontem Network",
@@ -1158,34 +1356,41 @@
     "Description": "Pontem is a product studio working toward global financial inclusion powered by blockchains. We are partnered with Aptos to build foundational dApps and other infrastructure which enable adoption of their L1, such as development tooling, EVMs, AMMs, and more.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$10.5M",
     "Investors": "MH Ventures",
     "Team Members": "Stas",
-    "Website": ""
+    "Website": "https://www.thecompanycheck.com/company/b/pontem-network/fznm63hjo0nd4is6b",
+    "Industry": "Blockchain",
+    "Last Round": "Seed"
   },
   {
     "Name": "ADDX",
     "F6S URL": "https://www.f6s.com/company/addx",
     "Tagline": "",
-    "Description": "",
+    "Description": "A new, trusted standard. SGD 2B+. total transactions. 200+. opportunities to date. 50+. investor nationalities. ADDX is 2026 Singapore's Top Fintech Companies.",
     "Location": "Singapore, Singapore",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2017",
+    "Funding": "$136M",
     "Investors": "Tokai Tokyo Financial Holdings",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://addx.co/en/",
+    "Industry": "Fintech",
+    "Last Round": "Series A"
   },
   {
     "Name": "Matrixport",
     "F6S URL": "https://www.f6s.com/company/matrixport",
     "Tagline": "Asia’s largest all-in-one hub for crypto financial services",
-    "Description": "",
+    "Description": "Matrixport is an all-in-one crypto financial services platform where users can earn, invest, trade, loan and buy crypto assets. Get started today!",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$129M",
     "Investors": "Paradigm Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.matrixport.com/uni",
+    "Last Round": "Series C",
+    "Industry": "Blockchain/Crypto",
+    "Founders": "Jihan Wu and Ge Yuesheng"
   },
   {
     "Name": "Locad",
@@ -1194,9 +1399,12 @@
     "Description": "Locad is the logistics engine enabling e-commerce brands with a cloud supply chain to grow their omnichannel business and automatically store, pack, ship, and track orders across Asia-Pacific.\n\nLocad’s tech platform syncs inventory across online channels and organizes end-to-end order fulfillment through their reliable network of warehouses and carriers across Singapore, the Philippines, Thailand, Malaysia, Indonesia, and Australia, with more locations opening soon. Through this, brands and merchants get a geographically distributed warehousing infrastructure that allows them to stock goods cl...",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$9M",
     "Investors": "Rocket Internet",
     "Team Members": "Constantin and Toshin",
-    "Website": ""
+    "Website": "https://golocad.com/about-us/",
+    "Industry": "E-Commerce",
+    "Team Size": "200 employees",
+    "Last Round": "Series B"
   }
 ]

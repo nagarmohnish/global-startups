@@ -3,13 +3,14 @@
     "Name": "Wonderful (wonderful.ai)",
     "F6S URL": "https://www.f6s.com/company/wonderful-wonderful.ai",
     "Tagline": "AI for the Bold Enterprise.",
-    "Description": "",
+    "Description": "20 Jan 2026—I reviewed public updates about Wonderful (wonderful.ai) and consolidated the most relevant developments, keeping details specific to this ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "",
     "Funding": "",
     "Investors": "Vine Ventures",
     "Team Members": "Bar",
-    "Website": "https://wonderful.ai"
+    "Website": "https://wonderful.ai",
+    "Industry": "AI"
   },
   {
     "Name": "Guardio (guard.io)",
@@ -33,7 +34,9 @@
     "Funding": "$8m",
     "Investors": "Bessemer Venture Partners",
     "Team Members": "Ofer",
-    "Website": "https://torq.io/"
+    "Website": "https://torq.io/",
+    "Industry": "Insurance",
+    "Last Round": "Series B"
   },
   {
     "Name": "Dream Security",
@@ -51,13 +54,16 @@
     "Name": "AI21 Labs",
     "F6S URL": "https://www.f6s.com/company/ai21-labs",
     "Tagline": "AI21 Labs builds Foundation Models and AI Systems for the enterprise",
-    "Description": "",
+    "Description": "AI21 Labs is an Israeli company specializing in Natural Language Processing (NLP), which develops AI systems that can understand and generate natural language.",
     "Location": "Tel Aviv, Israel",
-    "Founded": "",
-    "Funding": "",
+    "Founded": "2017",
+    "Funding": "$9.5M",
     "Investors": "Intel Capital",
     "Team Members": "Ori",
-    "Website": "https://www.ai21.com/"
+    "Website": "https://www.ai21.com/",
+    "Industry": "AI",
+    "Team Size": "500 employees",
+    "Last Round": "Series D"
   },
   {
     "Name": "Justt (Formerly AcroCharge)",
@@ -66,22 +72,26 @@
     "Description": "We are an end-to-end chargeback mitigation solution that mitigates chargebacks throughout their entire lifecycle in order to recover online merchants' lost revenue, without them needing to lift a finger.\n\nOur two-way API enables a merchant to efficiently send us data from their system. Once the API integration is completed with a merchant and their payment processor (PSP), our internal platform auto-creates the strongest evidence using the tailored template for the specific merchant and type of chargeback, and data retrieved from the merchant, their PSPs, and other third-party solutions. AI...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$70M",
     "Investors": "Reach Capital",
     "Team Members": "Roenen, Asaf and Ofir",
-    "Website": "https://justt.ai/"
+    "Website": "https://justt.ai/",
+    "Industry": "Blockchain",
+    "Last Round": "Series C"
   },
   {
     "Name": "Parametrix",
     "F6S URL": "https://www.f6s.com/company/parametrix",
     "Tagline": "Protecting companies from #downtime",
-    "Description": "",
+    "Description": "Parametrix is the leading provider of parametric insurance for digital business interruption (BI). Our solutions protect against the ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
     "Funding": "",
     "Investors": "Mundi Ventures",
     "Team Members": "Ori",
-    "Website": "https://parametrixinsurance.com/"
+    "Website": "https://parametrixinsurance.com/",
+    "Industry": "Insurance",
+    "Last Round": "Series B"
   },
   {
     "Name": "CytoReason",
@@ -93,19 +103,22 @@
     "Funding": "$20m",
     "Investors": "Pfizer",
     "Team Members": "David and Nurit",
-    "Website": "https://www.cytoreason.com/"
+    "Website": "https://www.cytoreason.com/",
+    "Industry": "AI"
   },
   {
     "Name": "Scopio Labs",
     "F6S URL": "https://www.f6s.com/company/scopiolabs",
     "Tagline": "Designing next-generation computational microscopes",
-    "Description": "",
+    "Description": "Scopio Labs is transforming cell morphology analysis, offering fully digital applications, platforms, and diagnostic support that enhance clinical workflows.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2015",
-    "Funding": "",
+    "Funding": "$7M",
     "Investors": "Danaher Ventures",
     "Team Members": "Amir and Mayer",
-    "Website": "https://scopiolabs.com/"
+    "Website": "https://scopiolabs.com/",
+    "Last Round": "Series D",
+    "Industry": "Morphology Dedicated To Unlocking The Potential Of Imaging And Ai In Hematology"
   },
   {
     "Name": "Silverfort",
@@ -114,10 +127,14 @@
     "Description": "Silverfort is the first solution enabling enterprises to extend and consolidate their identity protection policies (including MFA and identity-based Zero Trust) across both cloud and legacy IAM infrastructure in a unified manner, using a unique agentless and proxyless technology. It helps enterprises overcome several challenges that are not solved by other IAM solutions:\n\n1. Seamlessly extend existing authentication and access solutions (including Microsoft, Okta, Ping, etc.) to cover any sensitive asset, including systems that couldn’t be protected before, such as homegrown applications, lega...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$222M",
     "Investors": "Acrew Capital",
     "Team Members": "Hed, Leonid and Matan",
-    "Website": "https://www.silverfort.com/"
+    "Website": "https://www.silverfort.com/",
+    "Industry": "Cybersecurity",
+    "Team Size": "500 employees",
+    "Founders": "Hed Kovetz, Yaron Kessner",
+    "Last Round": "Series D"
   },
   {
     "Name": "Flytrex Aviation Ltd.",
@@ -126,10 +143,13 @@
     "Description": "Flytrex offers tailored end to end drone delivery solutions for corporations around the world.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2013",
-    "Funding": "",
+    "Funding": "$60M",
     "Investors": "Uber Technologies",
     "Team Members": "Yariv",
-    "Website": ""
+    "Website": "https://finder.startupnationcentral.org/company_page/flytrex?section=lifecycle",
+    "Industry": "Delivery/Logistics",
+    "Last Round": "Series C",
+    "Founders": "Yariv Bash"
   },
   {
     "Name": "Novee Security",
@@ -138,70 +158,84 @@
     "Description": "Novee is an AI penetration testing platform that continuously tests enterprise environments the way real attackers operate — starting with zero knowledge, no agents, and no source code access required. Purpose-trained AI models reason about an organization's environment from the outside in, uncovering novel vulnerabilities, business logic flaws, chained attack paths, and zero-days that signature-based or scan-only tools routinely miss.\n\nTesting begins with nothing more than a domain name. From that starting point, Novee maps the attack surface, identifies exploitable weaknesses, and validates ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$51.5M",
     "Investors": "YL Ventures.",
     "Team Members": "Ido",
-    "Website": "https://novee.security/"
+    "Website": "https://novee.security/",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series A",
+    "Team Size": "10 employees"
   },
   {
     "Name": "Act (act.security)",
     "F6S URL": "https://www.f6s.com/company/act-act.security",
     "Tagline": "Israel-based Medigate spinoff securing cloud & data hubs",
-    "Description": "",
+    "Description": "Act(act.security) - Cyber Security -Israel-based Medigate spinoff securing cloud & data hubs",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$40M",
     "Investors": "Startpoint Capital",
     "Team Members": "",
-    "Website": "https://act.security"
+    "Website": "https://act.security",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series A"
   },
   {
     "Name": "Syremis Therapeutics",
     "F6S URL": "https://www.f6s.com/company/syremis-therapeutics",
     "Tagline": "Developing novel medicines to make a profound impact on mental health care.",
-    "Description": "",
+    "Description": "Syremis Therapeutics was founded in 2025. Where is Syremis Therapeutics headquartered? Syremis Therapeutics is headquartered in Tel Aviv, Israel. What ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
     "Funding": "",
     "Investors": "QVT Financial",
     "Team Members": "",
-    "Website": "https://syremis.com/"
+    "Website": "https://syremis.com/",
+    "Industry": "Pharma",
+    "Last Round": "Series A"
   },
   {
     "Name": "Irregular (formerly Pattern Labs)",
     "F6S URL": "https://www.f6s.com/company/irregular-formerly-pattern-labs",
     "Tagline": "Frontier AI Security.",
-    "Description": "",
+    "Description": "About us. Irregular (formerly Pattern Labs) is the first frontier security lab, building defenses that uncover vulnerabilities and secure ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$80M",
     "Investors": "Swish Ventures",
     "Team Members": "Omer and Omer",
-    "Website": ""
+    "Website": "https://startups.gallery/companies/irregular",
+    "Industry": "AI",
+    "Team Size": "20 employees",
+    "Last Round": "Series A"
   },
   {
     "Name": "Irregular (Pattern Labs)",
     "F6S URL": "https://www.f6s.com/company/irregular-pattern-labs",
     "Tagline": "Frontier AI Security.",
-    "Description": "",
+    "Description": "11Irregularis actively using 11 technologies for its website, according to BuiltWith. These include Google Tag Manager, HSTS, and Apple Mobile Web Clips Icon. Where isIrregular's headquarters?Irregularis located inTelAviv,TelAviv,Israel. Who invested inIrregular?Irregularhas 5 investors including...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$80M",
     "Investors": "Swish Ventures",
     "Team Members": "Omer",
-    "Website": ""
+    "Website": "https://www.irregular.com/",
+    "Industry": "AI",
+    "Last Round": "Ipo",
+    "Founders": "Dan Lahav and Eli David"
   },
   {
     "Name": "Remedio (formerly GYTPOL)",
     "F6S URL": "https://www.f6s.com/company/remedio-formerly-gytpol",
     "Tagline": "We deliver automated configuration assurance and push-button remediation.",
-    "Description": "",
+    "Description": "Tal Kollender ; Tel Aviv, Israel · Open University of Israel · Cybersecurity entrepreneur, CEO of Remedio · Founding Remedio (formerly Gytpol) ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$65M",
     "Investors": "Picture Capital",
     "Team Members": "Gilad and Tal",
-    "Website": ""
+    "Website": "https://seemplicity.io/platform/integrations/",
+    "Industry": "Cybersecurity"
   },
   {
     "Name": "ORION Security",
@@ -210,70 +244,83 @@
     "Description": "ORION prevents data loss by analyzing data in motion with context-aware, proprietary AI agents, significantly reducing operational overhead and false positives while drastically increasing the number of real incidents detected and prevented.\n\nOur specialized agents understand the context behind every data trace in real-time, from classification, lineage, identity, environment, to external relations, analyze it for data loss indicators, detecting and preventing exfiltration.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$6M",
     "Investors": "Underscore VC",
     "Team Members": "Daniel",
-    "Website": ""
+    "Website": "https://www.orionsec.io/blog/orion-closes-32-million-in-funding-building-dlp-beyond-policies",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "Vega Security",
     "F6S URL": "https://www.f6s.com/company/vega-security",
     "Tagline": "Vega - Limitless Security Analytics.",
-    "Description": "",
+    "Description": "We kicked off our company-wide SKO in Tel Aviv. There's something ... Vega Security. Security Systems Services · Upwind Security. Computer and Network ...Missing:Israel| Show results with:Israel",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$120M",
     "Investors": "CRV - Charles River Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.preqin.com/data/profile/asset/vega/731559",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series B"
   },
   {
     "Name": "koi security",
     "F6S URL": "https://www.f6s.com/company/koi-security",
     "Tagline": "Secure anything with an install button.",
-    "Description": "",
+    "Description": "Koi Security LTD Yehuda Ha-Levi St 34, 6513616. Tel Aviv, Israel. Koi Security INC 1901 Pennsylvania Avenue NW, Suite 900. Washington D.C. 20006. hello@koi.ai.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$48.0M",
     "Investors": "Picture Capital",
     "Team Members": "Amit",
-    "Website": ""
+    "Website": "https://www.koi.ai/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "Converge Bio",
     "F6S URL": "https://www.f6s.com/company/converge-bio",
     "Tagline": "The Generative AI Lab for the Life Sciences.",
-    "Description": "",
+    "Description": "Converge Bio is accelerating drug development through GenAI-powered innovations in discovery, molecule design and manufacturing to create the therapies of ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$25M",
     "Investors": "Bessemer Venture Partners",
     "Team Members": "Dov",
-    "Website": ""
+    "Website": "https://converge-bio.com/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "WINN AI",
     "F6S URL": "https://www.f6s.com/company/winn-ai",
     "Tagline": "The real-time AI assistant that helps sales teams save time on busywork.",
-    "Description": "",
+    "Description": "Feb 26, 2026 ·Winn.AIis a series Acompanybased inTelAviv(Israel), founded in 2021 by Eldad Postan-Koren and Bar Haleva. It operates as a Platform offering AI based virtual assistant solutions for salespeople.Winn.AIhas raised $35M in funding from investors like Insight Partners, S Capital VC and ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$35M",
     "Investors": "Moneta Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.insightpartners.com/ideas/winn-ai-raises-18-million-series-a-to-close-the-gap-between-sales-strategy-and-real-time-execution/",
+    "Industry": "AI",
+    "Last Round": "Series A",
+    "Team Size": "25 employees"
   },
   {
     "Name": "Ukko (ukko.us)",
     "F6S URL": "https://www.f6s.com/company/ukko-ukko.us",
     "Tagline": "On a mission to solve food allergies and sensitivities",
-    "Description": "",
+    "Description": "Claim page This page was created when someone associated withUkko(ukko.us) joined F6S. VerifiedUkko(ukko.us) employees can claim the page to update it",
     "Location": "Tel Aviv, Israel",
     "Founded": "2016",
     "Funding": "$7.1k",
     "Investors": "Jani Leppä",
     "Team Members": "",
-    "Website": "https://ukko.us"
+    "Website": "https://ukko.us",
+    "Industry": "Biotech",
+    "Last Round": "Series B"
   },
   {
     "Name": "Classiq",
@@ -285,19 +332,23 @@
     "Funding": "$47m",
     "Investors": "CDP Venture Capital",
     "Team Members": "Shir and Henry",
-    "Website": ""
+    "Website": "https://www.classiq.io/insights/classiq-raises-110m-in-largest-ever-quantum-software-funding-round",
+    "Industry": "Software",
+    "Last Round": "Series C"
   },
   {
     "Name": "Seemplicity",
     "F6S URL": "https://www.f6s.com/company/seemplicity",
     "Tagline": "Offers single platform with cyber-security, risk reduction & remediation",
-    "Description": "",
+    "Description": "Seemplicity revolutionizes the way security teams work by automating, optimizing and scaling all risk reduction workflows in one workspace.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$82.2M",
     "Investors": "Essentia Venture Capital",
     "Team Members": "Yoran",
-    "Website": ""
+    "Website": "https://seemplicity.io/",
+    "Industry": "Park, Nj",
+    "Last Round": "Series B"
   },
   {
     "Name": "NextSilicon",
@@ -309,31 +360,39 @@
     "Funding": "",
     "Investors": "Third Point Ventures",
     "Team Members": "Mateja",
-    "Website": ""
+    "Website": "https://www.nextsilicon.com/",
+    "Industry": "Hardware",
+    "Last Round": "Series C",
+    "Team Size": "330 employees"
   },
   {
     "Name": "ForSight Robotics",
     "F6S URL": "https://www.f6s.com/company/forsight-robotics",
     "Tagline": "First robotic surgery platform for widespread eye diseases.",
-    "Description": "",
+    "Description": "ForSight Robotics is redefining quality surgical eye care with ORYOM, the first robotic surgery platform for cataracts and widespread eye diseases.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$10M",
     "Investors": "Reiya ventures",
     "Team Members": "Moshe",
-    "Website": ""
+    "Website": "https://lucidityinsights.com/startups/forsight-robotics-15526",
+    "Industry": "Robotics",
+    "Last Round": "Series B"
   },
   {
     "Name": "SecondNature AI",
     "F6S URL": "https://www.f6s.com/company/secondnatureai",
     "Tagline": "Practice any type of conversation with Second Nature AI's sales training",
-    "Description": "",
+    "Description": "Tel Aviv, Israel. Products, AI Role Play Training. Website, secondnature.ai. In 2025 it was included in the \"50 most promising Israeli startups - 2025\" list by ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$15.5M",
     "Investors": "Sienna Venture Capital",
     "Team Members": "Elran",
-    "Website": ""
+    "Website": "https://secondnature.ai/",
+    "Industry": "AI",
+    "Last Round": "Series B",
+    "Team Size": "45 employees"
   },
   {
     "Name": "Zero Networks",
@@ -342,46 +401,56 @@
     "Description": "Preventing attacks from spreading and causing damage by automatically restricting network access to only what is normally needed, everything else goes through 2-step verification.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$99.9M",
     "Investors": "Highland Europe",
     "Team Members": "Benny",
-    "Website": ""
+    "Website": "https://zeronetworks.com/company",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series C",
+    "Team Size": "45 employees"
   },
   {
     "Name": "Cato Networks",
     "F6S URL": "https://www.f6s.com/company/catonetworks",
     "Tagline": "Ready for Whatever’s Next.",
-    "Description": "",
+    "Description": "Cato Networks Ltd. is a Tel Aviv, Israel-based network security company that develops Secure Access Service Edge (SASE) technology.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2015",
-    "Funding": "",
+    "Funding": "$359M",
     "Investors": "Vitruvian Partners",
     "Team Members": "Gil and Shmulik",
-    "Website": ""
+    "Website": "https://www.catonetworks.com/",
+    "Industry": "AI",
+    "Last Round": "Series G"
   },
   {
     "Name": "Clover Security",
     "F6S URL": "https://www.f6s.com/company/clover-security",
     "Tagline": "Design-led product security.",
-    "Description": "",
+    "Description": "Clover Security design-led product security with AI agents that act like experienced security architects and extend the team's reach.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$36M",
     "Investors": "Team8",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://clover.security/",
+    "Industry": "AI",
+    "Last Round": "Series A",
+    "Founders": "Alon Kollmann and Or Chen"
   },
   {
     "Name": "Sweet Security",
     "F6S URL": "https://www.f6s.com/company/sweet-security",
     "Tagline": "Transforming Cloud Security. Defining AI Security.",
-    "Description": "",
+    "Description": "Sweet Security is redefining enterprise cloud protection. As the leading provider of Runtime CNAPP and AI Security solutions, Sweet unifies runtime context with ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$75M",
     "Investors": "Key1 Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sweet.security/",
+    "Industry": "AI",
+    "Last Round": "Series B"
   },
   {
     "Name": "QEDMA",
@@ -390,82 +459,98 @@
     "Description": "Qedma is developing a new operating system which aims to propel the most important computation revolution of our lifetime - quantum computation. With the potential to address some of humanity's most pressing problems, quantum computation is expected to define what computation is in the coming decades. To achieve these grand goals, the quantum industry must develop a new type of operating system specifically tailored for quantum computers, which offers ways to overcome the critical challenges that quantum developers are facing.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$26M",
     "Investors": "Q Fund",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.qedma.com/",
+    "Industry": "Software",
+    "Last Round": "Series A"
   },
   {
     "Name": "Token Security",
     "F6S URL": "https://www.f6s.com/company/token-security",
     "Tagline": "",
-    "Description": "",
+    "Description": "TokenSecurityis a non-human identity security firm that scans tech stacks to detect machine identities and prevent breaches.Jan 29, 2025 ·Based inIsrael,TokenSecurityhelps organizations manage machine credentials across cloud, SaaS, and on-premises systems.May 20, 2024 ·TokenSecurity, anIsraelicy...",
     "Location": "Tel Aviv, Israel",
     "Founded": "",
-    "Funding": "",
+    "Funding": "$20M",
     "Investors": "TLV Partners",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.token.security/",
+    "Industry": "SaaS",
+    "Last Round": "Series A",
+    "Team Size": "50 employees"
   },
   {
     "Name": "Bluewhite",
     "F6S URL": "https://www.f6s.com/company/bluewhite",
     "Tagline": "",
-    "Description": "",
+    "Description": "Bluewhite is redefining autonomy with Field Intelligence AI, our proprietary AI engine, that drives efficiency, reduces labor dependency, and enhances safety ...",
     "Location": "Tel Aviv, Israel",
-    "Founded": "",
+    "Founded": "2017",
     "Funding": "",
     "Investors": "Peregrine Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.bluewhite.ai/",
+    "Industry": "Autonomous Vehicles",
+    "Last Round": "Series C"
   },
   {
     "Name": "Noma Security",
     "F6S URL": "https://www.f6s.com/company/noma-security",
     "Tagline": "Application Security for the Entire Data & AI Lifecycle",
-    "Description": "",
+    "Description": "Noma Security helps avoid overload by putting agentic AI risk in the context of business priorities. Whether securing data pipelines or managing GenAI models or ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$100M",
     "Investors": "Silicon Valley CISO Investments (SVCI)",
     "Team Members": "Nadav",
-    "Website": ""
+    "Website": "https://noma.security/",
+    "Industry": "AI",
+    "Last Round": "Series B"
   },
   {
     "Name": "Axiom Security",
     "F6S URL": "https://www.f6s.com/company/axiom-security",
     "Tagline": "Privileged Access Management for the Modern Workforce.",
-    "Description": "",
+    "Description": "26 Aug 2025—About Axiom Security. Founded by Itay Mesika and Ilan Dardik in Tel Aviv, Israel, Axiom Security delivers a cloud-native, identity-centric ...Missing:startup| Show results with:startup",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
     "Funding": "$100m",
     "Investors": "Okta Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.okta.com/newsroom/press-releases/okta-with-axiom-security--delivering-robust-privileged-access-fo/",
+    "Industry": "Software",
+    "Team Size": "50 employees",
+    "Last Round": "Seed"
   },
   {
     "Name": "Xtend.me",
     "F6S URL": "https://www.f6s.com/company/xtend.me",
     "Tagline": "Human Guided Autonomous System- Enabling Practical Autonomy.",
-    "Description": "",
+    "Description": "Where is XTEND'sheadquarters? XTEND is located inTelAviv,TelAviv,Israel. Who invested in XTEND? XTEND has 18 investors including Chartered Group and ClalTech. When was the last funding round for XTEND? XTEND closed its last funding round on. from a Series B round. Who are XTEND's competitors?XTEN...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2018",
     "Funding": "$5m",
     "Investors": "Protego Ventures",
     "Team Members": "Matteo",
-    "Website": ""
+    "Website": "https://www.xtend.me/",
+    "Industry": "Drones/UAV",
+    "Last Round": "Series B"
   },
   {
     "Name": "IVIX TECH, INC.",
     "F6S URL": "https://www.f6s.com/company/ivix-tech-inc",
     "Tagline": "IVIX is a platform that helps authorities prevent and reduce tax evasion.",
-    "Description": "",
+    "Description": "TelAviv,TelAviv,Israel. 11-50.IVIXmay be growing as it has recently closed a $12.5 million Series A funding round led by Insight Partners, which is a strong indicator of investor confidence and financial backing for expansion.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$60M",
     "Investors": "O.G. Venture Partners",
     "Team Members": "Doron and Matan",
-    "Website": ""
+    "Website": "https://www.ivix.ai/press/ivix-closes-12-5-million-series-a-funding-round-led-by-insight-partners-accelerating-growth-and-helping-combat-financial-crimes",
+    "Last Round": "Series A",
+    "Industry": "AI"
   },
   {
     "Name": "Finout",
@@ -474,10 +559,12 @@
     "Description": "Experience the ultimate FinOps tool with Finout - the all-in-one solution designed to meet the needs of companies of any size. Effortlessly streamline your FinOps management with Finout's robust features, including instant tagging, zero fees cost optimization, and a comprehensive cost governance suite. With its intuitive interface, you can optimize your cloud spend by up to 45% without the hassle of coding or tag changes. Say goodbye to unnecessary expenses and hello to the only FinOps tool you will ever need.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$40M",
     "Investors": "Maor Investments",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.finout.io/about/",
+    "Last Round": "Series C",
+    "Industry": "Software"
   },
   {
     "Name": "Voyantis",
@@ -486,22 +573,24 @@
     "Description": "Voyantis is a leading LTV prediction platform that powers decisions of performance marketing teams. Our platform provides accurate future lifetime value for each user shortly after acquisition, allowing marketing teams to optimize revenues and make data-driven decisions.\nVoyantis has been chosen to power LTV prediction for the largest eCOM and tech brands such as Ipsy, Notion, Miro, and Honeybook, and has strategic partnerships with Meta and Google.\nLearn more and get a live demo at voyantis.ai",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$41M",
     "Investors": "RedSeed Ventures",
     "Team Members": "Ido",
-    "Website": ""
+    "Website": "https://www.voyantis.ai/about",
+    "Industry": "AI"
   },
   {
     "Name": "Stream Security (Formerly Lightlytics)",
     "F6S URL": "https://www.f6s.com/company/lightlytics",
     "Tagline": "",
-    "Description": "",
+    "Description": "Stream Security, formerly Lightlytics, expands into CloudSecOps market with launch of Real-time Cloud Security Solution Ready to streamline cloud security?Missing:startup| Show results with:startup",
     "Location": "Tel Aviv, Israel",
     "Founded": "2020",
     "Funding": "",
     "Investors": "Cervin",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://leadiq.com/c/streamsecurity/5f4cdb781ecba4fee31d04a1",
+    "Industry": "SaaS"
   },
   {
     "Name": "UNKJD (ex MonkeyLeague)",
@@ -519,37 +608,45 @@
     "Name": "Lightrun",
     "F6S URL": "https://www.f6s.com/company/lightrun",
     "Tagline": "Lightrun is committed to enterprise-grade security standard",
-    "Description": "",
+    "Description": "Where is Lightrun 's headquarters? Lightrun is located in Tel Aviv, Tel Aviv, Israel . Who invested in Lightrun ? Lightrun has 14 investors including Glilot ...Missing:startup| Show results with:startup",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$70M",
     "Investors": "Sorenson Capital",
     "Team Members": "Ilan",
-    "Website": ""
+    "Website": "https://finder.startupnationcentral.org/company_page/lightrun",
+    "Industry": "AI",
+    "Team Size": "100 employees",
+    "Last Round": "Series B"
   },
   {
     "Name": "Riverside.fm",
     "F6S URL": "https://www.f6s.com/company/riverside.fm",
     "Tagline": "Your online recording studio.",
-    "Description": "",
+    "Description": "\"Riverside's New AI Tools Can Quickly Turn Podcasts Into Shareable Clips\". PetaPixel. ^ \"Video creation platform Riverside.fm launches new Clips feature\".",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$30M",
     "Investors": "Seven Seven Six",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://riverside.com/",
+    "Industry": "AI",
+    "Last Round": "Series C"
   },
   {
     "Name": "Ibex Medical Analytics",
     "F6S URL": "https://www.f6s.com/company/ibex-medical-analytics",
     "Tagline": "Pioneers AI-based cancer diagnostics in pathology.",
-    "Description": "",
+    "Description": "Oct 19, 2021 ·Currently, thestartupis focused on expanding its reach in the US.Ibexemploys about 40 people across its offices inTelAviv, its tech base, and Europe, where its commercial team is...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$118.5M",
     "Investors": "NewHealth Ventures",
     "Team Members": "Daphna",
-    "Website": ""
+    "Website": "https://ibex-ai.com/",
+    "Team Size": "40 employees",
+    "Industry": "AI",
+    "Last Round": "Series C"
   },
   {
     "Name": "qbiq AI",
@@ -558,10 +655,13 @@
     "Description": "qbiq is a groundbreaking AI-powered platform designed to revolutionize real estate planning and visualization for brokers, leasing teams, property managers, and designers alike. With its state-of-the-art technology, qbiq instantly generates customized layout alternatives, rendered images and 3D virtual tours, significantly reducing the time and effort required to plan and optimize office spaces.\n\nKey Features:\n\nInstant Layout Alternatives: Quickly produce multiple, tailored fit out options.\n\nRendered images & 3D Virtual Tours: Experience realistic visualizations of potential office designs.\n\nP...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$26M",
     "Investors": "Oren Buskila",
     "Team Members": "Leeor, Elad and Natasha",
-    "Website": ""
+    "Website": "https://finder.startupnationcentral.org/company_page/qbiq",
+    "Industry": "Software",
+    "Team Size": "200 employees",
+    "Last Round": "Series A"
   },
   {
     "Name": "Humanz",
@@ -570,10 +670,12 @@
     "Description": "Humanz Developed a big data platform that harvests and analyses data from various social networks. (Twitter, YouTube, LinkedIn & Instagram more)\nOur platform enables marketers to discover, approach & work with Micro Influencers, Bloggers and market Guru’s from all Social Networks.\nWe are the only platform that provides full data regarding followers at each and every network (Gender, age group, interests, level of income etc).",
     "Location": "Tel Aviv, Israel",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$15M",
     "Investors": "Samsung Next",
     "Team Members": "Liav and Dror",
-    "Website": ""
+    "Website": "https://www.prnewswire.com/news-releases/meet-humanz-the-new-product-from-humanz-bringing-results-driven-creator-marketing-to-the-ai-era-302689393.html",
+    "Industry": "Marketing/AdTech",
+    "Last Round": "Series B"
   },
   {
     "Name": "Prisma Photonics",
@@ -582,10 +684,12 @@
     "Description": "Prisma Photonics offers a unique “sensor-free” solution for long physical infrastructure. It is based on pre-existing fiber cables. The fiber is the sensor, no need to install any sensors along the monitored physical asset. The solution covers various use-cases (safety, security, maintenance, and preventive/predictive maintenance).\n\nSince it is “sensors-free” method, both the ramp-up time for installation and the cost per meter are unparalleled and attractive vs any conventional technology. With “zero installation” on the infrastructure, both demo/pilot and commercial installation can be cond...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$80M",
     "Investors": "Protego Ventures",
     "Team Members": "Eran and Eyal",
-    "Website": ""
+    "Website": "https://www.prismaphotonics.com/contact/",
+    "Industry": "AI/ML",
+    "Last Round": "Series D"
   },
   {
     "Name": "Magenta Medical",
@@ -597,7 +701,9 @@
     "Funding": "$4m",
     "Investors": "Pitango Venture Capital",
     "Team Members": "David",
-    "Website": ""
+    "Website": "https://www.medicaldevice-network.com/features/magenta-medical-on-cardiovascular-innovation-in-israel/",
+    "Last Round": "Series B",
+    "Industry": "HealthTech"
   },
   {
     "Name": "Syte - Visual conception",
@@ -609,7 +715,8 @@
     "Funding": "",
     "Investors": "La Maison Compagnie d'Investissement",
     "Team Members": "Lihi, Idan and Ofer",
-    "Website": ""
+    "Website": "https://www.syte.ai/services-privacy/",
+    "Industry": "Fashion"
   },
   {
     "Name": "ZenCity",
@@ -618,34 +725,43 @@
     "Description": "In today’s complex urban world, city officials need advanced tools to quickly and easily understand their city, and especially their citizens. What do people in the city really care about? What are they pleased with, and what would they like to change?\nToday, city officials use a variety of archaic methods, such as phone surveys, focus groups and public hearings, which have a high cost and provide very limited value - they only engage a small number of people, at a specific point in time around anecdotal issues. This makes citizen feedback, while a critical KPI, an unusable, unreachable indica...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2015",
-    "Funding": "",
+    "Funding": "$13.5M",
     "Investors": "TLV Partners",
     "Team Members": "Ido, Eyal and Inbal",
-    "Website": ""
+    "Website": "https://zencity.io/",
+    "Last Round": "Series C",
+    "Industry": "AI"
   },
   {
     "Name": "Attestable",
     "F6S URL": "https://www.f6s.com/company/attestable",
     "Tagline": "The Trust Layer for AI",
-    "Description": "",
+    "Description": "Company size: 2-10 employees. Type: Privately Held ... Co-Founder and CEO at Attestable. 3mo. Report this post; Close menu. Excited to be speaking at the Tel Aviv ...Missing:startup| Show results with:startup",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$18.5M",
     "Investors": "TLV Partners",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.calcalistech.com/ctechnews/article/sjik6rzdwl",
+    "Team Size": "10 employees",
+    "Last Round": "Seed",
+    "Industry": "AI",
+    "Founders": "Shahar Papini, Yogev Bar"
   },
   {
     "Name": "Opti, Inc",
     "F6S URL": "https://www.f6s.com/company/opti-inc",
     "Tagline": "Reimagining the future of identity and access management.",
-    "Description": "",
+    "Description": "Resources. Resource Center. Company. About Us · Contact Us · Become a Partner · Careers · Trust Center. © 2026 Opti, Inc. Cookie Policy · Privacy Policy · Terms ...Missing:TelAvivIsrael",
     "Location": "Tel Aviv, Israel",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$20M",
     "Investors": "Hetz Ventures",
     "Team Members": "Barak",
-    "Website": ""
+    "Website": "https://www.opti.ai/",
+    "Team Size": "50 employees",
+    "Industry": "Fund",
+    "Last Round": "Seed"
   },
   {
     "Name": "Mate Security",
@@ -657,31 +773,38 @@
     "Funding": "",
     "Investors": "Insight Partners",
     "Team Members": "Asaf",
-    "Website": ""
+    "Website": "https://mate.security/blog/mate-security-selected-for-the-2026-crowdstrike-aws-nvidia-cybersecurity-startup-accelerator",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "Tenzai",
     "F6S URL": "https://www.f6s.com/company/tenzai",
     "Tagline": "Meet Your AI Hacker",
-    "Description": "",
+    "Description": "Tenzai builds AI hackers that autonomously test, exploit, and fix vulnerabilities across enterprise software—redefining penetration testing for the AI era.Missing:TelAviv",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
     "Funding": "",
     "Investors": "Greylock",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://tenzai.com/",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "AIR (airev.aero)",
     "F6S URL": "https://www.f6s.com/company/air-airev.aero",
     "Tagline": "Pushing the Envelope of Electric Aviation.",
-    "Description": "",
+    "Description": "AIR (airev.aero) is revolutionizing everyday mobility for everyday people, empowering individuals to seize the power of personal flight. Combining aerospace ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$23M",
     "Investors": "Entree Capital",
     "Team Members": "Chen",
-    "Website": "https://airev.aero"
+    "Website": "https://airev.aero",
+    "Industry": "Drones/UAV",
+    "Team Size": "100 employees",
+    "Last Round": "Seed"
   },
   {
     "Name": "Datafy (datafy.io)",
@@ -699,181 +822,216 @@
     "Name": "Sola Security, Inc",
     "F6S URL": "https://www.f6s.com/company/sola-security-inc",
     "Tagline": "The Cybersecurity AI Assistant.",
-    "Description": "",
+    "Description": "Co-Founder & COO. Details. Legal Name Sola Security, Inc. Operating Status Active. Company Type For Profit. Founders Guy Flechter, Ron Peled. About the Company.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$35.0M",
     "Investors": "S32",
     "Team Members": "Guy",
-    "Website": ""
+    "Website": "https://sola.security/press-release/sola-security-raises-35m-a-round-to-pioneer-ai-in-cybersecurity/",
+    "Industry": "AI",
+    "Last Round": "Series A"
   },
   {
     "Name": "sett.ai",
     "F6S URL": "https://www.f6s.com/company/sett.ai",
     "Tagline": "Leading a new way for mobile games",
-    "Description": "",
+    "Description": "Contact Information. Website. www.sett.ai. Ownership Status. Privately Held (backing). Financing Status. Venture Capital-Backed. Corporate Office. Tel Aviv ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2022",
     "Funding": "",
     "Investors": "Bessemer Venture Partners",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.sett.ai/",
+    "Industry": "Gaming",
+    "Last Round": "Series A"
   },
   {
     "Name": "Appcharge",
     "F6S URL": "https://www.f6s.com/company/appcharge",
     "Tagline": "Maximize Game Profits Through Direct Relationships With Your Players",
-    "Description": "",
+    "Description": "Appcharge is a global payment and commerce platform for mobile game publishers, headquartered in Tel Aviv, Israel, with offices in Helsinki, London, and Seoul.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$58M",
     "Investors": "Smilegate Investment",
     "Team Members": "Maor",
-    "Website": ""
+    "Website": "https://appcharge.com/",
+    "Industry": "Payments/Fintech",
+    "Last Round": "Series B"
   },
   {
     "Name": "ONE ZERO BANK",
     "F6S URL": "https://www.f6s.com/company/one-zero-bank",
     "Tagline": "Digital Private Banking.",
-    "Description": "",
+    "Description": "12 Feb 2024—One Zero Bank, Israel's first private digital bank and a world-leading institution in the integration of AI technology into banking services.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$120M",
     "Investors": "East Ventures",
     "Team Members": "Eyal",
-    "Website": ""
+    "Website": "https://www.onezerobank.com/en/company/information/2290",
+    "Industry": "AI"
   },
   {
     "Name": "Clutch Security",
     "F6S URL": "https://www.f6s.com/company/clutch-security",
     "Tagline": "",
-    "Description": "",
+    "Description": "Jul 29, 2025 ·ClutchSecurityis a series Acompanybased inTelAviv(Israel), founded in 2023 by Tal Kimhi, Ofir Har Chen and Sagi Haas. It operates as a Provider of identity management solutions.Jan 29, 2025 ·Israeli cybersecurity companyClutchSecurity, which develops a platform for securing non-huma...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$20M",
     "Investors": "Merlin Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.clutch.security/",
+    "Industry": "AI",
+    "Last Round": "Series A",
+    "Team Size": "50 employees"
   },
   {
     "Name": "Feminai",
     "F6S URL": "https://www.f6s.com/company/feminai",
     "Tagline": "Self breast exam for every body.",
-    "Description": "",
+    "Description": "Self breast exam for every body. Feminai is an innovative healthcare startup on a mission to transform breast cancer screening.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$6M",
     "Investors": "Vertex Ventures Israel",
     "Team Members": "Karny",
-    "Website": ""
+    "Website": "https://www.feminai.com/",
+    "Industry": "Healthcare",
+    "Last Round": "Seed"
   },
   {
     "Name": "Rapid Medical",
     "F6S URL": "https://www.f6s.com/company/rapid-medical",
     "Tagline": "EXPAND WHAT’S POSSIBLE IN NEUROVASCULAR THERAPY.",
-    "Description": "",
+    "Description": "Welcome · Our Therapies · Evidence · News & Events · About Us · Careers · Contact Us. HQ: +972-72-250-3331; US: +1-469-991-7712; info@rapid-medical.com.Missing:startupTelAviv",
     "Location": "Tel Aviv, Israel",
     "Founded": "2008",
-    "Funding": "",
+    "Funding": "$79M",
     "Investors": "BRM Group",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.rapid-medical.com/",
+    "Industry": "Biotech",
+    "Last Round": "Seed"
   },
   {
     "Name": "Zenity",
     "F6S URL": "https://www.f6s.com/company/zenity",
     "Tagline": "Secure AI Agents Everywhere.",
-    "Description": "",
+    "Description": "See all the latest career opportunities at Zenity, the leading security governance platform for securing AI Agents everywhere.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
     "Funding": "",
     "Investors": "UpWest Venture Capital",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://zenity.io/careers",
+    "Industry": "AI",
+    "Last Round": "Series B"
   },
   {
     "Name": "groundcover",
     "F6S URL": "https://www.f6s.com/company/groundcover",
     "Tagline": "Monitor everything you run on the cloud without compromising on cost.",
-    "Description": "",
+    "Description": "Dec 31, 2025 ·groundcoveris a series B company based inTelAviv(Israel), founded in 2021 by Yechezkel Rabinovich and Shahar Azulay. It operates as a Platform offering container monitoring software. groundcover has raised $60M in funding from Zeev Ventures.Groundcoveris a K8s application monitoring...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$60M",
     "Investors": "Jibe Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.groundcover.com/contact",
+    "Industry": "Software",
+    "Last Round": "Series B"
   },
   {
     "Name": "8fig",
     "F6S URL": "https://www.f6s.com/company/8fig",
     "Tagline": "Propelling ecommerce sellers through flexible funding & supply chain",
-    "Description": "",
+    "Description": "21 Oct 2025—The acquisition gives 8fig, which had previously raised $75 million, access to Bizcap's global capital and operational network.",
     "Location": "Tel Aviv, Israel",
-    "Founded": "",
+    "Founded": "2020",
     "Funding": "$240m",
     "Investors": "Koch Disruptive Technologies",
     "Team Members": "Kobi",
-    "Website": ""
+    "Website": "https://www.calcalistech.com/ctechnews/article/hjpzna4cxx",
+    "Industry": "Fintech",
+    "Team Size": "60 employees",
+    "Last Round": "Series A"
   },
   {
     "Name": "Backslash Security",
     "F6S URL": "https://www.f6s.com/company/backslash-security",
     "Tagline": "Fusing Code Security with Cloud-Native Context.",
-    "Description": "",
+    "Description": "IsraelistartupBackslashSecurityaims to create a safe environment for organizations to accelerate their adoption of “vibe coding” and AI-native software development. Thecompany’s solution provides visibility, control, andIts headquarters are located in the Sarona area ofTelAviv.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2022",
     "Funding": "$8m",
     "Investors": "StageOne Ventures",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://finder.startupnationcentral.org/company_page/backslash-security",
+    "Industry": "Software",
+    "Last Round": "Series A"
   },
   {
     "Name": "OneStep.co",
     "F6S URL": "https://www.f6s.com/company/onestep.co",
     "Tagline": "App-based digital physical therapy",
-    "Description": "",
+    "Description": "Tel Aviv, Israel. Area served. United States; Israel (primary markets). Key ... https://www.onestep.co. Contents. 1 History; 2 Activities and products; 3 ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$48M",
     "Investors": "Samsung NEXT Q Fund",
     "Team Members": "Patrick",
-    "Website": ""
+    "Website": "https://onestep.co.il/",
+    "Industry": "Healthcare",
+    "Last Round": "Series B",
+    "Founders": "Chief Scientific Officer Yuval Naveh",
+    "Team Size": "200 employees"
   },
   {
     "Name": "Oligo Security",
     "F6S URL": "https://www.f6s.com/company/oligo-security",
     "Tagline": "",
-    "Description": "",
+    "Description": "OligoSecurityhas been brought to life by some of the best minds in the world, working from our HQ inTelAvivand satellite offices in New York and Palo Alto. Our team of advisors and investors include industry visionaries with decades of experience growing world-class security companies.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$50.0M",
     "Investors": "Oren Buskila",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.oligo.security/company/about",
+    "Industry": "AI",
+    "Team Size": "25 employees",
+    "Last Round": "Series A"
   },
   {
     "Name": "LayerX Security",
     "F6S URL": "https://www.f6s.com/company/layerx-security",
     "Tagline": "LayerX secures browsers, making them protected and easily managed.",
-    "Description": "",
+    "Description": "Ask us anything We would be happy to discuss howLayerXcan help you take your enterprise security to the next level. Address Yigal Alon 112,TelAviv,Israel382 NE 191st St, Miami, Florida, US",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$11.0M",
     "Investors": "Jump Capital",
     "Team Members": "Or",
-    "Website": ""
+    "Website": "https://layerxsecurity.com/contact-us/",
+    "Industry": "SaaS",
+    "Last Round": "Series A"
   },
   {
     "Name": "CloudQuery",
     "F6S URL": "https://www.f6s.com/company/cloudquery",
     "Tagline": "Open source high-performance data integration platform for security & teams",
-    "Description": "",
+    "Description": "Jun 24, 2025 ·CloudQuery- About the companyCloudQueryis a series A company based inTelAviv(Israel), founded in 2021. It operates as a Cloud asset inventory management solutions provider.CloudQueryhas raised $34.5M in funding from investors like Tiger Global Management, Boldstart Ventures and Part...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$34.5M",
     "Investors": "Work-Bench",
     "Team Members": "Yevgeny",
-    "Website": ""
+    "Website": "https://www.cloudquery.io/blog/cloudquery-announces-16m-funding-round-to-solve-enterprise-cloud-visibility",
+    "Last Round": "Series A",
+    "Team Size": "50 employees",
+    "Industry": "Cybersecurity"
   },
   {
     "Name": "DreamTeam.app (Shapes)",
@@ -891,13 +1049,15 @@
     "Name": "Sentra.io",
     "F6S URL": "https://www.f6s.com/company/sentra.io",
     "Tagline": "Data Security Built for the Cloud.",
-    "Description": "",
+    "Description": "Can't find a relevant position? Have a question? Want to refer a friend? Email us at jobs@sentra.io ...",
     "Location": "Tel Aviv, Israel",
     "Founded": "2021",
     "Funding": "$15k",
     "Investors": "NetApp Excellerator Cohort #14",
     "Team Members": "Ron",
-    "Website": ""
+    "Website": "https://www.sentra.io/careers",
+    "Industry": "Cybersecurity",
+    "Last Round": "Series A"
   },
   {
     "Name": "Treeverse - the lakeFS creators",
@@ -909,7 +1069,8 @@
     "Funding": "",
     "Investors": "Maor Investments",
     "Team Members": "Oz",
-    "Website": ""
+    "Website": "https://theorg.com/org/treeverse/org-chart/einav-laviv",
+    "Industry": "Marketing/AdTech"
   },
   {
     "Name": "Cymulate",
@@ -918,22 +1079,26 @@
     "Description": "Cymulate helps companies to verify their security posture and controls through a breach and attack simulation platform that empowers organizations with complex security solutions to safeguard their business-critical assets. By mimicking the myriad of strategies hackers deploy, the system allows businesses to assess their true preparedness to handlecybersecurity threats effectively.",
     "Location": "Tel Aviv, Israel",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$141M",
     "Investors": "Susquehanna Growth Equity",
     "Team Members": "Itzik",
-    "Website": ""
+    "Website": "https://cymulate.com/news/",
+    "Industry": "SaaS",
+    "Last Round": "Series D"
   },
   {
     "Name": "Zyg",
     "F6S URL": "https://www.f6s.com/company/zyg",
     "Tagline": "ZyG drives eCommerce, turning products into brands with smart data and tech",
-    "Description": "",
+    "Description": "Where is Zyg 's headquarters? Zyg is located in Herzliya, Tel Aviv, Israel . Who invested in Zyg ? Zyg has 8 investors including Disruptive AI Venture ...Missing:startup| Show results with:startup",
     "Location": "Tel Aviv, Israel",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$58M",
     "Investors": "Disruptive VC",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://www.thesaasnews.com/news/zyg-secures-58-million-in-seed-round",
+    "Industry": "AI",
+    "Last Round": "Seed"
   },
   {
     "Name": "Tastewise Tech",
@@ -945,7 +1110,8 @@
     "Funding": "",
     "Investors": "TELUS Ventures",
     "Team Members": "Alon",
-    "Website": ""
+    "Website": "https://leadiq.com/c/tastewise/5b8bcaab1e00001486246d48",
+    "Last Round": "Series B"
   },
   {
     "Name": "Pecan AI",
