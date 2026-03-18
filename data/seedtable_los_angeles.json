@@ -73,7 +73,7 @@
   },
   {
     "Name": "Paragon (API workflow company)",
-    "Website": "",
+    "Website": "https://www.useparagon.com/",
     "Description": "Paragon is a company that has developed a platform that allows users to visually build production-ready API workflows and microservices.",
     "Industry": "No-code / low-code development, Low-code, Software as a service (SaaS)",
     "Founded": "",
@@ -165,7 +165,8 @@
     "Last Round": "",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$3.5M"
   },
   {
     "Name": "StartEngine",
@@ -225,7 +226,8 @@
     "Last Round": "Seed",
     "Founders": "Ben Jabbawy ***@privy.com",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$1.7M"
   },
   {
     "Name": "LeafLink",
@@ -285,7 +287,8 @@
     "Last Round": "Convertible",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Aetion",
@@ -333,7 +336,8 @@
     "Last Round": "Series C",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$6M"
   },
   {
     "Name": "Ordermark",
@@ -453,7 +457,8 @@
     "Last Round": "Series B",
     "Founders": "Dan Hanchey ***@nile.ai, Leo Petrossian ***@neuralanalytics.com",
     "Top Investors": "",
-    "Team Size": "66 employees"
+    "Team Size": "66 employees",
+    "Revenue": "$48M"
   },
   {
     "Name": "Tango",
@@ -477,7 +482,8 @@
     "Last Round": "Series C",
     "Founders": "Jonathan Zweig",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$10.5M"
   },
   {
     "Name": "Tradesy",
@@ -633,7 +639,8 @@
     "Last Round": "Seed",
     "Founders": "Boris Jarry",
     "Top Investors": "",
-    "Team Size": "9 employees"
+    "Team Size": "9 employees",
+    "Revenue": ""
   },
   {
     "Name": "Sensay",
@@ -681,7 +688,8 @@
     "Last Round": "Series B",
     "Founders": "Reichen Kuhl",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Soothe",

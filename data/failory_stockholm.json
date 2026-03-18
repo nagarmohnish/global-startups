@@ -9,7 +9,8 @@
     "Last Round": "Series A",
     "Team Size": "Lean Team (11-50)",
     "Founders": "Anton Osika, Fabian Hedin",
-    "Top Investors": "Evantic Capital, Accel, Antler, Creandum, The Twenty Minute VC"
+    "Top Investors": "Evantic Capital, Accel, Antler, Creandum, The Twenty Minute VC",
+    "Revenue": "$200M"
   },
   {
     "Name": "Tether",
@@ -393,7 +394,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "500 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$0.73B"
   },
   {
     "Name": "Ascilion",
@@ -405,7 +407,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$285M"
   },
   {
     "Name": "Greater Than",
@@ -501,7 +504,8 @@
     "Last Round": "Angel",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$212.58M"
   },
   {
     "Name": "Resolution Games",
@@ -513,7 +517,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1M"
   },
   {
     "Name": "Apica",
@@ -537,7 +542,8 @@
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$3M"
   },
   {
     "Name": "Lyvia Group",
@@ -549,7 +555,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Atlar",
@@ -585,7 +592,8 @@
     "Last Round": "Series A",
     "Team Size": "100+ employees",
     "Founders": "Kaveh Rostampor and Niklas Skog",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$33M"
   },
   {
     "Name": "Nimlas Group",
@@ -657,7 +665,8 @@
     "Last Round": "Secondary Market",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$30.1M"
   },
   {
     "Name": "Mindler",
@@ -717,7 +726,8 @@
     "Last Round": "Convertible Note",
     "Team Size": "11 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$9.11M"
   },
   {
     "Name": "Nrlyze",
@@ -741,7 +751,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$3.22K"
   },
   {
     "Name": "Hazelight",
@@ -765,7 +776,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Rebtel",
@@ -849,7 +861,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$18.8M"
   },
   {
     "Name": "Tiptapp",
@@ -909,6 +922,7 @@
     "Last Round": "Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$17.3M"
   }
 ]

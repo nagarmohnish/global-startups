@@ -3,7 +3,7 @@
     "Name": "Hulu",
     "Website": "https://www.builtinla.com/articles/hulu-los-angeles-tech-office-tour",
     "Description": "Hulu(/ ˈhuːluː /, HOO-loo) is an over-the-top content brand and American subscription streaming media service owned by Disney Streaming, a subsidiary of the Disney Entertainment segment of the Walt DisneyCompany. It is one of the most-subscribed video on demand streaming media services, with 64.1...",
-    "Industry": "",
+    "Industry": "Media",
     "Founded": "2007",
     "Funding": "$683M",
     "Last Round": "Undisclosed",
@@ -50,14 +50,15 @@
   {
     "Name": "Bloom Nutrition",
     "Website": "https://stockholm.startups-list.com/",
-    "Description": "",
+    "Description": "Bloom Nutrition | 126,698 followers on LinkedIn. Daily Wellness Reimagined️ ⚡️ Top-5 Energy Drink • #1 Greens in the U.S. • Inc. 5000Company• Ad Age Best Place to Work | After co ...",
     "Industry": "Social Media",
     "Founded": "2019",
     "Funding": "$90M",
     "Last Round": "Corporate Round",
     "Team Size": "Mid-Size Team (51-250)",
     "Founders": "Mari Llewellyn",
-    "Top Investors": "Nutrabolt, Amberstone Ventures, Clayton Christopher"
+    "Top Investors": "Nutrabolt, Amberstone Ventures, Clayton Christopher",
+    "Revenue": ""
   },
   {
     "Name": "Upwards",
@@ -93,7 +94,8 @@
     "Last Round": "Series D",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Ben Jacobs, Steven Eidelman",
-    "Top Investors": "BoxGroup, Founders Fund, BAM Ventures, Long Journey Ventures, True Ventures"
+    "Top Investors": "BoxGroup, Founders Fund, BAM Ventures, Long Journey Ventures, True Ventures",
+    "Revenue": "$100M"
   },
   {
     "Name": "FloQast",
@@ -105,7 +107,8 @@
     "Last Round": "Series E",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Cullen Zandstra, Mike Whitmire",
-    "Top Investors": "Norwest Venture Partners, Insight Partners, Sapphire Ventures, ICONIQ Growth, Redpoint"
+    "Top Investors": "Norwest Venture Partners, Insight Partners, Sapphire Ventures, ICONIQ Growth, Redpoint",
+    "Revenue": "$100.0M"
   },
   {
     "Name": "RentSpree",
@@ -129,7 +132,8 @@
     "Last Round": "Venture Round",
     "Team Size": "150 employees",
     "Founders": "Ryan Chan",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$22.4M"
   },
   {
     "Name": "Paragon",
@@ -141,7 +145,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$25.5M"
   },
   {
     "Name": "Jinx",
@@ -153,7 +158,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$100M"
   },
   {
     "Name": "Sunbit",
@@ -189,7 +195,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "VideoAmp",
@@ -225,7 +232,8 @@
     "Last Round": "—",
     "Team Size": "500 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.235B"
   },
   {
     "Name": "Ghost",
@@ -237,7 +245,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$21M"
   },
   {
     "Name": "Cosm",
@@ -273,7 +282,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$10.5M"
   },
   {
     "Name": "Papaya",
@@ -333,7 +343,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$28.1M"
   },
   {
     "Name": "Elevate",
@@ -345,7 +356,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$456.5M"
   },
   {
     "Name": "FLY BY JING",
@@ -381,7 +393,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "Shawn Fanning and Shaun Parker",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$111.1M"
   },
   {
     "Name": "Goop",
@@ -405,7 +418,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "Cory Klippsten",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$16.9M"
   },
   {
     "Name": "Crexi",
@@ -441,7 +455,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$17M"
   },
   {
     "Name": "FOX Sports",
@@ -513,7 +528,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$350M"
   },
   {
     "Name": "Landng",
@@ -573,7 +589,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "400+ employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$251.3M"
   },
   {
     "Name": "Embrace",
@@ -609,7 +626,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$12.6M"
   },
   {
     "Name": "Nota",
@@ -621,7 +639,8 @@
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$391B"
   },
   {
     "Name": "Mundial Media",
@@ -693,7 +712,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "Daina Trout",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$84.4M"
   },
   {
     "Name": "Trellis Research",
@@ -705,7 +725,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "Nicole Clark",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$6M"
   },
   {
     "Name": "Talus Network",
@@ -741,7 +762,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$120.0M"
   },
   {
     "Name": "Mosh",
@@ -801,7 +823,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "Peyton Manning and Jamie Horowitz",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Pluto TV",
@@ -813,7 +836,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "Tom Ryan",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1B"
   },
   {
     "Name": "CarbonCapture",
@@ -837,7 +861,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "Cassandra Grey",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$8.3M"
   },
   {
     "Name": "Wave",
@@ -849,7 +874,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$5M"
   },
   {
     "Name": "United We Care",
@@ -861,7 +887,8 @@
     "Last Round": "Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$82.5K"
   },
   {
     "Name": "SpectrumAi",
@@ -885,7 +912,8 @@
     "Last Round": "Undisclosed",
     "Team Size": "8 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.75M"
   },
   {
     "Name": "Our Place",
@@ -945,7 +973,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$14.7M"
   },
   {
     "Name": "DRESSX",
@@ -1005,7 +1034,8 @@
     "Last Round": "Secondary Market",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$351.8M"
   },
   {
     "Name": "STAUD",
@@ -1065,7 +1095,8 @@
     "Last Round": "Seed",
     "Team Size": "",
     "Founders": "Joe Tsai",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$10.5M"
   },
   {
     "Name": "Skylar",
@@ -1137,7 +1168,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Khloud",
@@ -1185,6 +1217,7 @@
     "Last Round": "Series B",
     "Team Size": "50 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$56.4B"
   }
 ]

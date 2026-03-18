@@ -9,7 +9,8 @@
     "Last Round": "Series B",
     "Team Size": "Mid-Size Team (51-250)",
     "Founders": "Kevin Sartori, Lorenz Meier",
-    "Top Investors": "Bessemer Venture Partners, Lakestar, Costanoa Ventures, U.S. Department of Defense, Mosaic Ventures"
+    "Top Investors": "Bessemer Venture Partners, Lakestar, Costanoa Ventures, U.S. Department of Defense, Mosaic Ventures",
+    "Revenue": "$27.2M"
   },
   {
     "Name": "ANYbotics",
@@ -39,7 +40,7 @@
     "Name": "Climeworks",
     "Website": "https://climeworks.com/",
     "Description": "Climeworks AG is a Swiss company specializing in direct air capture and sequestration (DACCS) technology. The company's plants filter CO 2 directly from the ...History and structureMajor projectsReception and certification",
-    "Industry": "",
+    "Industry": "ClimateTech",
     "Founded": "2009",
     "Funding": "$946.1M",
     "Last Round": "Private Equity",
@@ -99,7 +100,7 @@
     "Name": "Loft Dynamics",
     "Website": "https://www.vestbee.com/insights/articles/loft-dynamics-secures-24-m",
     "Description": "Loft Dynamics is a Swiss aviation simulation and training company based in Dübendorf, a suburb of Zurich. It was established in 2016 by Fabi Riesen, ...History2022202320242025Leadership",
-    "Industry": "",
+    "Industry": "AR/VR",
     "Founded": "2016",
     "Funding": "$53.3M",
     "Last Round": "Series B",
@@ -129,7 +130,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$22.4M"
   },
   {
     "Name": "Squirro",
@@ -153,7 +155,8 @@
     "Last Round": "Venture Round",
     "Team Size": "250 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$200M"
   },
   {
     "Name": "Hitachi Energy",
@@ -165,7 +168,8 @@
     "Last Round": "Grant",
     "Team Size": "000 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$22.4B"
   },
   {
     "Name": "GenTwo",
@@ -177,7 +181,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$15.3M"
   },
   {
     "Name": "DeepJudge",
@@ -225,7 +230,8 @@
     "Last Round": "—",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$6.1M"
   },
   {
     "Name": "Verity",
@@ -261,7 +267,8 @@
     "Last Round": "Equity Crowdfunding",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$567.1M"
   },
   {
     "Name": "Scandit",
@@ -405,7 +412,8 @@
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Fu-Gen",
@@ -489,7 +497,8 @@
     "Last Round": "Series A",
     "Team Size": "50 employees",
     "Founders": "Alessandro Ofner and Michael Hagander",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Rivia",

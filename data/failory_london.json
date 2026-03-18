@@ -21,7 +21,8 @@
     "Last Round": "Series C",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Akis Evangelidis, Carl Pei, David Sanmartin Garcia",
-    "Top Investors": "EQT Ventures, Quiet Capital, Tiger Global Management, Highland Europe, Tapestry VC"
+    "Top Investors": "EQT Ventures, Quiet Capital, Tiger Global Management, Highland Europe, Tapestry VC",
+    "Revenue": "$200M"
   },
   {
     "Name": "Tide",
@@ -33,7 +34,8 @@
     "Last Round": "Private Equity",
     "Team Size": "Major Organization (1,001-5,000)",
     "Founders": "George Bevis",
-    "Top Investors": "TPG, Speedinvest, LocalGlobe, Creandum, Goodwater Capital"
+    "Top Investors": "TPG, Speedinvest, LocalGlobe, Creandum, Goodwater Capital",
+    "Revenue": "$824.9M"
   },
   {
     "Name": "Checkout.com",
@@ -57,7 +59,8 @@
     "Last Round": "Secondary Market",
     "Team Size": "Major Organization (1,001-5,000)",
     "Founders": "Gary Dolman, Jason Bates, Jonas Huckestein, Paul Rippon, Tom Blomfield",
-    "Top Investors": "General Catalyst, Accel, Stripe, HSG, Y Combinator"
+    "Top Investors": "General Catalyst, Accel, Stripe, HSG, Y Combinator",
+    "Revenue": "$1B"
   },
   {
     "Name": "Signal AI",
@@ -81,7 +84,8 @@
     "Last Round": "Seed",
     "Team Size": "Lean Team (11-50)",
     "Founders": "Anthony Meir, Chaitanya Shah, Jon Carr-Harris",
-    "Top Investors": "Gaingels, Alumni Ventures, Defy.vc, HOF Capital, BAM Ventures"
+    "Top Investors": "Gaingels, Alumni Ventures, Defy.vc, HOF Capital, BAM Ventures",
+    "Revenue": "$6.1M"
   },
   {
     "Name": "Attio",
@@ -321,7 +325,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$946.5M"
   },
   {
     "Name": "Flo Health",
@@ -350,19 +355,20 @@
   {
     "Name": "TerraPay",
     "Website": "https://terrapay.com/",
-    "Description": "",
+    "Description": "6 days ago ·TerraPayis an acquiredcompanybased inLondon(United Kingdom), founded in 2014 by Ambar Sur, Ram Sundaram and Ani Sane. It operates as an Omnichannel payment solution for cross-border money transfers.TerraPayhas raised $100M in funding from IFC. Thecompanyhas 36 active competitors, incl...",
     "Industry": "Fintech",
     "Founded": "2014",
     "Funding": "$259.1M",
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$426.4M"
   },
   {
     "Name": "Granola",
     "Website": "https://www.granola.so/",
-    "Description": "",
+    "Description": "Feb 12, 2026 ·Granola- About thecompanyGranolais a series Bcompanybased inLondon(United Kingdom), founded in 2023 by Sam Stephenson. It operates as a Developer of an AI-powered tool for automated meeting note taking.Granolahas raised $67.2M in funding from investors like Lightspeed Venture Partne...",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$67.3M",
@@ -374,19 +380,20 @@
   {
     "Name": "Multiverse",
     "Website": "https://www.multiverse.io/",
-    "Description": "",
+    "Description": "Multiverse is a British educational technology company founded in 2016 by Euan Blair and Sophie Adelman. Based in London, United Kingdom, the company ...",
     "Industry": "AI",
     "Founded": "2016",
     "Funding": "$419M",
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$211.3M"
   },
   {
     "Name": "Lighthouse",
     "Website": "https://www.mylighthouse.com/",
-    "Description": "",
+    "Description": "Lighthouse transforms complexity into confidence with actionable insights, business intelligence & pricing solutions that maximize revenue.",
     "Industry": "Analytics",
     "Founded": "2012",
     "Funding": "$470M",
@@ -398,19 +405,20 @@
   {
     "Name": "GSMA",
     "Website": "https://www.gsma.com/",
-    "Description": "",
+    "Description": "The GSM Association (GSMA) is the advocacy and lobbying organization for the mobile communications industry, representing more than 750 mobile operators as ...",
     "Industry": "Hardware",
     "Founded": "1982",
     "Funding": "£38M",
     "Last Round": "Grant",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$157.9M"
   },
   {
     "Name": "Tern Group",
     "Website": "http://www.tern-group.com/",
-    "Description": "",
+    "Description": "Sep 10, 2025 ·Founded in 2023,TERN Groupis a global talent mobility platform building a Clinical AI Workforce system. Operating across India, Germany, theUK, the GCC, and Japan,TERN Groupaims to help healthcare providers hire faster, more compliantly, and at scale, while ensuring professionals be...",
     "Industry": "Healthcare",
     "Founded": "2023",
     "Funding": "$33M",
@@ -422,7 +430,7 @@
   {
     "Name": "Vinted",
     "Website": "http://vinted.com/",
-    "Description": "",
+    "Description": "Vinted is the leading second-hand fashion marketplace in Europe and a go-to destination for all kinds of second-hand items. According to the company, its ...",
     "Industry": "Retail",
     "Founded": "2008",
     "Funding": "$984.7M",
@@ -434,7 +442,7 @@
   {
     "Name": "SurrealDB",
     "Website": "https://surrealdb.com/",
-    "Description": "",
+    "Description": "SurrealDB is the multi-model database for AI agents and modern applications. Simplify your stack with documents, graphs, vectors, and real-time queries in ...",
     "Industry": "Data",
     "Founded": "2021",
     "Funding": "$26M",
@@ -446,7 +454,7 @@
   {
     "Name": "Quantum Motion",
     "Website": "http://www.quantummotion.tech/",
-    "Description": "",
+    "Description": "12 Nov 2025—Quantum Motion is a London-based quantum computing company pioneering a silicon-based approach to building scalable quantum computers...",
     "Industry": "Hardware",
     "Founded": "2017",
     "Funding": "£50M",
@@ -458,7 +466,7 @@
   {
     "Name": "Minute Media",
     "Website": "http://www.minutemedia.com/",
-    "Description": "",
+    "Description": "We're a global media company with O&O editorial brands across a multitude of genres, online video player & publishing platform | Minute Media.",
     "Industry": "Marketing",
     "Founded": "2011",
     "Funding": "$260M",
@@ -489,7 +497,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$21M"
   },
   {
     "Name": "Copper",
@@ -501,7 +510,8 @@
     "Last Round": "Undisclosed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$85.2M"
   },
   {
     "Name": "Cytora",
@@ -561,7 +571,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$8.4M"
   },
   {
     "Name": "TrueLayer",
@@ -693,12 +704,13 @@
     "Last Round": "—",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$85M"
   },
   {
     "Name": "PerfectTed",
     "Website": "https://www.perfectted.com/",
-    "Description": "",
+    "Description": "Jun 19, 2025 ·AboutPerfectTedFounded inLondonin 2021 and backed by Entrepreneur and investor Steven Bartlett,PerfectTedproduces plant-powered matcha energy drinks and powders designed to give consumers a clean caffeine alternative. Thecompanyemploys 30 people and is headquartered in Steven Bartle...",
     "Industry": "Retail",
     "Founded": "2020",
     "Funding": "$9.3M",
@@ -741,7 +753,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$84M"
   },
   {
     "Name": "MUBI",
@@ -861,7 +874,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$682M"
   },
   {
     "Name": "Capital.Com",
@@ -873,7 +887,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$6M"
   },
   {
     "Name": "Ebury",
@@ -885,7 +900,8 @@
     "Last Round": "Venture Round",
     "Team Size": "170 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$618.7M"
   },
   {
     "Name": "Yaspa",
@@ -969,7 +985,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$71.6M"
   },
   {
     "Name": "Seabound",
@@ -1041,7 +1058,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "Alyx Van Der Vorm",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$13B"
   },
   {
     "Name": "Netomnia",
@@ -1065,7 +1083,8 @@
     "Last Round": "Series E",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.1B"
   },
   {
     "Name": "Berenberg",
@@ -1113,7 +1132,8 @@
     "Last Round": "Series D",
     "Team Size": "11 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$140M"
   },
   {
     "Name": "GoodFit",

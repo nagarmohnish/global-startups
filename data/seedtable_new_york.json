@@ -21,7 +21,8 @@
     "Last Round": "Seed",
     "Founders": "Narasimha Suda",
     "Top Investors": "",
-    "Team Size": "38 employees"
+    "Team Size": "38 employees",
+    "Revenue": "$5M"
   },
   {
     "Name": "Jupiter Exchange",
@@ -37,7 +38,7 @@
   },
   {
     "Name": "Forge",
-    "Website": "",
+    "Website": "https://www.forgestartups.com/",
     "Description": "Forge, formerly Equidate, is a company that offers a marketplace for private stock liquidation.",
     "Industry": "Finance, Financial services, Marketplace",
     "Founded": "",
@@ -69,7 +70,8 @@
     "Last Round": "Series F",
     "Founders": "Ben Darnell",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$145.8M"
   },
   {
     "Name": "Augury",
@@ -105,7 +107,8 @@
     "Last Round": "Seed",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$19M"
   },
   {
     "Name": "Praxis Society",
@@ -201,7 +204,8 @@
     "Last Round": "Series C",
     "Founders": "Evan Goldenberg",
     "Top Investors": "",
-    "Team Size": "300+ employees"
+    "Team Size": "300+ employees",
+    "Revenue": "$51M"
   },
   {
     "Name": "Kalshi",
@@ -429,7 +433,8 @@
     "Last Round": "Series A",
     "Founders": "Ari Meilich",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Yewno",
@@ -453,7 +458,8 @@
     "Last Round": "Seed",
     "Founders": "Mohamed Altantawy Twitter",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$5M"
   },
   {
     "Name": "Branch (finance company)",
@@ -657,7 +663,8 @@
     "Last Round": "Series F",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$52M"
   },
   {
     "Name": "Sure",
@@ -789,7 +796,8 @@
     "Last Round": "Series A",
     "Founders": "Devin Daly, Steven Saporta",
     "Top Investors": "",
-    "Team Size": "43 employees"
+    "Team Size": "43 employees",
+    "Revenue": "$14.00M"
   },
   {
     "Name": "Payfone",

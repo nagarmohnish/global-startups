@@ -273,7 +273,8 @@
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "110 employees"
+    "Team Size": "110 employees",
+    "Revenue": ""
   },
   {
     "Name": "ALE Co., Ltd",
@@ -345,7 +346,8 @@
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Healios",
@@ -381,7 +383,8 @@
     "Last Round": "",
     "Founders": "Koichi Nakayama, Koji Kuchiishi",
     "Top Investors": "",
-    "Team Size": "2 employees"
+    "Team Size": "2 employees",
+    "Revenue": "$5.6M"
   },
   {
     "Name": "Spike",
@@ -597,7 +600,8 @@
     "Last Round": "Seed",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "EmbodyMe",
@@ -673,7 +677,7 @@
   },
   {
     "Name": "Heroz Japan",
-    "Website": "",
+    "Website": "https://heroz.co.jp/",
     "Description": "HEROZ Japan is an AI company focused on development of Japanese Chess.",
     "Industry": "Artificial Intelligence (AI), Technology",
     "Founded": "",

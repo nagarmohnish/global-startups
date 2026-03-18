@@ -57,7 +57,8 @@
     "Last Round": "Seed",
     "Founders": "Assaf Hefetz (businessman), Guy Podjarny",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$278M"
   },
   {
     "Name": "Sky Engine AI",
@@ -153,7 +154,8 @@
     "Last Round": "Seed",
     "Founders": "Manish Bardolia, Scott Askew",
     "Top Investors": "",
-    "Team Size": "139 employees"
+    "Team Size": "139 employees",
+    "Revenue": "$7M"
   },
   {
     "Name": "Wise",
@@ -201,7 +203,8 @@
     "Last Round": "Series B",
     "Founders": "Stan Bokov, Denis Globa",
     "Top Investors": "",
-    "Team Size": "565 employees"
+    "Team Size": "565 employees",
+    "Revenue": "$64M"
   },
   {
     "Name": "Currency.com",
@@ -297,7 +300,8 @@
     "Last Round": "Series A",
     "Founders": "Jack Smith, Zain Jaffer",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$400M"
   },
   {
     "Name": "Aztec",
@@ -349,7 +353,7 @@
   },
   {
     "Name": "Outreach",
-    "Website": "",
+    "Website": "https://www.outreach.io/company/london",
     "Description": "Outreach is a sales engagement platform that uses artificial intelligence (AI) for predictive analytics as it relates to sales.",
     "Industry": "Technology, Communication, Enterprise",
     "Founded": "",
@@ -365,7 +369,7 @@
     "Description": "Carbon Analytics provides a SaaS platform solution designed to assess carbon emissions in companies' supply chains and generate actionable data that can be used to reduce emissions.",
     "Industry": "Sustainability, Analytics, Software as a service (SaaS)",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$106.2K",
     "Last Round": "Grant",
     "Founders": "Greg FitzGerald, Michael Thornton, Colin MacLaughlin",
     "Top Investors": "",
@@ -561,7 +565,8 @@
     "Last Round": "",
     "Founders": "Gregg Sando",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Talos Trading",
@@ -645,7 +650,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "70 employees"
+    "Team Size": "70 employees",
+    "Revenue": ""
   },
   {
     "Name": "Parity",

@@ -45,7 +45,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "SolidEnergy Systems",
@@ -69,7 +70,8 @@
     "Last Round": "",
     "Founders": "James Yang",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$2.173B"
   },
   {
     "Name": "IceKredit",
@@ -249,7 +251,8 @@
     "Last Round": "Series B",
     "Founders": "Zheren Hu, Hui Lin ***.***@liulishuo.com",
     "Top Investors": "",
-    "Team Size": "000 employees"
+    "Team Size": "000 employees",
+    "Revenue": "$154.1M"
   },
   {
     "Name": "Shanghai Gingkoo Financial Information Co.,Ltd.",
@@ -381,7 +384,8 @@
     "Last Round": "Ipo",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "The CareVoice",
@@ -421,7 +425,7 @@
   },
   {
     "Name": "Hello TransTech",
-    "Website": "",
+    "Website": "https://www.tipranks.com/private-companies/pc:heltr",
     "Description": "A company, formerly known as HelloBike, making smart-sharing bikes in China.",
     "Industry": "Sharing economy, Travel, Software",
     "Founded": "",
@@ -433,7 +437,7 @@
   },
   {
     "Name": "WM Motor",
-    "Website": "",
+    "Website": "https://www.electrive.com/2025/09/10/chinese-electric-car-manufacturer-wm-motor-plans-comeback/",
     "Description": "WM Motor is a Chinese company that designs, manufactures, and markets battery-operated electric vehicles",
     "Industry": "Sustainable transport, Electric vehicle, Automotive industry",
     "Founded": "",
@@ -501,7 +505,8 @@
     "Last Round": "Ipo",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$23B"
   },
   {
     "Name": "Montage Technology",
@@ -537,7 +542,8 @@
     "Last Round": "Ipo",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "ThinkForce",
@@ -561,7 +567,8 @@
     "Last Round": "Series E",
     "Founders": "Fu Cairui",
     "Top Investors": "",
-    "Team Size": "840 employees"
+    "Team Size": "840 employees",
+    "Revenue": "$372.3M"
   },
   {
     "Name": "Zhangmen",
@@ -621,7 +628,8 @@
     "Last Round": "",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "4 employees"
+    "Team Size": "4 employees",
+    "Revenue": ""
   },
   {
     "Name": "Anhui Cowarobot Co., Ltd.",

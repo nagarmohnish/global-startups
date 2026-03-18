@@ -21,7 +21,7 @@
     "Description": "AI Singapore and Firmus Technologies partner to advance sustainable AI infrastructure · 1. Access to Singapore's fastest, most advanced GPUs · 2. Deployment of ...",
     "Location": "Singapore, Singapore",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$950M",
     "Investors": "Coatue",
     "Team Members": "",
     "Website": "https://firmus.co/newsroom/AI-Singapore-and-Firmus-Technologies-partner-to-advance-sustainable-AI-infrastructure",
@@ -67,7 +67,8 @@
     "Team Members": "",
     "Website": "https://zelostech.ai/autonomous-delivery-vehicles-enter-households-how-zelostech-is-reshaping-the-logistics-ecosystem/",
     "Industry": "Logistics",
-    "Last Round": "Series B"
+    "Last Round": "Series B",
+    "Revenue": "$53.4M"
   },
   {
     "Name": "Princeton Digital Group",
@@ -151,7 +152,8 @@
     "Team Members": "Pritam",
     "Website": "https://finance.yahoo.com/news/zoth-expands-chain-trade-finance-121500616.html",
     "Industry": "Blockchain",
-    "Last Round": "Seed"
+    "Last Round": "Seed",
+    "Revenue": "$5.2M"
   },
   {
     "Name": "Avalanche.",
@@ -207,7 +209,8 @@
     "Team Members": "",
     "Website": "https://www.advancegroup.com/",
     "Industry": "Fintech",
-    "Last Round": "Series E"
+    "Last Round": "Series E",
+    "Revenue": "$16.3M"
   },
   {
     "Name": "Qapita",
@@ -230,7 +233,7 @@
     "Description": "Transcelestial’s quest for global connectivity is partly culminated in Centauri, which is our mass-produced network device which leverages our proprietary Wireless Fibre Optics Technology to create a wireless distribution network between buildings, traditional cell towers, street-level poles and other physical infrastructure. The size of a shoebox and weighing less than 3kg, Centauri can deliver true fibre-like speeds to customers at fraction of the cost of traditional fibre. There are two versions of devices available - 1 Gbps Full Duplex (4G & Enterprise ready) and 10 Gbps Full Duplex (5G-re...",
     "Location": "Singapore, Singapore",
     "Founded": "2016",
-    "Funding": "",
+    "Funding": "$10M",
     "Investors": "SEEDS Capital",
     "Team Members": "Vivian",
     "Website": "https://transcelestial.com/",
@@ -250,7 +253,8 @@
     "Team Members": "Udayan",
     "Website": "https://www.sgpbusiness.com/company/Tricog-Health-Pte-Ltd",
     "Industry": "Fintech",
-    "Last Round": "Series B"
+    "Last Round": "Series B",
+    "Revenue": "$3.79M"
   },
   {
     "Name": "CARRO (carro.co)",
@@ -357,7 +361,7 @@
     "Description": "Supermom for Business is an AI-driven data powerhouse that brings mission-centric brands into the hearts and wallets of discerning parents in Southeast Asia. Connecting brands to what consumers want when they want it, Supermom helps win minds and market shares with extraordinary speed.",
     "Location": "Singapore, Singapore",
     "Founded": "2015",
-    "Funding": "",
+    "Funding": "$14M",
     "Investors": "Qualgro",
     "Team Members": "",
     "Website": "https://technode.global/2024/06/11/singapores-supermom-projects-100-percent-revenue-growth-in-2024-amid-expansion-plans/",
@@ -389,7 +393,9 @@
     "Investors": "Cool Japan Fund",
     "Team Members": "Iwan and Kelvin",
     "Website": "https://moneylive-insights.com/sponsors/funding-societies/",
-    "Last Round": "Series B"
+    "Last Round": "Series B",
+    "Industry": "Platform",
+    "Revenue": "$63M"
   },
   {
     "Name": "Airalo",
@@ -412,7 +418,7 @@
     "Description": "Its holding company is Singapore-based Tonik Financial Pte Ltd. Tonik Bank. Industry. Financial services · Banking. Founded, March 18, 2021; 4 years ago (2021 ...",
     "Location": "Singapore, Singapore",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$187M",
     "Investors": "Plio Limited",
     "Team Members": "",
     "Website": "https://www.finastra.com/press-media/tonik-achieves-record-growth-and-innovation-milestones-finastras-essence-software",
@@ -469,7 +475,7 @@
     "Description": "RockFlowis an AI fintechcompanybased inSingapore, committed to delivering all-in-one investment and financial services across multiple markets and assets to young investors globally.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$20M",
     "Investors": "Monolith Management",
     "Team Members": "",
     "Website": "https://rockflow.ai/about",
@@ -512,12 +518,13 @@
     "Description": "OleaGlobalPte.Ltd. (“Olea”), a leading digital trade finance platform, announced support for real-time stablecoin payments via Circle’s USDC across Olea’s global trade network",
     "Location": "Singapore, Singapore",
     "Founded": "2003",
-    "Funding": "",
+    "Funding": "$30M",
     "Investors": "Banco Bilbao Vizcaya Argentaria (BBVA)",
     "Team Members": "",
     "Website": "https://olea.net/",
     "Industry": "Payments/Fintech",
-    "Last Round": "Series A"
+    "Last Round": "Series A",
+    "Revenue": "$377K"
   },
   {
     "Name": "SMC - Sustainable Metal Cloud",
@@ -643,7 +650,8 @@
     "Team Members": "Girish and Dan",
     "Website": "https://hoteltechreport.com/operations/hotel-management-software/zuzu-hospitality",
     "Industry": "Software",
-    "Last Round": "Angel"
+    "Last Round": "Angel",
+    "Revenue": "$7.19M"
   },
   {
     "Name": "Doctor Anywhere",
@@ -657,7 +665,8 @@
     "Team Members": "Xintian",
     "Website": "https://doctoranywhere.com/",
     "Industry": "Healthcare",
-    "Last Round": "Bridge"
+    "Last Round": "Bridge",
+    "Revenue": "$214.7M"
   },
   {
     "Name": "ShopBack",
@@ -709,7 +718,7 @@
     "Description": "... Future, Future Holdings 2002 Limited and the sellers named therein dated 30 October 2019 (as amended, modified, restated or supplemented from time to time) ...",
     "Location": "Singapore, Singapore",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$35M",
     "Investors": "TOBAM",
     "Team Members": "",
     "Website": "https://future.holdings",
@@ -736,7 +745,7 @@
     "Description": "18 Jun 2025—Multiplier Holdings, a technology company building AI-native professional services firms, publicly launched with $27.5 million in Seed and Series A funding.",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$77.2M",
     "Investors": "Ribbit Capital",
     "Team Members": "",
     "Website": "https://www.multiplierholdings.com/",
@@ -791,11 +800,13 @@
     "Description": "Offshore specialistYinson Productioneyes IPO, among other exit options for investors TheSingapore-basedcompanyis expanding into carbon capture and storage, while eyeing opportunities in Namibia",
     "Location": "Singapore, Singapore",
     "Founded": "1983",
-    "Funding": "",
+    "Funding": "$1B",
     "Investors": "RRJ Group",
     "Team Members": "Shamir",
     "Website": "https://www.yinson-production.com/our-business/",
-    "Last Round": "Debt"
+    "Last Round": "Debt",
+    "Industry": "Manufacturing",
+    "Revenue": "$1.2B"
   },
   {
     "Name": "Neon (neonglobal.com)",
@@ -817,7 +828,7 @@
     "Description": "Chocolate Financeis a brand of Chocfin Pte Ltd (UEN 202347190R). Chocfin Pte Ltd is licensed and regulated by the Monetary Authority ofSingapore(CMS101452) to perform fund management activities.",
     "Location": "Singapore, Singapore",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$34M",
     "Investors": "Nikko Asset Management Europe",
     "Team Members": "",
     "Website": "https://www.chocolatefinance.com/",
@@ -893,7 +904,9 @@
     "Team Members": "",
     "Website": "https://www.globalbankingandfinance.com/dora-factory-secures-10m-in-strategic-funding/",
     "Last Round": "Series A",
-    "Founders": "Calvin Liu"
+    "Founders": "Calvin Liu",
+    "Industry": "Infrastructure",
+    "Revenue": "$64.7M"
   },
   {
     "Name": "GoPlus Security",
@@ -990,7 +1003,8 @@
     "Investors": "CoinList.co",
     "Team Members": "Max, Sara and Oxana",
     "Website": "https://app.welcometothejungle.com/jobs/nDcMhW-7",
-    "Industry": "Automotive"
+    "Industry": "Automotive",
+    "Revenue": ""
   },
   {
     "Name": "StashAway",
@@ -1076,7 +1090,8 @@
     "Website": "https://www.straitstimes.com/asia/east-asia/spores-billion-dollar-biotech-firm-life-sciences-scholar-leads-start-up-to-list-in-hk",
     "Industry": "Biotech",
     "Last Round": "Ipo",
-    "Team Size": "10 employees"
+    "Team Size": "10 employees",
+    "Revenue": "$15.3M"
   },
   {
     "Name": "Livspace",
@@ -1199,7 +1214,7 @@
     "Description": "... apr.io. Ownership Status. Privately Held (backing). Financing Status. Venture Capital-Backed. Corporate Office. Singapore. ·. Primary Industry. Financial ...",
     "Location": "Singapore, Singapore",
     "Founded": "2023",
-    "Funding": "",
+    "Funding": "$28M",
     "Investors": "Big Brain Holdings",
     "Team Members": "",
     "Website": "https://usethebitcoin.com/airdrop/apriori-airdrop-guide/",
@@ -1213,7 +1228,7 @@
     "Description": "Also Known As Digital Edge DC. Operating Status Active. Company Type For ... company aims to bring new colocation and interconnect options to the Asian market, ...",
     "Location": "Singapore, Singapore",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$2.5B",
     "Investors": "Stonepeak",
     "Team Members": "",
     "Website": "https://www.dcbyte.com/company/digital-edge-dc/",
@@ -1231,7 +1246,8 @@
     "Investors": "Ant Group",
     "Team Members": "",
     "Website": "https://kr-asia.com/anext-bank-recognized-as-best-digital-bank-in-singapore",
-    "Industry": "Banking/Fintech"
+    "Industry": "Banking/Fintech",
+    "Revenue": ""
   },
   {
     "Name": "Initia Labs",
@@ -1327,12 +1343,13 @@
     "Description": "Developer of non-fungible token data aggregation platform designed to track, analyze and discover valuable NFTs. The company's platform uses a self-developed stable blockchain data collection engine to obtain the latest on-chain transaction data from the blockchain and parses it into readable NFT transaction and market data, enabling NFT project parties to accurately acquire customers, and helping users better obtain the new NFT market trends.",
     "Location": "Singapore, Singapore",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$4.0M",
     "Investors": "500 Global",
     "Team Members": "",
     "Website": "https://www.newsfilecorp.com/release/138098/NFTGo.io-Launches-RealTime-NFT-API-to-Help-Web3-Products-Scale",
     "Industry": "Data Analytics",
-    "Last Round": "Seed"
+    "Last Round": "Seed",
+    "Revenue": "$6.3M"
   },
   {
     "Name": "Oobit Technologies",
@@ -1390,7 +1407,8 @@
     "Website": "https://www.matrixport.com/uni",
     "Last Round": "Series C",
     "Industry": "Blockchain/Crypto",
-    "Founders": "Jihan Wu and Ge Yuesheng"
+    "Founders": "Jihan Wu and Ge Yuesheng",
+    "Revenue": "$149.5M"
   },
   {
     "Name": "Locad",

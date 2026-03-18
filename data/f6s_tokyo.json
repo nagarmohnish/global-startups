@@ -3,56 +3,62 @@
     "Name": "TimeTree Inc.",
     "F6S URL": "https://www.f6s.com/company/timetree-inc",
     "Tagline": "It's an app that helps coordinate and share calendars!",
-    "Description": "",
+    "Description": "Legal Name TimeTree, Inc. ... TimeTree keeps families and groups organized. It also helps manage busy lives while sharing calendars, events, and more!",
     "Founded": "2014",
     "Funding": "",
     "Investors": "Spotlight:",
     "Team Members": "Yasuto",
-    "Website": "https://www.timetreeapp.com/intl/en"
+    "Website": "https://www.timetreeapp.com/intl/en",
+    "Industry": "Delivery/Logistics"
   },
   {
     "Name": "forest Inc.",
     "F6S URL": "https://www.f6s.com/company/forest-inc",
     "Tagline": "Forest acquires tech-driven Amazon, Rakuten & D2C brands.",
-    "Description": "",
+    "Description": "Forest Co., Ltd. operates as an e-commerce aggregator, seeks to identify sustainable, high-quality products and brands that embrace the spirit ofJapanand help them grow and enter the global market by using the power of technology.",
     "Founded": "2021",
     "Funding": "",
     "Investors": "Headline VC (e.ventures)",
     "Team Members": "",
-    "Website": "https://www.forest-inc.jp/"
+    "Website": "https://www.forest-inc.jp/",
+    "Industry": "E-Commerce"
   },
   {
     "Name": "Interstellar Technologies Inc",
     "F6S URL": "https://www.f6s.com/company/interstellar-technologies-inc1",
     "Tagline": "Vertically integrating launch vehicle and satellites.",
-    "Description": "",
+    "Description": "InterstellarTechnologies, Inc. (Japanese: インターステラテクノロジズ（株）, Hepburn: Intāsutera Tekunorojizu (kabu)), or IST, is aJapaneseprivate spaceflightcompanyaiming to eventually build a launch vehicle for small satellites under 100 kg.",
     "Founded": "2013",
     "Funding": "$264.9k",
     "Investors": "MAKOTO inc.",
     "Team Members": "",
-    "Website": "https://www.istellartech.com/"
+    "Website": "https://www.istellartech.com/",
+    "Industry": "SpaceTech"
   },
   {
     "Name": "FactBase Inc",
     "F6S URL": "https://www.f6s.com/company/factbase-inc",
     "Tagline": "Creating an ordering platform where local factories play a leading role.",
-    "Description": "",
+    "Description": "Fact Base is headquartered inTokyo,Japan. What is the size of Fact Base? Fact Base has 190 total employees. What industry is Fact Base in? Fact Base’s primary industry isBusiness/Productivity Software. Is Fact Base a private or publiccompany? Fact Base is a Privatecompany. What is Fact Base’s cur...",
     "Founded": "2022",
     "Funding": "$6m",
     "Investors": "JAFCO Japan",
     "Team Members": "",
-    "Website": "https://fact-base.jp/"
+    "Website": "https://fact-base.jp/",
+    "Industry": "SaaS"
   },
   {
     "Name": "Manpuku Holdings",
     "F6S URL": "https://www.f6s.com/company/manpuku-holdings",
     "Tagline": "Food service business intended to energize Japan through food.",
-    "Description": "",
+    "Description": "How much funding hasManpuku Holdingsraised over time?Manpuku Holdingshas raised $40.9M. Who areManpuku Holdings’s investors? Aozora Corporate Investment, B Dash Ventures, Chishima Real Estate,JapanPost Insurance, and Mitsubishi-Kagaku Foods are 5 of 22 investors who have invested inManpuku Holdin...",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$40.9M",
     "Investors": "B Dash Ventures",
     "Team Members": "",
-    "Website": "https://manpuku-hd.jp/"
+    "Website": "https://manpuku-hd.jp/",
+    "Revenue": "",
+    "Industry": "Real Estate"
   },
   {
     "Name": "Luup, Inc.",
@@ -63,7 +69,8 @@
     "Funding": "",
     "Investors": "Resona Asset Management",
     "Team Members": "大輝 and Misato",
-    "Website": "https://luup.sc/"
+    "Website": "https://luup.sc/",
+    "Industry": "Mobility"
   },
   {
     "Name": "GITAI Inc.",
@@ -102,7 +109,8 @@
     "Investors": "W Fund",
     "Team Members": "",
     "Website": "https://utaite.co.jp/",
-    "Last Round": "Series B"
+    "Last Round": "Series B",
+    "Industry": "SpaceTech"
   },
   {
     "Name": "Gaudiy",
@@ -123,7 +131,7 @@
     "Tagline": "LegalOn Technologies, a global leader in legal AI for contracting.",
     "Description": "14 Oct 2025—SAN FRANCISCO (October 13, 2025) — LegalOn Technologies today announced it has surpassed ¥10 billion in annual recurring revenue (ARR), ...",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$50M",
     "Investors": "Goldman Sachs Alternatives",
     "Team Members": "",
     "Website": "https://legalontech.jp/",
@@ -153,7 +161,9 @@
     "Investors": "Design for Ventures (D4V)",
     "Team Members": "",
     "Website": "https://thirdverse.io/",
-    "Last Round": "Ipo"
+    "Last Round": "Ipo",
+    "Industry": "AR/VR",
+    "Revenue": "$339.9M"
   },
   {
     "Name": "Sharing Energy Co., Ltd.",
@@ -188,7 +198,7 @@
     "Tagline": "Space launch and in-orbit services company",
     "Description": "Space BD is a space services company providing: - Launch brokerage and integration (SpaceX F9, PSLV, Japanese flagship launchers) - In-orbit ...",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$31.6M",
     "Investors": "NVenture Capital",
     "Team Members": "",
     "Website": "https://satsearch.co/suppliers/space-bd",
@@ -267,7 +277,7 @@
     "Tagline": "IVRy builds voice AI SaaS to deliver top user experiences",
     "Description": "IVRy is a technology company that develops a cloud-based telephone interactive response service to maximize the value of human work.",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$57.9M",
     "Investors": "SMBC Venture Capital",
     "Team Members": "",
     "Website": "https://japanstartupobserver.substack.com/p/ivry-completes-series-d-fundraising",
@@ -319,7 +329,7 @@
     "Tagline": "Making the area more colorful through travel",
     "Description": "Where is Newmo headquartered? Newmo is headquartered in Tokyo, Japan. What is the size of Newmo? Newmo has 1,000 total employees.",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$137M",
     "Investors": "W Ventures",
     "Team Members": "",
     "Website": "https://www.mpower-partners.com/news/mpower-investment-newmo",
@@ -370,7 +380,7 @@
     "Name": "Sanu (sa-nu.com)",
     "F6S URL": "https://www.f6s.com/company/sanu-sa-nu.com",
     "Tagline": "Live with Nature. Delivering SANU 2nd Home in nature.",
-    "Description": "",
+    "Description": "Sanu (sa-nu.com) investorsJapanFinance Tochigi Bank Tochigi,JapanTokyoStar Bank Towa Bank Ltd. Yamanashi Chuo Bank See more",
     "Founded": "2019",
     "Funding": "$175M",
     "Investors": "Japan Finance",
@@ -410,7 +420,7 @@
     "Tagline": "Making the real world computable and creating the future together.",
     "Description": "Preferred NetworksInc. is a Japanesestartupfocused on the research and development of deep learning for IoT applications. Thecompanywas spun off from Preferred Infrastructure (PFI), founded by Toru Nishikawa, Daisuke Okanohara, and others on March 26, 2014.",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$13.5M",
     "Investors": "Sumitomo Mitsui Banking Corporation",
     "Team Members": "",
     "Website": "https://www.preferred.jp/en/company",
@@ -463,7 +473,7 @@
     "Tagline": "AI powered IP-Phone - Self-Coaching Tool for Sales, CS and Call Center",
     "Description": "\"RevComm\" is a self coaching tool with the conversation intelligence platform for B2B sales teams. It helps knowledge sharing and self coaching to increase revenue by shining the light on sales conversations. Also, it helps to reduce cost dramatically by eliminating onboarding/training cost and \"After Call Work\" with no device cost. We are the only company from Asia to be selected as \"Top 50 AI company in 2023\" by Forbes.",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$16.7M",
     "Investors": "TM Forum",
     "Team Members": "Roy and 雅子",
     "Website": "https://third-news.com/article/2f8b120e-82fb-11f0-87d2-9ca3ba0a67df",
@@ -476,7 +486,7 @@
     "Tagline": "Simple Form provides real-time information on all domestic corporations",
     "Description": "Founded in 2020 and based in Tokyo, Japan, SimpleForm, Inc., operates as a provider of solutions for automating financial and corporate survey processes.",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$16.9M",
     "Investors": "Angel Bridge",
     "Team Members": "",
     "Website": "https://www.preqin.com/data/profile/asset/simpleform--inc-/485099",
@@ -573,7 +583,8 @@
     "Team Members": "",
     "Website": "https://japan-dev.com/companies/synspective",
     "Last Round": "Series B",
-    "Industry": "Manufacturing"
+    "Industry": "Manufacturing",
+    "Revenue": "$2.38B"
   },
   {
     "Name": "Hacobu",
@@ -593,7 +604,7 @@
     "Tagline": "Insurance agent system focused on ease of use",
     "Description": "Founded in 2017 and headquartered in Tokyo, Japan, hokan, Inc. specializes in customer and contract management solutions for the insurance industry. The company ...",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$1.29M",
     "Investors": "Mitsui & Co. Ltd.",
     "Team Members": "Yokotsuka and Masashige",
     "Website": "https://www.preqin.com/data/profile/asset/hokan-inc-/268133",
@@ -606,7 +617,7 @@
     "Tagline": "Reclaim your health through regenerative medicine.",
     "Description": "Innovacell Inc is engaged in the development, manufacturing, and sale of regenerative medicine products for the treatment of conditions including fecal and ...",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$2.71M",
     "Investors": "Arcus Investment Limited",
     "Team Members": "",
     "Website": "https://www.marketwatch.com/investing/stock/504a/company-profile?countrycode=jp",
@@ -619,7 +630,7 @@
     "Tagline": "Update the construction industry with technology.",
     "Description": "Where is Polyuse headquartered? Polyuse is headquartered in Tokyo, Japan. What industry is Polyuse in? Polyuse's primary industry is Other Commercial Products.",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$23.7M",
     "Investors": "World Innovation Lab (WiL)",
     "Team Members": "",
     "Website": "https://www.j-startup.go.jp/en/startups/184-polyuse.html",
@@ -670,7 +681,7 @@
     "Tagline": "CAGUUU is a global online furniture and furnishings retailer",
     "Description": "CAGUUU General Information. Description. Operator of an online furniture and home goods platform designed to offer furnishings that enhance everyday living.",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$16M",
     "Investors": "X& VC",
     "Team Members": "",
     "Website": "https://www.caguuu.co.jp/company",
@@ -701,7 +712,8 @@
     "Team Members": "",
     "Website": "https://www.jx-nmm.com/english/company/history.html",
     "Industry": "Manufacturing",
-    "Last Round": "Ipo"
+    "Last Round": "Ipo",
+    "Revenue": "$218.10B"
   },
   {
     "Name": "SmartHR (smarthr.jp)",
@@ -709,7 +721,7 @@
     "Tagline": "Cloud-based solution designed to streamline HR and labor operations.",
     "Description": "Opens profile photo. 株式会社SmartHR.smarthr.co.jp. Joined February 2015.",
     "Founded": "2013",
-    "Funding": "",
+    "Funding": "$328M",
     "Investors": "Whole Rock",
     "Team Members": "",
     "Website": "https://smarthr.jp",
@@ -734,7 +746,7 @@
     "Tagline": "Empowering people with satellites for a prosperous future.",
     "Description": "ArkEdge Space is a spaceflight company focusing on the development and operation of small satellites. The company manufactures CubeSats and microsatellites ...",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$74M",
     "Investors": "for Startups Capital",
     "Team Members": "",
     "Website": "https://arkedgespace.com/en/about-us",
@@ -817,7 +829,8 @@
     "Funding": "$500k",
     "Investors": "Y Combinator",
     "Team Members": "Yo",
-    "Website": "https://tailor.tech"
+    "Website": "https://tailor.tech",
+    "Industry": "Software"
   },
   {
     "Name": "FerroptoCure",
@@ -865,12 +878,13 @@
     "Tagline": "Create a world where everyone can determine their future",
     "Description": "​",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$519M",
     "Investors": "Capital X Fund",
     "Team Members": "",
     "Website": "https://fintech.global/2024/02/03/japanese-fintech-deal-activity-sees-a-trend-defying-21-uptick-in-2023/",
     "Industry": "Fintech",
-    "Last Round": "Series D"
+    "Last Round": "Series D",
+    "Revenue": ""
   },
   {
     "Name": "LayerX",
@@ -891,7 +905,7 @@
     "Tagline": "All-in-one business and management of free medical care",
     "Description": "It is a SaaS that realizes all aspects of free medical treatment such as reservations, medical records, accounting, and CRM. We streamline operations and management and support clinic growth.",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$103M",
     "Investors": "Globis Capital Partners",
     "Team Members": "Tsubasa",
     "Website": "https://ecosystem.andorra-startup.com/companies/medical_force",
@@ -921,7 +935,8 @@
     "Team Members": "Kazuya",
     "Website": "https://www.doublejump.tokyo/en",
     "Industry": "Blockchain",
-    "Last Round": "Series C"
+    "Last Round": "Series C",
+    "Revenue": "$21M"
   },
   {
     "Name": "Contrea",
@@ -929,7 +944,7 @@
     "Tagline": "Providing peace of mind to everyone involved in medical care",
     "Description": "Contreais an It consulting firm that develops and operates tools that connects medical professionals and patients.Information on valuation, funding, cap tables, investors, and executives forContrea. Use the PitchBook Platform to explore the full profile.Contreafocuses on software development and ...",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$8.89M",
     "Investors": "Minna no Market",
     "Team Members": "",
     "Website": "https://www.contrea.jp/",
@@ -946,7 +961,8 @@
     "Investors": "Coral Capital",
     "Team Members": "",
     "Website": "https://fusionxinvest.com/company-profile/5551/kyoto-fusioneering/",
-    "Last Round": "Debt"
+    "Last Round": "Debt",
+    "Industry": "Deep Tech"
   },
   {
     "Name": "Enechain",
@@ -954,7 +970,7 @@
     "Tagline": "Enechain is a startup operating the largest energy marketplace in Japan.",
     "Description": "enechain is a startup operating the largest energy marketplace in Japan. See 2 open jobs at enechain on Japan Dev and apply today.",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$5.05B",
     "Investors": "Coreline Ventures",
     "Team Members": "",
     "Website": "https://japan-dev.com/companies/enechain",
@@ -971,7 +987,9 @@
     "Investors": "Japan Finance Corporation",
     "Team Members": "Yuya and Kateryna",
     "Website": "https://japan-dev.com/companies/axelspace",
-    "Last Round": "Ipo"
+    "Last Round": "Ipo",
+    "Industry": "SpaceTech",
+    "Revenue": "$20M"
   },
   {
     "Name": "Qoly",
@@ -1004,7 +1022,7 @@
     "Tagline": "Regulated industries face Resolve the problem.",
     "Description": "Shaperon Inc. is a provider of innovative solutions for the Japanese healthcare market. Our flagship product, Shaperon, is a SaaS messaging platform ...",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$6.64M",
     "Investors": "AGS Consulting",
     "Team Members": "",
     "Website": "https://shaperon-inc.com/",
@@ -1017,7 +1035,7 @@
     "Tagline": "Beyond human, beyond AI — towards a new form of intelligence.",
     "Description": "Third IntelligenceSoftware Development Chiyoda-ku,Tokyo212 followers Beyond human, beyond AI — towards a new form of intelligence.",
     "Founded": "2025",
-    "Funding": "",
+    "Funding": "$63.7M",
     "Investors": "MUFG Bank",
     "Team Members": "",
     "Website": "https://undercodenews.com/third-intelligence-secures-major-funding-valuation-climbs-to-30-million-as-japan-bets-on-homegrown-ai/",
@@ -1098,7 +1116,8 @@
     "Funding": "$37m",
     "Investors": "Mitsui & Co. Ltd.",
     "Team Members": "",
-    "Website": "https://www.rttnews.com/3478273/mitsui-to-buy-vestis-stake-in-aramark-uniform-services.aspx"
+    "Website": "https://www.rttnews.com/3478273/mitsui-to-buy-vestis-stake-in-aramark-uniform-services.aspx",
+    "Industry": "Payments/Fintech"
   },
   {
     "Name": "HQ,Inc",
@@ -1111,7 +1130,9 @@
     "Team Members": "",
     "Website": "https://www.preqin.com/data/profile/asset/hq-inc-/517662",
     "Team Size": "50 employees",
-    "Last Round": "Seed"
+    "Last Round": "Seed",
+    "Industry": "Marketing/AdTech",
+    "Revenue": "$595K"
   },
   {
     "Name": "Loglass",
@@ -1233,12 +1254,13 @@
     "Name": "Gift Mall",
     "F6S URL": "https://www.f6s.com/company/gift-mall",
     "Tagline": "E-commerce platform specializing in gift experiences that change society.",
-    "Description": "",
+    "Description": "15 Oct 2025—There are 27 Online Gifting startups in Japan which include giftee, Webpo, TANP, Nohana, Gift Mall. Out of these, 9 startups are funded, with 6 ...",
     "Founded": "2014",
     "Funding": "",
     "Investors": "SPARX Asset Management",
     "Team Members": "",
-    "Website": ""
+    "Website": "https://news.futunn.com/en/post/48975168/regarding-the-acquisition-of-shares-of-gift-mall-co-ltd",
+    "Industry": "PetTech"
   },
   {
     "Name": "Logomix",
@@ -1276,6 +1298,8 @@
     "Investors": "Goldman Sach Group",
     "Team Members": "",
     "Website": "https://www.corp-sansan.com/",
-    "Last Round": "Bridge"
+    "Last Round": "Bridge",
+    "Industry": "Social Media",
+    "Revenue": "$126.7M"
   }
 ]

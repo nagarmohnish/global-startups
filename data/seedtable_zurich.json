@@ -153,7 +153,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Kenjo",
@@ -189,7 +190,8 @@
     "Last Round": "Seed",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$36M"
   },
   {
     "Name": "Acodis",
@@ -333,7 +335,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "127 employees"
+    "Team Size": "127 employees",
+    "Revenue": "$36B"
   },
   {
     "Name": "Immunai",
@@ -441,7 +444,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "101 employees"
+    "Team Size": "101 employees",
+    "Revenue": "$9.9M"
   },
   {
     "Name": "Cerrion",
@@ -573,7 +577,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$10M"
   },
   {
     "Name": "Lightly",
@@ -609,7 +614,8 @@
     "Last Round": "Series C",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Nexxiot",
@@ -717,7 +723,8 @@
     "Last Round": "Series B",
     "Founders": "Franck Legendre, guuru",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$5.8M"
   },
   {
     "Name": "Xapo",
@@ -765,6 +772,7 @@
     "Last Round": "Seed",
     "Founders": "Sign up to access our full database, Enter your email and get access to 71,000 + technology companies you can partner with., Access 71k+ startups",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   }
 ]

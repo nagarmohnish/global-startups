@@ -69,7 +69,8 @@
     "Last Round": "Series C",
     "Team Size": "Enterprise Organization (5,001+)",
     "Founders": "—",
-    "Top Investors": "Hillhouse Investment, Walden International, China Capital Management, CICC, BOCOM International"
+    "Top Investors": "Hillhouse Investment, Walden International, China Capital Management, CICC, BOCOM International",
+    "Revenue": "$16B"
   },
   {
     "Name": "Blue Wave",
@@ -93,13 +94,14 @@
     "Last Round": "Seed",
     "Team Size": "Lean Team (11-50)",
     "Founders": "—",
-    "Top Investors": "Highlight Capital, Fortune Venture Capital, Shunwei Capital, China Internet Investment Fund, JD.com"
+    "Top Investors": "Highlight Capital, Fortune Venture Capital, Shunwei Capital, China Internet Investment Fund, JD.com",
+    "Revenue": "$59.6M"
   },
   {
     "Name": "Flower Knows",
     "Website": "https://flowerknows.co/?srsltid=AfmBOoqwSTPR_Xmzf4HyQatW50pm7JwAghSg0klZHnFI5griTxXqUz70",
     "Description": "Indulge in the romantic allure of Flower Knows, awakening your inner child through dream-inspired makeup and artistic crafting. Experience dreams on your ...",
-    "Industry": "",
+    "Industry": "Retail",
     "Founded": "2016",
     "Funding": "CN¥100M",
     "Last Round": "Series B",
@@ -129,7 +131,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$11.3M"
   },
   {
     "Name": "Surron",
@@ -153,7 +156,8 @@
     "Last Round": "—",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$131.52B"
   },
   {
     "Name": "Zhiyan Technology",
@@ -261,7 +265,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$485M"
   },
   {
     "Name": "Shengshi Technology",
@@ -285,7 +290,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "Li Shufu",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$52.3B"
   },
   {
     "Name": "DXY",
@@ -309,7 +315,8 @@
     "Last Round": "Series B",
     "Team Size": "204 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$15686M"
   },
   {
     "Name": "DTStack",
@@ -345,7 +352,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "Huang Xiaohuang, Chen Hang",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$350M"
   },
   {
     "Name": "Kanglin Biotech",
@@ -422,7 +430,7 @@
   {
     "Name": "Hangzhou DAC Biotech Co., Ltd",
     "Website": "http://www.dacbiotech.com/",
-    "Description": "",
+    "Description": "Hangzhou DAC Biotech Co., Ltd focuses on developing conjugate of monoclonal antibody and small molecular cytotoxic drugs.",
     "Industry": "Biotech",
     "Founded": "2012",
     "Funding": "CN¥1.1B",
@@ -434,7 +442,7 @@
   {
     "Name": "FreeTech",
     "Website": "https://www.autofreetech.com/",
-    "Description": "",
+    "Description": "27 Nov 2025—Freetech is a series B company based in Hangzhou (China), founded in 2016. It operates as a Supplier of ADAS & automotive active safety stems.",
     "Industry": "Mobility",
     "Founded": "2016",
     "Funding": "$204.4M",
@@ -446,7 +454,7 @@
   {
     "Name": "Hong Jing Drive",
     "Website": "http://www.hongjingdrive.com/",
-    "Description": "",
+    "Description": "Hong Jing Drive is a full-stack autonomous driving solution provider. Automatic driving computing platform, selection and layout of sensors.",
     "Industry": "AI",
     "Founded": "2018",
     "Funding": "$50.1M",
@@ -458,7 +466,7 @@
   {
     "Name": "Qihan Biotech",
     "Website": "http://www.qihanbio.com/",
-    "Description": "",
+    "Description": "Co-founded in 2017 by two pioneers in genome editing technology, Qihan Biotech has world-leading capabilities in multiplexable genome editing as well as ...",
     "Industry": "Biotech",
     "Founded": "2017",
     "Funding": "$116.3M",
@@ -470,7 +478,7 @@
   {
     "Name": "Zhongke Guosheng",
     "Website": "http://www.guoshengtech.com/sy",
-    "Description": "",
+    "Description": "Established in 2021 and based in Hangzhou, China, Zhongke Guosheng (Hangzhou) Technology is a biological technology company that focuses on design and ...",
     "Industry": "Manufacturing",
     "Founded": "2021",
     "Funding": "CN¥460M",
@@ -482,7 +490,7 @@
   {
     "Name": "Jing'an Technology",
     "Website": "https://www.jing-an.com/",
-    "Description": "",
+    "Description": "May 11, 2001 ·Jing'an Technologyis located inHangzhou, Zhejiang,China. Who invested inJing'an Technology?Jing'an Technologyhas 4 investors including Zhejiang Low-altitude Fund and Oriza Seed Capital (Oriza Yuandian). When was the last funding round forJing'an Technology?Jing'an Technologyclosed i...",
     "Industry": "Retail",
     "Founded": "2001",
     "Funding": "CN¥100M",
@@ -494,7 +502,7 @@
   {
     "Name": "Sciwind Biosciences",
     "Website": "http://www.sciwind.com.cn/",
-    "Description": "",
+    "Description": "Sciwind Biosciences Biotechnology ResearchHangzhou, Zhejiang 760 followers Sciwind Biosciences is a clinical-stage biopharmaceuticalcompanyfocusing on novel drug discovery for metabolic disease",
     "Industry": "Biotech",
     "Founded": "2017",
     "Funding": "$136.3M",
@@ -506,7 +514,7 @@
   {
     "Name": "Yunxi Technology",
     "Website": "http://www.dtyunxi.com/",
-    "Description": "",
+    "Description": "Yunxi Technology, intelligent digital service provider based in hangzhou. Here you'll find information about their funding, investors and team.",
     "Industry": "Cloud",
     "Founded": "2016",
     "Funding": "$194.1M",
@@ -518,7 +526,7 @@
   {
     "Name": "Wacai.com",
     "Website": "http://www.wacai.com/",
-    "Description": "",
+    "Description": "Frequently Asked Questions Where is Wacai.com's headquarters? Wacai.comis located inHangzhou, Zhejiang,China. Who invested in Wacai.com? Wacai.comhas 12 investors including Oriental Patron and Warburg Pincus. When was the last funding round for Wacai.com? Wacai.comclosed its last funding round on",
     "Industry": "Fintech",
     "Founded": "2009",
     "Funding": "$341.5M",
@@ -530,14 +538,15 @@
   {
     "Name": "AnHeart Therapeutics",
     "Website": "http://anhearttherapeutics.com/en/home",
-    "Description": "",
+    "Description": "AnHeartTherapeuticsis a developer of innovative pharmaceutical products. Thecompanyis focused on acquiring, developing and commercializing innovative pharmaceutical products that improve human health and quality of life.",
     "Industry": "Biotech",
     "Founded": "2018",
     "Funding": "$75.6M",
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "eSign",
@@ -597,7 +606,8 @@
     "Last Round": "Series C",
     "Team Size": "10 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$10.5M"
   },
   {
     "Name": "Huaboron Neutron",
@@ -621,7 +631,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$240M"
   },
   {
     "Name": "Haichang Biotech",
@@ -645,7 +656,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$61.9B"
   },
   {
     "Name": "terminus",
@@ -693,7 +705,8 @@
     "Last Round": "Series E",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$15.7M"
   },
   {
     "Name": "Healsun Biopharm",

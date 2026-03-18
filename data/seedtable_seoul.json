@@ -123,7 +123,8 @@
     "Location": "Seoul",
     "Founders": "Ilsu Park",
     "Top Investors": "",
-    "Team Size": "15 employees"
+    "Team Size": "15 employees",
+    "Revenue": ""
   },
   {
     "Name": "Lunit Inc.",
@@ -137,7 +138,8 @@
     "Location": "Seoul, South Korea",
     "Founders": "Jungin Lee Twitter",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$54.4M"
   },
   {
     "Name": "Visualase",
@@ -207,7 +209,8 @@
     "Location": "Seoul",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": "15 employees"
+    "Team Size": "15 employees",
+    "Revenue": "$5.9M"
   },
   {
     "Name": "Neosapience, Inc.",
@@ -585,7 +588,8 @@
     "Location": "Seoul",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$7.20M"
   },
   {
     "Name": "PharmCADD",
@@ -809,7 +813,8 @@
     "Location": "Seoul",
     "Founders": "Chul-Woo Kim",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Seoul Robotics",
@@ -851,7 +856,8 @@
     "Location": "Las Vegas, Seoul",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$12M"
   },
   {
     "Name": "KIWI PLUS Co., Ltd.",
@@ -879,7 +885,8 @@
     "Location": "Seoul, South Korea",
     "Founders": "Sanghoon Park, Wonsuk Chung, Chanhyuk Kim",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Daliworks",

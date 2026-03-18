@@ -7,7 +7,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.utils.dataframe import dataframe_to_rows
 
-COL_ORDER = ["Name","Website","Industry","Description","Founded","Funding","Last Round","Founders","Top Investors","Team Size"]
+COL_ORDER = ["Name","Website","Industry","Description","Founded","Funding","Revenue","Last Round","Founders","Top Investors","Team Size"]
 
 def normalize_name(name):
     n = name.lower().strip()
@@ -57,7 +57,7 @@ def format_sheet(ws, df):
                 cell.fill = alt_fill
     col_widths = {
         "Name": 25, "Website": 35, "Industry": 15, "Description": 55,
-        "Founded": 12, "Funding": 14, "Last Round": 18, "Founders": 40,
+        "Founded": 12, "Funding": 14, "Revenue": 14, "Last Round": 18, "Founders": 40,
         "Top Investors": 50, "Team Size": 25,
     }
     for col_num, col_name in enumerate(df.columns, 1):

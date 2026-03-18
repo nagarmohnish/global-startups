@@ -133,7 +133,7 @@
   },
   {
     "Name": "Medium",
-    "Website": "",
+    "Website": "https://medium.failfection.com/silicon-valley-a-story-of-failure-and-growth-2e22035be16d",
     "Description": "An online publishing platform used by amateur and professional writers. Membership fees are used to pay writers.",
     "Industry": "Blog, Publishing, Digital media",
     "Founded": "",
@@ -321,7 +321,8 @@
     "Last Round": "Seed",
     "Founders": "",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$500M"
   },
   {
     "Name": "Layer1",
@@ -409,7 +410,7 @@
   },
   {
     "Name": "Sightcall",
-    "Website": "",
+    "Website": "https://sightcall.com/about/",
     "Description": "Sightcall is a San Francisco-based company founded in 2008.",
     "Industry": "Customer experience, Cloud management, Cloud computing",
     "Founded": "",
@@ -765,7 +766,8 @@
     "Last Round": "Debt",
     "Founders": "Engin Akyol",
     "Top Investors": "",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$23.8M"
   },
   {
     "Name": "Deel",

@@ -57,7 +57,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Johannes Reck, Martin Sieber, Pascal Mathis, Tao Tao, Tobias Rein",
-    "Top Investors": "Citi, Temasek Holdings, Deutsche Bank, Battery Ventures, BNP Paribas"
+    "Top Investors": "Citi, Temasek Holdings, Deutsche Bank, Battery Ventures, BNP Paribas",
+    "Revenue": "$178.7M"
   },
   {
     "Name": "CoachHub",
@@ -93,7 +94,8 @@
     "Last Round": "Series A",
     "Team Size": "Lean Team (11-50)",
     "Founders": "Fabian Kamberi, Jannis Ringwald, Stefan Quernhorst",
-    "Top Investors": "Accel, Tencent, The Twenty Minute VC, Laton Ventures, Scribble Ventures"
+    "Top Investors": "Accel, Tencent, The Twenty Minute VC, Laton Ventures, Scribble Ventures",
+    "Revenue": "$355.3M"
   },
   {
     "Name": "Solsten",
@@ -129,7 +131,8 @@
     "Last Round": "Series G",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$96.6M"
   },
   {
     "Name": "Terra One",
@@ -153,7 +156,8 @@
     "Last Round": "Series F",
     "Team Size": "000 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$192.3M"
   },
   {
     "Name": "Foodpanda",
@@ -189,7 +193,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$288M"
   },
   {
     "Name": "Razor Group",
@@ -201,7 +206,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$135.6M"
   },
   {
     "Name": "Camunda",
@@ -237,7 +243,8 @@
     "Last Round": "Series B",
     "Team Size": "108 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$128.9M"
   },
   {
     "Name": "N26",
@@ -249,7 +256,8 @@
     "Last Round": "Series E",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$440M"
   },
   {
     "Name": "OneFootball",
@@ -297,7 +305,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$206.2M"
   },
   {
     "Name": "Blacklane",
@@ -309,7 +318,8 @@
     "Last Round": "Series G",
     "Team Size": "",
     "Founders": "Jens Wohltorf",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Buena",
@@ -405,7 +415,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$10M"
   },
   {
     "Name": "Apheris",
@@ -441,7 +452,8 @@
     "Last Round": "Venture Round",
     "Team Size": "500 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$63M"
   },
   {
     "Name": "Berlin Heals",
@@ -465,7 +477,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$136.5M"
   },
   {
     "Name": "Homeday",
@@ -477,7 +490,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$7.7M"
   },
   {
     "Name": "Simpleshow",
@@ -501,7 +515,8 @@
     "Last Round": "Series B",
     "Team Size": "251 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$24.9M"
   },
   {
     "Name": "emnify",
@@ -585,7 +600,8 @@
     "Last Round": "Series D",
     "Team Size": "250 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$83.5M"
   },
   {
     "Name": "uberall",
@@ -681,7 +697,8 @@
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$9.2B"
   },
   {
     "Name": "Langfuse",
@@ -705,7 +722,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$319M"
   },
   {
     "Name": "Urban Sports Club",
@@ -717,7 +735,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$65.1M"
   },
   {
     "Name": "Distribusion Technologies",
@@ -765,7 +784,8 @@
     "Last Round": "Private Equity",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$52.5M"
   },
   {
     "Name": "Finoa",
@@ -782,7 +802,7 @@
   {
     "Name": "k2-mobility",
     "Website": "https://www.panion.org/",
-    "Description": "",
+    "Description": "k2-mobility, Berlin, Germany, Seed, $4,000,000, 2025-09-24, EV, Automotive, B2B ... Berlin, Germany, Series A, $11.6M, 2025-06-25, Software. Isar Aerospace ...",
     "Industry": "Mobility",
     "Founded": "2020",
     "Funding": "$4M",
@@ -825,7 +845,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$750M"
   },
   {
     "Name": "Aware",
@@ -837,7 +858,8 @@
     "Last Round": "Seed",
     "Team Size": "50 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$5.65M"
   },
   {
     "Name": "Tourlane",
@@ -873,7 +895,8 @@
     "Last Round": "Seed",
     "Team Size": "50 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.84M"
   },
   {
     "Name": "gitti",
@@ -1017,7 +1040,8 @@
     "Last Round": "Pre-Seed",
     "Team Size": "50 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$37.6M"
   },
   {
     "Name": "Freaks 4U",
@@ -1029,7 +1053,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "200 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$4.4B"
   },
   {
     "Name": "alphin",
@@ -1161,7 +1186,8 @@
     "Last Round": "Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$15.2M"
   },
   {
     "Name": "auticon",

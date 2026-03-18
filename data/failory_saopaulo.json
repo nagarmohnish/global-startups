@@ -45,7 +45,8 @@
     "Last Round": "Series D",
     "Team Size": "Major Organization (1,001-5,000)",
     "Founders": "Marcelo Lombardo",
-    "Top Investors": "Endeavor Catalyst, Partners Group, Tencent, Riverwood Capital, Bossa Invest"
+    "Top Investors": "Endeavor Catalyst, Partners Group, Tencent, Riverwood Capital, Bossa Invest",
+    "Revenue": "$162.2M"
   },
   {
     "Name": "Clara",
@@ -81,7 +82,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "Mid-Size Team (51-250)",
     "Founders": "Marcos Galperin",
-    "Top Investors": "Citibanamex, Banco Citibank SA"
+    "Top Investors": "Citibanamex, Banco Citibank SA",
+    "Revenue": "$61.4B"
   },
   {
     "Name": "Hashdex",
@@ -201,7 +203,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$787M"
   },
   {
     "Name": "CUB",
@@ -237,7 +240,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "Ricardo Josua Pismo",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$35M"
   },
   {
     "Name": "QI Tech",
@@ -273,7 +277,8 @@
     "Last Round": "Private Equity",
     "Team Size": "10 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$52.5M"
   },
   {
     "Name": "Alice",
@@ -285,7 +290,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "Andre Florence",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$300M"
   },
   {
     "Name": "Credituz",
@@ -309,7 +315,8 @@
     "Last Round": "Series D",
     "Team Size": "500 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "NG.CASH",
@@ -381,7 +388,8 @@
     "Last Round": "Series E",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.5B"
   },
   {
     "Name": "beecrowd",
@@ -501,7 +509,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "890 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$45M"
   },
   {
     "Name": "Mottu",
@@ -537,7 +546,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "50 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$11.7M"
   },
   {
     "Name": "V.tal",
@@ -585,7 +595,8 @@
     "Last Round": "Series A",
     "Team Size": "200 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Cayena",
@@ -633,7 +644,8 @@
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$910.2M"
   },
   {
     "Name": "Palver",
@@ -722,14 +734,15 @@
   {
     "Name": "2TM",
     "Website": "https://www.2tmgroup.com/",
-    "Description": "",
+    "Description": "The leading digital asset investment ecosystem in Latin America. Contact us. Explore. Companies under the 2TM Holding.Missing:SaoPaulo",
     "Industry": "Fintech",
     "Founded": "2013",
     "Funding": "$250.3M",
     "Last Round": "Corporate Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$102.4M"
   },
   {
     "Name": "Trace Finance",
@@ -921,7 +934,8 @@
     "Last Round": "Venture Round",
     "Team Size": "1900 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$150M"
   },
   {
     "Name": "Ingresse",
@@ -1017,7 +1031,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$10.6M"
   },
   {
     "Name": "Moss.Earth",
@@ -1137,7 +1152,8 @@
     "Last Round": "Debt Financing",
     "Team Size": "378 employees",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$21.2M"
   },
   {
     "Name": "Mecanizou",
@@ -1197,6 +1213,7 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$115.5M"
   }
 ]

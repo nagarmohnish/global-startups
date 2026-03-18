@@ -1,21 +1,22 @@
 [
   {
     "Name": "Mistral AI",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://mistral.ai/",
+    "Description": "Mistral AI SAS is a French artificial intelligence (AI) company, headquartered in Paris. Founded in 2023, it has open-weight large language models (LLMs), ...HistoryCompany operationServicesModels",
+    "Industry": "AI",
     "Founded": "2023",
     "Funding": "€2.8B",
     "Last Round": "Series C",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Arthur Mensch, Charles Gorintin, Guillaume Lample, Jean Charles Samuelian, Timothee Lacroix",
-    "Top Investors": "Andreessen Horowitz, General Catalyst, NVIDIA, Bpifrance, Lightspeed Venture Partners"
+    "Top Investors": "Andreessen Horowitz, General Catalyst, NVIDIA, Bpifrance, Lightspeed Venture Partners",
+    "Revenue": ""
   },
   {
     "Name": "EcoVadis",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://ecovadis.com/",
+    "Description": "Our sustainable procurement program is driving business value through the help of EcoVadis Solutions. ... We have offices in France, United States, United ...",
+    "Industry": "Supply Chain",
     "Founded": "2007",
     "Funding": "$735.8M",
     "Last Round": "Secondary Market",
@@ -25,9 +26,9 @@
   },
   {
     "Name": "Qovery",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://www.qovery.com/",
+    "Description": "Qovery is a Kubernetes management platform that lets Tech teams and developers deploy and scale applications on their cloud by simplifying and automating ...Missing:Paris| Show results with:Paris",
+    "Industry": "Platform",
     "Founded": "2019",
     "Funding": "$17.1M",
     "Last Round": "Series A",
@@ -37,9 +38,9 @@
   },
   {
     "Name": "Finary",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://finary.com/en",
+    "Description": "Finary is the ultimate wealth management app. Track all your assets, get real-time performance reports, optimize your wealth and invest in crypto-currencies.",
+    "Industry": "Crypto/Web3",
     "Founded": "2020",
     "Funding": "€37.4M",
     "Last Round": "Series B",
@@ -49,9 +50,9 @@
   },
   {
     "Name": "Genomines",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://www.genomines.com/",
+    "Description": "... Genomines represents everything we love in an early stage company: two brilliant founders, a huge and inspiring mission and world-leading technology. We ...",
+    "Industry": "Water/CleanTech",
     "Founded": "2021",
     "Funding": "$61.8M",
     "Last Round": "Series A",
@@ -73,9 +74,9 @@
   },
   {
     "Name": "Alice & Bob",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://alice-bob.com/newsroom/alice-bob-product-development-lab/",
+    "Description": "In 2025,Alice & Bobannounced plans to build a $50 million advanced quantum computing laboratory inParisto support product development and testing. [11] Later that year, DARPA selected thecompanyto join its Quantum Benchmarking initiative, a project focused on identifying which approaches can deli...",
+    "Industry": "Quantum Computing",
     "Founded": "2020",
     "Funding": "$162.6M",
     "Last Round": "Series B",
@@ -85,9 +86,9 @@
   },
   {
     "Name": "SafeHeal",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://www.safeheal.com/",
+    "Description": "Established in 2015 and based in France, SafeHeal is a clinical stage medical device manufacturer. Specializing in the development of anastomosis protection ...",
+    "Industry": "EdTech",
     "Founded": "2015",
     "Funding": "$91M",
     "Last Round": "Series C",
@@ -97,9 +98,9 @@
   },
   {
     "Name": "H Company",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://hcompany.ai/",
+    "Description": "H Company, also known simply as H, is a French artificial intelligencestartupwhich develops \"action-oriented\" artificial intelligence agents for enterprise automation and productivity.",
+    "Industry": "AI",
     "Founded": "2023",
     "Funding": "$220M",
     "Last Round": "Convertible Note",
@@ -109,9 +110,9 @@
   },
   {
     "Name": "Request Finance",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://www.request.finance/post/request-finance-hits-1-billion-in-bill-payments",
+    "Description": "Request Finance is a suite of financial apps that helps businesses easily manage their stablecoin and crypto invoices, payroll, expenses, and ...",
+    "Industry": "Crypto/Web3",
     "Founded": "2020",
     "Funding": "$5.5M",
     "Last Round": "Venture Round",
@@ -122,7 +123,7 @@
   {
     "Name": "Defacto",
     "Website": "https://www.getdefacto.com/",
-    "Description": "",
+    "Description": "We created Defacto to give every business access to the critical capital they need. We believe financing should be fast, flexible and fair— which is how ...",
     "Industry": "Enterprise",
     "Founded": "2021",
     "Funding": "$214M",
@@ -134,7 +135,7 @@
   {
     "Name": "WAAT",
     "Website": "https://waat.fr/",
-    "Description": "",
+    "Description": "Mar 3, 2026 ·WAATis a series Ccompanybased inParis(France), founded in 2018. It operates as an Operator of electric vehicle charging stations for various property types.WAAThas raised $149M in funding from RAISE. Thecompanyhas 64 active competitors, including 11 funded and 3 that have exited. Its...",
     "Industry": "Mobility",
     "Founded": "2018",
     "Funding": "$130M",
@@ -146,7 +147,7 @@
   {
     "Name": "UNIVITY",
     "Website": "https://www.constellation.global/",
-    "Description": "",
+    "Description": "UNIVITY bridges the gap between terrestrial and space networks, allowing universal digital access while empowering telecom operators to expand their services ...",
     "Industry": "Media",
     "Founded": "2022",
     "Funding": "$40.3M",
@@ -158,19 +159,20 @@
   {
     "Name": "Alpic",
     "Website": "https://alpic.ai/",
-    "Description": "",
+    "Description": "4 Sept 2025—Alpic, a French cloud platform built specifically for Model Context Protocol (MCP), announced today it has raised €5.1 million in pre-Seed ...",
     "Industry": "Other",
     "Founded": "2025",
     "Funding": "$6M",
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$9B"
   },
   {
     "Name": "Vestiaire Collective",
     "Website": "http://vestiairecollective.com/",
-    "Description": "",
+    "Description": "Vestiaire Collectivewas founded in 2009 as \"Vestiaire de Copines\" by Fanny Moizant, Sophie Hersan, Sébastien Fabre, Alexandre Cognard, Henrique Fernandes, and Christian Jorge. [8][9][10] The platform launched with 3,000 pre-owned fashion items sourced from friends and family. In 2012, thecompanyr...",
     "Industry": "Retail",
     "Founded": "2009",
     "Funding": "$722.3M",
@@ -182,7 +184,7 @@
   {
     "Name": "Nabla",
     "Website": "https://www.nabla.com/",
-    "Description": "",
+    "Description": "The smarter way to streamline clinical documentation. Nabla combines advanced ambient AI, dictation and clinical nudges to fit naturally into a clinician's ...",
     "Industry": "AI",
     "Founded": "2018",
     "Funding": "$114.7M",
@@ -194,7 +196,7 @@
   {
     "Name": "Scality",
     "Website": "http://scality.com/",
-    "Description": "",
+    "Description": "Scalityis a global technology provider of software-defined storage (SDS) solutions, specializing in distributed file and object storage with cloud data management.Scalitymaintains offices inParis(France), London (UK), San Francisco and Washington DC (USA), and Tokyo (Japan) and has employees in 1...",
     "Industry": "Cloud",
     "Founded": "2009",
     "Funding": "$172M",
@@ -206,7 +208,7 @@
   {
     "Name": "HR Path",
     "Website": "http://www.hr-path.com/en",
-    "Description": "",
+    "Description": "HR Path| 181,307 followers on LinkedIn. Give your HR function a headstart|HR Path, an expert, and a major player in Human Resources, helpscompaniesfor who the human experience is essential ...",
     "Industry": "Enterprise",
     "Founded": "2001",
     "Funding": "$973M",
@@ -218,19 +220,20 @@
   {
     "Name": "Mobilize Financial Services",
     "Website": "https://mobilize-fs.com/",
-    "Description": "",
+    "Description": "Mobilize Financial Services was founded in 1974. Where is Mobilize Financial Services headquartered? Mobilize Financial Services is headquartered in Paris, ...",
     "Industry": "Mobility",
     "Founded": "1974",
     "Funding": "$3.4B",
     "Last Round": "Debt Financing",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.3B"
   },
   {
     "Name": "Goodvest",
     "Website": "https://goodvest.fr/",
-    "Description": "",
+    "Description": "Goodvestest créée en 2020 par Joseph Choueifaty et Antoine Bénéteau (rejoints ensuite par Aurore Jacques 1), deux jeunes entrepreneurs souhaitant proposer une alternative crédible et transparente à l’ épargne traditionnelle, jugée peu lisible sur le plan environnemental. À partir de 2021, l'entre...",
     "Industry": "Fintech",
     "Founded": "2020",
     "Funding": "$23.9M",
@@ -242,7 +245,7 @@
   {
     "Name": "Shippeo",
     "Website": "http://www.shippeo.com/",
-    "Description": "",
+    "Description": "Shippeo is a global leader in real-time multimodal transportation visibility, helping major shippers and logistics service providers deliver exceptional ...",
     "Industry": "Enterprise",
     "Founded": "2014",
     "Funding": "$137.8M",
@@ -254,31 +257,33 @@
   {
     "Name": "Versant",
     "Website": "https://versant.earth/",
-    "Description": "",
+    "Description": "Apr 17, 2025 ·HowVersantidentifies land with high restoration potential to improveFrance’s biodiversity Luc Bettaie b (CTO) and Martin de Stoppani (CEO), co-founders ofVersant, met at an Antler founder residency inParis, sharing a vision to create acompanythat positively impacts nature.",
     "Industry": "Environment",
     "Founded": "2023",
     "Funding": "$640k",
     "Last Round": "Pre-Seed",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$6.69B"
   },
   {
     "Name": "Devialet",
     "Website": "https://www.devialet.com/en-eu/",
-    "Description": "",
+    "Description": "Devialet (French: [dəvjalɛ]) is a French audio technologycompanythat produces a line of speakers (Phantom) and amplifiers (Expert). It was founded in 2007 inParis.",
     "Industry": "Media",
     "Founded": "2007",
     "Funding": "$226.9M",
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$95M"
   },
   {
     "Name": "GitGuardian",
     "Website": "https://www.gitguardian.com/",
-    "Description": "",
+    "Description": "GitGuardian provides a centralized inventory of secrets across vaults and identity sources and enhances security posture through actionable analytics, ensuring ...",
     "Industry": "Security",
     "Founded": "2017",
     "Funding": "$56M",
@@ -290,7 +295,7 @@
   {
     "Name": "Dust",
     "Website": "https://dust.tt/",
-    "Description": "",
+    "Description": "About us ; Website: https://dust.tt. External link for Dust ; Industry: Software Development ; Company size: 51-200 employees ; Headquarters: Paris.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$20M",
@@ -302,31 +307,33 @@
   {
     "Name": "Akur8",
     "Website": "http://www.akur8.com/",
-    "Description": "",
+    "Description": "Akur8 is transforming the non-life insurance industry with its innovative suite of pricing and reserving solutions.",
     "Industry": "Fintech",
     "Founded": "2019",
     "Funding": "$166.6M",
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$23.1M"
   },
   {
     "Name": "Dotfile",
     "Website": "https://www.dotfile.com/",
-    "Description": "",
+    "Description": "Dotfile automates KYB compliance with AI. Backed by Serena Capital & Hexa. Trusted by BNP Paribas, Spendesk, Bastion, and 100+ fintech leaders.",
     "Industry": "Infrastructure",
     "Founded": "2021",
     "Funding": "$8.5M",
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$21.2M"
   },
   {
     "Name": "Kiln",
     "Website": "https://www.kiln.fi/",
-    "Description": "",
+    "Description": "Kiln. Software Development. Paris, Île-de-France 11,235 followers. Democratising value creation in digital assets. See ...",
     "Industry": "Crypto",
     "Founded": "2018",
     "Funding": "$39.6M",
@@ -338,43 +345,46 @@
   {
     "Name": "AB Tasty",
     "Website": "http://www.abtasty.com/",
-    "Description": "",
+    "Description": "AB Tastyest une entreprise française, basée àParis, créée en 2009 par Alix de Sagazan et Rémi Aubert. Elle édite une solution d’optimisation des conversions en mode SaaS, destinée aux sites de vente en ligne, aux sites d’actualités et aux éditeurs de services interactifs.",
     "Industry": "Analytics",
     "Founded": "2009",
     "Funding": "$65.7M",
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$100M"
   },
   {
     "Name": "Doctolib",
     "Website": "http://www.doctolib.fr/",
-    "Description": "",
+    "Description": "Since 2013, Doctolib has been committed to one objective: Building the healthcare we all dream of, together with caregivers and patients.Missing:Paris| Show results with:Paris",
     "Industry": "Healthcare",
     "Founded": "2013",
     "Funding": "$815M",
     "Last Round": "Series F",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$609.1M"
   },
   {
     "Name": "Newcleo",
     "Website": "https://www.newcleo.com/",
-    "Description": "",
+    "Description": "Newcleo ; Company type, Private ; Industry, Nuclear power, nuclear fuel ; Founded, September 2021 ; Headquarters, Paris, France ; Key people. Stefano Buono (CEO and ...",
     "Industry": "Energy",
     "Founded": "2021",
     "Funding": "$677.1M",
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$47.1M"
   },
   {
     "Name": "Flowdesk",
     "Website": "https://flowdesk.co/",
-    "Description": "",
+    "Description": "Flowdeskis a French Fintechcompanybased inParis. Since it was founded in early 2020,Flowdeskhas developed a tech solution to allow traders to interact with multiple exchanges simultaneously.Flowdeskis a digital assets service provider registered inFrancewith the French Market Authority (AMF). It ...",
     "Industry": "Crypto",
     "Founded": "2020",
     "Funding": "$282M",
@@ -386,7 +396,7 @@
   {
     "Name": "Christian Louboutin",
     "Website": "http://us.christianlouboutin.com/ot_en/",
-    "Description": "",
+    "Description": "Christian Louboutin (French: [kʁistjɑ̃ lubutɛ̃]; born 7 January 1964) is a French fashion designer. His stiletto footwear incorporates shiny, red-lacquered soles that have become his signature. [5] Initially a freelance designer for fashion houses, he started his shoe salon inParis, with his shoe...",
     "Industry": "Retail",
     "Founded": "1992",
     "Funding": "$541M",
@@ -398,7 +408,7 @@
   {
     "Name": "Bubblemaps",
     "Website": "https://bubblemaps.io/",
-    "Description": "",
+    "Description": "When wasBubblemapsfounded?Bubblemapswas founded in 2022. Where isBubblemapsheadquartered?Bubblemapsis headquartered inParis,France. What is the size ofBubblemaps?Bubblemapshas 29 total employees. What industry isBubblemapsin?Bubblemaps’s primary industry is Financial Software. IsBubblemapsa priva...",
     "Industry": "Analytics",
     "Founded": "2022",
     "Funding": "$4M",
@@ -410,19 +420,20 @@
   {
     "Name": "PSG",
     "Website": "http://www.psg.fr/",
-    "Description": "",
+    "Description": "Founded in 1970, following the merger of Paris FC and Stade Saint-Germain, they compete in Ligue 1, the top division of French football. PSG play their home ...",
     "Industry": "Sports",
     "Founded": "1970",
     "Funding": "$531.3M",
     "Last Round": "Secondary Market",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$837M"
   },
   {
     "Name": "Morpho Labs",
     "Website": "https://morpho.org/",
-    "Description": "",
+    "Description": "Company. JobsBlogSupportBrand. Copy as png. Copy as svg. Products. Consumer. Vaults ... Morpho Labs 36/// @custom:contact security@morpho.org 37/// @notice The ...",
     "Industry": "Crypto",
     "Founded": "2021",
     "Funding": "$68M",
@@ -434,7 +445,7 @@
   {
     "Name": "Vocca",
     "Website": "https://vocca.ai/",
-    "Description": "",
+    "Description": "Vocca handles your calls, automates appointment scheduling and note all your inquiries down. Our proprietary conversational AI speaks ...",
     "Industry": "AI",
     "Founded": "2024",
     "Funding": "$5.5M",
@@ -446,7 +457,7 @@
   {
     "Name": "Malt",
     "Website": "https://www.malt.com/",
-    "Description": "",
+    "Description": "Jan 22, 2026 ·Maltis a series Dcompanybased inParis(France), founded in 2013 by Vincent Huguet and Hugo Lassiege. It operates as an Operator of a freelance marketplace and management platform linking experts with projects.Malthas raised $134M in funding from investors like Eurazeo, Idinvest Partn...",
     "Industry": "Retail",
     "Founded": "2013",
     "Funding": "$195.3M",
@@ -458,7 +469,7 @@
   {
     "Name": "Wandercraft",
     "Website": "http://www.wandercraft.eu/",
-    "Description": "",
+    "Description": "Wandercraft finalizes strategic partnership with Renault and announces development of humanoids for industry. ... France, Gabon, Gambia, Georgia, Germany, Ghana ...",
     "Industry": "Healthcare",
     "Founded": "2012",
     "Funding": "$170.6M",
@@ -470,7 +481,7 @@
   {
     "Name": "JUISCI",
     "Website": "https://www.juisci.com/",
-    "Description": "",
+    "Description": "At Juisci, we empower healthcare professionals by using AI to reshape the latest complex scientific publications into engaging, accessible, and interactive ...",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$6.7M",
@@ -482,14 +493,15 @@
   {
     "Name": "Welcome to the Jungle",
     "Website": "https://www.welcometothejungle.com/en",
-    "Description": "",
+    "Description": "Welcome to the Jungle is your source for jobs and career advice. Search photos and videos of the best companies to work for, including all their job ...",
     "Industry": "Marketing",
     "Founded": "2014",
     "Funding": "$87.4M",
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$75.1M"
   },
   {
     "Name": "Exail Technologies",
@@ -506,19 +518,20 @@
   {
     "Name": "Vizzia",
     "Website": "https://www.vizzia.fr/",
-    "Description": "",
+    "Description": "Vizzia, votre partenaire de confiance pour des territoires propres et sécurisés. Chez Vizzia, nous développons des solutions innovantes 4G/5G ...",
     "Industry": "Enterprise",
     "Founded": "2022",
     "Funding": "$19.4M",
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$5M"
   },
   {
     "Name": "Nucleon Security",
     "Website": "https://nucleon-security.com/en",
-    "Description": "",
+    "Description": "Nucleon Security. Computer and Network Security. Paris, Île-de-France 5,547 followers. Endpoint Security. Built on Zero Trust.",
     "Industry": "AI",
     "Founded": "2019",
     "Funding": "$3M",
@@ -530,7 +543,7 @@
   {
     "Name": "Swan",
     "Website": "https://swan.io/",
-    "Description": "",
+    "Description": "Swanis the easiest way to embed banking features into your product. Via its simple APIs, Europeancompaniescan integrate banking services (accounts, cards and payments) quickly and easily into their own product. Founded in 2019,Swanprocesses around 1,5 billion euros of transactions per month, for ...",
     "Industry": "Fintech",
     "Founded": "2019",
     "Funding": "$100M",
@@ -542,7 +555,7 @@
   {
     "Name": "Mediawan",
     "Website": "https://www.mediawan.com/",
-    "Description": "",
+    "Description": "Mediawan S.A. is a French media conglomerate and audiovisual international production & distribution group. It was founded on December 15, 2015, by Xavier ...HistoryFounding, first acquisitions...Major genre expansions...AssetsMediawan FinlandMediawan Rights",
     "Industry": "Marketing",
     "Founded": "2015",
     "Funding": "$725M",
@@ -554,7 +567,7 @@
   {
     "Name": "Malou",
     "Website": "https://malou.io/",
-    "Description": "",
+    "Description": "8 Feb 2026—Malou is a series A company based in Paris (France), founded in 2017 by Waad Toumi. It operates as a Provider of digital marketing solutions for ...",
     "Industry": "Food",
     "Founded": "2021",
     "Funding": "$10M",
@@ -566,7 +579,7 @@
   {
     "Name": "Retab",
     "Website": "https://www.retab.com/",
-    "Description": "",
+    "Description": "Retab is used by AI and operations teams, from fast-growing startups to Fortune 500 companies, to automate their hardest document workflows.Missing:France| Show results with:France",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$7M",
@@ -578,19 +591,20 @@
   {
     "Name": "Pennylane",
     "Website": "https://www.pennylane.com/",
-    "Description": "",
+    "Description": "7 Feb 2024—Pennylane, an accounting software startup based in France, just raised another €40 million. Over 120000 SMEs use Pennylane in France.",
     "Industry": "Fintech",
     "Founded": "2020",
     "Funding": "$213.5M",
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$42M"
   },
   {
     "Name": "Filigran",
     "Website": "https://filigran.io/",
-    "Description": "",
+    "Description": "Let's build a new open approach to cybersecurity strategy and operations. Learn more about howFIligranstarted and our star team.",
     "Industry": "Security",
     "Founded": "2022",
     "Funding": "$52.3M",
@@ -602,7 +616,7 @@
   {
     "Name": "Prophesee",
     "Website": "https://www.prophesee.ai/",
-    "Description": "",
+    "Description": "Mar 6, 2026 ·Prophesee- About thecompanyPropheseeis a series Ccompanybased inParis(France), founded in 2014 by Luca Verre, Daniel Matolin and Christoph Posch. It operates as a Platform for perception sensors and camera technologies.When wasPropheseefounded?Propheseewas founded in 2014. Where isPr...",
     "Industry": "AI",
     "Founded": "2014",
     "Funding": "$105M",
@@ -614,7 +628,7 @@
   {
     "Name": "Back Market",
     "Website": "https://www.backmarket.com/",
-    "Description": "",
+    "Description": "Find the best deals on refurbished phones, laptops, and tech at Back Market. Up to 70% off when compared to new products. Free delivery, 1-year warranty, ...",
     "Industry": "Hardware",
     "Founded": "2014",
     "Funding": "$1B",
@@ -626,7 +640,7 @@
   {
     "Name": "Greenway",
     "Website": "https://www.greenway.care/",
-    "Description": "",
+    "Description": "Frequently Asked Questions Where isGreenway'sheadquarters?Greenwayis located inParis, Ile-de-France,France. Who invested inGreenway?Greenwayhas 5 investors including Groupe Faubourg and Mohamed Aouar. When was the last funding round forGreenway?Greenwayclosed its last funding round on",
     "Industry": "Fintech",
     "Founded": "2023",
     "Funding": "$32M",
@@ -638,7 +652,7 @@
   {
     "Name": "Inato",
     "Website": "https://inato.com/",
-    "Description": "",
+    "Description": "AI-platform connecting clinical trials with suitable sites and patients, improving trial efficiency and accessibilityInatois a global health-techcompanymatching clinical trials with qualified sites worldwide and optimizing site performance throughout the trial. Thecompanyextends its reach globall...",
     "Industry": "AI",
     "Founded": "2016",
     "Funding": "$35.5M",
@@ -650,7 +664,7 @@
   {
     "Name": "Zefir",
     "Website": "https://www.zefir.fr/",
-    "Description": "",
+    "Description": "Zefir is building an AI-transaction layer for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase ...",
     "Industry": "Real Estate",
     "Founded": "2020",
     "Funding": "$50M",
@@ -662,7 +676,7 @@
   {
     "Name": "Dfns",
     "Website": "https://www.dfns.co/",
-    "Description": "",
+    "Description": "Originally incubated by Techstars and Station F in Paris, Dfns now operates globally with teams across the US, Europe, the Middle East, and Asia ...",
     "Industry": "Crypto",
     "Founded": "2020",
     "Funding": "$30.6M",
@@ -674,7 +688,7 @@
   {
     "Name": "Kayrros",
     "Website": "https://www.kayrros.com/",
-    "Description": "",
+    "Description": "Kayrros is an environmental intelligence company founded in 2016. Kayrros tracks methane and carbon dioxide emissions, analyses carbon sinks and assesses ...",
     "Industry": "Analytics",
     "Founded": "2016",
     "Funding": "$78.6M",
@@ -686,7 +700,7 @@
   {
     "Name": "ArcaScience",
     "Website": "https://www.arcascience.ai/",
-    "Description": "",
+    "Description": "ArcaScience: AI-powered benefit-risk analysis platform for pharma. 24 proprietary models, 100B+ data points. Trusted for numerous FDA/EMA/PMDA regulatory ...Missing:startupcompany",
     "Industry": "AI",
     "Founded": "2018",
     "Funding": "$6M",
@@ -698,7 +712,7 @@
   {
     "Name": "Alltheway",
     "Website": "https://www.alltheway.io/",
-    "Description": "",
+    "Description": "Travel hands-free.Allthewaytakes your baggage inPariscity center and delivers it to your flight, so you don't have to wait in line. More time. More comfort. More flexibility.",
     "Industry": "Hardware",
     "Founded": "2022",
     "Funding": "$3.5M",
@@ -710,7 +724,7 @@
   {
     "Name": "LumApps",
     "Website": "http://www.lumapps.com/",
-    "Description": "",
+    "Description": "LumAppsis now a growingstartupof around 50 employees and opens a second office inParisand sends a few intrepidLumAppstravelers to the United States to start laying the foundations of the bigger projects.",
     "Industry": "Media",
     "Founded": "2012",
     "Funding": "$102M",
@@ -722,7 +736,7 @@
   {
     "Name": "Spiko",
     "Website": "https://www.spiko.io/",
-    "Description": "",
+    "Description": "Jul 17, 2025 ·FrenchstartupSpikoraises $22mParis-based fintechSpikohas pulled in $22m after completing a series A funding round. 17 July 2025 Be the first to comment",
     "Industry": "Crypto",
     "Founded": "2023",
     "Funding": "$22.5M",
@@ -734,7 +748,7 @@
   {
     "Name": "BeReal.",
     "Website": "https://bereal.com/",
-    "Description": "",
+    "Description": "BeReal. is a social media app where users share unfiltered photos at random ... Paris, Ile-de-France, France 51-100 bereal.com.",
     "Industry": "Media",
     "Founded": "2020",
     "Funding": "$90M",
@@ -746,7 +760,7 @@
   {
     "Name": "Rippletide",
     "Website": "https://rippletide.com/",
-    "Description": "",
+    "Description": "Meet the team behindRippletide, the hypergraph decision database for enterprise AI agents. Founded inParis, backed by OneRagtime, AWS, and BCG.",
     "Industry": "Enterprise",
     "Founded": "2024",
     "Funding": "$4M",
@@ -758,7 +772,7 @@
   {
     "Name": "Amplitude Studios",
     "Website": "https://www.amplitude-studios.com/",
-    "Description": "",
+    "Description": "Amplitude StudiosSASU is a French video game developer based inParis. The studio was founded in January 2011 by former Ubisoft employees Romain de Waubert de Genlis and Mathieu Girard.",
     "Industry": "Infrastructure",
     "Founded": "2011",
     "Funding": "$12M",
@@ -770,7 +784,7 @@
   {
     "Name": "Edflex",
     "Website": "https://www.edflex.com/",
-    "Description": "",
+    "Description": "de formation. Management, bureautique, IA, cybersécurité, diversité et inclusion… Edflex offre un accès à 5 000 compétences avec des contenus e- ...",
     "Industry": "Education",
     "Founded": "2016",
     "Funding": "$37.1M",
@@ -782,7 +796,7 @@
   {
     "Name": "Yubo",
     "Website": "http://www.yubo.live/",
-    "Description": "",
+    "Description": "Yubo was created by Sacha Lazimi, Jérémie Aouate and Arthur Patora when they were engineering students at CentraleSupélec Graduate school of theParis-Saclay University and TélécomParis, [5] and it was first launched with the name \"Yellow\" in 2015. [6][7] According to the founders, the app seeks t...",
     "Industry": "Media",
     "Founded": "2015",
     "Funding": "$65.7M",
@@ -794,7 +808,7 @@
   {
     "Name": "Animaj",
     "Website": "https://www.animaj.com/",
-    "Description": "",
+    "Description": "Where is Animaj headquartered? Animaj is headquartered in Paris, France. What is the size of Animaj? Animaj has 60 total employees.",
     "Industry": "Retail",
     "Founded": "2022",
     "Funding": "$175M",
@@ -806,7 +820,7 @@
   {
     "Name": "Cycle App",
     "Website": "https://cycle.app/",
-    "Description": "",
+    "Description": "Overview. Website: https://cycle.app; Company size: 11 - 51 employees; Headquarters: Paris, France; Founded: 2019; Social accounts: Twitter Linkedin ...",
     "Industry": "SaaS",
     "Founded": "2019",
     "Funding": "$6M",
@@ -818,7 +832,7 @@
   {
     "Name": "Veesion",
     "Website": "http://veesion.io/",
-    "Description": "",
+    "Description": "Veesion, a Frenchstartupbuilding AI tools to detect suspicious behaviour in physical stores, has announced a €38 million Series B funding round, accompanied by €15 million in non-dilutive funding, bringing the total raised to €53 million.",
     "Industry": "SaaS",
     "Founded": "2018",
     "Funding": "$71M",
@@ -830,7 +844,7 @@
   {
     "Name": "Stoïk",
     "Website": "https://stoik.com/",
-    "Description": "",
+    "Description": "Stoïk protects SMEs and mid-sized organizations across Europe against cyber risks with an integrated, AI-powered model combining insurance ...",
     "Industry": "Security",
     "Founded": "2021",
     "Funding": "$49.8M",
@@ -842,7 +856,7 @@
   {
     "Name": "Fabriq",
     "Website": "https://www.fabriq.tech/",
-    "Description": "",
+    "Description": "With Fabriq: detect, escalate and solve your operational excellence problems and boost your industrial performance.",
     "Industry": "Manufacturing",
     "Founded": "2019",
     "Funding": "$29.9M",
@@ -854,7 +868,7 @@
   {
     "Name": "Naboo",
     "Website": "https://naboo.app/",
-    "Description": "",
+    "Description": "At Naboo, we simplify the planning of all your corporate events across the UK and Europe from 5 to 500+ participants (offsites, corporate ...",
     "Industry": "Travel",
     "Founded": "2021",
     "Funding": "$29.5M",
@@ -866,7 +880,7 @@
   {
     "Name": "Escape",
     "Website": "https://escape.tech/",
-    "Description": "",
+    "Description": "Escape automates the full offensive security lifecycle, multiplying the impact of every security engineer tenfold. Our key products: 1.",
     "Industry": "AI",
     "Founded": "2020",
     "Funding": "$6M",
@@ -878,19 +892,20 @@
   {
     "Name": "Greenly",
     "Website": "https://www.greenly.earth/home",
-    "Description": "",
+    "Description": "Greenlyis a software-as-a-service (SaaS) carbon accounting platform serving businesses. It is used to automate the measurement, reporting, and reduction of greenhouse gas emissions across Scope 1, 2, and 3 categories.",
     "Industry": "Environment",
     "Founded": "2019",
     "Funding": "$78M",
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$20M"
   },
   {
     "Name": "Chipiron",
     "Website": "https://www.chipiron.co/",
-    "Description": "",
+    "Description": "Chipiron is shaping the future of healthcare with a new generation of MRI machines: lightweight, affordable, and deployable anywhere.",
     "Industry": "Healthcare",
     "Founded": "2020",
     "Funding": "$25.8M",
@@ -902,7 +917,7 @@
   {
     "Name": "Platform.sh",
     "Website": "https://platform.sh/",
-    "Description": "",
+    "Description": "Platform.shest une entreprise technologique d'origine française dont la plate-forme en tant que service automatise les opérations de mise en ligne d'applications Internet.",
     "Industry": "Cloud",
     "Founded": "2015",
     "Funding": "$187.3M",
@@ -914,7 +929,7 @@
   {
     "Name": "Kaiko",
     "Website": "http://www.kaiko.com/",
-    "Description": "",
+    "Description": "Founded in 2014, Kaiko is the leading provider of cryptocurrency market data, analytics, and indices, offering businesses institutional-grade, regulatory- ...",
     "Industry": "Analytics",
     "Founded": "2014",
     "Funding": "$82.5M",
@@ -926,7 +941,7 @@
   {
     "Name": "Kestra Technologies",
     "Website": "https://kestra.io/",
-    "Description": "",
+    "Description": "I've been using Kestra on data projects at Sopht, also a french company, and it's been amazing for data processes. ... © 2026 Kestra Technologies. Developed with ...Missing:Paris| Show results with:Paris",
     "Industry": "Data",
     "Founded": "2021",
     "Funding": "$11M",
@@ -938,7 +953,7 @@
   {
     "Name": "EndoGene.Bio",
     "Website": "https://endogene.bio/",
-    "Description": "",
+    "Description": "endogene.bio| 3 767 abonnés sur LinkedIn. Building a legacy in Female Health |endogene.biois building the molecular infrastructure to transform patient care in uterine disease. By leveraging menstrual blood as a non-invasive window into the uterus, we deliver unprecedented high-resolution disease...",
     "Industry": "Analytics",
     "Founded": "2022",
     "Funding": "$2.9M",
@@ -950,31 +965,33 @@
   {
     "Name": "ODDO BHF",
     "Website": "http://www.oddo-bhf.com/",
-    "Description": "",
+    "Description": "For over 175 years, ODDO BHF, an independent European financial group, has been supporting private individuals, entrepreneurs and institutional investors.",
     "Industry": "Fintech",
     "Founded": "1849",
     "Funding": "—",
     "Last Round": "—",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$896.3M"
   },
   {
     "Name": "Lydia",
     "Website": "https://lydia-app.com/",
-    "Description": "",
+    "Description": "Lydia is a Paris-based fast growing mobile financial services platform with over 4 Million users and a 30% market share among French Millennials.",
     "Industry": "Media",
     "Founded": "2013",
     "Funding": "$259.6M",
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$42M"
   },
   {
     "Name": "Surfe",
     "Website": "https://www.surfe.com/",
-    "Description": "",
+    "Description": "Mar 3, 2026 ·Surfeis a seedcompanybased inParis(France), founded in 2020 by Romain Ginestou and David Maurice Chevalier. It operates as a SaaS based CRM integration for enterprises.Surfehas raised $3.94M in funding from 360 Capital Partners. Thecompanyhas 13 active competitors, including 1 that i...",
     "Industry": "Media",
     "Founded": "2020",
     "Funding": "$4M",
@@ -1005,7 +1022,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$42M"
   },
   {
     "Name": "Sifflet",
@@ -1053,7 +1071,8 @@
     "Last Round": "Series F",
     "Team Size": "",
     "Founders": "Christian Raisson",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$60.8M"
   },
   {
     "Name": "Pivot",

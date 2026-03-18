@@ -9,7 +9,8 @@
     "Last Round": "Seed",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "Peng Zhihui",
-    "Top Investors": "HSG, LG Electronics, Tencent, CDH Investments, JD.com"
+    "Top Investors": "HSG, LG Electronics, Tencent, CDH Investments, JD.com",
+    "Revenue": "$142M"
   },
   {
     "Name": "Xiaohongshu",
@@ -33,7 +34,8 @@
     "Last Round": "Venture Round",
     "Team Size": "Mid-Size Team (51-250)",
     "Founders": "Jiao Guofang, Zhang Wen",
-    "Top Investors": "Qiming Venture Partners, Hillhouse Investment, Walden International, BAI capital, IDG Capital"
+    "Top Investors": "Qiming Venture Partners, Hillhouse Investment, Walden International, BAI capital, IDG Capital",
+    "Revenue": "$16.4M"
   },
   {
     "Name": "Full-Life Technologies",
@@ -93,7 +95,8 @@
     "Last Round": "Series B",
     "Team Size": "Large Team (251-1,000)",
     "Founders": "William CHEN",
-    "Top Investors": "Lightspeed Venture Partners, HSG, Matrix Partners China, China Internet Investment Fund, Lightspeed China Partners"
+    "Top Investors": "Lightspeed Venture Partners, HSG, Matrix Partners China, China Internet Investment Fund, Lightspeed China Partners",
+    "Revenue": "$16.44B"
   },
   {
     "Name": "United Imaging Healthcare",
@@ -109,9 +112,9 @@
   },
   {
     "Name": "Fourier Intelligence",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://ifdesign.com/en/brands-creatives/company/shanghai-fourier-intelligence-co/20834",
+    "Description": "... Chinese robotics company headquartered in Shanghai. Fourier. Native name. 上海傅利叶智能科技有限公司. Formerly, Fourier Intelligence. Company type, Private.",
+    "Industry": "Robotics",
     "Founded": "2015",
     "Funding": "CN¥638M",
     "Last Round": "Series E",
@@ -129,7 +132,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "Zhang Lu",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$76.3M"
   },
   {
     "Name": "YolTech Therapeutics",
@@ -201,7 +205,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "Beijing Sinohytec and Zhejiang Yangtze Delta Region Institute",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "XTransfer",
@@ -213,7 +218,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$21.6M"
   },
   {
     "Name": "Enflame",
@@ -237,7 +243,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$120B"
   },
   {
     "Name": "Hello TransTech",
@@ -357,7 +364,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$2M"
   },
   {
     "Name": "Ling Mou Zhineng",
@@ -729,7 +737,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$20B"
   },
   {
     "Name": "CYGNUSEMI",
@@ -849,7 +858,8 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$976M"
   },
   {
     "Name": "Haizol.com",
@@ -885,7 +895,8 @@
     "Last Round": "Series D",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$2.58B"
   },
   {
     "Name": "Minxin Technology",
@@ -969,7 +980,8 @@
     "Last Round": "Series C",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$300B"
   },
   {
     "Name": "Mangatoon",
@@ -1053,7 +1065,8 @@
     "Last Round": "Series B",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$15B"
   },
   {
     "Name": "DeepSight",
@@ -1113,7 +1126,8 @@
     "Last Round": "Series A",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": ""
   },
   {
     "Name": "Taiyi Guanjia",
@@ -1137,6 +1151,7 @@
     "Last Round": "Venture Round",
     "Team Size": "",
     "Founders": "",
-    "Top Investors": ""
+    "Top Investors": "",
+    "Revenue": "$1.6B"
   }
 ]

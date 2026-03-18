@@ -27,7 +27,7 @@
     "Name": "Flightradar24 AB",
     "Website": "https://www.allabolag.se/foretag/flightradar24-ab/stockholm/internet-konsulter-operatörer/2K3LY99I5YFHL",
     "Description": "Flightradar24 is aSwedishInternet -based service that shows real-time aircraft flight tracking information on a map. It includes flight tracking information, origins and destinations, flight numbers, aircraft types, positions, altitudes, headings and speeds.",
-    "Industry": "",
+    "Industry": "Consumer",
     "Founded": "2006",
     "Funding": "",
     "Last Round": "",
@@ -89,7 +89,7 @@
     "Description": "NekoHealthis headquartered inStockholmand employs a team of over 100 doctors, researchers, and engineers across Europe.NekoHealthcurrently operates three health centers inSwedenand the UK, as well as Atrium Vårdcentral.",
     "Industry": "Healthcare",
     "Founded": "2018",
-    "Funding": "",
+    "Funding": "$325M",
     "Last Round": "Series B",
     "Founders": "Hjalmar Nilsonne and Daniel Ek",
     "Top Investors": "Lightspeed Venture Partners",
@@ -129,7 +129,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "AMF.se",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$150M"
   },
   {
     "Name": "evroc",
@@ -137,7 +138,7 @@
     "Description": "evroc is the European Cloud built for AI - delivering a secure, sovereign, and sustainable hyperscale cloud with best-in-class services and developer ...",
     "Industry": "AI",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$72.6M",
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Giant Ventures",
@@ -149,7 +150,7 @@
     "Description": "Tribune Therapeutics is a preclinical biopharmaceutical company building a promising pipeline of novel medicines to treat patients with a wide range of ...",
     "Industry": "Pharma",
     "Founded": "2020",
-    "Funding": "",
+    "Funding": "$39.7M",
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Investinor",
@@ -201,7 +202,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "Project A Ventures (PAV)",
-    "Team Size": "1001 employees"
+    "Team Size": "1001 employees",
+    "Revenue": "$188.7M"
   },
   {
     "Name": "Berget AI",
@@ -237,7 +239,8 @@
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Inventure VC",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$60B"
   },
   {
     "Name": "Brickanta",
@@ -273,7 +276,8 @@
     "Last Round": "Ipo",
     "Founders": "",
     "Top Investors": "Nordic Capital",
-    "Team Size": "Oscar and Julian"
+    "Team Size": "Oscar and Julian",
+    "Revenue": "$287.5M"
   },
   {
     "Name": "24Storage AB",
@@ -353,11 +357,12 @@
     "Description": "Acast is a privately held company based in Stockholm, Sweden.\n\nAcast is a game changer for podcasts. With patent-pending technology our content providers can create a stream of content like photos, videos, music and webpage links – each podcast becomes a multidimensional experience for the listener. Interactive show notes are bright pieces of content that shed extra light on the story being told. With this, podcasts become more dynamic, easier to understand and more entertaining.\n\nWe believe that every good story deserves to be told in the best possible way. And that’s what we do. Acast make...",
     "Industry": "Marketing/AdTech",
     "Founded": "2013",
-    "Funding": "",
+    "Funding": "$59.22M",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "node.vc",
-    "Team Size": "Johan and Kai"
+    "Team Size": "Johan and Kai",
+    "Revenue": "$400M"
   },
   {
     "Name": "Eir Insurance",
@@ -375,7 +380,7 @@
     "Name": "Moleculent AB",
     "Website": "https://www.moleculent.com/",
     "Description": "Moleculentis adding a functional layer of biology to pave the way for unparalleled advancements in life science. Over the last decade, scientists have achieved remarkable advancements thanks to better research tools, resulting in breakthroughs that have significantly impacted people’s lives.",
-    "Industry": "",
+    "Industry": "Platform",
     "Founded": "2019",
     "Funding": "",
     "Last Round": "Series A",
@@ -477,7 +482,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Octopus Ventures",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$8.93M"
   },
   {
     "Name": "Epiminds",
@@ -597,7 +603,8 @@
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Sprints Capital",
-    "Team Size": "Fabio"
+    "Team Size": "Fabio",
+    "Revenue": "$33M"
   },
   {
     "Name": "Doctrin",
@@ -621,7 +628,8 @@
     "Last Round": "Ipo",
     "Founders": "",
     "Top Investors": "Inbox Capital",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$102M"
   },
   {
     "Name": "tobii pro / insight",
@@ -653,7 +661,7 @@
     "Description": "GetStarted. WhyPolar.Polarmakes it incredibly easy to monetize your software. Usage billing using event ingestion, SaaS tiers or one-off purchases.",
     "Industry": "SaaS",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$10M",
     "Last Round": "",
     "Founders": "Mei Wen and Vincent Weir",
     "Top Investors": "Mischief",
@@ -701,7 +709,7 @@
     "Description": "We make it simpler to save smarter. Lysa helps you invest your money automatically in global ETF:s and index funds with super low fees.",
     "Industry": "Marketing/AdTech",
     "Founded": "2015",
-    "Funding": "",
+    "Funding": "$46.9M",
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "Inbox Capital",
@@ -713,11 +721,12 @@
     "Description": "Stillfront Group is aSwedishcompanyspecialized in the acquisition and management of mobile and browser game studios. [1][2] Stillfront was founded in 2010 by Jörgen Larsson, a Swedish entrepreneur, although it didn't start operating until 2012.",
     "Industry": "Gaming",
     "Founded": "2010",
-    "Funding": "",
+    "Funding": "$2.5M",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Swedbank",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$582M"
   },
   {
     "Name": "rerun.io",
@@ -867,9 +876,9 @@
     "Name": "DREM",
     "Website": "https://drem.se",
     "Description": "Welcome to DREM, a company that specializes in simplifying the deployment of heat pumps for residential properties.\n\nOur goal is to make the transition to renewable energy as seamless and affordable as possible. Our user-friendly platform and expert team of energy advisors make it easy for homeowners to install and benefit from the energy efficiency and cost savings of heat pumps.",
-    "Industry": "",
+    "Industry": "Recruiting/HRTech",
     "Founded": "2022",
-    "Funding": "",
+    "Funding": "$345.5K",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Futurum Ventures",
@@ -909,7 +918,8 @@
     "Last Round": "Grant",
     "Founders": "",
     "Top Investors": "Innovation Fund.",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Kodiak Hub",
@@ -945,7 +955,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "Salica Investments",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$191.2M"
   },
   {
     "Name": "MetaKing Studios",
@@ -963,13 +974,14 @@
     "Name": "Storytel",
     "Website": "https://www.storytelgroup.com/en/about-us/",
     "Description": "StorytelAB is a Swedish e-book and audiobook subscription service based inStockholm. It is available in more than 25 countries. [1] . Its English audiobook service Audiobooks.com is available in more than 150 countries. [2] Storytel was founded in 2006 by Jonas Tellander and Jon Hauksson. [3]",
-    "Industry": "",
+    "Industry": "PetTech",
     "Founded": "2005",
     "Funding": "",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Verdane",
-    "Team Size": "Jörgen"
+    "Team Size": "Jörgen",
+    "Revenue": "$342.1M"
   },
   {
     "Name": "Anyfin",
@@ -981,7 +993,8 @@
     "Last Round": "Debt",
     "Founders": "",
     "Top Investors": "Salica Investments",
-    "Team Size": "Katharina"
+    "Team Size": "Katharina",
+    "Revenue": "$79.4M"
   },
   {
     "Name": "LootLocker",
@@ -989,7 +1002,7 @@
     "Description": "Equip your game with LootLocker and unlock the tools needed to build, ship, and run your best games.",
     "Industry": "Gaming",
     "Founded": "2019",
-    "Funding": "",
+    "Funding": "$2.1M",
     "Last Round": "Seed",
     "Founders": "",
     "Top Investors": "Astir Ventures",
@@ -997,9 +1010,9 @@
   },
   {
     "Name": "Readly",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://careers.readly.com/locations/stockholm",
+    "Description": "ReadlyAB is a Swedish digital newspaper and magazine subscription service with content from over 1200 third-party publishers, available via browser and mobile app for a monthly fee.",
+    "Industry": "Gaming",
     "Founded": "2013",
     "Funding": "",
     "Last Round": "",
@@ -1017,7 +1030,8 @@
     "Last Round": "Convertible",
     "Founders": "",
     "Top Investors": "MOOR Capital",
-    "Team Size": "Johan and Oscar"
+    "Team Size": "Johan and Oscar",
+    "Revenue": "$5.4M"
   },
   {
     "Name": "GreenVoltis",
@@ -1047,7 +1061,7 @@
     "Name": "Blue Scarab Entertainment",
     "Website": "https://www.gamedeveloper.com/business/blue-scarab-entertainment-formed-by-helldivers-2-and-battlefield-alums",
     "Description": "Blue Scarab Entertainment was founded in 2020. Where is Blue Scarab Entertainment headquartered? Blue Scarab Entertainment is headquartered in Stockholm, Sweden ...",
-    "Industry": "",
+    "Industry": "Platform",
     "Founded": "2021",
     "Funding": "$7M",
     "Last Round": "Seed",
@@ -1085,11 +1099,12 @@
     "Description": "360Player is the sports club management software that lets you streamline club management and embrace a unified platform tailored to your sports organisation.Missing:StockholmSweden",
     "Industry": "Software",
     "Founded": "2012",
-    "Funding": "",
+    "Funding": "$22.7M",
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "Five Elms Capital",
-    "Team Size": "Isabella"
+    "Team Size": "Isabella",
+    "Revenue": "$3.2M"
   },
   {
     "Name": "Stockholm Water Technology AB",
@@ -1113,7 +1128,8 @@
     "Last Round": "",
     "Founders": "Alan Mamedi and Nami Zarringhalam",
     "Top Investors": "Centripetal Co.",
-    "Team Size": "Nami and Smriti"
+    "Team Size": "Nami and Smriti",
+    "Revenue": "$400M"
   },
   {
     "Name": "Volumental",
@@ -1165,15 +1181,16 @@
   },
   {
     "Name": "Hypertype",
-    "Website": "",
-    "Description": "",
-    "Industry": "",
+    "Website": "https://www.eu-startups.com/directory/hypertype/",
+    "Description": "Hypertype is a smart sales email communications ever made using AI and human interactions. They are reinventing machine-to-human conversations using context ...",
+    "Industry": "AI",
     "Founded": "2021",
     "Funding": "",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Propel Capital Network",
-    "Team Size": "Teenie"
+    "Team Size": "Teenie",
+    "Revenue": "$188M"
   },
   {
     "Name": "Vicore Pharma",

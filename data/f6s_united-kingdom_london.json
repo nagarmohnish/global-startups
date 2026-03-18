@@ -45,7 +45,8 @@
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "Hercules Capital",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$7.8M"
   },
   {
     "Name": "Synthesia.io",
@@ -63,7 +64,7 @@
     "Name": "Motorway",
     "Website": "https://motorway.co.uk/",
     "Description": "Motorway is an online used car marketplace. It offers a selling platform for private car owners to sell their vehicle directly to car dealers. Motorway is based inLondonand Brighton in theUK.",
-    "Industry": "",
+    "Industry": "Platform",
     "Founded": "2017",
     "Funding": "$31.5m",
     "Last Round": "Series C",
@@ -153,7 +154,8 @@
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "NVentures - NVIDIA Venture Capital",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": ""
   },
   {
     "Name": "Proxymity",
@@ -177,7 +179,8 @@
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "Estancia Capital Partners",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$4.98M"
   },
   {
     "Name": "Automata.tech",
@@ -225,7 +228,8 @@
     "Last Round": "",
     "Founders": "",
     "Top Investors": "HSBC Innovation Banking",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$478M"
   },
   {
     "Name": "Raylo",
@@ -255,7 +259,7 @@
     "Name": "Veremark Ltd",
     "Website": "https://www.veremark.com/legal/terms-of-service",
     "Description": "Veremark is the world's first trust marketplace. We have created the for anyone to quickly verify the verify backgrounds and credentials of whoever they need be that employment or wealth management or a baby sitter.\n\nWe also provide a secure and trustworthy means for people to share their verified achievements or test results.\n\nWe provide the user with a fully verified blockchain based career passport containing valid work history, education, and status' across things like criminal or credit history.\n\nWe can also hold and verify medical certificates like Covid clearance or immunity tests.\n...",
-    "Industry": "",
+    "Industry": "PetTech",
     "Founded": "2018",
     "Funding": "$3M",
     "Last Round": "Series B",
@@ -285,7 +289,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "Citi",
-    "Team Size": "Peter"
+    "Team Size": "Peter",
+    "Revenue": "$94.8M"
   },
   {
     "Name": "Monzo",
@@ -297,7 +302,8 @@
     "Last Round": "Series G",
     "Founders": "Tom Blomfield",
     "Top Investors": "Passion Capital",
-    "Team Size": "Jonas, Richard and Michael"
+    "Team Size": "Jonas, Richard and Michael",
+    "Revenue": "$1B"
   },
   {
     "Name": "Form3",
@@ -333,7 +339,8 @@
     "Last Round": "Series E",
     "Founders": "Francesco Simoneschi",
     "Top Investors": "eBay Ventures",
-    "Team Size": "Francesco, Shefa and Vedika"
+    "Team Size": "Francesco, Shefa and Vedika",
+    "Revenue": "$3.64M"
   },
   {
     "Name": "10x Banking",
@@ -345,7 +352,8 @@
     "Last Round": "Series C",
     "Founders": "Antony Jenkins",
     "Top Investors": "Nationwide Building Society",
-    "Team Size": "James"
+    "Team Size": "James",
+    "Revenue": "$121.9M"
   },
   {
     "Name": "LABGENIUS LIMITED",
@@ -369,7 +377,8 @@
     "Last Round": "Series E",
     "Founders": "",
     "Top Investors": "Goldman Sachs Asset Management",
-    "Team Size": "Marc-Alexander"
+    "Team Size": "Marc-Alexander",
+    "Revenue": "$100M"
   },
   {
     "Name": "Scalable Capital",
@@ -377,7 +386,7 @@
     "Description": "Scalable Capital is a European digital investment manager. It uses proprietary technology to offer portfolios which are dynamically optimised with a primary focus on risk management. This state-of-the-art technology enables the company to offer a first class investment service, previously only available to the very wealthy and to institutional investors, to regular retail investors at a fraction of the cost.\n\nVisit our website to learn more about what we do: https://scalable.capital",
     "Industry": "Fintech",
     "Founded": "2014",
-    "Funding": "",
+    "Funding": "$556.06M",
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Sofina",
@@ -393,7 +402,8 @@
     "Last Round": "Series C",
     "Founders": "",
     "Top Investors": "BNP Paribas",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$13M"
   },
   {
     "Name": "CityFibre",
@@ -453,7 +463,8 @@
     "Last Round": "Series C",
     "Founders": "Joshua Payne",
     "Top Investors": "Blue Owl Capital",
-    "Team Size": "Simon"
+    "Team Size": "Simon",
+    "Revenue": "$13.5M"
   },
   {
     "Name": "Tessl",
@@ -461,7 +472,7 @@
     "Description": "Tessl helps teams build AI-native software by giving coding agents structured, versioned context. Ship AI-powered systems that hold up in real codebases.",
     "Industry": "Software",
     "Founded": "2024",
-    "Funding": "",
+    "Funding": "$125M",
     "Last Round": "Series A",
     "Founders": "Guy Podjarny",
     "Top Investors": "Boldstart Ventures",
@@ -609,7 +620,8 @@
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "AshGrove Capital",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$15.1M"
   },
   {
     "Name": "Nothing Tech",
@@ -657,7 +669,8 @@
     "Last Round": "Series C",
     "Founders": "",
     "Top Investors": "Ascension Ventures",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$17.9M"
   },
   {
     "Name": "Luminance AI",
@@ -699,7 +712,7 @@
     "Name": "Addionics",
     "Website": "https://www.qurator.com/vendors/addionics",
     "Description": "Addionics redesigns the architecture of rechargeable batteries to significantly improve performance. With a novel and patent pending 3D metal fabrication method, we enhance performance, mileage, safety, cost and charging time of batteries. All battery chemistries can benefit from the technology, our structures allow us to tailor our batteries to their conditions of use.\n\nOur technology has a fast time-to-market as it does not require to rethink the entire battery supply chain and production line. Rather, we pinpoint a specific component in today's traditional 2D architecture of batteries, the...",
-    "Industry": "",
+    "Industry": "Battery/Energy Storage",
     "Founded": "2017",
     "Funding": "$2.5m",
     "Last Round": "Series B",
@@ -773,7 +786,7 @@
     "Description": "As the first blockchain to build a low-cost pathway from a storage layer to a native execution layer, Irys is a datachain that enables data to be stored, shared, and monetized across applications at a fraction of the cost of Web2 and Web3 alternatives. It offers infinite data capacity, instant retrieval, and a composable foundation for onchain services to discover, generate and exchange value through data.\" so the one liner positioning as to who we are, is \"The datachain that unlocks the value of data\"",
     "Industry": "Blockchain",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$10M",
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Echo Group",
@@ -801,7 +814,8 @@
     "Last Round": "Debt",
     "Founders": "",
     "Top Investors": "Barclays.",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$31.4M"
   },
   {
     "Name": "Komainu",
@@ -825,7 +839,8 @@
     "Last Round": "Series C",
     "Founders": "",
     "Top Investors": "Highgate",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$52.8M"
   },
   {
     "Name": "Vega-alts",
@@ -879,7 +894,7 @@
     "Name": "Seat Unique",
     "Website": "https://www.seatunique.com/blog/seat-unique-investment-nickleby-capital/",
     "Description": "Dec 31, 2025 ·SeatUniqueis a series Acompanybased inLondon(UnitedKingdom), founded in 2018 by Robin Sherry and Phillipa Hicks. It operates as a Provider of VIP tickets and hospitality packages for live events.SeatUniquehas raised $28M in funding from Nickleby Capital and The Players Fund.",
-    "Industry": "",
+    "Industry": "Marketplace",
     "Founded": "2018",
     "Funding": "$28M",
     "Last Round": "Series A",
@@ -893,7 +908,7 @@
     "Description": "Leaving you free to focus on what really matters – good food, good times and good business. ... Laptop displaying Nory's AI-powered restaurant analytics dashboard ...",
     "Industry": "Software",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$1.4M",
     "Last Round": "Series A",
     "Founders": "",
     "Top Investors": "Triple Point",
@@ -921,7 +936,8 @@
     "Last Round": "",
     "Founders": "",
     "Top Investors": "Lone Star Funds",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$52.2M"
   },
   {
     "Name": "World Labs",
@@ -969,7 +985,8 @@
     "Last Round": "Angel",
     "Founders": "",
     "Top Investors": "Ringier",
-    "Team Size": ""
+    "Team Size": "",
+    "Revenue": "$130.2M"
   },
   {
     "Name": "Push Security",
@@ -1085,7 +1102,7 @@
     "Description": "Feb 26, 2025 ·Exciting times are ahead forNapo! This innovative pet carecompany, based inLondon, has recently completed an impressive £12M Series B funding round, drawing the attention of investors eager to get in on the booming pet insurance market.",
     "Industry": "Insurance",
     "Founded": "2021",
-    "Funding": "",
+    "Funding": "$37.9M",
     "Last Round": "Series B",
     "Founders": "",
     "Top Investors": "Helvetia Venture Fund",
@@ -1113,13 +1130,14 @@
     "Last Round": "Series A",
     "Founders": "James Dacombe",
     "Top Investors": "The Thiel Foundation",
-    "Team Size": "James"
+    "Team Size": "James",
+    "Revenue": "$6.7M"
   },
   {
     "Name": "Satellite Vu",
     "Website": "https://satellitevu.com",
     "Description": "SatVu was founded in 2016 with the aim to fill the void in high resolution thermal data from space. It has, since then, turned into a high-growth space tech company poised to help the globe address its sustainability challenges through high-resolution thermal imaging.\n\nWe are on a quest to ensure any structure on the planet is energy efficient and support the reduction of businesses’ carbon footprint.\n\nIn near real-time, we will use Infrared technology to monitor the Earth and will be able to assess and determine insights into economic activity. This will allow businesses to make decisions in ...",
-    "Industry": "",
+    "Industry": "SpaceTech",
     "Founded": "2016",
     "Funding": "$122M",
     "Last Round": "Series B",
@@ -1169,11 +1187,12 @@
     "Description": "People find it exceptionally hard to be included in the financial services system when they live in a foreign country. For insurance, the cost of inclusion is very high and migrant people can expect to pay up to 100% more for their insurance when compared to a UK born resident.\n\nMarshmallow is an insurance company for people who live in a foreign country. We have started by building a car insurance product, but we will offer multiple lines of insurance through a single platform in a short period of time.\n\nWe have expertise in verifying data cross borders. We can verify whether a customer has a...",
     "Industry": "Insurance",
     "Founded": "2017",
-    "Funding": "",
+    "Funding": "$161M",
     "Last Round": "Series D",
     "Founders": "",
     "Top Investors": "Portage Ventures",
-    "Team Size": "Alexander, Oliver and David"
+    "Team Size": "Alexander, Oliver and David",
+    "Revenue": "$370M"
   },
   {
     "Name": "Runware",
