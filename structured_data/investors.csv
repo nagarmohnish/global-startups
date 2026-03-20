@@ -1,0 +1,1316 @@
+﻿investor_id,investor_name,startup_id,startup_name,city,funding_stage
+I0001,Dragonfly,S0228,Bitget,Singapore,Venture Round
+I0002,8 Decimal Capital,S0228,Bitget,Singapore,Venture Round
+I0003,MX Capital,S0228,Bitget,Singapore,Venture Round
+I0004,Transferance Fund,S0228,Bitget,Singapore,Venture Round
+I0005,CoinNess,S0228,Bitget,Singapore,Venture Round
+I0006,Insight Partners,S0229,Thunes,Singapore,Series D
+I0007,Bessemer Venture Partners,S0229,Thunes,Singapore,Series D
+I0008,Checkout.com,S0229,Thunes,Singapore,Series D
+I0009,Endeavor Catalyst,S0229,Thunes,Singapore,Series D
+I0010,Vitruvian Partners,S0229,Thunes,Singapore,Series D
+I0011,Andreessen Horowitz,S0230,Nansen,Singapore,Series B
+I0012,Accel,S0230,Nansen,Singapore,Series B
+I0013,Volt Capital,S0230,Nansen,Singapore,Series B
+I0014,Tiger Global Management,S0230,Nansen,Singapore,Series B
+I0015,Coinbase Ventures,S0230,Nansen,Singapore,Series B
+I0016,Activant Capital,S0231,bolttech,Singapore,Series C
+I0017,LeapFrog Investments,S0231,bolttech,Singapore,Series C
+I0018,MetLife,S0231,bolttech,Singapore,Series C
+I0019,Khazanah Nasional,S0231,bolttech,Singapore,Series C
+I0020,Baillie Gifford,S0231,bolttech,Singapore,Series C
+I0021,HSG,S0232,Airwallex,Singapore,Secondary Market
+I0022,Sequoia Capital,S0232,Airwallex,Singapore,Secondary Market
+I0023,Blackbird Ventures,S0232,Airwallex,Singapore,Secondary Market
+I0024,Salesforce Ventures,S0232,Airwallex,Singapore,Secondary Market
+I0025,Hillhouse Investment,S0232,Airwallex,Singapore,Secondary Market
+I0026,Temasek Holdings,S0233,Nium,Singapore,Series E+
+I0027,Tribe Capital,S0233,Nium,Singapore,Series E+
+I0028,Ripple,S0233,Nium,Singapore,Series E+
+I0029,Riverwood Capital,S0233,Nium,Singapore,Series E+
+I0030,Vertex Ventures,S0233,Nium,Singapore,Series E+
+I0031,Peak XV Partners,S0234,Aspire,Singapore,Series C
+I0032,Lightspeed Venture Partners,S0234,Aspire,Singapore,Series C
+I0033,B Capital,S0234,Aspire,Singapore,Series C
+I0034,Y Combinator,S0234,Aspire,Singapore,Series C
+I0035,VentureSouq,S0234,Aspire,Singapore,Series C
+I0021,HSG,S0235,MiniMax,Singapore,Venture Round
+I0036,Alibaba Group,S0235,MiniMax,Singapore,Venture Round
+I0037,Tencent,S0235,MiniMax,Singapore,Venture Round
+I0038,IDG Capital,S0235,MiniMax,Singapore,Venture Round
+I0039,Gaorong Capital,S0235,MiniMax,Singapore,Venture Round
+I0040,500 Global,S0236,GRVT,Singapore,Series A
+I0041,Hack VC,S0236,GRVT,Singapore,Series A
+I0042,EigenLabs,S0236,GRVT,Singapore,Series A
+I0043,Further Ventures,S0236,GRVT,Singapore,Series A
+I0044,ZKsync,S0236,GRVT,Singapore,Series A
+I0021,HSG,S0237,Manus AI,Singapore,Series B
+I0045,Benchmark,S0237,Manus AI,Singapore,Series B
+I0037,Tencent,S0237,Manus AI,Singapore,Series B
+I0046,ZhenFund,S0237,Manus AI,Singapore,Series B
+I0021,HSG,S0453,Agibot,Shanghai,Seed
+I0047,LG Electronics,S0453,Agibot,Shanghai,Seed
+I0037,Tencent,S0453,Agibot,Shanghai,Seed
+I0048,CDH Investments,S0453,Agibot,Shanghai,Seed
+I0049,JD.com,S0453,Agibot,Shanghai,Seed
+I0026,Temasek Holdings,S0454,Xiaohongshu,Shanghai,Secondary Market
+I0021,HSG,S0454,Xiaohongshu,Shanghai,Secondary Market
+I0025,Hillhouse Investment,S0454,Xiaohongshu,Shanghai,Secondary Market
+I0036,Alibaba Group,S0454,Xiaohongshu,Shanghai,Secondary Market
+I0037,Tencent,S0454,Xiaohongshu,Shanghai,Secondary Market
+I0050,Qiming Venture Partners,S0455,Biren Technology,Shanghai,Venture Round
+I0025,Hillhouse Investment,S0455,Biren Technology,Shanghai,Venture Round
+I0051,Walden International,S0455,Biren Technology,Shanghai,Venture Round
+I0033,BAI capital,S0455,Biren Technology,Shanghai,Venture Round
+I0038,IDG Capital,S0455,Biren Technology,Shanghai,Venture Round
+I0021,HSG,S0456,Full-Life Technologies,Shanghai,Series C
+I0052,Sky9 Capital,S0456,Full-Life Technologies,Shanghai,Series C
+I0053,Summer Capital,S0456,Full-Life Technologies,Shanghai,Series C
+I0054,Lapam Capital,S0456,Full-Life Technologies,Shanghai,Series C
+I0055,Prosperity7 Ventures,S0456,Full-Life Technologies,Shanghai,Series C
+I0056,BioVenture,S0457,Smartee Denti-Technology,Shanghai,Series D
+I0038,IDG Capital,S0457,Smartee Denti-Technology,Shanghai,Series D
+I0057,Neovision Capital,S0457,Smartee Denti-Technology,Shanghai,Series D
+I0058,Beijing Taikang Investment,S0457,Smartee Denti-Technology,Shanghai,Series D
+I0059,China Resources Capital-China Resources Xianglianhe Fund.,S0457,Smartee Denti-Technology,Shanghai,Series D
+I0060,INCE Capital,S0458,Ronovo Surgical,Shanghai,Series D
+I0061,Matrix Partners China,S0458,Ronovo Surgical,Shanghai,Series D
+I0062,Lilly Asia Ventures,S0458,Ronovo Surgical,Shanghai,Series D
+I0063,Vivo Capital,S0458,Ronovo Surgical,Shanghai,Series D
+I0064,Granite Asia,S0458,Ronovo Surgical,Shanghai,Series D
+I0065,OrbiMed,S0459,Epigenic Therapeutics,Shanghai,Series B
+I0050,Qiming Venture Partners,S0459,Epigenic Therapeutics,Shanghai,Series B
+I0066,Morningside,S0459,Epigenic Therapeutics,Shanghai,Series B
+I0054,Lapam Capital,S0459,Epigenic Therapeutics,Shanghai,Series B
+I0067,Kingray Capital,S0459,Epigenic Therapeutics,Shanghai,Series B
+I0032,Lightspeed Venture Partners,S0460,MetaX,Shanghai,Series B
+I0021,HSG,S0460,MetaX,Shanghai,Series B
+I0061,Matrix Partners China,S0460,MetaX,Shanghai,Series B
+I0068,China Internet Investment Fund,S0460,MetaX,Shanghai,Series B
+I0069,Lightspeed China Partners,S0460,MetaX,Shanghai,Series B
+I0070,CICC,S0461,United Imaging Healthcare,Shanghai,Series A
+I0071,SDIC Fund Management,S0461,United Imaging Healthcare,Shanghai,Series A
+I0072,CITIC Securities,S0461,United Imaging Healthcare,Shanghai,Series A
+I0073,CMB International Capital Corporation,S0461,United Imaging Healthcare,Shanghai,Series A
+I0074,China Life Insurance,S0461,United Imaging Healthcare,Shanghai,Series A
+I0075,Vision Plus Capital,S0462,Fourier Intelligence,Shanghai,Series E+
+I0038,IDG Capital,S0462,Fourier Intelligence,Shanghai,Series E+
+I0076,SoftBank Vision Fund,S0462,Fourier Intelligence,Shanghai,Series E+
+I0077,Volcanics Venture,S0462,Fourier Intelligence,Shanghai,Series E+
+I0055,Prosperity7 Ventures,S0462,Fourier Intelligence,Shanghai,Series E+
+I0011,Andreessen Horowitz,S0751,Mistral AI,Paris,Series C
+I0078,General Catalyst,S0751,Mistral AI,Paris,Series C
+I0079,NVIDIA,S0751,Mistral AI,Paris,Series C
+I0080,Bpifrance,S0751,Mistral AI,Paris,Series C
+I0032,Lightspeed Venture Partners,S0751,Mistral AI,Paris,Series C
+I0081,BlackRock,S0752,EcoVadis,Paris,Secondary Market
+I0082,General Atlantic,S0752,EcoVadis,Paris,Secondary Market
+I0083,CVC Capital Partners,S0752,EcoVadis,Paris,Secondary Market
+I0084,Astorg,S0752,EcoVadis,Paris,Secondary Market
+I0085,Partech,S0752,EcoVadis,Paris,Secondary Market
+I0086,Techstars,S0753,Qovery,Paris,Series A
+I0087,Speedinvest,S0753,Qovery,Paris,Series A
+I0088,Crane Venture Partners,S0753,Qovery,Paris,Series A
+I0089,IRIS,S0753,Qovery,Paris,Series A
+I0090,Founders Future,S0753,Qovery,Paris,Series A
+I0091,LocalGlobe,S0754,Finary,Paris,Series B
+I0087,Speedinvest,S0754,Finary,Paris,Series B
+I0034,Y Combinator,S0754,Finary,Paris,Series B
+I0092,Crowdcube,S0754,Finary,Paris,Series B
+I0093,Kima Ventures,S0754,Finary,Paris,Series B
+I0080,Bpifrance,S0755,Genomines,Paris,Series A
+I0094,Entrepreneurs First,S0755,Genomines,Paris,Series A
+I0095,Lowercarbon Capital,S0755,Genomines,Paris,Series A
+I0096,Elemental Impact,S0755,Genomines,Paris,Series A
+I0097,Engine Ventures,S0755,Genomines,Paris,Series A
+I0080,Bpifrance,S0756,Bioptimus,Paris,Series A
+I0098,Headline,S0756,Bioptimus,Paris,Series A
+I0099,Hitachi Ventures,S0756,Bioptimus,Paris,Series A
+I0100,Hummingbird Ventures,S0756,Bioptimus,Paris,Series A
+I0101,Cathay Innovation,S0756,Bioptimus,Paris,Series A
+I0080,Bpifrance,S0757,Alice & Bob,Paris,Series B
+I0102,AVP,S0757,Alice & Bob,Paris,Series B
+I0103,European Innovation Council,S0757,Alice & Bob,Paris,Series B
+I0104,Supernova Invest,S0757,Alice & Bob,Paris,Series B
+I0105,Acequia Capital (AceCap),S0757,Alice & Bob,Paris,Series B
+I0106,Sofinnova Partners,S0758,SafeHeal,Paris,Series C
+I0107,Asabys Partners,S0758,SafeHeal,Paris,Series C
+I0108,Genesis Medtech,S0758,SafeHeal,Paris,Series C
+I0109,Gideon Strategic Partners,S0758,SafeHeal,Paris,Series C
+I0110,M&L Healthcare Investments,S0758,SafeHeal,Paris,Series C
+I0012,Accel,S0759,H Company,Paris,Convertible Note
+I0111,Creandum,S0759,H Company,Paris,Convertible Note
+I0112,Amazon,S0759,H Company,Paris,Convertible Note
+I0113,FirstMark,S0759,H Company,Paris,Convertible Note
+I0114,UiPath,S0759,H Company,Paris,Convertible Note
+I0080,Bpifrance,S0760,Request Finance,Paris,Venture Round
+I0115,Balderton Capital,S0760,Request Finance,Paris,Venture Round
+I0116,XAnge,S0760,Request Finance,Paris,Venture Round
+I0117,Animoca Brands,S0760,Request Finance,Paris,Venture Round
+I0118,Sebastien Borget,S0760,Request Finance,Paris,Venture Round
+I0007,Bessemer Venture Partners,S0903,Auterion,Zurich,Series B
+I0119,Lakestar,S0903,Auterion,Zurich,Series B
+I0120,Costanoa Ventures,S0903,Auterion,Zurich,Series B
+I0121,U.S. Department of Defense,S0903,Auterion,Zurich,Series B
+I0122,Mosaic Ventures,S0903,Auterion,Zurich,Series B
+I0007,Bessemer Venture Partners,S0904,ANYbotics,Zurich,Venture Round
+I0123,NGP Capital,S0904,ANYbotics,Zurich,Venture Round
+I0124,TDK Ventures,S0904,ANYbotics,Zurich,Venture Round
+I0030,Vertex Ventures,S0904,ANYbotics,Zurich,Venture Round
+I0104,Supernova Invest,S0904,ANYbotics,Zurich,Venture Round
+I0125,Fasanara Capital,S0905,Teylor,Zurich,Debt Financing
+I0126,M&G Plc,S0905,Teylor,Zurich,Debt Financing
+I0127,Barclays Investment Bank,S0905,Teylor,Zurich,Debt Financing
+I0128,WENVEST Capital,S0905,Teylor,Zurich,Debt Financing
+I0129,Weisshorn,S0905,Teylor,Zurich,Debt Financing
+I0130,Partners Group,S0906,Climeworks,Zurich,Private Equity
+I0131,Zürcher Kantonal Bank,S0906,Climeworks,Zurich,Private Equity
+I0020,Baillie Gifford,S0906,Climeworks,Zurich,Private Equity
+I0109,Gideon Strategic Partners,S0906,Climeworks,Zurich,Private Equity
+I0132,Global Founders Capital,S0906,Climeworks,Zurich,Private Equity
+I0131,Zürcher Kantonal Bank,S0907,Cutiss,Zurich,Series C
+I0133,Innosuisse,S0907,Cutiss,Zurich,Series C
+I0134,Shiloh Advisors,S0907,Cutiss,Zurich,Series C
+I0135,Government of France,S0907,Cutiss,Zurich,Series C
+I0136,The Wyss Foundation,S0907,Cutiss,Zurich,Series C
+I0021,HSG,S0908,RIVR,Zurich,Grant
+I0137,Bezos Expeditions,S0908,RIVR,Zurich,Grant
+I0138,Linear Capital,S0908,RIVR,Zurich,Grant
+I0139,Agile Robots AG,S0908,RIVR,Zurich,Grant
+I0133,Innosuisse,S0908,RIVR,Zurich,Grant
+I0140,Tenity,S0910,Veezoo,Zurich,Series A
+I0133,Innosuisse,S0910,Veezoo,Zurich,Series A
+I0141,SICTIC,S0910,Veezoo,Zurich,Series A
+I0142,ACE Ventures,S0910,Veezoo,Zurich,Series A
+I0143,Thomas Dübendorfer,S0910,Veezoo,Zurich,Series A
+I0144,Craft Ventures,S0911,Loft Dynamics,Zurich,Series B
+I0145,UP Partners,S0911,Loft Dynamics,Zurich,Series B
+I0146,Sky Dayton,S0911,Loft Dynamics,Zurich,Series B
+I0147,The Friedkin Group,S0911,Loft Dynamics,Zurich,Series B
+I0148,Alaska Star Ventures,S0911,Loft Dynamics,Zurich,Series B
+I0149,Valor Equity Partners,S0912,21Shares,Zurich,Venture Round
+I0150,Morgan Creek Digital,S0912,21Shares,Zurich,Venture Round
+I0151,Marshall Wace,S0912,21Shares,Zurich,Venture Round
+I0152,Collab+Currency,S0912,21Shares,Zurich,Venture Round
+I0153,Anthony Pompliano,S0912,21Shares,Zurich,Venture Round
+I0154,Point72 Ventures,S0917,GenTwo,Zurich,Series A
+I0155,Swiss Fintech Awards 2022,S0918,DeepJudge,Zurich,Seed
+I0156,Ananda Impact Ventures,S0919,Jua,Zurich,Series A
+I0123,NGP Capital,S0925,Scandit,Zurich,Series D
+I0103,European Innovation Council,S0926,Positrigo,Zurich,Venture Round
+I0034,Y Combinator,S0930,Cerrion,Zurich,Seed
+I0157,Eclipse Ventures,S0932,Decentriq,Zurich,Grant
+I0158,Serpentine Ventures,S0934,Evulpo,Zurich,Series A
+I0159,BlackFin Capital Partners,S0941,ETFbook,Zurich,Series A
+I0160,Yttrium (Digital+Partners),S0946,Starmind.ai,Zurich,Series A
+I0133,Innosuisse - Swiss Agency for Innovation,S0953,LatticeFlow,Zurich,Bridge Round
+I0161,Avon Ventures,S0962,CLST,Zurich,Seed
+I0162,MSA Safety,S0963,Fotokite,Zurich,Series B
+I0163,Fyrfly Venture Partners,S0970,Locatee,Zurich,Series A
+I0164,StartAngels Network,S0971,CareerFairy,Zurich,Series A
+I0165,Norrsken VC,S0990,Oviva,Zurich,IPO
+I0166,Medixci,S0991,Molecular Partners,Zurich,
+I0167,DST Global,S0992,Flexion Robotics,Zurich,Series A
+I0168,Kineo finance,S0993,Boost inc,Zurich,Series B
+I0169,UBS,S0994,Voliro AG,Zurich,Series A
+I0170,A/O PropTech UK,S0995,Gravis Robotics,Zurich,Series B
+I0138,Linear Capital,S0996,Swiss-Mile,Zurich,Seed
+I0171,Venture Kick,S0997,Mimic Robotics,Zurich,Seed
+I0172,Dr. Andreas Hauri,S0998,Unique,Zurich,Series A
+I0088,Crane Venture Partners,S0999,Zitadel,Zurich,
+I0173,Session.vc,S1000,Deskbird,Zurich,Series B
+I0174,M&G Catalyst,S1001,SkyCell,Zurich,Series D
+I0160,Yttrium (Digital+Partners),S1002,embotech AG,Zurich,Series B
+I0175,Pareto Holdings,S1003,Ahead Health,Zurich,Seed
+I0176,Shima Capital,S1004,Almanak,Zurich,Series A
+I0177,Heavybit,S1005,LocalStack,Zurich,Series A
+I0178,ETH Zurich,S1006,Tethys Robotics - Switzerland,Zurich,Seed
+I0179,FinTech Innovation Lab,S1007,Calvin Risk,Zurich,Seed
+I0180,Swiss Federal Office of Energy,S1008,Metafuels,Zurich,Series A
+I0181,Seedcamp (SC),S1009,Porters,Zurich,Pre-Seed
+I0182,GSR Ventures,S1010,Turtle,Zurich,Seed
+I0183,Kurma Partners,S1011,EvlaBio,Zurich,Seed
+I0184,Lindt & Sprüngli,S1012,Food Brewer,Zurich,Seed
+I0133,Innosuisse - Swiss Agency for Innovation,S1013,Lightium,Zurich,Seed
+I0185,Dell Technologies Capital,S1014,CUE,Zurich,Seed
+I0131,Zürcher Kantonal Bank,S1015,Haelixa,Zurich,Series A
+I0186,ESA BIC Switzerland,S1016,a-metal,Zurich,Bridge Round
+I0187,BfW - Bank,S1017,Scalera,Zurich,Seed
+I0188,VI Partners AG,S1018,Somagenetix,Zurich,Series A
+I0189,Bodhi Ventures,S1019,Enso Finance,Zurich,Seed
+I0171,Venture Kick,S1020,Optiml Ag,Zurich,Pre-Seed
+I0190,Archblock,S1021,Centi AG,Zurich,Seed
+I0191,Dropbox Ventures,S1022,Lakera,Zurich,Series A
+I0192,b2venture,S1023,Nautica Technologies,Zurich,Seed
+I0193,QAI Ventures,S1024,ZuriQ,Zurich,Seed
+I0194,Joyned Capital,S1025,Everyman Health,Zurich,Seed
+I0195,Founderful,S1026,Apheros,Zurich,Seed
+I0196,Faction VC,S1027,Schuman Financial AG,Zurich,Seed
+I0155,Swiss Fintech Awards 2022,S1028,Selma Finance AG,Zurich,
+I0155,Swiss Fintech Awards 2022,S1029,tiun.,Zurich,Seed
+I0197,Block.one (B1),S1030,Wyden,Zurich,Series B
+I0198,Swisscom Ventures,S1031,Unisers,Zurich,Seed
+I0141,Swiss ICT Investor Club (SICTIC),S1032,Calingo Insurance AG,Zurich,Seed
+I0199,King Street Capital,S1033,Swissport,Zurich,IPO
+I0141,Swiss ICT Investor Club (SICTIC),S1034,Qala AG,Zurich,Pre-Seed
+I0200,Wingman Ventures,S1035,Chipmind,Zurich,Pre-Seed
+I0141,Swiss ICT Investor Club (SICTIC),S1036,Nextesy,Zurich,Seed
+I0141,Swiss ICT Investor Club (SICTIC),S1037,Taskbase,Zurich,Seed
+I0201,Edenred Capital Partners,S1038,Avrios,Zurich,Series B
+I0181,Seedcamp (SC),S1039,Zenline AI,Zurich,Pre-Seed
+I0195,Founderful,S1040,sallea,Zurich,Pre-Seed
+I0202,Kizoo,S1041,Cellvie,Zurich,Seed
+I0203,Various Companies,S1042,TONI Digital,Zurich,Series B
+I0204,byFounders,S1043,"Loki Robotics, Inc",Zurich,
+I0205,SOSV,S1045,Oxyle AG,Zurich,Seed
+I0206,Schwyzer Kantonalbank,S1046,neon Switzerland,Zurich,
+I0207,Hatteland Group,S1047,Fruitful AI,Zurich,Seed
+I0208,Move+ scale,S1049,CrowdSports,Zurich,
+I0171,Venture Kick,S1050,Flink Robotics,Zurich,Seed
+I0171,Venture Kick,S1051,Calico Biosystems,Zurich,Seed
+I0209,Swiss InsurTech Hub Awards '23,S1052,vlot Ltd,Zurich,
+I0210,Höhle der Löwen Schweiz,S1053,Sleepiz,Zurich,Series A
+I0211,Freigeist Capital,S1056,Akina,Zurich,Series A
+I0212,Cavalry Ventures,S1057,SERA Intelligence,Zurich,Seed
+I0213,Mathieu Stremsdoerfer,S1058,Healactively,Zurich,Grant
+I0214,Universität Zürich | University of Zurich,S1059,Glimpse Health,Zurich,Bridge Round
+I0215,Tomahawk.VC,S1060,Farmy Switzerland,Zurich,Series B
+I0216,Credibly Neutral,S1061,delta.network,Zurich,
+I0217,True Ventures,S1063,Exnaton,Zurich,Series A
+I0171,Venture Kick,S1068,Circular Flow Technologies,Zurich,
+I0012,Accel,S1069,n8n,Berlin,Series C
+I0218,Evantic Capital,S1069,n8n,Berlin,Series C
+I0022,Sequoia Capital,S1069,n8n,Berlin,Series C
+I0219,Highland Europe,S1069,n8n,Berlin,Series C
+I0220,Automattic,S1069,n8n,Berlin,Series C
+I0221,HV Capital,S1069,n8n,Berlin,Series C
+I0222,Redpoint,S1069,n8n,Berlin,Series C
+I0078,General Catalyst,S1070,Helsing,Berlin,Series D
+I0012,Accel,S1070,Helsing,Berlin,Series D
+I0032,Lightspeed Venture Partners,S1070,Helsing,Berlin,Series D
+I0223,BDT & MSD Partners,S1070,Helsing,Berlin,Series D
+I0224,Saab,S1070,Helsing,Berlin,Series D
+I0007,Bessemer Venture Partners,S1071,Upvest,Berlin,Series C
+I0225,Sapphire Ventures,S1071,Upvest,Berlin,Series C
+I0081,BlackRock,S1071,Upvest,Berlin,Series C
+I0087,Speedinvest,S1071,Upvest,Berlin,Series C
+I0221,HV Capital,S1071,Upvest,Berlin,Series C
+I0078,General Catalyst,S1072,Parloa,Berlin,Series C
+I0226,EQT Ventures,S1072,Parloa,Berlin,Series C
+I0122,Mosaic Ventures,S1072,Parloa,Berlin,Series C
+I0227,Newion,S1072,Parloa,Berlin,Series C
+I0228,Altimeter Capital,S1072,Parloa,Berlin,Series C
+I0072,CITIC Securities,S1073,GetYourGuide,Berlin,Debt Financing
+I0026,Temasek Holdings,S1073,GetYourGuide,Berlin,Debt Financing
+I0229,Deutsche Bank,S1073,GetYourGuide,Berlin,Debt Financing
+I0230,Battery Ventures,S1073,GetYourGuide,Berlin,Debt Financing
+I0231,BNP Paribas,S1073,GetYourGuide,Berlin,Debt Financing
+I0087,Speedinvest,S1074,CoachHub,Berlin,Series D
+I0232,RTP Global,S1074,CoachHub,Berlin,Series D
+I0221,HV Capital,S1074,CoachHub,Berlin,Series D
+I0085,Partech,S1074,CoachHub,Berlin,Series D
+I0076,SoftBank Vision Fund,S1074,CoachHub,Berlin,Series D
+I0233,Antler,S1075,Claro,Berlin,Pre-Seed
+I0234,Plug,S1075,Claro,Berlin,Pre-Seed
+I0235,Play,S1075,Claro,Berlin,Pre-Seed
+I0236,Founders Factory,S1075,Claro,Berlin,Pre-Seed
+I0237,D11Z.Ventures,S1075,Claro,Berlin,Pre-Seed
+I0238,Atlas SGR,S1075,Claro,Berlin,Pre-Seed
+I0012,Accel,S1076,Born,Berlin,Series A
+I0037,Tencent,S1076,Born,Berlin,Series A
+I0239,The Twenty Minute VC,S1076,Born,Berlin,Series A
+I0161,Laton Ventures,S1076,Born,Berlin,Series A
+I0240,Scribble Ventures,S1076,Born,Berlin,Series A
+I0241,Alumni Ventures,S1077,Solsten,Berlin,Debt Financing
+I0242,Washington Harbour Partners,S1077,Solsten,Berlin,Debt Financing
+I0243,GFR Fund,S1077,Solsten,Berlin,Debt Financing
+I0244,Decathlon Capital Partners,S1077,Solsten,Berlin,Debt Financing
+I0245,Inventure,S1077,Solsten,Berlin,Debt Financing
+I0246,Fortino Capital,S1078,revel8,Berlin,Seed
+I0247,Merantix Capital,S1078,revel8,Berlin,Seed
+I0031,Peak XV Partners,S1078,revel8,Berlin,Seed
+I0248,Mario Götze,S1078,revel8,Berlin,Seed
+I0249,Rogier Fischer,S1078,revel8,Berlin,Seed
+I0250,Aviva Investors,S1080,Terra One,Berlin,Debt Financing
+I0251,Base 10 Ventures,S1081,Contentful,Berlin,Series E+
+I0252,Singular.,S1087,Peec AI,Berlin,Seed
+I0253,Daimler Mobility Services,S1094,Blacklane,Berlin,Series E+
+I0060,Inven Capital,S1097,Forto,Berlin,Series D
+I0221,HV Capital,S1100,Payrails,Berlin,Series A
+I0012,Accel,S1102,SynthFlow AI,Berlin,Series A
+I0254,Heal Capital,S1103,Apheris,Berlin,Series A
+I0085,Partech,S1105,AMBOSS,Berlin,Venture Round
+I0255,Heliad Equity,S1109,WorkMotion,Berlin,Series B
+I0256,Earlybird Venture Capital,S1111,finmid,Berlin,Series A
+I0257,Mutschler Ventures,S1113,Knowunity,Berlin,Series B
+I0258,Coatue Management,S1115,Choco,Berlin,Venture Round
+I0259,VC Fonds Technologie,S1130,Aignostics,Berlin,Series B
+I0260,Round2 Capital Partners,S1131,Market Logic Software,Berlin,Private Equity
+I0221,HV Capital,S1138,Tourlane,Berlin,Series D
+I0261,Tiny VC,S1139,trawa,Berlin,Series A
+I0262,HSBC Innovation Banking,S1163,Moss,Berlin,Venture Round
+I0263,Goldman Sachs Asset Management,S1176,Raisin,Berlin,Series E+
+I0264,CoinFund,S1195,LI.FI,Berlin,Series A
+I0265,468 Capital,S1208,Ostrom,Berlin,Series B
+I0266,Vereinigte Volksbank Raiffeisenbank eG,S1215,Nelly.,Berlin,
+I0267,SevenVentures,S1216,KoRo,Berlin,
+I0268,Project A Ventures (PAV),S1217,Andercore,Berlin,
+I0269,Octopus Energy Generation,S1218,Metiundo,Berlin,
+I0270,Barclays.,S1219,Enpal,Berlin,
+I0033,BOND Capital,S1220,Flink SE,Berlin,
+I0271,DB mindbox (Deutsche Bahn AG),S1221,LiveEO,Berlin,
+I0072,CITIC Securities,S1222,Everphone AG,Berlin,
+I0272,Ekarpen,S1223,Lookiero Outfittery Group,Berlin,
+I0273,Ichigo,S1224,GIGA.GREEN,Berlin,
+I0221,HV Capital,S1225,LANCH,Berlin,
+I0012,Accel,S1226,SLAY.cool,Berlin,
+I0274,Picus Capital,S1227,Ceezer,Berlin,
+I0275,Pace Capital,S1228,NetBird,Berlin,
+I0192,b2venture,S1229,Nelly Solutions GmbH,Berlin,
+I0276,Flixfounders,S1230,CarOnSale,Berlin,
+I0103,European Innovation Council,S1231,omni:us,Berlin,
+I0007,Bessemer Venture Partners,S1232,dltHub,Berlin,
+I0277,Eurazeo,S1233,Arbio,Berlin,
+I0278,Begemann Capital,S1234,StratifAI,Berlin,
+I0279,10x Founders,S1235,Ivy,Berlin,
+I0280,High-Tech Gründerfonds.,S1236,Caeli Wind,Berlin,
+I0281,Feast Ventrues,S1237,Project Eaden,Berlin,
+I0282,P53 Invest,S1238,Atai Life Science,Berlin,
+I0096,Elemental Impact,S1239,Klim,Berlin,
+I0283,WinYield,S1240,Tapline,Berlin,
+I0076,SoftBank Vision Fund,S1241,Vivid Money,Berlin,Series C
+I0284,Fly Ventures,S1242,carbmee,Berlin,Series A
+I0285,European Commission,S1243,Dryad Networks,Berlin,Series B
+I0261,Tiny VC,S1244,circula,Berlin,Series A
+I0286,CRB Health Tech SGEIC,S1245,Circle Health Europe GmbH,Berlin,Seed
+I0287,Auriga Cyber Ventures (CyberImpact),S1246,enclaive,Berlin,Seed
+I0288,bm-t Beteiligungsmanagement Thüringen,S1247,Galakto,Berlin,Seed
+I0289,zwei.7 Holding,S1248,hellomed.com,Berlin,
+I0290,European Social Innovation & Impact Fund,S1249,ALVA Energie,Berlin,Series A
+I0291,Entrepreneur First (joinef.com),S1250,Sensmore,Berlin,Series A
+I0292,Cardumen Capital,S1251,TastyUrban,Berlin,Series A
+I0293,FoodLabs,S1252,Holy,Berlin,Series A
+I0294,Ellipsis venture,S1253,juna.ai,Berlin,Seed
+I0085,Partech,S1254,Roger,Berlin,Seed
+I0295,Lucid Capital,S1255,Platoapp AI,Berlin,Pre-Seed
+I0296,Limestone Capital AG,S1256,MYNE,Berlin,Series A
+I0297,eCAPITAL Entrepreneurial Partners,S1257,Baobab.io,Berlin,Grant
+I0298,Kompas VC,S1258,Ecoworks,Berlin,Series A
+I0280,High-Tech Gründerfonds.,S1259,7Learnings,Berlin,Series B
+I0225,Sapphire Ventures,S1260,signavio,Berlin,
+I0299,Impact Expansion,S1261,NeuroCare Group AG,Berlin,Grant
+I0300,Africa Go Green Fund,S1262,Ampersand UG,Berlin,
+I0301,Zero Prime Ventures,S1263,Qontext GmbH,Berlin,Pre-Seed
+I0087,Speedinvest (SI),S1264,roclub,Berlin,Series A
+I0302,Hans(wo)men Group,S1265,EPIX Sports,Berlin,Debt Financing
+I0034,Y Combinator,S1266,Tabula,Berlin,Bridge Round
+I0266,Vereinigte Volksbank Raiffeisenbank eG,S1267,Fleming Banking,Berlin,Seed
+I0303,imec.xpand,S1268,Xavveo,Berlin,Seed
+I0304,Realyze Ventures,S1269,Vamo,Berlin,Seed
+I0305,Roosh Ventures,S1270,GlassFlow,Berlin,Seed
+I0306,Green Generation Fund,S1271,WALLROUND,Berlin,Seed
+I0307,Atlantic Labs,S1272,Purpose Green,Berlin,Series B
+I0308,SCB 10X,S1273,M^0 Labs,Berlin,Series B
+I0275,Pace Capital,S1274,Bayes Esports,Berlin,
+I0309,Nebular VC,S1275,PraxiPal,Berlin,Seed
+I0212,Cavalry Ventures,S1276,Patronus Group,Berlin,Series A
+I0103,European Innovation Council,S1277,Nuventura,Berlin,Series A
+I0310,Technology Crossover Ventures (TCV),S1278,Spryker Systems,Berlin,Series C
+I0311,La Famiglia,S1279,Asana Rebel,Berlin,Series B
+I0006,Insight Partners,S1280,Flank AI,Berlin,Series A
+I0087,Speedinvest (SI),S1281,Raus,Berlin,Series B
+I0312,Better Ventures GmbH,S1282,Evela Health,Berlin,Seed
+I0313,Blue Pool Capital,S1283,G2 Esports,Berlin,Series B
+I0078,General Catalyst,S1284,Integral Services GmbH,Berlin,Seed
+I0314,Contrarian Ventures,S1285,Bees & Bears,Berlin,Seed
+I0315,Sparkmind.vc,S1286,Autovio,Berlin,Series A
+I0316,FJ Labs,S1287,Midas Software,Berlin,Seed
+I0317,ACTON,S1288,saas.group,Berlin,Seed
+I0318,Atlantis Ventures,S1289,LillianCare,Berlin,Seed
+I0319,Abstract,S1290,Nomad,Sao Paulo,Series B
+I0320,Spark Capital,S1290,Nomad,Sao Paulo,Series B
+I0014,Tiger Global Management,S1290,Nomad,Sao Paulo,Series B
+I0321,ONEVC,S1290,Nomad,Sao Paulo,Series B
+I0322,Google for Startups,S1290,Nomad,Sao Paulo,Series B
+I0022,Sequoia Capital,S1291,Enter,Sao Paulo,Series A
+I0323,Founders Fund,S1291,Enter,Sao Paulo,Series A
+I0316,FJ Labs,S1291,Enter,Sao Paulo,Series A
+I0321,ONEVC,S1291,Enter,Sao Paulo,Series A
+I0112,Amazon Web Services,S1291,Enter,Sao Paulo,Series A
+I0324,Base10 Partners,S1292,Arvo,Sao Paulo,Series A
+I0325,Canary,S1292,Arvo,Sao Paulo,Series A
+I0326,Latitud,S1292,Arvo,Sao Paulo,Series A
+I0142,Preface Ventures,S1292,Arvo,Sao Paulo,Series A
+I0327,Kaszek,S1292,Arvo,Sao Paulo,Series A
+I0009,Endeavor Catalyst,S1293,Omie,Sao Paulo,Series D
+I0130,Partners Group,S1293,Omie,Sao Paulo,Series D
+I0037,Tencent,S1293,Omie,Sao Paulo,Series D
+I0029,Riverwood Capital,S1293,Omie,Sao Paulo,Series D
+I0328,Bossa Invest,S1293,Omie,Sao Paulo,Series D
+I0078,General Catalyst,S1294,Clara,Sao Paulo,Venture Round
+I0329,Gaingels,S1294,Clara,Sao Paulo,Venture Round
+I0325,Canary,S1294,Clara,Sao Paulo,Venture Round
+I0263,Goldman Sachs Asset Management,S1294,Clara,Sao Paulo,Venture Round
+I0330,BoxGroup,S1294,Clara,Sao Paulo,Venture Round
+I0331,QED Investors,S1295,Kamino,Sao Paulo,Series A
+I0009,Endeavor Catalyst,S1295,Kamino,Sao Paulo,Series A
+I0332,Flourish Ventures,S1295,Kamino,Sao Paulo,Series A
+I0022,Sequoia Capital,S1295,Kamino,Sao Paulo,Series A
+I0201,Inspired Capital Partners,S1295,Kamino,Sao Paulo,Series A
+I0333,Citibanamex,S1296,Mercado Pago,Sao Paulo,Debt Financing
+I0334,Banco Citibank SA,S1296,Mercado Pago,Sao Paulo,Debt Financing
+I0009,Endeavor Catalyst,S1297,Hashdex,Sao Paulo,Series A
+I0325,Canary,S1297,Hashdex,Sao Paulo,Series A
+I0015,Coinbase Ventures,S1297,Hashdex,Sao Paulo,Series A
+I0076,SoftBank Vision Fund,S1297,Hashdex,Sao Paulo,Series A
+I0335,Valor Capital Group,S1297,Hashdex,Sao Paulo,Series A
+I0336,8VC,S1298,180 Seguros,Sao Paulo,Series A
+I0325,Canary,S1298,180 Seguros,Sao Paulo,Series A
+I0316,FJ Labs,S1298,180 Seguros,Sao Paulo,Series A
+I0337,MONASHEES,S1298,180 Seguros,Sao Paulo,Series A
+I0338,Atlantico,S1298,180 Seguros,Sao Paulo,Series A
+I0339,Sagol Holdings,S1299,BotCity,Sao Paulo,Series A
+I0034,Y Combinator,S1299,BotCity,Sao Paulo,Series A
+I0340,Alexia Ventures,S1299,BotCity,Sao Paulo,Series A
+I0341,Astella,S1299,BotCity,Sao Paulo,Series A
+I0342,Norte Ventures,S1299,BotCity,Sao Paulo,Series A
+I0343,Big Bets VC,S1300,Ume,Sao Paulo,Series B
+I0344,10T Holdings,S1303,Mercado Bitcoin,Sao Paulo,Series C
+I0082,General Atlantic,S1310,QI Tech,Sao Paulo,Series B
+I0325,Canary VC,S1313,Alice,Sao Paulo,Series C
+I0345,NXTP Ventures,S1317,Nuvemshop,Sao Paulo,Series E+
+I0321,ONEVC,S1322,Tako,Sao Paulo,Series A
+I0335,Valor Capital Group,S1325,CRMBonus,Sao Paulo,Corporate Round
+I0342,Norte Ventures,S1326,Flash,Sao Paulo,Series C
+I0346,Caravela Capital,S1329,CredAluga,Sao Paulo,Series A
+I0347,Alarko Ventures,S1331,Mottu,Sao Paulo,Private Equity
+I0026,Temasek Holdings,S1332,Dock,Sao Paulo,Private Equity
+I0348,AXA IM Alts,S1336,Mombak,Sao Paulo,Series A
+I0349,Bicycle Capital,S1338,Cayena,Sao Paulo,Series B
+I0322,Google for Startups,S1343,Gupy,Sao Paulo,Series B
+I0344,10T Holdings,S1348,2TM,Sao Paulo,Corporate Round
+I0350,Tarsadia,S1364,Loft,Sao Paulo,Venture Round
+I0351,Scale-Up Ventures,S1368,Divibank,Sao Paulo,Venture Round
+I0217,True Ventures,S1369,Onze,Sao Paulo,Series A
+I0352,Travessia,S1375,Educbank,Sao Paulo,Debt Financing
+I0353,Zenda,S1377,Caveo,Sao Paulo,Seed
+I0351,Scale-Up Ventures,S1383,Mecanizou,Sao Paulo,Series A
+I0354,Andbank,S1389,Creditas,Sao Paulo,Series E+
+I0054,Lapam Capital,S1391,QuintoAndar,Sao Paulo,Series E+
+I0355,Japan International Cooperation Agency,S1397,Agrolend,Sao Paulo,Series B
+I0054,Lapam Capital,S1399,SouSmile,Sao Paulo,Series A
+I0356,4equity - Media Ventures,S1400,Justos,Sao Paulo,Series A
+I0357,Microsoft,S1403,Loggi,Sao Paulo,Series D
+I0358,Maya Capital,S1420,Azos,Sao Paulo,Series B
+I0359,Allievo Capital,S1425,Medway,Sao Paulo,Seed
+I0360,Columbia Ventures Brazil,S1430,Central da Visão,Sao Paulo,Series A
+I0361,Fifth Wall Ventures,S1435,Solfacil,Sao Paulo,Series C
+I0362,Paradigm Ventures,S1441,Crown,Sao Paulo,Seed
+I0012,Accel,S1442,Avenia,Sao Paulo,Series A
+I0363,Cyrela,S1443,Klubi,Sao Paulo,Series A
+I0230,Battery Ventures,S1444,Skyone,Sao Paulo,Series C
+I0364,IFC - International Finance Corporation,S1445,ISA Lab,Sao Paulo,Series B
+I0034,Y Combinator Summer 2020,S1446,Conta Simples,Sao Paulo,Series B
+I0364,IFC - International Finance Corporation,S1447,Neon Brazil,Sao Paulo,Series B
+I0029,Riverwood Capital,S1448,Segura,Sao Paulo,
+I0009,Endeavor Catalyst,S1449,BeConfident,Sao Paulo,Series A
+I0365,Cloud9 Capital,S1450,Canopy,Sao Paulo,Venture Round
+I0366,Lela Walker,S1451,A5X,Sao Paulo,Series C
+I0367,Across Capital,S1452,Zig - The Global Funtech,Sao Paulo,Series B
+I0331,QED Investors,S1453,Velotax,Sao Paulo,Series A
+I0368,Good Karma Partners,S1454,Mevo.,Sao Paulo,Series B
+I0358,Maya Capital,S1455,Lastro,Sao Paulo,Series A
+I0369,Sun Hung Kai & Co,S1456,Pagaleve,Sao Paulo,Series A
+I0370,Vivo Ventures,S1457,Conexa Saude,Sao Paulo,Series B
+I0371,Hedosophia,S1458,BHub,Sao Paulo,Series B
+I0372,FIDC,S1459,Principia,Sao Paulo,Series A
+I0121,U.S. Department of Defense,S1460,Braskem,Sao Paulo,IPO
+I0373,Endeavor Brasil,S1461,Rivio,Sao Paulo,
+I0034,Y Combinator Summer 2020,S1462,Ruvo,Sao Paulo,Seed
+I0374,Souza Cruz S/A,S1463,Mais Mu,Sao Paulo,Series A
+I0375,Mercado Libre Fund,S1464,Warren Investments,Sao Paulo,
+I0376,Parallax Ventures,S1465,Caf.io,Sao Paulo,Series A
+I0009,Endeavor Catalyst,S1466,Pilar.,Sao Paulo,Series A
+I0377,SoftBank Latin America Fund,S1467,Nilo Saúde,Sao Paulo,Seed
+I0378,Construct Capital,S1468,Vammo,Sao Paulo,Series B
+I0009,Endeavor Catalyst,S1469,CERC,Sao Paulo,
+I0014,Tiger Global Management,S1470,Cora,Sao Paulo,Series B
+I0379,Farallon Capital Management,S1471,CargoX,Sao Paulo,Series E+
+I0027,Tribe Capital,S1472,Instacarro.com,Sao Paulo,Convertible Note
+I0380,Fuel Venture Capital,S1473,RecargaPay,Sao Paulo,Series C
+I0381,Ribbit Capital,S1474,Nubank Brazil,Sao Paulo,IPO
+I0382,L4 Venture Builder,S1475,Certta,Sao Paulo,Seed
+I0003,EXT Capital,S1476,Loomy,Sao Paulo,Venture Round
+I0235,Next Play Ventures,S1477,Wildlife Studios,Sao Paulo,Series B
+I0383,StoneX Group,S1478,Sami,Sao Paulo,Series B
+I0222,Redpoint eventures Brazil,S1479,New Hope Ecotech | eureciclo,Sao Paulo,Series B
+I0029,Riverwood Capital,S1480,Intelipost,Sao Paulo,Series A
+I0384,Indicator Capital,S1481,Doji,Sao Paulo,Seed
+I0329,Gaingels,S1482,DigAÍ,Sao Paulo,Seed
+I0003,EXT Capital,S1483,Magie,Sao Paulo,Series A
+I0034,Y Combinator Summer 2020,S1484,lexter.ai,Sao Paulo,Series A
+I0385,Banco Safra,S1485,"CloudWalk, Inc",Sao Paulo,IPO
+I0386,2TM Ventures,S1486,Gorila Brazil,Sao Paulo,Series B
+I0325,Canary VC,S1487,Axenya,Sao Paulo,Series A
+I0387,KDX,S1488,Carecode.ai,Sao Paulo,Pre-Seed
+I0388,Silence VC,S1489,Musa Tecnologia,Sao Paulo,Series A
+I0389,Hindiana,S1490,Rock Encantech,Sao Paulo,Series C
+I0390,Antonio Peña,S1491,LogShare,Sao Paulo,Seed
+I0351,Scale-Up Ventures,S1492,Bull Credit Technology,Sao Paulo,
+I0391,Big_bets,S1493,Iniciador,Sao Paulo,Series A
+I0392,Upload Ventures,S1494,IORQ,Sao Paulo,Series A
+I0393,Vita Investments,S1495,Nexa Finance,Sao Paulo,Seed
+I0230,Battery Ventures,S1496,Woba,Sao Paulo,Series B
+I0394,Itaú BBA,S1498,BTG Pactual,Sao Paulo,Series B
+I0395,Citrino Ventures,S1499,Solomon,Sao Paulo,Seed
+I0098,Headline VC (e.ventures),S1500,Pipeimob,Sao Paulo,Seed
+I0396,SaaSholic,S1501,Liquid AI,Sao Paulo,Seed
+I0182,GSR Ventures,S1502,AlugaMais,Sao Paulo,Seed
+I0054,Lapam Capital,S1503,Sallve,Sao Paulo,Series B
+I0078,General Catalyst,S1504,Lingokids,Madrid,Venture Round
+I0040,500 Global,S1504,Lingokids,Madrid,Venture Round
+I0007,Bessemer Venture Partners,S1504,Lingokids,Madrid,Venture Round
+I0397,Reach Capital,S1504,Lingokids,Madrid,Venture Round
+I0398,JME Ventures,S1504,Lingokids,Madrid,Venture Round
+I0006,Insight Partners,S1505,ONUM,Madrid,Series A
+I0399,Dawn Capital,S1505,ONUM,Madrid,Series A
+I0400,Kibo Ventures,S1505,ONUM,Madrid,Series A
+I0012,AWS Startup Loft Accelerator,S1505,ONUM,Madrid,Series A
+I0398,JME Ventures,S1506,Reveni,Madrid,Series A
+I0401,Inveready,S1506,Reveni,Madrid,Series A
+I0060,Inven Capital,S1506,Reveni,Madrid,Series A
+I0402,13books Capital,S1506,Reveni,Madrid,Series A
+I0182,Big Sur Ventures,S1506,Reveni,Madrid,Series A
+I0051,Walden International,S1507,Seedtag,Madrid,Private Equity
+I0403,Oakley Capital,S1507,Seedtag,Madrid,Private Equity
+I0404,Acurio Ventures,S1507,Seedtag,Madrid,Private Equity
+I0405,Adara Ventures,S1507,Seedtag,Madrid,Private Equity
+I0406,Apax Partners,S1508,idealista,Madrid,Private Equity
+I0403,Oakley Capital,S1508,idealista,Madrid,Private Equity
+I0014,Tiger Global Management,S1508,idealista,Madrid,Private Equity
+I0407,Accenture,S1508,idealista,Madrid,Private Equity
+I0408,Bonsai Partners,S1508,idealista,Madrid,Private Equity
+I0409,CDP Venture Capital,S1509,Nova,Madrid,Series A
+I0163,Fyrfly Venture Partners,S1509,Nova,Madrid,Series A
+I0092,Crowdcube,S1509,Nova,Madrid,Series A
+I0410,Doha Tech Angels,S1509,Nova,Madrid,Series A
+I0411,Talent Venture Group,S1509,Nova,Madrid,Series A
+I0412,K Fund,S1510,Lightbase,Madrid,Pre-Seed
+I0274,Picus Capital,S1510,Lightbase,Madrid,Pre-Seed
+I0413,helloworld vc,S1510,Lightbase,Madrid,Pre-Seed
+I0414,Christian Beedgen,S1510,Lightbase,Madrid,Pre-Seed
+I0415,Jorge Poyatos,S1510,Lightbase,Madrid,Pre-Seed
+I0416,Khosla Ventures,S1511,Overture Life,Madrid,Venture Round
+I0417,Octopus Ventures,S1511,Overture Life,Madrid,Venture Round
+I0418,Felicis,S1511,Overture Life,Madrid,Venture Round
+I0198,Swisscom Ventures,S1511,Overture Life,Madrid,Venture Round
+I0419,GV,S1511,Overture Life,Madrid,Venture Round
+I0420,Seaya,S1512,Fracttal,Madrid,Series B
+I0421,GoHub Ventures,S1512,Fracttal,Madrid,Series B
+I0422,Kayyak Ventures,S1512,Fracttal,Madrid,Series B
+I0423,Start-Up Chile,S1512,Fracttal,Madrid,Series B
+I0424,BBVA Spark,S1512,Fracttal,Madrid,Series B
+I0425,2100 Ventures,S1518,Orbio,Madrid,Seed
+I0426,IDB Invest,S1520,Cabify,Madrid,Debt Financing
+I0009,Endeavor Catalyst,S1523,Clikalia,Madrid,Debt Financing
+I0427,Demium Capital,S1524,Rauda AI,Madrid,Seed
+I0428,4Founders Capital,S1525,Embat,Madrid,Series A
+I0199,King Street Capital,S1528,Room00 Group,Madrid,Private Equity
+I0429,Athletico Ventures.,S1536,Life5,Madrid,Series A
+I0430,Inclimo,S1546,Hamelyn,Madrid,Venture Round
+I0431,Rocket Internet.,S1549,Clevergy,Madrid,Seed
+I0428,4Founders Capital,S1560,Viterbit,Madrid,Seed
+I0432,Allianz Global Investors,S1568,ASTEO Red Neutra,Madrid,Debt Financing
+I0433,CDTI,S1599,Crisalion Mobility,Madrid,Venture Round
+I0434,Telefónicas,S1608,Smart Protection,Madrid,Series A
+I0012,W1 Forward Accelerator Program - Batch 5,S1609,Bdeo,Madrid,Series B
+I0200,Wingman Ventures,S1610,Fintonic,Madrid,Series D
+I0435,DILA Capital,S1611,Cobee,Madrid,Series B
+I0436,Banco Santander,S1616,Playtomic,Madrid,Debt Financing
+I0437,Armilar Venture Partners,S1619,StudentFinance,Madrid,Seed
+I0438,Wayra,S1621,Devengo,Madrid,Series A
+I0439,Shilling VC,S1622,Tucuvi,Madrid,Series A
+I0012,W1 Forward Accelerator Program - Batch 5,S1625,VIVLA,Madrid,Debt Financing
+I0103,European Innovation Council,S1628,IDoven,Madrid,Series A
+I0428,4Founders Capital,S1632,TaxDown,Madrid,Series B
+I0440,Extension Fund,S1650,Tuio,Madrid,Series B
+I0441,ESRI,S1651,Xoople,Madrid,
+I0442,Archipélago Next,S1652,Bcas,Madrid,Series B
+I0443,SETT,S1653,Wooptix,Madrid,Series B
+I0444,Indra Group,S1654,Hispasat,Madrid,Grant
+I0235,Next Play Ventures,S1655,Stamp,Madrid,Seed
+I0445,33N Ventures,S1656,Acoru,Madrid,Series A
+I0420,Seaya Ventures,S1657,Samara Energy,Madrid,Series A
+I0446,Uber for Business,S1658,Auro Travel,Madrid,Series B
+I0424,BBVA Spark,S1659,DEUDAFIX REPARADORA LEGAL GROUP S.L.U.,Madrid,
+I0447,Stoneshield Capital,S1660,Exolum,Madrid,
+I0448,Decibel,S1661,Penpot,Madrid,Series A
+I0436,Banco Santander,S1662,Detektia Earth Surface Monitoring S.L.,Madrid,
+I0449,Decelera,S1663,Anyformat,Madrid,Seed
+I0405,Adara Ventures,S1664,TuringDream,Madrid,Seed
+I0450,ENISA,S1665,Nido,Madrid,Seed
+I0401,Inveready,S1666,Ucademy,Madrid,Seed
+I0439,Shilling VC,S1667,BetterPic,Madrid,Seed
+I0450,ENISA,S1668,Wealth Reader,Madrid,IPO
+I0285,European Commission,S1669,Repsol,Madrid,Debt Financing
+I0451,The Lab Ventures,S1670,Revicasa,Madrid,Seed
+I0452,Baobab Ventures LLC,S1671,Omnia,Madrid,Seed
+I0453,Secways.,S1672,8Layers,Madrid,Seed
+I0454,Tritemius,S1673,Dedge Security,Madrid,Debt Financing
+I0455,Toubkal Partners,S1674,Dealcar,Madrid,Seed
+I0456,UniCredit Group,S1675,Matrix Renewables,Madrid,
+I0421,GoHub Ventures,S1676,XRF,Madrid,IPO
+I0457,Anagram Crypto,S1677,Tower,Madrid,Seed
+I0103,European Innovation Council,S1678,Spika Tech S.L.,Madrid,Grant
+I0458,Bill & Melinda Gates Foundation,S1679,Insud Pharma,Madrid,Grant
+I0459,MADO,S1680,Meep - Fostering Mobility SL,Madrid,Series A
+I0460,First Drop,S1681,Motoreto,Madrid,Seed
+I0461,AticcoLab,S1682,Swipet,Madrid,Pre-Seed
+I0462,Falak Investment Hub,S1683,bookahospi,Madrid,Bridge Round
+I0463,Akka Spain (ex-Blast),S1684,Robinsun,Madrid,Seed
+I0010,Vitruvian Partners,S1685,Civitatis,Madrid,
+I0450,ENISA,S1686,Break-event,Madrid,Seed
+I0401,Inveready,S1687,MedUX,Madrid,IPO
+I0398,JME Ventures,S1688,Sentisis,Madrid,Seed
+I0464,Draper B1,S1689,Velora HR,Madrid,
+I0161,Laton Ventures,S1690,Foodiefame,Madrid,Seed
+I0337,MONASHEES,S1691,Luzia,Madrid,Series B
+I0465,Seed Capital Bizkaia,S1692,BeGas,Madrid,
+I0034,Y Combinator Summer 2020,S1693,Invopop,Madrid,Seed
+I0316,FJ Labs,S1694,Crescenta,Madrid,Pre-Seed
+I0400,Kibo Ventures,S1695,PandaGo,Madrid,Seed
+I0466,Juan Carlos Rebollo,S1696,Healthy Minds Analytics,Madrid,Seed
+I0433,CDTI,S1697,Nanostine S.L.,Madrid,Seed
+I0467,Breed Reply,S1698,Canard Drones SLU,Madrid,Grant
+I0468,MAIF Avenir,S1699,Strong by Form,Madrid,Seed
+I0182,Big Sur Ventures,S1700,Card Dynamics,Madrid,Series A
+I0405,Adara Ventures,S1701,indigitall,Madrid,Series A
+I0469,Knuru Capital,S1702,Savana,Madrid,Series C
+I0470,Fundación,S1703,Declarando,Madrid,Series A
+I0471,Euroclear,S1704,Inversis Banco,Madrid,
+I0420,Seaya Ventures,S1706,CrowdFarming SL,Madrid,
+I0034,Y Combinator Summer 2020,S1707,SNAB,Madrid,Seed
+I0472,Bossanova Investimentos,S1708,Lana XYZ,Madrid,Series A
+I0103,European Innovation Council,S1709,Alcyon Photonics,Madrid,Seed
+I0473,Aim High Venture,S1710,HUNTY,Madrid,Seed
+I0401,Inveready,S1711,Bequant,Madrid,Seed
+I0450,ENISA,S1712,Dubme.io,Madrid,Pre-Seed
+I0405,Adara Ventures,S1713,TandemTrace,Madrid,Seed
+I0474,ContourGlobal,S1714,Grenergy,Madrid,IPO
+I0226,EQT Ventures,S1715,XMAQUINA,Madrid,Seed
+I0475,Kauffman Foundation,S1717,Backyard Brains Spain,Madrid,
+I0476,Interchain Ventures,S1718,Vent Finance,Madrid,Bridge Round
+I0477,Menlo Ventures,S1719,Anthropic,Silicon Valley,Series E+
+I0478,TPG,S1719,Anthropic,Silicon Valley,Series E+
+I0078,General Catalyst,S1719,Anthropic,Silicon Valley,Series E+
+I0081,BlackRock,S1719,Anthropic,Silicon Valley,Series E+
+I0006,Insight Partners,S1719,Anthropic,Silicon Valley,Series E+
+I0079,NVIDIA,S1720,Perplexity,Silicon Valley,Venture Round
+I0012,W1 Forward Accelerator Program - Batch 5,S1720,Perplexity,Silicon Valley,Venture Round
+I0007,Bessemer Venture Partners,S1720,Perplexity,Silicon Valley,Venture Round
+I0479,New Enterprise Associates,S1720,Perplexity,Silicon Valley,Venture Round
+I0480,IVP,S1720,Perplexity,Silicon Valley,Venture Round
+I0011,Andreessen Horowitz,S1721,OpenAI,Silicon Valley,Venture Round
+I0478,TPG,S1721,OpenAI,Silicon Valley,Venture Round
+I0079,NVIDIA,S1721,OpenAI,Silicon Valley,Venture Round
+I0072,CITIC Securities,S1721,OpenAI,Silicon Valley,Venture Round
+I0416,Khosla Ventures,S1721,OpenAI,Silicon Valley,Venture Round
+I0011,Andreessen Horowitz,S1722,Stripe,Silicon Valley,Secondary Market
+I0078,General Catalyst,S1722,Stripe,Silicon Valley,Secondary Market
+I0026,Temasek Holdings,S1722,Stripe,Silicon Valley,Secondary Market
+I0416,Khosla Ventures,S1722,Stripe,Silicon Valley,Secondary Market
+I0022,Sequoia Capital,S1722,Stripe,Silicon Valley,Secondary Market
+I0011,Andreessen Horowitz,S1723,Anysphere,Silicon Valley,Series D
+I0012,W1 Forward Accelerator Program - Batch 5,S1723,Anysphere,Silicon Valley,Series D
+I0322,Google for Startups,S1723,Anysphere,Silicon Valley,Series D
+I0079,NVIDIA,S1723,Anysphere,Silicon Valley,Series D
+I0045,Benchmark,S1723,Anysphere,Silicon Valley,Series D
+I0027,Thrive Capital,S1723,Anysphere,Silicon Valley,Series D
+I0167,DST Global,S1723,Anysphere,Silicon Valley,Series D
+I0481,Pear VC,S1724,Cognition,Silicon Valley,Series C
+I0482,South Park Commons,S1724,Cognition,Silicon Valley,Series C
+I0416,Khosla Ventures,S1724,Cognition,Silicon Valley,Series C
+I0336,8VC,S1724,Cognition,Silicon Valley,Series C
+I0003,EXT Capital,S1724,Cognition,Silicon Valley,Series C
+I0483,Norwest Venture Partners,S1725,Harness,Silicon Valley,Debt Financing
+I0329,Gaingels,S1725,Harness,Silicon Valley,Debt Financing
+I0477,Menlo Ventures,S1725,Harness,Silicon Valley,Debt Financing
+I0230,Battery Ventures,S1725,Harness,Silicon Valley,Debt Financing
+I0480,IVP,S1725,Harness,Silicon Valley,Debt Financing
+I0484,Franklin Templeton,S1726,Databricks,Silicon Valley,Venture Round
+I0011,Andreessen Horowitz,S1726,Databricks,Silicon Valley,Venture Round
+I0079,NVIDIA,S1726,Databricks,Silicon Valley,Venture Round
+I0026,Temasek Holdings,S1726,Databricks,Silicon Valley,Venture Round
+I0329,Gaingels,S1726,Databricks,Silicon Valley,Venture Round
+I0006,Insight Partners,S1727,Writer,Silicon Valley,Series C
+I0033,BOND Capital,S1727,Writer,Silicon Valley,Series C
+I0485,Radical Ventures,S1727,Writer,Silicon Valley,Series C
+I0024,Salesforce Ventures,S1727,Writer,Silicon Valley,Series C
+I0486,Workday Ventures,S1727,Writer,Silicon Valley,Series C
+I0011,Andreessen Horowitz,S1728,Harvey,Silicon Valley,Series E+
+I0487,OpenAI,S1728,Harvey,Silicon Valley,Series E+
+I0022,Sequoia Capital,S1728,Harvey,Silicon Valley,Series E+
+I0258,Coatue Management,S1728,Harvey,Silicon Valley,Series E+
+I0488,Kleiner Perkins,S1728,Harvey,Silicon Valley,Series E+
+I0489,Conviction,S1728,Harvey,Silicon Valley,Series E+
+I0490,EQT Growth,S1728,Harvey,Silicon Valley,Series E+
+I0487,OpenAI,S1818,Figure,Silicon Valley,Series C
+I0079,NVIDIA,S1818,Figure,Silicon Valley,Series C
+I0316,FJ Labs,S1818,Figure,Silicon Valley,Series C
+I0491,Brookfield Asset Management,S1818,Figure,Silicon Valley,Series C
+I0357,Microsoft,S1818,Figure,Silicon Valley,Series C
+I0079,NVIDIA,S1819,Lambda,Silicon Valley,Debt Financing
+I0241,Alumni Ventures,S1819,Lambda,Silicon Valley,Debt Financing
+I0329,Gaingels,S1819,Lambda,Silicon Valley,Debt Financing
+I0072,CITIC Securities,S1819,Lambda,Silicon Valley,Debt Financing
+I0033,BOND Capital,S1819,Lambda,Silicon Valley,Debt Financing
+I0040,500 Global,S1820,AppZen,Silicon Valley,Series D
+I0032,Lightspeed Venture Partners,S1820,AppZen,Silicon Valley,Series D
+I0222,Redpoint eventures Brazil,S1820,AppZen,Silicon Valley,Series D
+I0258,Coatue Management,S1820,AppZen,Silicon Valley,Series D
+I0029,Riverwood Capital,S1820,AppZen,Silicon Valley,Series D
+I0492,National Science Foundation,S1821,Ayar Labs,Silicon Valley,Series D
+I0241,Alumni Ventures,S1821,Ayar Labs,Silicon Valley,Series D
+I0079,NVIDIA,S1821,Ayar Labs,Silicon Valley,Series D
+I0051,Walden International,S1821,Ayar Labs,Silicon Valley,Series D
+I0323,Founders Fund,S1821,Ayar Labs,Silicon Valley,Series D
+I0493,FedEx,S1822,Lyten,Silicon Valley,Venture Round
+I0112,Amazon Web Services,S1822,Lyten,Silicon Valley,Venture Round
+I0494,US Department of Energy,S1822,Lyten,Silicon Valley,Venture Round
+I0495,Triatomic Capital,S1822,Lyten,Silicon Valley,Venture Round
+I0318,Stellantis Ventures,S1822,Lyten,Silicon Valley,Venture Round
+I0033,BOND Capital,S1823,Auditoria.AI,Silicon Valley,Series B
+I0496,Venrock,S1823,Auditoria.AI,Silicon Valley,Series B
+I0486,Workday Ventures,S1823,Auditoria.AI,Silicon Valley,Series B
+I0497,Engineering Capital,S1823,Auditoria.AI,Silicon Valley,Series B
+I0498,Sentinel Global,S1823,Auditoria.AI,Silicon Valley,Series B
+I0014,Tiger Global Management,S1824,Hyphen,Silicon Valley,Series B
+I0499,Chipotle Mexican Grill,S1824,Hyphen,Silicon Valley,Series B
+I0500,SignalRank,S1824,Hyphen,Silicon Valley,Series B
+I0501,Compound,S1824,Hyphen,Silicon Valley,Series B
+I0502,Spacecadet Ventures,S1824,Hyphen,Silicon Valley,Series B
+I0503,StepStone Group,S1825,SiMa.ai,Silicon Valley,Series C
+I0154,Point72 Ventures,S1825,SiMa.ai,Silicon Valley,Series C
+I0504,Wing Venture Capital,S1825,SiMa.ai,Silicon Valley,Series C
+I0505,Adage Capital Management,S1825,SiMa.ai,Silicon Valley,Series C
+I0506,Fidelity,S1825,SiMa.ai,Silicon Valley,Series C
+I0507,Ballistic Ventures,S1826,Concentric AI,Silicon Valley,Series B
+I0508,HarbourVest Partners,S1826,Concentric AI,Silicon Valley,Series B
+I0509,Top Tier Capital Partners,S1826,Concentric AI,Silicon Valley,Series B
+I0510,Homebrew,S1826,Concentric AI,Silicon Valley,Series B
+I0511,Clear Ventures,S1826,Concentric AI,Silicon Valley,Series B
+I0051,Walden International,S1827,Tredence,Silicon Valley,Series B
+I0512,Chicago Pacific Founders,S1827,Tredence,Silicon Valley,Series B
+I0513,XVC,S1937,Aiper,Shenzhen,Venture Round
+I0514,Fosun RZ Capital,S1937,Aiper,Shenzhen,Venture Round
+I0515,Yunqi Partners,S1937,Aiper,Shenzhen,Venture Round
+I0516,Fluidra,S1937,Aiper,Shenzhen,Venture Round
+I0517,Fengqiao Capital,S1937,Aiper,Shenzhen,Venture Round
+I0380,Fortune Venture Capital,S1938,SwitchBot,Shenzhen,Series B
+I0518,QF Capital,S1938,SwitchBot,Shenzhen,Series B
+I0519,Ventech China,S1938,SwitchBot,Shenzhen,Series B
+I0520,XBOTPARK Jijin,S1938,SwitchBot,Shenzhen,Series B
+I0521,Netac Technology,S1938,SwitchBot,Shenzhen,Series B
+I0022,Sequoia Capital,S1939,X Square,Shenzhen,Series A
+I0522,Legend Capital,S1939,X Square,Shenzhen,Series A
+I0069,Lightspeed China Partners,S1939,X Square,Shenzhen,Series A
+I0523,Meituan,S1939,X Square,Shenzhen,Series A
+I0524,Longzhu Capital,S1939,X Square,Shenzhen,Series A
+I0021,HSG,S1940,Neptune Robotics,Shenzhen,Series B
+I0061,Matrix Partners China,S1940,Neptune Robotics,Shenzhen,Series B
+I0205,SOSV,S1940,Neptune Robotics,Shenzhen,Series B
+I0064,Granite Asia,S1940,Neptune Robotics,Shenzhen,Series B
+I0525,Cloud Angel Fund,S1940,Neptune Robotics,Shenzhen,Series B
+I0526,Shenzhen Capital Group,S1941,Aqara,Shenzhen,Series C
+I0039,Gaorong Capital,S1941,Aqara,Shenzhen,Series C
+I0527,Xiaomi,S1941,Aqara,Shenzhen,Series C
+I0528,Cathay Capital,S1941,Aqara,Shenzhen,Series C
+I0529,Shunwei Capital,S1941,Aqara,Shenzhen,Series C
+I0036,Alibaba Group,S1942,JMGO,Shenzhen,Crowdfunding
+I0038,IDG Capital,S1942,JMGO,Shenzhen,Crowdfunding
+I0380,Fortune Venture Capital,S1942,JMGO,Shenzhen,Crowdfunding
+I0530,GF Xinde Investment Management,S1942,JMGO,Shenzhen,Crowdfunding
+I0531,Green Pine Capital Partners,S1942,JMGO,Shenzhen,Crowdfunding
+I0021,HSG,S1943,HAI ROBOTICS,Shenzhen,Series D
+I0051,Walden International,S1943,HAI ROBOTICS,Shenzhen,Series D
+I0532,Source Code Capital,S1943,HAI ROBOTICS,Shenzhen,Series D
+I0533,Legend Star,S1943,HAI ROBOTICS,Shenzhen,Series D
+I0534,01vc,S1943,HAI ROBOTICS,Shenzhen,Series D
+I0529,Shunwei Capital,S1944,Vilego,Shenzhen,Series B
+I0535,Taihill Venture,S1944,Vilego,Shenzhen,Series B
+I0222,Redpoint eventures Brazil,S1944,Vilego,Shenzhen,Series B
+I0514,Fosun RZ Capital,S1944,Vilego,Shenzhen,Series B
+I0536,Seas Capital,S1944,Vilego,Shenzhen,Series B
+I0012,W1 Forward Accelerator Program - Batch 5,S1945,DJI,Shenzhen,Secondary Market
+I0021,HSG,S1945,DJI,Shenzhen,Secondary Market
+I0537,Lighthouse Capital Management,S1945,DJI,Shenzhen,Secondary Market
+I0538,Victor Koch,S1945,DJI,Shenzhen,Secondary Market
+I0539,Aeternam Stella,S1945,DJI,Shenzhen,Secondary Market
+I0540,Highlight Capital,S1946,ENGINEAI,Shenzhen,Series A
+I0541,Baidu Ventures,S1946,ENGINEAI,Shenzhen,Series A
+I0049,JD.com,S1946,ENGINEAI,Shenzhen,Series A
+I0542,Contemporary Amperex Technology,S1946,ENGINEAI,Shenzhen,Series A
+I0380,Fortune Venture Capital,S1946,ENGINEAI,Shenzhen,Series A
+I0079,NVIDIA,S2097,Nscale,London,Series C
+I0543,Blue Owl,S2097,Nscale,London,Series C
+I0154,Point72 Ventures,S2097,Nscale,London,Series C
+I0544,Nokia,S2097,Nscale,London,Series C
+I0506,Fidelity,S2097,Nscale,London,Series C
+I0226,EQT Ventures,S2098,Nothing,London,Series C
+I0545,Quiet Capital,S2098,Nothing,London,Series C
+I0014,Tiger Global Management,S2098,Nothing,London,Series C
+I0219,Highland Europe,S2098,Nothing,London,Series C
+I0546,Tapestry VC,S2098,Nothing,London,Series C
+I0478,TPG,S2099,Tide,London,Private Equity
+I0087,Speedinvest (SI),S2099,Tide,London,Private Equity
+I0091,LocalGlobe,S2099,Tide,London,Private Equity
+I0111,Creandum,S2099,Tide,London,Private Equity
+I0547,Goodwater Capital,S2099,Tide,London,Private Equity
+I0484,Franklin Templeton,S2100,Checkout.com,London,Series D
+I0006,Insight Partners,S2100,Checkout.com,London,Series D
+I0009,Endeavor Catalyst,S2100,Checkout.com,London,Series D
+I0258,Coatue Management,S2100,Checkout.com,London,Series D
+I0381,Ribbit Capital,S2100,Checkout.com,London,Series D
+I0078,General Catalyst,S2101,Monzo,London,Secondary Market
+I0012,W1 Forward Accelerator Program - Batch 5,S2101,Monzo,London,Secondary Market
+I0548,Stripe,S2101,Monzo,London,Secondary Market
+I0021,HSG,S2101,Monzo,London,Secondary Market
+I0034,Y Combinator Summer 2020,S2101,Monzo,London,Secondary Market
+I0091,LocalGlobe,S2102,Signal AI,London,Series D
+I0219,Highland Europe,S2102,Signal AI,London,Series D
+I0549,Mercuri,S2102,Signal AI,London,Series D
+I0550,Frontline Ventures,S2102,Signal AI,London,Series D
+I0551,Kreos Capital,S2102,Signal AI,London,Series D
+I0329,Gaingels,S2103,CRED,London,Seed
+I0241,Alumni Ventures,S2103,CRED,London,Seed
+I0552,Defy.vc,S2103,CRED,London,Seed
+I0221,HOF Capital,S2103,CRED,London,Seed
+I0553,BAM Ventures,S2103,CRED,London,Seed
+I0098,Headline VC (e.ventures),S2104,Attio,London,Series B
+I0554,Passion Capital,S2104,Attio,London,Series B
+I0115,Balderton Capital,S2104,Attio,London,Series B
+I0222,Redpoint eventures Brazil,S2104,Attio,London,Series B
+I0555,01 Advisors,S2104,Attio,London,Series B
+I0331,QED Investors,S2105,Moniepoint,London,Corporate Round
+I0556,Lightrock,S2105,Moniepoint,London,Corporate Round
+I0557,Novastar Ventures,S2105,Moniepoint,London,Corporate Round
+I0009,Endeavor Catalyst,S2105,Moniepoint,London,Corporate Round
+I0328,Bossa Invest,S2105,Moniepoint,London,Corporate Round
+I0262,HSBC Innovation Banking,S2106,Quantexa,London,Series E+
+I0558,Warburg Pincus,S2106,Quantexa,London,Series E+
+I0407,Accenture,S2106,Quantexa,London,Series E+
+I0399,Dawn Capital,S2106,Quantexa,London,Series E+
+I0559,BNY,S2106,Quantexa,London,Series E+
+I0076,SoftBank Vision Fund,S2108,Wayve,London,Grant
+I0262,HSBC Innovation Banking,S2109,TRIVER,London,Debt Financing
+I0560,Point Nine Capital,S2114,Omnea,London,Series B
+I0561,20VC,S2115,Fyxer AI,London,Series B
+I0079,NVIDIA,S2119,CHARM Therapeutics,London,Series B
+I0026,Temasek Holdings,S2120,FNZ,London,Corporate Round
+I0562,Alphabet,S2124,Isomorphic Labs,London,Venture Round
+I0563,Firstminute Capital,S2126,Granola,London,Series B
+I0564,Highgate,S2128,Lighthouse,London,Series C
+I0301,Zero Prime Ventures,S2135,Runware,London,Seed
+I0263,Goldman Sachs Asset Management,S2145,SumUp,London,Debt Financing
+I0095,Lowercarbon Capital,S2148,Fuse Energy,London,Venture Round
+I0565,Lloyds Banking Group,S2156,Yoti,London,Debt Financing
+I0566,Innovate UK,S2171,Alchemab Therapeutics,London,Series A
+I0518,FG2 Capital,S2193,Shop Circle,London,Series B
+I0154,Point72 Ventures,S2207,PolyAI,London,Series D
+I0567,Atomico,S2244,LabGenius,London,Series B
+I0568,aaron nogueira,S2250,ElevenLabs.io,London,Series D
+I0167,DST Global,S2251,Swap,London,Series C
+I0569,Oxford Finance,S2252,Sokin,London,Debt Financing
+I0570,Hercules Capital,S2253,Tenpoint Therapeutics,London,Series B
+I0571,MMC Ventures,S2254,Synthesia.io,London,Series E+
+I0572,Trinity Capital,S2255,Motorway,London,Series C
+I0573,Stable Asset Management,S2256,Dolomite Capital Advisors,London,Debt Financing
+I0079,NVentures - NVIDIA Venture Capital,S2257,Basecamp Research,London,Series B
+I0471,Euroclear,S2258,Proxymity,London,Series C
+I0574,Estancia Capital Partners,S2259,Flagstone Group,London,Series B
+I0575,Dimension Capital,S2260,Automata.tech,London,Series C
+I0576,New Bearing,S2261,Lawhive,London,Series B
+I0277,Eurazeo,S2262,Thought Machine Group Ltd,London,
+I0262,HSBC Innovation Banking,S2263,Zepz,London,
+I0577,NatWest Bank,S2264,Raylo,London,Series A
+I0578,Willets,S2265,Robin AI,London,Seed
+I0579,Gresham House Ventures,S2266,Veremark Ltd,London,Series B
+I0580,Sumitomo Heavy Industries,S2267,Highview Power,London,Series C
+I0072,CITIC Securities,S2268,Wagestream,London,Series D
+I0581,Atempo Growth,S2269,Form3,London,Series C
+I0553,eBay Ventures,S2270,TrueLayer Limited,London,Series E+
+I0582,Nationwide Building Society,S2271,10x Banking,London,Series C
+I0583,Sofina,S2272,Scalable Capital,London,
+I0231,BNP Paribas,S2273,Fnality,London,Series C
+I0584,Goldman Sachs Alternatives,S2274,CityFibre,London,
+I0585,Hunter Point Capital,S2275,Equitix,London,Debt Financing
+I0586,Osprey Investors,S2276,Ascendx Cloud,London,Series C
+I0587,Boldstart Ventures,S2277,Tessl,London,Series A
+I0588,Radius Capital,S2278,PhysicsX,London,Series B
+I0589,Visionaries Club,S2279,Apron,London,Series B
+I0590,TransUnion,S2280,ID5.io,London,Series B
+I0591,Notion Capital,S2281,Treefera,London,Series B
+I0262,HSBC Innovation Banking,S2282,Sedna UK,London,
+I0592,Translink Capital,S2283,BeZero Carbon,London,Series C
+I0593,MS+PARTNERS,S2284,Tiney,London,Series A
+I0594,AshGrove Capital,S2285,Amplience,London,Series D
+I0595,Flight Fund - Steven Bartlett,S2286,Zoe,London,Series B
+I0596,QuantumLight,S2287,Thanks Ben,London,Series B
+I0597,Ascension Ventures,S2288,Tembo Money,London,Series C
+I0598,Invoke Capital,S2289,Luminance AI,London,Bridge Round
+I0599,Morgan Stanley Expansion Capital,S2290,Datamaran,London,Series B
+I0600,True.,S2291,Sava,London,Series A
+I0601,Horizon 2020,S2292,Addionics,London,Series B
+I0602,BGF,S2293,Open Cosmos,London,Series B
+I0603,Never Lift,S2294,Cambridge Aerospace,London,Grant
+I0006,Insight Partners,S2295,Jack & Jill,London,Seed
+I0604,Praetura Ventures,S2296,Juice,London,Series C
+I0605,Cordillera Investment Partners,S2297,Professional Triathletes Organisation,London,Series C
+I0606,Echo Group,S2298,Irys.xyz,London,Series A
+I0607,Pillar VC,S2299,Latent Labs,London,Series A
+I0270,Barclays.,S2300,Liberis,London,Debt Financing
+I0608,CoinShares Ventures,S2301,Komainu,London,Series B
+I0609,Motive Ventures,S2302,Vega-alts,London,Series A
+I0610,Meritech Capital,S2303,Inforcer,London,Series B
+I0140,Tenity,S2304,Plain,London,Series A
+I0611,The Artists Collective,S2305,Seat Unique,London,Series A
+I0612,Triple Point,S2306,Nory AI,London,Series A
+I0613,BlackWood Ventures,S2307,Sidekick Money,London,Series A
+I0614,Lone Star Funds,S2308,Quintain Limited,London,
+I0479,NEA -  New Enterprise Associates,S2309,World Labs,London,IPO
+I0034,Y Combinator Summer 2020,S2310,Converge Ltd,London,
+I0615,Unusual Ventures,S2311,Navro,London,Series B
+I0616,Ringier,S2312,LiveScore Group,London,Seed
+I0419,Google Ventures (GV),S2313,Push Security,London,Series A
+I0345,NXTP Ventures,S2314,Cognitive Credit,London,Series B
+I0003,EXT Capital,S2315,11x.ai,London,Series A
+I0617,Green Angel Syndicate,S2316,Descycle,London,Series A
+I0618,UK Government,S2317,Epoch BioDesign,London,Venture Round
+I0619,M&G Investments,S2318,e-therapeutics,London,
+I0620,QBE Ventures,S2319,"Reserv, Inc.",London,Series B
+I0621,Helvetia Venture Fund,S2320,Napo Pet,London,Series B
+I0622,Department for Business,S2321,Mission Zero Technologies,London,Series A
+I0180,Swiss Federal Office of Energy,S2321,Mission Zero Technologies,London,Series A
+I0623,Industrial Strategy,S2321,Mission Zero Technologies,London,Series A
+I0624,The Thiel Foundation,S2322,CoMind,London,Series A
+I0625,Seraphim Capital,S2323,Satellite Vu,London,Series B
+I0566,Innovate UK,S2324,LIfT BioSciences,London,Series A
+I0626,Banco Bilbao Vizcaya Argentaria (BBVA),S2325,Plum Fintech,London,Series B
+I0342,Portage Ventures,S2326,Marshmallow Technology,London,Series D
+I0627,Indiabulls,S2327,OakNorth Bank,London,Series C
+I0322,Google for Startups,S2328,Indigo,Boston,Venture Round
+I0016,Activant Capital,S2328,Indigo,Boston,Venture Round
+I0628,Flagship Pioneering,S2328,Indigo,Boston,Venture Round
+I0629,G Squared,S2328,Indigo,Boston,Venture Round
+I0493,FedEx,S2328,Indigo,Boston,Venture Round
+I0225,Sapphire Ventures,S2329,Creatio,Boston,Private Equity
+I0503,StepStone Group,S2329,Creatio,Boston,Private Equity
+I0013,Volition Capital,S2329,Creatio,Boston,Private Equity
+I0630,Horizon Capital,S2329,Creatio,Boston,Private Equity
+I0630,Horizon Capital,S2329,Creatio,Boston,Private Equity
+I0241,Alumni Ventures,S2330,SimpliSafe,Boston,Debt Financing
+I0022,Sequoia Capital,S2330,SimpliSafe,Boston,Debt Financing
+I0631,HPS Investment Partners,S2330,SimpliSafe,Boston,Debt Financing
+I0632,Capital One,S2330,SimpliSafe,Boston,Debt Financing
+I0633,Eastern Bank,S2330,SimpliSafe,Boston,Debt Financing
+I0634,SALT,S2331,MoldCo,Boston,Seed
+I0635,Cantos,S2331,MoldCo,Boston,Seed
+I0636,Collaborative Fund,S2331,MoldCo,Boston,Seed
+I0637,Starship Ventures,S2331,MoldCo,Boston,Seed
+I0638,Boost VC,S2331,MoldCo,Boston,Seed
+I0078,General Catalyst,S2332,Aura,Boston,Series E+
+I0012,W1 Forward Accelerator Program - Batch 5,S2332,Aura,Boston,Series E+
+I0639,Ten Eleven Ventures,S2332,Aura,Boston,Series E+
+I0558,Warburg Pincus,S2332,Aura,Boston,Series E+
+I0640,WndrCo,S2332,Aura,Boston,Series E+
+I0541,Baidu Ventures,S2333,Lightelligence,Boston,Series C
+I0061,Matrix Partners China,S2333,Lightelligence,Boston,Series C
+I0030,Vertex Ventures China,S2333,Lightelligence,Boston,Series C
+I0070,CICC,S2333,Lightelligence,Boston,Series C
+I0641,MindWorks Capital,S2333,Lightelligence,Boston,Series C
+I0157,Eclipse Ventures,S2334,Blue Water Autonomy,Boston,Series A
+I0404,Acurio Ventures,S2334,Blue Water Autonomy,Boston,Series A
+I0419,Google Ventures (GV),S2334,Blue Water Autonomy,Boston,Series A
+I0642,Impatient Ventures,S2334,Blue Water Autonomy,Boston,Series A
+I0217,True Ventures,S2335,PredictAP,Boston,Venture Round
+I0643,WISE Ventures,S2335,PredictAP,Boston,Venture Round
+I0015,Coinbase Ventures,S2336,Sphere,Boston,Venture Round
+I0644,Big Brain Holdings,S2336,Sphere,Boston,Venture Round
+I0645,TCG,S2336,Sphere,Boston,Venture Round
+I0591,Notion Capital,S2336,Sphere,Boston,Venture Round
+I0646,Solana Ventures,S2336,Sphere,Boston,Venture Round
+I0011,Andreessen Horowitz,S2337,Starburst,Boston,Venture Round
+I0072,CITIC Securities,S2337,Starburst,Boston,Venture Round
+I0647,Index Ventures,S2337,Starburst,Boston,Venture Round
+I0033,BOND Capital,S2337,Starburst,Boston,Venture Round
+I0258,Coatue Management,S2337,Starburst,Boston,Venture Round
+I0648,Providence Equity Partners,S2483,Hulu,Los Angeles,Undisclosed
+I0649,The Walt Disney Company,S2483,Hulu,Los Angeles,Undisclosed
+I0650,WarnerMedia,S2483,Hulu,Los Angeles,Undisclosed
+I0031,Peak XV Partners,S2484,MarqVision,Los Angeles,Series B
+I0021,HSG,S2484,MarqVision,Los Angeles,Series B
+I0034,Y Combinator Summer 2020,S2484,MarqVision,Los Angeles,Series B
+I0024,Salesforce Ventures,S2484,MarqVision,Los Angeles,Series B
+I0596,QuantumLight,S2484,MarqVision,Los Angeles,Series B
+I0418,Felicis,S2485,Midi Health,Los Angeles,Series C
+I0419,Google Ventures (GV),S2485,Midi Health,Los Angeles,Series C
+I0651,Muse Capital,S2485,Midi Health,Los Angeles,Series C
+I0652,Operator Collective,S2485,Midi Health,Los Angeles,Series C
+I0653,Emerson Collective,S2485,Midi Health,Los Angeles,Series C
+I0011,Andreessen Horowitz,S2486,Apex,Los Angeles,Series D
+I0654,Village Global,S2486,Apex,Los Angeles,Series D
+I0336,8VC,S2486,Apex,Los Angeles,Series D
+I0003,EXT Capital,S2486,Apex,Los Angeles,Series D
+I0447,Stoneshield Capital,S2486,Apex,Los Angeles,Series D
+I0655,Nutrabolt,S2487,Bloom Nutrition,Los Angeles,Corporate Round
+I0656,Amberstone Ventures,S2487,Bloom Nutrition,Los Angeles,Corporate Round
+I0657,Clayton Christopher,S2487,Bloom Nutrition,Los Angeles,Corporate Round
+I0658,VITALIZE Venture Capital,S2488,Upwards,Los Angeles,Series B
+I0659,Fika Ventures,S2488,Upwards,Los Angeles,Series B
+I0660,Equal Ventures,S2488,Upwards,Los Angeles,Series B
+I0661,M13,S2488,Upwards,Los Angeles,Series B
+I0662,Social Capital,S2488,Upwards,Los Angeles,Series B
+I0329,Gaingels,S2489,Emerge,Los Angeles,Series A
+I0241,Alumni Ventures,S2489,Emerge,Los Angeles,Series A
+I0663,Golden Ventures,S2489,Emerge,Los Angeles,Series A
+I0664,Alpaca VC,S2489,Emerge,Los Angeles,Series A
+I0665,One Way Ventures,S2489,Emerge,Los Angeles,Series A
+I0330,BoxGroup,S2490,Modern Animal,Los Angeles,Series D
+I0323,Founders Fund,S2490,Modern Animal,Los Angeles,Series D
+I0553,eBay Ventures,S2490,Modern Animal,Los Angeles,Series D
+I0666,Long Journey Ventures,S2490,Modern Animal,Los Angeles,Series D
+I0217,True Ventures,S2490,Modern Animal,Los Angeles,Series D
+I0483,Norwest Venture Partners,S2491,FloQast,Los Angeles,Series E+
+I0006,Insight Partners,S2491,FloQast,Los Angeles,Series E+
+I0225,Sapphire Ventures,S2491,FloQast,Los Angeles,Series E+
+I0667,ICONIQ Growth,S2491,FloQast,Los Angeles,Series E+
+I0222,Redpoint eventures Brazil,S2491,FloQast,Los Angeles,Series E+
+I0329,Gaingels,S2492,RentSpree,Los Angeles,Series B
+I0668,645 Ventures,S2492,RentSpree,Los Angeles,Series B
+I0304,Realyze Ventures,S2492,RentSpree,Los Angeles,Series B
+I0669,TenOneTen Ventures,S2492,RentSpree,Los Angeles,Series B
+I0670,Amplify.LA,S2492,RentSpree,Los Angeles,Series B
+I0021,HSG,S2642,Unitree Robotics,Hangzhou,Series C
+I0526,Shenzhen Capital Group,S2642,Unitree Robotics,Hangzhou,Series C
+I0061,Matrix Partners China,S2642,Unitree Robotics,Hangzhou,Series C
+I0037,Tencent,S2642,Unitree Robotics,Hangzhou,Series C
+I0036,Alibaba Group,S2642,Unitree Robotics,Hangzhou,Series C
+I0380,Fortune Venture Capital,S2644,Deep Robotics,Hangzhou,Venture Round
+I0671,Peakvest,S2644,Deep Robotics,Hangzhou,Venture Round
+I0672,Huaying Capital,S2644,Deep Robotics,Hangzhou,Venture Round
+I0673,F&G Venture,S2644,Deep Robotics,Hangzhou,Venture Round
+I0674,Beijing Robot Industry Fund,S2644,Deep Robotics,Hangzhou,Venture Round
+I0026,Temasek Holdings,S2645,Ant Group,Hangzhou,Debt Financing
+I0082,General Atlantic,S2645,Ant Group,Hangzhou,Debt Financing
+I0022,Sequoia Capital,S2645,Ant Group,Hangzhou,Debt Financing
+I0558,Warburg Pincus,S2645,Ant Group,Hangzhou,Debt Financing
+I0231,BNP Paribas,S2645,Ant Group,Hangzhou,Debt Financing
+I0675,Zhang Jingping,S2646,Second Life,Hangzhou,Undisclosed
+I0676,Nano Labs,S2646,Second Life,Hangzhou,Undisclosed
+I0677,Daocin Capital,S2646,Second Life,Hangzhou,Undisclosed
+I0025,Hillhouse Investment,S2647,Astronergy,Hangzhou,Series C
+I0051,Walden International,S2647,Astronergy,Hangzhou,Series C
+I0678,China Capital Management,S2647,Astronergy,Hangzhou,Series C
+I0070,CICC,S2647,Astronergy,Hangzhou,Series C
+I0679,BOCOM International,S2647,Astronergy,Hangzhou,Series C
+I0680,Zhang Jiahao,S2648,Blue Wave,Hangzhou,Series A
+I0681,Tuya,S2648,Blue Wave,Hangzhou,Series A
+I0408,Bonsai Partners,S2648,Blue Wave,Hangzhou,Series A
+I0682,Oceanpine Capital,S2648,Blue Wave,Hangzhou,Series A
+I0683,Oriental Fortune Capital,S2648,Blue Wave,Hangzhou,Series A
+I0540,Highlight Capital,S2649,Qianxun Intelligence,Hangzhou,Seed
+I0380,Fortune Venture Capital,S2649,Qianxun Intelligence,Hangzhou,Seed
+I0529,Shunwei Capital,S2649,Qianxun Intelligence,Hangzhou,Seed
+I0068,China Internet Investment Fund,S2649,Qianxun Intelligence,Hangzhou,Seed
+I0049,JD.com,S2649,Qianxun Intelligence,Hangzhou,Seed
+I0016,Activant Capital,S2650,Flower Knows,Hangzhou,Series B
+I0684,Kunyan Capital,S2650,Flower Knows,Hangzhou,Series B
+I0685,Proya,S2650,Flower Knows,Hangzhou,Series B
+I0686,Lotus Lake Ventures,S2651,Yuannang Bio,Hangzhou,Series A
+I0687,ZSVC,S2651,Yuannang Bio,Hangzhou,Series A
+I0218,Evantic Capital,S2744,Lovable,Stockholm,Series A
+I0012,W1 Forward Accelerator Program - Batch 5,S2744,Lovable,Stockholm,Series A
+I0233,Antler,S2744,Lovable,Stockholm,Series A
+I0111,Creandum,S2744,Lovable,Stockholm,Series A
+I0239,The Twenty Minute VC,S2744,Lovable,Stockholm,Series A
+I0086,Techstars,S2745,Tether,Stockholm,Pre-Seed
+I0412,K Fund,S2745,Tether,Stockholm,Pre-Seed
+I0464,Draper B1,S2745,Tether,Stockholm,Pre-Seed
+I0477,Menlo Ventures,S2745,Tether,Stockholm,Pre-Seed
+I0430,Inclimo Climate Tech Fund,S2745,Tether,Stockholm,Pre-Seed
+I0078,General Catalyst,S2746,Legora,Stockholm,Series B
+I0034,Y Combinator Summer 2020,S2746,Legora,Stockholm,Series B
+I0688,ICONIQ Capital,S2746,Legora,Stockholm,Series B
+I0045,Benchmark,S2746,Legora,Stockholm,Series B
+I0222,Redpoint eventures Brazil,S2746,Legora,Stockholm,Series B
+I0234,Plug,S2747,Einride,Stockholm,Venture Round
+I0235,Next Play Ventures,S2747,Einride,Stockholm,Venture Round
+I0026,Temasek Holdings,S2747,Einride,Stockholm,Venture Round
+I0226,EQT Ventures,S2747,Einride,Stockholm,Venture Round
+I0689,Northzone,S2747,Einride,Stockholm,Venture Round
+I0690,IonQ,S2747,Einride,Stockholm,Venture Round
+I0111,Creandum,S2748,Epidemic Sound,Stockholm,Private Equity
+I0226,EQT Ventures,S2748,Epidemic Sound,Stockholm,Private Equity
+I0691,Blackstone Group,S2748,Epidemic Sound,Stockholm,Private Equity
+I0692,AMF,S2748,Epidemic Sound,Stockholm,Private Equity
+I0693,Alecta,S2748,Epidemic Sound,Stockholm,Private Equity
+I0694,Almi Invest,S2749,Flox,Stockholm,Grant
+I0695,Unconventional Ventures,S2749,Flox,Stockholm,Grant
+I0696,Argand Partners,S2749,Flox,Stockholm,Grant
+I0697,Sting,S2749,Flox,Stockholm,Grant
+I0698,European Union,S2749,Flox,Stockholm,Grant
+I0477,Menlo Ventures,S2750,Sana,Stockholm,Series C
+I0479,NEA -  New Enterprise Associates,S2750,Sana,Stockholm,Series C
+I0226,EQT Ventures,S2750,Sana,Stockholm,Series C
+I0093,Kima Ventures,S2750,Sana,Stockholm,Series C
+I0105,Acequia Capital (AceCap),S2750,Sana,Stockholm,Series C
+I0078,General Catalyst,S2751,Neko Health,Stockholm,Series B
+I0032,Lightspeed Venture Partners,S2751,Neko Health,Stockholm,Series B
+I0119,Lakestar,S2751,Neko Health,Stockholm,Series B
+I0699,O.G. Venture Partners,S2751,Neko Health,Stockholm,Series B
+I0567,Atomico,S2751,Neko Health,Stockholm,Series B
+I0012,W1 Forward Accelerator Program - Batch 5,S2752,Polar,Stockholm,Seed
+I0700,Guillermo Rauch,S2752,Polar,Stockholm,Seed
+I0701,Anton Osika,S2752,Polar,Stockholm,Seed
+I0702,Tobias Lütke,S2752,Polar,Stockholm,Seed
+I0703,Paul Copplestone,S2752,Polar,Stockholm,Seed
+I0551,Kreos Capital,S2753,Funnel,Stockholm,Series C
+I0115,Balderton Capital,S2753,Funnel,Stockholm,Series C
+I0704,Oxx,S2753,Funnel,Stockholm,Series C
+I0705,F-Prime,S2753,Funnel,Stockholm,Series C
+I0706,Eight Roads Ventures,S2753,Funnel,Stockholm,Series C
+I0231,BNP Paribas,S2756,Aira,Stockholm,Venture Round
+I0707,Kandela,S2760,Candela,Stockholm,Venture Round
+I0708,SDCL Energy Efficiency Income Trust,S2761,Baseload Capital,Stockholm,Corporate Round
+I0698,European Union - EU,S2762,Stegra,Stockholm,Debt Financing
+I0709,Altos Ventures,S2769,Quartr,Stockholm,Venture Round
+I0589,Visionaries Club,S2770,Tandem Health,Stockholm,Series A
+I0710,Luminar Ventures,S2774,Opper AI,Stockholm,Pre-Seed
+I0551,Kairous Capital,S2784,Aonic Group,Stockholm,Private Equity
+I0711,Sprints Capital,S2792,Planhat,Stockholm,Series A
+I0712,Rabobank,S2795,Alight,Stockholm,Debt Financing
+I0713,European Investment Fund (EIF),S2800,Froda,Stockholm,Series B
+I0714,Innovation Fund.,S2807,Mine Storage,Stockholm,Venture Round
+I0715,H&M Group Ventures,S2814,Sellpy,Stockholm,Corporate Round
+I0716,Salica Investments,S2836,Anyfin,Stockholm,Series C
+I0103,European Innovation Council,S2842,CorPower Ocean,Stockholm,Series B
+I0717,Kinnevik,S2847,Budbee,Stockholm,Series C
+I0718,Propel Capital Network,S2854,Hypertype,Stockholm,Seed
+I0711,Sprints Capital,S2868,Flightradar24 AB,Stockholm,
+I0719,Ellevio,S2869,Flower AB,Stockholm,Series A
+I0692,AMF.se,S2870,Polarium,Stockholm,Series D
+I0720,Giant Ventures,S2871,evroc,Stockholm,Series A
+I0721,Investinor,S2872,Tribune Therapeutics,Stockholm,Series A
+I0722,Alliance Venture,S2873,Bits Technology,Stockholm,Series A
+I0723,Gullspang Re:Food,S2874,Matsmart,Stockholm,Series C
+I0268,Project A Ventures (PAV),S2875,Kry.se,Stockholm,Series D
+I0724,Norrsken Evolve,S2876,Berget AI,Stockholm,Seed
+I0725,Inception Fund,S2877,Dentio,Stockholm,Seed
+I0245,Inventure VC,S2878,Encube,Stockholm,
+I0034,Y Combinator Summer 2020,S2879,Brickanta,Stockholm,Seed
+I0033,BOND Capital,S2880,Företagsparken AB,Stockholm,
+I0726,Nordic Capital,S2881,Soltech Energy AB,Stockholm,IPO
+I0727,Collector Bank,S2882,24Storage AB,Stockholm,Seed
+I0728,Baird Capital,S2883,EvoluteIQ,Stockholm,Series B
+I0729,Pollen Street Capital,S2884,Tessin Nordic,Stockholm,Bridge Round
+I0226,EQT Ventures,S2885,Instabox Sweden AB,Stockholm,
+I0730,Alfvén & Didrikson,S2886,Kognity,Stockholm,Bridge Round
+I0731,node.vc,S2887,acast - Makes good stories great,Stockholm,Series C
+I0732,Endeit Capital,S2888,Eir Insurance,Stockholm,Series B
+I0733,Eir Ventures,S2889,Moleculent AB,Stockholm,Series A
+I0233,Antler,S2890,Buility,Stockholm,Seed
+I0260,Round2 Capital Partners,S2891,Phyron AI,Stockholm,Series B
+I0034,Y Combinator Summer 2020,S2892,Librar Labs,Stockholm,Seed
+I0078,General Catalyst,S2893,Stilla,Stockholm,Seed
+I0417,Octopus Ventures,S2894,Grasp,Stockholm,Series A
+I0734,Operators & Friends,S2895,Epiminds,Stockholm,Seed
+I0735,Kaknäs Invest,S2896,Meetric,Stockholm,Seed
+I0736,Course Corrected,S2897,Skye Energy,Stockholm,Seed
+I0165,Norrsken VC,S2898,Endra AI,Stockholm,Seed
+I0737,Inflection Fund,S2899,Nordic Air Defence,Stockholm,Seed
+I0738,Sustainable Aero Lab Program 2025,S2900,Wingbits,Stockholm,Seed
+I0731,node.vc,S2901,Starhive,Stockholm,Seed
+I0739,Oilinvest,S2902,Net Zero Company,Stockholm,Seed
+I0740,NXT: Distribution,S2903,Billogram AB,Stockholm,Debt Financing
+I0741,Norron Asset Management,S2904,Doctrin,Stockholm,Series B
+I0742,Inbox Capital,S2905,MEDS Apotek,Stockholm,IPO
+I0060,Inven Capital,S2906,tobii pro / insight,Stockholm,
+I0694,Almi Invest GreenTech Fund,S2907,Standab,Stockholm,Seed
+I0034,Y Combinator Summer 2020,S2908,Vesence,Stockholm,Seed
+I0743,Norrsken Launcher,S2909,Agteria Biotech,Stockholm,Seed
+I0742,Inbox Capital,S2910,Lysa,Stockholm,Series B
+I0744,Swedbank,S2911,Stillfront Group,Stockholm,
+I0120,Costanoa Ventures,S2912,rerun.io,Stockholm,Seed
+I0204,byFounders,S2913,intric,Stockholm,Pre-Seed
+I0710,Luminar Ventures,S2914,IntuiCell,Stockholm,Seed
+I0123,NCPA Capital,S2915,DENTME,Stockholm,Debt Financing
+I0745,VERBUND X Ventures,S2916,Qurrent,Stockholm,Seed
+I0694,Almi Invest GreenTech Fund,S2917,Epigenica,Stockholm,Seed
+I0746,Icebreaker VC,S2918,Zymego,Stockholm,
+I0710,Luminar Ventures,S2919,Motorica AI,Stockholm,Seed
+I0204,byFounders,S2920,QA.tech,Stockholm,Seed
+I0715,H&M Group Ventures,S2921,Mantle.,Stockholm,Seed
+I0034,Y Combinator Summer 2020,S2922,Vectorview,Stockholm,Seed
+I0747,Futurum Ventures,S2923,DREM,Stockholm,
+I0748,Bust,S2924,Venga.app,Stockholm,
+I0528,Acathia Capital,S2925,Futur,Stockholm,
+I0704,Oxx,S2926,Kodiak Hub,Stockholm,Series A
+I0749,Karolinska Development,S2927,Modus Therapeutics,Stockholm,IPO
+I0716,Salica Investments,S2928,MatHem,Stockholm,Series D
+I0117,Animoca Brands,S2929,MetaKing Studios,Stockholm,Seed
+I0750,Verdane,S2930,Storytel,Stockholm,
+I0751,Astir Ventures,S2931,LootLocker,Stockholm,Seed
+I0752,Bonnier,S2932,Readly,Stockholm,
+I0753,MOOR Capital,S2933,Universal Avenue,Stockholm,Convertible Note
+I0754,DeepMind Capital Ltd,S2934,GreenVoltis,Stockholm,Seed
+I0755,Backing Minds,S2935,Techarena,Stockholm,
+I0756,Behold Ventures,S2936,Blue Scarab Entertainment,Stockholm,Seed
+I0230,Battery Ventures,S2937,Quinyx,Stockholm,Series C
+I0757,BaltCap,S2938,ClimateView,Stockholm,Series A
+I0758,Five Elms Capital,S2939,360Player,Stockholm,Series B
+I0420,Seaya Ventures,S2940,Stockholm Water Technology AB,Stockholm,
+I0759,Centripetal Co.,S2941,Truecaller for Developers,Stockholm,
+I0731,node.vc,S2942,Volumental,Stockholm,Series B
+I0760,Energy Revolution Ventures,S2943,Blixt,Stockholm,Seed
+I0761,Marginalen Bank,S2944,Elvy,Stockholm,Debt Financing
+I0511,LifeArc Ventures,S2945,Vicore Pharma,Stockholm,IPO
+I0762,Tom Nyman Holding,S2946,Learnster,Stockholm,Series B
+I0025,Hillhouse Investment,S2948,XAG,Guangzhou,Series D
+I0076,SoftBank Vision Fund,S2948,XAG,Guangzhou,Series D
+I0763,Sinovation Ventures,S2948,XAG,Guangzhou,Series D
+I0728,Baird Capital,S2948,XAG,Guangzhou,Series D
+I0764,Chengwei Capital,S2948,XAG,Guangzhou,Series D
+I0526,Shenzhen Capital Group,S2949,GAC Aion New Energy Automobile,Guangzhou,Series A
+I0765,China Southern Power Grid,S2949,GAC Aion New Energy Automobile,Guangzhou,Series A
+I0766,Guangzhou Automobile Group,S2949,GAC Aion New Energy Automobile,Guangzhou,Series A
+I0598,Invoke Capital,S2949,GAC Aion New Energy Automobile,Guangzhou,Series A
+I0767,GoldStone Investment,S2949,GAC Aion New Energy Automobile,Guangzhou,Series A
+I0768,ShareLink Capital,S2950,Billboard,Guangzhou,Seed
+I0065,OrbiMed,S2951,Angitia Biopharmaceuticals,Guangzhou,Series C
+I0522,Legend Capital,S2951,Angitia Biopharmaceuticals,Guangzhou,Series C
+I0769,Janus Henderson Investors,S2951,Angitia Biopharmaceuticals,Guangzhou,Series C
+I0066,Morningside,S2951,Angitia Biopharmaceuticals,Guangzhou,Series C
+I0770,Bain Capital Life Sciences,S2951,Angitia Biopharmaceuticals,Guangzhou,Series C
+I0771,Crescent Point,S2952,Jianke,Guangzhou,Series C
+I0077,Volcanics Venture,S2952,Jianke,Guangzhou,Series C
+I0772,ShenZhen GTJA Investment Group,S2952,Jianke,Guangzhou,Series C
+I0110,M&L Healthcare Investments,S2952,Jianke,Guangzhou,Series C
+I0773,YungPark Capital,S2952,Jianke,Guangzhou,Series C
+I0774,Guoju Venture Capital,S2953,AIMIRA Innovation Technology,Guangzhou,Seed
+I0775,Boyuan Capital,S2953,AIMIRA Innovation Technology,Guangzhou,Seed
+I0776,Guangzhou Industrial Investment Group,S2953,AIMIRA Innovation Technology,Guangzhou,Seed
+I0777,Fosun Health Capital,S2953,AIMIRA Innovation Technology,Guangzhou,Seed
+I0778,CDF-Capital,S2953,AIMIRA Innovation Technology,Guangzhou,Seed
+I0779,Gobi Partners,S2954,Urban Revivo,Guangzhou,Series A
+I0780,Greenwoods Asset Management,S2954,Urban Revivo,Guangzhou,Series A
+I0781,UR HK,S2954,Urban Revivo,Guangzhou,Series A
+I0219,Highland Europe,S2954,Urban Revivo,Guangzhou,Series A
+I0021,HSG,S2955,TUNGEE,Guangzhou,Series B
+I0050,Qiming Venture Partners,S2955,TUNGEE,Guangzhou,Series B
+I0528,Acathia Capital,S2955,TUNGEE,Guangzhou,Series B
+I0036,Alibaba Group,S2955,TUNGEE,Guangzhou,Series B
+I0782,Innoangel Fund,S2955,TUNGEE,Guangzhou,Series B
+I0021,HSG,S2956,Vibrant,Guangzhou,Series A
+I0061,Matrix Partners China,S2956,Vibrant,Guangzhou,Series A
+I0783,Apricot Capital,S2956,Vibrant,Guangzhou,Series A
+I0784,Redhill Capital,S2956,Vibrant,Guangzhou,Series A

@@ -1,0 +1,317 @@
+============================================================
+GLOBAL STARTUPS NORMALIZATION PIPELINE
+============================================================
+
+============================================================
+STAGE 1: Combine & Add Metadata
+============================================================
+  Tel Aviv: 99 rows
+  Beijing: 67 rows
+  Seoul: 69 rows
+  Singapore: 241 rows
+  Shanghai: 155 rows
+  Tokyo: 162 rows
+  Paris: 156 rows
+  Zurich: 175 rows
+  Berlin: 227 rows
+  Sao Paulo: 220 rows
+  Madrid: 219 rows
+  Silicon Valley: 221 rows
+  Shenzhen: 99 rows
+  NYC: 69 rows
+  London: 245 rows
+  Boston: 159 rows
+  Los Angeles: 161 rows
+  Hangzhou: 109 rows
+  Stockholm: 207 rows
+  Guangzhou: 81 rows
+
+  Total combined: 3141 rows
+  Columns: ['Name', 'Website', 'Industry', 'Description', 'Founded', 'Funding', 'Revenue', 'Last Round', 'Founders', 'Top Investors', 'Team Size', 'City', 'Country', 'Region', 'startup_id']
+
+  Sample (first 3):
+    S0001 | Wonderful (wonderful.ai) | Tel Aviv | Israel | Middle East
+    S0002 | Guardio (guard.io) | Tel Aviv | Israel | Middle East
+    S0003 | Torq (Formerly StackPulse) | Tel Aviv | Israel | Middle East
+
+============================================================
+STAGE 2: Deduplication
+============================================================
+  Dedup: ['LayerX', 'LayerX Security'] in ['Tokyo', 'Tel Aviv'] → kept LayerX
+  Dedup: ['Vungle', 'Vungle', 'Vungle', 'Vungle', 'Vungle', 'Vungle'] in ['Beijing', 'Seoul', 'Berlin', 'Tokyo', 'Singapore', 'London'] → kept Vungle
+  Dedup: ['Visualase', 'Visualase', 'Visualase'] in ['Beijing', 'Tokyo', 'Seoul'] → kept Visualase
+  Dedup: ['Lixiang', 'Lixiang'] in ['Shanghai', 'Beijing'] → kept Lixiang
+  Dedup: ['Mevion Medical Systems', 'Mevion Medical Systems'] in ['Tokyo', 'Beijing'] → kept Mevion Medical Systems
+  Dedup: ['Mobvoi', 'Mobvoi'] in ['Beijing', 'Shanghai'] → kept Mobvoi
+  Dedup: ['Yikon Genomics Co., Ltd.', 'Yikon Genomics Co., Ltd.', 'Yikon Genomics Co., Ltd.', 'Yikon Genomics'] in ['Guangzhou', 'Beijing', 'Shanghai', 'Shanghai'] → kept Yikon Genomics Co., Ltd.
+  Dedup: ['Shansong Express', 'Shansong Express'] in ['Shanghai', 'Beijing'] → kept Shansong Express
+  Dedup: ['Terminus Technologies', 'terminus'] in ['Beijing', 'Hangzhou'] → kept Terminus Technologies
+  Dedup: ['CloudWalk, Inc', 'Cloudwalk', 'CloudWalk Technology'] in ['Sao Paulo', 'Guangzhou', 'Beijing'] → kept CloudWalk, Inc
+  Dedup: ['ATEAM Ventures', 'ATEAM Ventures Co., Ltd.'] in ['Seoul', 'Seoul'] → kept ATEAM Ventures
+  Dedup: ['TESSA', 'Tessl'] in ['Seoul', 'London'] → kept Tessl
+
+  Duplicates found and removed: 119
+  Rows after dedup: 3022
+  Multi-city startups: 63
+
+============================================================
+STAGE 3: Normalize Funding & Revenue
+============================================================
+
+  Unparseable funding values (15):
+    ODDO BHF: '—'
+    Allianz Trade: '—'
+    BT Group: '—'
+    MakeMyTrip: '—'
+    Mitsubishi Electric: '—'
+    Movistar: '—'
+    OnePlus: '—'
+    RealMe: '—'
+    BMW: '—'
+    Google DeepMind: '—'
+
+  Funding: 2838/3022 parsed (93.9%)
+  Revenue: 397/3022 parsed (13.1%)
+
+  Sample conversions:
+    Wonderful (wonderful.ai): $34M → $34,000,000
+    Guardio (guard.io): $127M → $127,000,000
+    Torq (Formerly StackPulse): $8m → $8,000,000
+    Dream Security: $35M → $35,000,000
+    AI21 Labs: $9.5M → $9,500,000
+
+============================================================
+STAGE 4: Normalize Founded Year
+============================================================
+
+  Suspicious founded years (28):
+    Agency for Science, Technology and Research: 1987
+    800 Super Holdings: 1985
+    Yinson Production: 1983
+    JunHe: 1989
+    Mistine: 1988
+    Mobilize Financial Services: 1974
+    PSG: 1970
+    ODDO BHF: 1849
+    Allianz Trade: 1927
+    Hitachi Energy: 1900
+    ABB Group: 1988
+    Berlin Hyp: 1868
+    Natura Cosmeticos: 1969
+    EMS: 1964
+    BT Group: 1964
+    Braskem: 1986
+    BTG Pactual: 1983
+    Globeducate: 1972
+    Mitsubishi Electric: 1921
+    Amper: 1955
+    Tottenham Hotspur: 1882
+    GSMA: 1982
+    Lloyd's: 1829
+    Berenberg: 1590
+    New Balance: 1906
+    Prime Group: 1989
+    Geely: 1986
+    Stockholm Exergi: 1919
+
+  Founded year: 2849/3022 parsed (94.3%)
+  Range: 1900-2026
+
+============================================================
+STAGE 5: Standardize Team Size
+============================================================
+
+  Team size: 696/3022 parsed (23.0%)
+
+  Category distribution:
+    51-250: 244
+    11-50: 179
+    251-1000: 143
+    1-10: 96
+    1001-5000: 34
+
+============================================================
+STAGE 6: Standardize Industry Taxonomy
+============================================================
+
+  Unique raw tags: 678
+  Mapped to 'Other': 289
+
+  Primary industry distribution:
+    AI/ML: 570
+    Fintech: 543
+    SaaS/Software: 424
+    Healthcare/Biotech: 275
+    Media/Entertainment: 225
+    Robotics/Hardware: 216
+    E-Commerce/Retail: 167
+    EV/Mobility: 134
+    Other: 114
+    CleanTech/Energy: 77
+    FoodTech/AgTech: 57
+    EdTech: 54
+    Cybersecurity: 53
+    Real Estate/PropTech: 49
+    Insurance: 27
+    SpaceTech: 16
+    Telecom: 11
+    HR/Workforce: 6
+    Legal: 2
+    Defense: 2
+
+============================================================
+STAGE 7: Standardize Funding Round
+============================================================
+
+  Funding stage distribution:
+    Seed: 510
+    Series A: 507
+    Series B: 490
+    Series C: 294
+    Venture Round: 197
+    Series D: 143
+    Debt Financing: 140
+    Series E+: 93
+    IPO: 80
+    Grant: 54
+    Pre-Seed: 49
+    Private Equity: 45
+    Corporate Round: 35
+    Bridge Round: 29
+    Secondary Market: 18
+    Convertible Note: 16
+    Undisclosed: 11
+    Crowdfunding: 10
+    ICO: 4
+
+============================================================
+STAGE 8: Parse Founders & Investors
+============================================================
+
+  Unique founders: 1525
+  Founder-startup links: 1586
+  Unique investors: 784
+  Investor-startup links: 1315
+  Co-investment edges: 1504
+
+============================================================
+STAGE 9: Output Files
+============================================================
+  Saved startups_master.csv (3022 rows)
+  Saved startups_master.parquet
+  Saved startup_cities.csv (137 rows)
+  Saved founders.csv (1586 rows)
+  Saved investors.csv (1315 rows)
+  Saved co_investments.csv (1504 rows)
+  Saved industry_taxonomy.csv (678 rows)
+  Saved data_quality_report.csv
+  Saved cleaning_log.txt
+
+============================================================
+STAGE 10: Validation & Summary Stats
+============================================================
+
+  1. Total startups (after dedup): 3022
+
+  2. Startups per city:
+     London: 231
+     Singapore: 225
+     Berlin: 221
+     Silicon Valley: 218
+     Madrid: 215
+     Sao Paulo: 214
+     Stockholm: 203
+     Zurich: 166
+     Los Angeles: 159
+     Tokyo: 155
+     Boston: 155
+     Paris: 152
+     Shanghai: 143
+     Hangzhou: 102
+     Tel Aviv: 98
+     Shenzhen: 96
+     Guangzhou: 76
+     Seoul: 65
+     Beijing: 64
+     NYC: 64
+
+  3. Startups per primary industry:
+     AI/ML: 570
+     Fintech: 543
+     SaaS/Software: 424
+     Healthcare/Biotech: 275
+     Media/Entertainment: 225
+     Robotics/Hardware: 216
+     E-Commerce/Retail: 167
+     EV/Mobility: 134
+     Other: 114
+     CleanTech/Energy: 77
+     FoodTech/AgTech: 57
+     EdTech: 54
+     Cybersecurity: 53
+     Real Estate/PropTech: 49
+     Insurance: 27
+     SpaceTech: 16
+     Telecom: 11
+     HR/Workforce: 6
+     Legal: 2
+     Defense: 2
+
+  4. Startups per region:
+     Europe: 1188
+     East Asia: 701
+     North America: 596
+     Southeast Asia: 225
+     Latin America: 214
+     Middle East: 98
+
+  5. Funding (USD) by region:
+     Middle East: median=$40,000,000, mean=$62,841,821, min=$7,100, max=$359,000,000 (n=89)
+     East Asia: median=$50,000,000, mean=$314,850,795, min=$15,100, max=$28,500,000,000 (n=639)
+     Southeast Asia: median=$30,000,000, mean=$338,982,392, min=$3,400, max=$17,600,000,000 (n=217)
+     Europe: median=$25,000,000, mean=$197,703,776, min=$2, max=$13,800,000,000 (n=1101)
+     Latin America: median=$21,850,000, mean=$139,272,528, min=$125,000, max=$2,400,000,000 (n=198)
+     North America: median=$75,300,000, mean=$503,812,845, min=$20,000, max=$78,000,000,000 (n=594)
+
+  6. Data completeness:
+     website: 98.5%
+     primary_industry: 100.0%
+     description: 99.7%
+     founded_year: 94.3%
+     funding_usd: 93.9%
+     revenue_usd: 13.1%
+     funding_stage: 90.2%
+     team_size_min: 23.0%
+     founders_list: 31.6%
+     investors_list: 23.5%
+
+  7. Top 10 most active investors:
+     HSG: 16 startups
+     General Catalyst: 13 startups
+     Y Combinator Summer 2020: 13 startups
+     Endeavor Catalyst: 10 startups
+     NVIDIA: 10 startups
+     Andreessen Horowitz: 9 startups
+     W1 Forward Accelerator Program - Batch 5: 9 startups
+     Sequoia Capital: 9 startups
+     Temasek Holdings: 9 startups
+     Accel: 8 startups
+
+  8. Top 10 co-investor pairs:
+     HSG + Tencent: 5 co-investments
+     Alibaba Group + HSG: 4 co-investments
+     Andreessen Horowitz + NVIDIA: 4 co-investments
+     HSG + Matrix Partners China: 4 co-investments
+     Alumni Ventures + Gaingels: 3 co-investments
+     Alibaba Group + Tencent: 3 co-investments
+     General Catalyst + Lightspeed Venture Partners: 3 co-investments
+     BNP Paribas + Temasek Holdings: 2 co-investments
+     BOND Capital + CITIC Securities: 2 co-investments
+     Bossa Invest + Endeavor Catalyst: 2 co-investments
+
+  9. Founded year distribution:
+     pre-2010: 277
+     2010-2015: 810
+     2016-2020: 1111
+     2021-2023: 529
+     2024+: 122
