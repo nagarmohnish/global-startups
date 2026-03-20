@@ -1,0 +1,1505 @@
+﻿investor_a,investor_b,startup_id,city
+8 Decimal Capital,CoinNess,S0228,Singapore
+8 Decimal Capital,Dragonfly,S0228,Singapore
+8 Decimal Capital,MX Capital,S0228,Singapore
+8 Decimal Capital,Transferance Fund,S0228,Singapore
+CoinNess,Dragonfly,S0228,Singapore
+CoinNess,MX Capital,S0228,Singapore
+CoinNess,Transferance Fund,S0228,Singapore
+Dragonfly,MX Capital,S0228,Singapore
+Dragonfly,Transferance Fund,S0228,Singapore
+MX Capital,Transferance Fund,S0228,Singapore
+Bessemer Venture Partners,Checkout.com,S0229,Singapore
+Bessemer Venture Partners,Endeavor Catalyst,S0229,Singapore
+Bessemer Venture Partners,Insight Partners,S0229,Singapore
+Bessemer Venture Partners,Vitruvian Partners,S0229,Singapore
+Checkout.com,Endeavor Catalyst,S0229,Singapore
+Checkout.com,Insight Partners,S0229,Singapore
+Checkout.com,Vitruvian Partners,S0229,Singapore
+Endeavor Catalyst,Insight Partners,S0229,Singapore
+Endeavor Catalyst,Vitruvian Partners,S0229,Singapore
+Insight Partners,Vitruvian Partners,S0229,Singapore
+Accel,Andreessen Horowitz,S0230,Singapore
+Accel,Coinbase Ventures,S0230,Singapore
+Accel,Tiger Global Management,S0230,Singapore
+Accel,Volt Capital,S0230,Singapore
+Andreessen Horowitz,Coinbase Ventures,S0230,Singapore
+Andreessen Horowitz,Tiger Global Management,S0230,Singapore
+Andreessen Horowitz,Volt Capital,S0230,Singapore
+Coinbase Ventures,Tiger Global Management,S0230,Singapore
+Coinbase Ventures,Volt Capital,S0230,Singapore
+Tiger Global Management,Volt Capital,S0230,Singapore
+Activant Capital,Baillie Gifford,S0231,Singapore
+Activant Capital,Khazanah Nasional,S0231,Singapore
+Activant Capital,LeapFrog Investments,S0231,Singapore
+Activant Capital,MetLife,S0231,Singapore
+Baillie Gifford,Khazanah Nasional,S0231,Singapore
+Baillie Gifford,LeapFrog Investments,S0231,Singapore
+Baillie Gifford,MetLife,S0231,Singapore
+Khazanah Nasional,LeapFrog Investments,S0231,Singapore
+Khazanah Nasional,MetLife,S0231,Singapore
+LeapFrog Investments,MetLife,S0231,Singapore
+Blackbird Ventures,HSG,S0232,Singapore
+Blackbird Ventures,Hillhouse Investment,S0232,Singapore
+Blackbird Ventures,Salesforce Ventures,S0232,Singapore
+Blackbird Ventures,Sequoia Capital,S0232,Singapore
+HSG,Hillhouse Investment,S0232,Singapore
+HSG,Salesforce Ventures,S0232,Singapore
+HSG,Sequoia Capital,S0232,Singapore
+Hillhouse Investment,Salesforce Ventures,S0232,Singapore
+Hillhouse Investment,Sequoia Capital,S0232,Singapore
+Salesforce Ventures,Sequoia Capital,S0232,Singapore
+Ripple,Riverwood Capital,S0233,Singapore
+Ripple,Temasek Holdings,S0233,Singapore
+Ripple,Tribe Capital,S0233,Singapore
+Ripple,Vertex Ventures,S0233,Singapore
+Riverwood Capital,Temasek Holdings,S0233,Singapore
+Riverwood Capital,Tribe Capital,S0233,Singapore
+Riverwood Capital,Vertex Ventures,S0233,Singapore
+Temasek Holdings,Tribe Capital,S0233,Singapore
+Temasek Holdings,Vertex Ventures,S0233,Singapore
+Tribe Capital,Vertex Ventures,S0233,Singapore
+B Capital,Lightspeed Venture Partners,S0234,Singapore
+B Capital,Peak XV Partners,S0234,Singapore
+B Capital,VentureSouq,S0234,Singapore
+B Capital,Y Combinator,S0234,Singapore
+Lightspeed Venture Partners,Peak XV Partners,S0234,Singapore
+Lightspeed Venture Partners,VentureSouq,S0234,Singapore
+Lightspeed Venture Partners,Y Combinator,S0234,Singapore
+Peak XV Partners,VentureSouq,S0234,Singapore
+Peak XV Partners,Y Combinator,S0234,Singapore
+VentureSouq,Y Combinator,S0234,Singapore
+Alibaba Group,Gaorong Capital,S0235,Singapore
+Alibaba Group,HSG,S0235,Singapore
+Alibaba Group,IDG Capital,S0235,Singapore
+Alibaba Group,Tencent,S0235,Singapore
+Gaorong Capital,HSG,S0235,Singapore
+Gaorong Capital,IDG Capital,S0235,Singapore
+Gaorong Capital,Tencent,S0235,Singapore
+HSG,IDG Capital,S0235,Singapore
+HSG,Tencent,S0235,Singapore
+IDG Capital,Tencent,S0235,Singapore
+500 Global,EigenLabs,S0236,Singapore
+500 Global,Further Ventures,S0236,Singapore
+500 Global,Hack VC,S0236,Singapore
+500 Global,ZKsync,S0236,Singapore
+EigenLabs,Further Ventures,S0236,Singapore
+EigenLabs,Hack VC,S0236,Singapore
+EigenLabs,ZKsync,S0236,Singapore
+Further Ventures,Hack VC,S0236,Singapore
+Further Ventures,ZKsync,S0236,Singapore
+Hack VC,ZKsync,S0236,Singapore
+Benchmark,HSG,S0237,Singapore
+Benchmark,Tencent,S0237,Singapore
+Benchmark,ZhenFund,S0237,Singapore
+HSG,Tencent,S0237,Singapore
+HSG,ZhenFund,S0237,Singapore
+Tencent,ZhenFund,S0237,Singapore
+CDH Investments,HSG,S0453,Shanghai
+CDH Investments,JD.com,S0453,Shanghai
+CDH Investments,LG Electronics,S0453,Shanghai
+CDH Investments,Tencent,S0453,Shanghai
+HSG,JD.com,S0453,Shanghai
+HSG,LG Electronics,S0453,Shanghai
+HSG,Tencent,S0453,Shanghai
+JD.com,LG Electronics,S0453,Shanghai
+JD.com,Tencent,S0453,Shanghai
+LG Electronics,Tencent,S0453,Shanghai
+Alibaba Group,HSG,S0454,Shanghai
+Alibaba Group,Hillhouse Investment,S0454,Shanghai
+Alibaba Group,Temasek Holdings,S0454,Shanghai
+Alibaba Group,Tencent,S0454,Shanghai
+HSG,Hillhouse Investment,S0454,Shanghai
+HSG,Temasek Holdings,S0454,Shanghai
+HSG,Tencent,S0454,Shanghai
+Hillhouse Investment,Temasek Holdings,S0454,Shanghai
+Hillhouse Investment,Tencent,S0454,Shanghai
+Temasek Holdings,Tencent,S0454,Shanghai
+BAI capital,Hillhouse Investment,S0455,Shanghai
+BAI capital,IDG Capital,S0455,Shanghai
+BAI capital,Qiming Venture Partners,S0455,Shanghai
+BAI capital,Walden International,S0455,Shanghai
+Hillhouse Investment,IDG Capital,S0455,Shanghai
+Hillhouse Investment,Qiming Venture Partners,S0455,Shanghai
+Hillhouse Investment,Walden International,S0455,Shanghai
+IDG Capital,Qiming Venture Partners,S0455,Shanghai
+IDG Capital,Walden International,S0455,Shanghai
+Qiming Venture Partners,Walden International,S0455,Shanghai
+HSG,Lapam Capital,S0456,Shanghai
+HSG,Prosperity7 Ventures,S0456,Shanghai
+HSG,Sky9 Capital,S0456,Shanghai
+HSG,Summer Capital,S0456,Shanghai
+Lapam Capital,Prosperity7 Ventures,S0456,Shanghai
+Lapam Capital,Sky9 Capital,S0456,Shanghai
+Lapam Capital,Summer Capital,S0456,Shanghai
+Prosperity7 Ventures,Sky9 Capital,S0456,Shanghai
+Prosperity7 Ventures,Summer Capital,S0456,Shanghai
+Sky9 Capital,Summer Capital,S0456,Shanghai
+Beijing Taikang Investment,BioVenture,S0457,Shanghai
+Beijing Taikang Investment,China Resources Capital-China Resources Xianglianhe Fund.,S0457,Shanghai
+Beijing Taikang Investment,IDG Capital,S0457,Shanghai
+Beijing Taikang Investment,Neovision Capital,S0457,Shanghai
+BioVenture,China Resources Capital-China Resources Xianglianhe Fund.,S0457,Shanghai
+BioVenture,IDG Capital,S0457,Shanghai
+BioVenture,Neovision Capital,S0457,Shanghai
+China Resources Capital-China Resources Xianglianhe Fund.,IDG Capital,S0457,Shanghai
+China Resources Capital-China Resources Xianglianhe Fund.,Neovision Capital,S0457,Shanghai
+IDG Capital,Neovision Capital,S0457,Shanghai
+Granite Asia,INCE Capital,S0458,Shanghai
+Granite Asia,Lilly Asia Ventures,S0458,Shanghai
+Granite Asia,Matrix Partners China,S0458,Shanghai
+Granite Asia,Vivo Capital,S0458,Shanghai
+INCE Capital,Lilly Asia Ventures,S0458,Shanghai
+INCE Capital,Matrix Partners China,S0458,Shanghai
+INCE Capital,Vivo Capital,S0458,Shanghai
+Lilly Asia Ventures,Matrix Partners China,S0458,Shanghai
+Lilly Asia Ventures,Vivo Capital,S0458,Shanghai
+Matrix Partners China,Vivo Capital,S0458,Shanghai
+Kingray Capital,Lapam Capital,S0459,Shanghai
+Kingray Capital,Morningside,S0459,Shanghai
+Kingray Capital,OrbiMed,S0459,Shanghai
+Kingray Capital,Qiming Venture Partners,S0459,Shanghai
+Lapam Capital,Morningside,S0459,Shanghai
+Lapam Capital,OrbiMed,S0459,Shanghai
+Lapam Capital,Qiming Venture Partners,S0459,Shanghai
+Morningside,OrbiMed,S0459,Shanghai
+Morningside,Qiming Venture Partners,S0459,Shanghai
+OrbiMed,Qiming Venture Partners,S0459,Shanghai
+China Internet Investment Fund,HSG,S0460,Shanghai
+China Internet Investment Fund,Lightspeed China Partners,S0460,Shanghai
+China Internet Investment Fund,Lightspeed Venture Partners,S0460,Shanghai
+China Internet Investment Fund,Matrix Partners China,S0460,Shanghai
+HSG,Lightspeed China Partners,S0460,Shanghai
+HSG,Lightspeed Venture Partners,S0460,Shanghai
+HSG,Matrix Partners China,S0460,Shanghai
+Lightspeed China Partners,Lightspeed Venture Partners,S0460,Shanghai
+Lightspeed China Partners,Matrix Partners China,S0460,Shanghai
+Lightspeed Venture Partners,Matrix Partners China,S0460,Shanghai
+CICC,CITIC Securities,S0461,Shanghai
+CICC,CMB International Capital Corporation,S0461,Shanghai
+CICC,China Life Insurance,S0461,Shanghai
+CICC,SDIC Fund Management,S0461,Shanghai
+CITIC Securities,CMB International Capital Corporation,S0461,Shanghai
+CITIC Securities,China Life Insurance,S0461,Shanghai
+CITIC Securities,SDIC Fund Management,S0461,Shanghai
+CMB International Capital Corporation,China Life Insurance,S0461,Shanghai
+CMB International Capital Corporation,SDIC Fund Management,S0461,Shanghai
+China Life Insurance,SDIC Fund Management,S0461,Shanghai
+IDG Capital,Prosperity7 Ventures,S0462,Shanghai
+IDG Capital,SoftBank Vision Fund,S0462,Shanghai
+IDG Capital,Vision Plus Capital,S0462,Shanghai
+IDG Capital,Volcanics Venture,S0462,Shanghai
+Prosperity7 Ventures,SoftBank Vision Fund,S0462,Shanghai
+Prosperity7 Ventures,Vision Plus Capital,S0462,Shanghai
+Prosperity7 Ventures,Volcanics Venture,S0462,Shanghai
+SoftBank Vision Fund,Vision Plus Capital,S0462,Shanghai
+SoftBank Vision Fund,Volcanics Venture,S0462,Shanghai
+Vision Plus Capital,Volcanics Venture,S0462,Shanghai
+Andreessen Horowitz,Bpifrance,S0751,Paris
+Andreessen Horowitz,General Catalyst,S0751,Paris
+Andreessen Horowitz,Lightspeed Venture Partners,S0751,Paris
+Andreessen Horowitz,NVIDIA,S0751,Paris
+Bpifrance,General Catalyst,S0751,Paris
+Bpifrance,Lightspeed Venture Partners,S0751,Paris
+Bpifrance,NVIDIA,S0751,Paris
+General Catalyst,Lightspeed Venture Partners,S0751,Paris
+General Catalyst,NVIDIA,S0751,Paris
+Lightspeed Venture Partners,NVIDIA,S0751,Paris
+Astorg,BlackRock,S0752,Paris
+Astorg,CVC Capital Partners,S0752,Paris
+Astorg,General Atlantic,S0752,Paris
+Astorg,Partech,S0752,Paris
+BlackRock,CVC Capital Partners,S0752,Paris
+BlackRock,General Atlantic,S0752,Paris
+BlackRock,Partech,S0752,Paris
+CVC Capital Partners,General Atlantic,S0752,Paris
+CVC Capital Partners,Partech,S0752,Paris
+General Atlantic,Partech,S0752,Paris
+Crane Venture Partners,Founders Future,S0753,Paris
+Crane Venture Partners,IRIS,S0753,Paris
+Crane Venture Partners,Speedinvest,S0753,Paris
+Crane Venture Partners,Techstars,S0753,Paris
+Founders Future,IRIS,S0753,Paris
+Founders Future,Speedinvest,S0753,Paris
+Founders Future,Techstars,S0753,Paris
+IRIS,Speedinvest,S0753,Paris
+IRIS,Techstars,S0753,Paris
+Speedinvest,Techstars,S0753,Paris
+Crowdcube,Kima Ventures,S0754,Paris
+Crowdcube,LocalGlobe,S0754,Paris
+Crowdcube,Speedinvest,S0754,Paris
+Crowdcube,Y Combinator,S0754,Paris
+Kima Ventures,LocalGlobe,S0754,Paris
+Kima Ventures,Speedinvest,S0754,Paris
+Kima Ventures,Y Combinator,S0754,Paris
+LocalGlobe,Speedinvest,S0754,Paris
+LocalGlobe,Y Combinator,S0754,Paris
+Speedinvest,Y Combinator,S0754,Paris
+Bpifrance,Elemental Impact,S0755,Paris
+Bpifrance,Engine Ventures,S0755,Paris
+Bpifrance,Entrepreneurs First,S0755,Paris
+Bpifrance,Lowercarbon Capital,S0755,Paris
+Elemental Impact,Engine Ventures,S0755,Paris
+Elemental Impact,Entrepreneurs First,S0755,Paris
+Elemental Impact,Lowercarbon Capital,S0755,Paris
+Engine Ventures,Entrepreneurs First,S0755,Paris
+Engine Ventures,Lowercarbon Capital,S0755,Paris
+Entrepreneurs First,Lowercarbon Capital,S0755,Paris
+Bpifrance,Cathay Innovation,S0756,Paris
+Bpifrance,Headline,S0756,Paris
+Bpifrance,Hitachi Ventures,S0756,Paris
+Bpifrance,Hummingbird Ventures,S0756,Paris
+Cathay Innovation,Headline,S0756,Paris
+Cathay Innovation,Hitachi Ventures,S0756,Paris
+Cathay Innovation,Hummingbird Ventures,S0756,Paris
+Headline,Hitachi Ventures,S0756,Paris
+Headline,Hummingbird Ventures,S0756,Paris
+Hitachi Ventures,Hummingbird Ventures,S0756,Paris
+AVP,Acequia Capital (AceCap),S0757,Paris
+AVP,Bpifrance,S0757,Paris
+AVP,European Innovation Council,S0757,Paris
+AVP,Supernova Invest,S0757,Paris
+Acequia Capital (AceCap),Bpifrance,S0757,Paris
+Acequia Capital (AceCap),European Innovation Council,S0757,Paris
+Acequia Capital (AceCap),Supernova Invest,S0757,Paris
+Bpifrance,European Innovation Council,S0757,Paris
+Bpifrance,Supernova Invest,S0757,Paris
+European Innovation Council,Supernova Invest,S0757,Paris
+Asabys Partners,Genesis Medtech,S0758,Paris
+Asabys Partners,Gideon Strategic Partners,S0758,Paris
+Asabys Partners,M&L Healthcare Investments,S0758,Paris
+Asabys Partners,Sofinnova Partners,S0758,Paris
+Genesis Medtech,Gideon Strategic Partners,S0758,Paris
+Genesis Medtech,M&L Healthcare Investments,S0758,Paris
+Genesis Medtech,Sofinnova Partners,S0758,Paris
+Gideon Strategic Partners,M&L Healthcare Investments,S0758,Paris
+Gideon Strategic Partners,Sofinnova Partners,S0758,Paris
+M&L Healthcare Investments,Sofinnova Partners,S0758,Paris
+Accel,Amazon,S0759,Paris
+Accel,Creandum,S0759,Paris
+Accel,FirstMark,S0759,Paris
+Accel,UiPath,S0759,Paris
+Amazon,Creandum,S0759,Paris
+Amazon,FirstMark,S0759,Paris
+Amazon,UiPath,S0759,Paris
+Creandum,FirstMark,S0759,Paris
+Creandum,UiPath,S0759,Paris
+FirstMark,UiPath,S0759,Paris
+Animoca Brands,Balderton Capital,S0760,Paris
+Animoca Brands,Bpifrance,S0760,Paris
+Animoca Brands,Sebastien Borget,S0760,Paris
+Animoca Brands,XAnge,S0760,Paris
+Balderton Capital,Bpifrance,S0760,Paris
+Balderton Capital,Sebastien Borget,S0760,Paris
+Balderton Capital,XAnge,S0760,Paris
+Bpifrance,Sebastien Borget,S0760,Paris
+Bpifrance,XAnge,S0760,Paris
+Sebastien Borget,XAnge,S0760,Paris
+Bessemer Venture Partners,Costanoa Ventures,S0903,Zurich
+Bessemer Venture Partners,Lakestar,S0903,Zurich
+Bessemer Venture Partners,Mosaic Ventures,S0903,Zurich
+Bessemer Venture Partners,U.S. Department of Defense,S0903,Zurich
+Costanoa Ventures,Lakestar,S0903,Zurich
+Costanoa Ventures,Mosaic Ventures,S0903,Zurich
+Costanoa Ventures,U.S. Department of Defense,S0903,Zurich
+Lakestar,Mosaic Ventures,S0903,Zurich
+Lakestar,U.S. Department of Defense,S0903,Zurich
+Mosaic Ventures,U.S. Department of Defense,S0903,Zurich
+Bessemer Venture Partners,NGP Capital,S0904,Zurich
+Bessemer Venture Partners,Supernova Invest,S0904,Zurich
+Bessemer Venture Partners,TDK Ventures,S0904,Zurich
+Bessemer Venture Partners,Vertex Ventures,S0904,Zurich
+NGP Capital,Supernova Invest,S0904,Zurich
+NGP Capital,TDK Ventures,S0904,Zurich
+NGP Capital,Vertex Ventures,S0904,Zurich
+Supernova Invest,TDK Ventures,S0904,Zurich
+Supernova Invest,Vertex Ventures,S0904,Zurich
+TDK Ventures,Vertex Ventures,S0904,Zurich
+Barclays Investment Bank,Fasanara Capital,S0905,Zurich
+Barclays Investment Bank,M&G Plc,S0905,Zurich
+Barclays Investment Bank,WENVEST Capital,S0905,Zurich
+Barclays Investment Bank,Weisshorn,S0905,Zurich
+Fasanara Capital,M&G Plc,S0905,Zurich
+Fasanara Capital,WENVEST Capital,S0905,Zurich
+Fasanara Capital,Weisshorn,S0905,Zurich
+M&G Plc,WENVEST Capital,S0905,Zurich
+M&G Plc,Weisshorn,S0905,Zurich
+WENVEST Capital,Weisshorn,S0905,Zurich
+Baillie Gifford,Gideon Strategic Partners,S0906,Zurich
+Baillie Gifford,Global Founders Capital,S0906,Zurich
+Baillie Gifford,Partners Group,S0906,Zurich
+Baillie Gifford,Zürcher Kantonal Bank,S0906,Zurich
+Gideon Strategic Partners,Global Founders Capital,S0906,Zurich
+Gideon Strategic Partners,Partners Group,S0906,Zurich
+Gideon Strategic Partners,Zürcher Kantonal Bank,S0906,Zurich
+Global Founders Capital,Partners Group,S0906,Zurich
+Global Founders Capital,Zürcher Kantonal Bank,S0906,Zurich
+Partners Group,Zürcher Kantonal Bank,S0906,Zurich
+Government of France,Innosuisse,S0907,Zurich
+Government of France,Shiloh Advisors,S0907,Zurich
+Government of France,The Wyss Foundation,S0907,Zurich
+Government of France,Zürcher Kantonal Bank,S0907,Zurich
+Innosuisse,Shiloh Advisors,S0907,Zurich
+Innosuisse,The Wyss Foundation,S0907,Zurich
+Innosuisse,Zürcher Kantonal Bank,S0907,Zurich
+Shiloh Advisors,The Wyss Foundation,S0907,Zurich
+Shiloh Advisors,Zürcher Kantonal Bank,S0907,Zurich
+The Wyss Foundation,Zürcher Kantonal Bank,S0907,Zurich
+Agile Robots AG,Bezos Expeditions,S0908,Zurich
+Agile Robots AG,HSG,S0908,Zurich
+Agile Robots AG,Innosuisse,S0908,Zurich
+Agile Robots AG,Linear Capital,S0908,Zurich
+Bezos Expeditions,HSG,S0908,Zurich
+Bezos Expeditions,Innosuisse,S0908,Zurich
+Bezos Expeditions,Linear Capital,S0908,Zurich
+HSG,Innosuisse,S0908,Zurich
+HSG,Linear Capital,S0908,Zurich
+Innosuisse,Linear Capital,S0908,Zurich
+ACE Ventures,Innosuisse,S0910,Zurich
+ACE Ventures,SICTIC,S0910,Zurich
+ACE Ventures,Tenity,S0910,Zurich
+ACE Ventures,Thomas Dübendorfer,S0910,Zurich
+Innosuisse,SICTIC,S0910,Zurich
+Innosuisse,Tenity,S0910,Zurich
+Innosuisse,Thomas Dübendorfer,S0910,Zurich
+SICTIC,Tenity,S0910,Zurich
+SICTIC,Thomas Dübendorfer,S0910,Zurich
+Tenity,Thomas Dübendorfer,S0910,Zurich
+Alaska Star Ventures,Craft Ventures,S0911,Zurich
+Alaska Star Ventures,Sky Dayton,S0911,Zurich
+Alaska Star Ventures,The Friedkin Group,S0911,Zurich
+Alaska Star Ventures,UP Partners,S0911,Zurich
+Craft Ventures,Sky Dayton,S0911,Zurich
+Craft Ventures,The Friedkin Group,S0911,Zurich
+Craft Ventures,UP Partners,S0911,Zurich
+Sky Dayton,The Friedkin Group,S0911,Zurich
+Sky Dayton,UP Partners,S0911,Zurich
+The Friedkin Group,UP Partners,S0911,Zurich
+Anthony Pompliano,Collab+Currency,S0912,Zurich
+Anthony Pompliano,Marshall Wace,S0912,Zurich
+Anthony Pompliano,Morgan Creek Digital,S0912,Zurich
+Anthony Pompliano,Valor Equity Partners,S0912,Zurich
+Collab+Currency,Marshall Wace,S0912,Zurich
+Collab+Currency,Morgan Creek Digital,S0912,Zurich
+Collab+Currency,Valor Equity Partners,S0912,Zurich
+Marshall Wace,Morgan Creek Digital,S0912,Zurich
+Marshall Wace,Valor Equity Partners,S0912,Zurich
+Morgan Creek Digital,Valor Equity Partners,S0912,Zurich
+Accel,Automattic,S1069,Berlin
+Accel,Evantic Capital,S1069,Berlin
+Accel,HV Capital,S1069,Berlin
+Accel,Highland Europe,S1069,Berlin
+Accel,Redpoint,S1069,Berlin
+Accel,Sequoia Capital,S1069,Berlin
+Automattic,Evantic Capital,S1069,Berlin
+Automattic,HV Capital,S1069,Berlin
+Automattic,Highland Europe,S1069,Berlin
+Automattic,Redpoint,S1069,Berlin
+Automattic,Sequoia Capital,S1069,Berlin
+Evantic Capital,HV Capital,S1069,Berlin
+Evantic Capital,Highland Europe,S1069,Berlin
+Evantic Capital,Redpoint,S1069,Berlin
+Evantic Capital,Sequoia Capital,S1069,Berlin
+HV Capital,Highland Europe,S1069,Berlin
+HV Capital,Redpoint,S1069,Berlin
+HV Capital,Sequoia Capital,S1069,Berlin
+Highland Europe,Redpoint,S1069,Berlin
+Highland Europe,Sequoia Capital,S1069,Berlin
+Redpoint,Sequoia Capital,S1069,Berlin
+Accel,BDT & MSD Partners,S1070,Berlin
+Accel,General Catalyst,S1070,Berlin
+Accel,Lightspeed Venture Partners,S1070,Berlin
+Accel,Saab,S1070,Berlin
+BDT & MSD Partners,General Catalyst,S1070,Berlin
+BDT & MSD Partners,Lightspeed Venture Partners,S1070,Berlin
+BDT & MSD Partners,Saab,S1070,Berlin
+General Catalyst,Lightspeed Venture Partners,S1070,Berlin
+General Catalyst,Saab,S1070,Berlin
+Lightspeed Venture Partners,Saab,S1070,Berlin
+Bessemer Venture Partners,BlackRock,S1071,Berlin
+Bessemer Venture Partners,HV Capital,S1071,Berlin
+Bessemer Venture Partners,Sapphire Ventures,S1071,Berlin
+Bessemer Venture Partners,Speedinvest,S1071,Berlin
+BlackRock,HV Capital,S1071,Berlin
+BlackRock,Sapphire Ventures,S1071,Berlin
+BlackRock,Speedinvest,S1071,Berlin
+HV Capital,Sapphire Ventures,S1071,Berlin
+HV Capital,Speedinvest,S1071,Berlin
+Sapphire Ventures,Speedinvest,S1071,Berlin
+Altimeter Capital,EQT Ventures,S1072,Berlin
+Altimeter Capital,General Catalyst,S1072,Berlin
+Altimeter Capital,Mosaic Ventures,S1072,Berlin
+Altimeter Capital,Newion,S1072,Berlin
+EQT Ventures,General Catalyst,S1072,Berlin
+EQT Ventures,Mosaic Ventures,S1072,Berlin
+EQT Ventures,Newion,S1072,Berlin
+General Catalyst,Mosaic Ventures,S1072,Berlin
+General Catalyst,Newion,S1072,Berlin
+Mosaic Ventures,Newion,S1072,Berlin
+BNP Paribas,Battery Ventures,S1073,Berlin
+BNP Paribas,CITIC Securities,S1073,Berlin
+BNP Paribas,Deutsche Bank,S1073,Berlin
+BNP Paribas,Temasek Holdings,S1073,Berlin
+Battery Ventures,CITIC Securities,S1073,Berlin
+Battery Ventures,Deutsche Bank,S1073,Berlin
+Battery Ventures,Temasek Holdings,S1073,Berlin
+CITIC Securities,Deutsche Bank,S1073,Berlin
+CITIC Securities,Temasek Holdings,S1073,Berlin
+Deutsche Bank,Temasek Holdings,S1073,Berlin
+HV Capital,Partech,S1074,Berlin
+HV Capital,RTP Global,S1074,Berlin
+HV Capital,SoftBank Vision Fund,S1074,Berlin
+HV Capital,Speedinvest,S1074,Berlin
+Partech,RTP Global,S1074,Berlin
+Partech,SoftBank Vision Fund,S1074,Berlin
+Partech,Speedinvest,S1074,Berlin
+RTP Global,SoftBank Vision Fund,S1074,Berlin
+RTP Global,Speedinvest,S1074,Berlin
+SoftBank Vision Fund,Speedinvest,S1074,Berlin
+Antler,Atlas SGR,S1075,Berlin
+Antler,D11Z.Ventures,S1075,Berlin
+Antler,Founders Factory,S1075,Berlin
+Antler,Play,S1075,Berlin
+Antler,Plug,S1075,Berlin
+Atlas SGR,D11Z.Ventures,S1075,Berlin
+Atlas SGR,Founders Factory,S1075,Berlin
+Atlas SGR,Play,S1075,Berlin
+Atlas SGR,Plug,S1075,Berlin
+D11Z.Ventures,Founders Factory,S1075,Berlin
+D11Z.Ventures,Play,S1075,Berlin
+D11Z.Ventures,Plug,S1075,Berlin
+Founders Factory,Play,S1075,Berlin
+Founders Factory,Plug,S1075,Berlin
+Play,Plug,S1075,Berlin
+Accel,Laton Ventures,S1076,Berlin
+Accel,Scribble Ventures,S1076,Berlin
+Accel,Tencent,S1076,Berlin
+Accel,The Twenty Minute VC,S1076,Berlin
+Laton Ventures,Scribble Ventures,S1076,Berlin
+Laton Ventures,Tencent,S1076,Berlin
+Laton Ventures,The Twenty Minute VC,S1076,Berlin
+Scribble Ventures,Tencent,S1076,Berlin
+Scribble Ventures,The Twenty Minute VC,S1076,Berlin
+Tencent,The Twenty Minute VC,S1076,Berlin
+Alumni Ventures,Decathlon Capital Partners,S1077,Berlin
+Alumni Ventures,GFR Fund,S1077,Berlin
+Alumni Ventures,Inventure,S1077,Berlin
+Alumni Ventures,Washington Harbour Partners,S1077,Berlin
+Decathlon Capital Partners,GFR Fund,S1077,Berlin
+Decathlon Capital Partners,Inventure,S1077,Berlin
+Decathlon Capital Partners,Washington Harbour Partners,S1077,Berlin
+GFR Fund,Inventure,S1077,Berlin
+GFR Fund,Washington Harbour Partners,S1077,Berlin
+Inventure,Washington Harbour Partners,S1077,Berlin
+Fortino Capital,Mario Götze,S1078,Berlin
+Fortino Capital,Merantix Capital,S1078,Berlin
+Fortino Capital,Peak XV Partners,S1078,Berlin
+Fortino Capital,Rogier Fischer,S1078,Berlin
+Mario Götze,Merantix Capital,S1078,Berlin
+Mario Götze,Peak XV Partners,S1078,Berlin
+Mario Götze,Rogier Fischer,S1078,Berlin
+Merantix Capital,Peak XV Partners,S1078,Berlin
+Merantix Capital,Rogier Fischer,S1078,Berlin
+Peak XV Partners,Rogier Fischer,S1078,Berlin
+Abstract,Google for Startups,S1290,Sao Paulo
+Abstract,ONEVC,S1290,Sao Paulo
+Abstract,Spark Capital,S1290,Sao Paulo
+Abstract,Tiger Global Management,S1290,Sao Paulo
+Google for Startups,ONEVC,S1290,Sao Paulo
+Google for Startups,Spark Capital,S1290,Sao Paulo
+Google for Startups,Tiger Global Management,S1290,Sao Paulo
+ONEVC,Spark Capital,S1290,Sao Paulo
+ONEVC,Tiger Global Management,S1290,Sao Paulo
+Spark Capital,Tiger Global Management,S1290,Sao Paulo
+Amazon Web Services,FJ Labs,S1291,Sao Paulo
+Amazon Web Services,Founders Fund,S1291,Sao Paulo
+Amazon Web Services,ONEVC,S1291,Sao Paulo
+Amazon Web Services,Sequoia Capital,S1291,Sao Paulo
+FJ Labs,Founders Fund,S1291,Sao Paulo
+FJ Labs,ONEVC,S1291,Sao Paulo
+FJ Labs,Sequoia Capital,S1291,Sao Paulo
+Founders Fund,ONEVC,S1291,Sao Paulo
+Founders Fund,Sequoia Capital,S1291,Sao Paulo
+ONEVC,Sequoia Capital,S1291,Sao Paulo
+Base10 Partners,Canary,S1292,Sao Paulo
+Base10 Partners,Kaszek,S1292,Sao Paulo
+Base10 Partners,Latitud,S1292,Sao Paulo
+Base10 Partners,Preface Ventures,S1292,Sao Paulo
+Canary,Kaszek,S1292,Sao Paulo
+Canary,Latitud,S1292,Sao Paulo
+Canary,Preface Ventures,S1292,Sao Paulo
+Kaszek,Latitud,S1292,Sao Paulo
+Kaszek,Preface Ventures,S1292,Sao Paulo
+Latitud,Preface Ventures,S1292,Sao Paulo
+Bossa Invest,Endeavor Catalyst,S1293,Sao Paulo
+Bossa Invest,Partners Group,S1293,Sao Paulo
+Bossa Invest,Riverwood Capital,S1293,Sao Paulo
+Bossa Invest,Tencent,S1293,Sao Paulo
+Endeavor Catalyst,Partners Group,S1293,Sao Paulo
+Endeavor Catalyst,Riverwood Capital,S1293,Sao Paulo
+Endeavor Catalyst,Tencent,S1293,Sao Paulo
+Partners Group,Riverwood Capital,S1293,Sao Paulo
+Partners Group,Tencent,S1293,Sao Paulo
+Riverwood Capital,Tencent,S1293,Sao Paulo
+BoxGroup,Canary,S1294,Sao Paulo
+BoxGroup,Gaingels,S1294,Sao Paulo
+BoxGroup,General Catalyst,S1294,Sao Paulo
+BoxGroup,Goldman Sachs Asset Management,S1294,Sao Paulo
+Canary,Gaingels,S1294,Sao Paulo
+Canary,General Catalyst,S1294,Sao Paulo
+Canary,Goldman Sachs Asset Management,S1294,Sao Paulo
+Gaingels,General Catalyst,S1294,Sao Paulo
+Gaingels,Goldman Sachs Asset Management,S1294,Sao Paulo
+General Catalyst,Goldman Sachs Asset Management,S1294,Sao Paulo
+Endeavor Catalyst,Flourish Ventures,S1295,Sao Paulo
+Endeavor Catalyst,Inspired Capital Partners,S1295,Sao Paulo
+Endeavor Catalyst,QED Investors,S1295,Sao Paulo
+Endeavor Catalyst,Sequoia Capital,S1295,Sao Paulo
+Flourish Ventures,Inspired Capital Partners,S1295,Sao Paulo
+Flourish Ventures,QED Investors,S1295,Sao Paulo
+Flourish Ventures,Sequoia Capital,S1295,Sao Paulo
+Inspired Capital Partners,QED Investors,S1295,Sao Paulo
+Inspired Capital Partners,Sequoia Capital,S1295,Sao Paulo
+QED Investors,Sequoia Capital,S1295,Sao Paulo
+Banco Citibank SA,Citibanamex,S1296,Sao Paulo
+Canary,Coinbase Ventures,S1297,Sao Paulo
+Canary,Endeavor Catalyst,S1297,Sao Paulo
+Canary,SoftBank Vision Fund,S1297,Sao Paulo
+Canary,Valor Capital Group,S1297,Sao Paulo
+Coinbase Ventures,Endeavor Catalyst,S1297,Sao Paulo
+Coinbase Ventures,SoftBank Vision Fund,S1297,Sao Paulo
+Coinbase Ventures,Valor Capital Group,S1297,Sao Paulo
+Endeavor Catalyst,SoftBank Vision Fund,S1297,Sao Paulo
+Endeavor Catalyst,Valor Capital Group,S1297,Sao Paulo
+SoftBank Vision Fund,Valor Capital Group,S1297,Sao Paulo
+8VC,Atlantico,S1298,Sao Paulo
+8VC,Canary,S1298,Sao Paulo
+8VC,FJ Labs,S1298,Sao Paulo
+8VC,MONASHEES,S1298,Sao Paulo
+Atlantico,Canary,S1298,Sao Paulo
+Atlantico,FJ Labs,S1298,Sao Paulo
+Atlantico,MONASHEES,S1298,Sao Paulo
+Canary,FJ Labs,S1298,Sao Paulo
+Canary,MONASHEES,S1298,Sao Paulo
+FJ Labs,MONASHEES,S1298,Sao Paulo
+Alexia Ventures,Astella,S1299,Sao Paulo
+Alexia Ventures,Norte Ventures,S1299,Sao Paulo
+Alexia Ventures,Sagol Holdings,S1299,Sao Paulo
+Alexia Ventures,Y Combinator,S1299,Sao Paulo
+Astella,Norte Ventures,S1299,Sao Paulo
+Astella,Sagol Holdings,S1299,Sao Paulo
+Astella,Y Combinator,S1299,Sao Paulo
+Norte Ventures,Sagol Holdings,S1299,Sao Paulo
+Norte Ventures,Y Combinator,S1299,Sao Paulo
+Sagol Holdings,Y Combinator,S1299,Sao Paulo
+500 Global,Bessemer Venture Partners,S1504,Madrid
+500 Global,General Catalyst,S1504,Madrid
+500 Global,JME Ventures,S1504,Madrid
+500 Global,Reach Capital,S1504,Madrid
+Bessemer Venture Partners,General Catalyst,S1504,Madrid
+Bessemer Venture Partners,JME Ventures,S1504,Madrid
+Bessemer Venture Partners,Reach Capital,S1504,Madrid
+General Catalyst,JME Ventures,S1504,Madrid
+General Catalyst,Reach Capital,S1504,Madrid
+JME Ventures,Reach Capital,S1504,Madrid
+AWS Startup Loft Accelerator,Dawn Capital,S1505,Madrid
+AWS Startup Loft Accelerator,Insight Partners,S1505,Madrid
+AWS Startup Loft Accelerator,Kibo Ventures,S1505,Madrid
+Dawn Capital,Insight Partners,S1505,Madrid
+Dawn Capital,Kibo Ventures,S1505,Madrid
+Insight Partners,Kibo Ventures,S1505,Madrid
+13books Capital,Big Sur Ventures,S1506,Madrid
+13books Capital,Inven Capital,S1506,Madrid
+13books Capital,Inveready,S1506,Madrid
+13books Capital,JME Ventures,S1506,Madrid
+Big Sur Ventures,Inven Capital,S1506,Madrid
+Big Sur Ventures,Inveready,S1506,Madrid
+Big Sur Ventures,JME Ventures,S1506,Madrid
+Inven Capital,Inveready,S1506,Madrid
+Inven Capital,JME Ventures,S1506,Madrid
+Inveready,JME Ventures,S1506,Madrid
+Acurio Ventures,Adara Ventures,S1507,Madrid
+Acurio Ventures,Oakley Capital,S1507,Madrid
+Acurio Ventures,Walden International,S1507,Madrid
+Adara Ventures,Oakley Capital,S1507,Madrid
+Adara Ventures,Walden International,S1507,Madrid
+Oakley Capital,Walden International,S1507,Madrid
+Accenture,Apax Partners,S1508,Madrid
+Accenture,Bonsai Partners,S1508,Madrid
+Accenture,Oakley Capital,S1508,Madrid
+Accenture,Tiger Global Management,S1508,Madrid
+Apax Partners,Bonsai Partners,S1508,Madrid
+Apax Partners,Oakley Capital,S1508,Madrid
+Apax Partners,Tiger Global Management,S1508,Madrid
+Bonsai Partners,Oakley Capital,S1508,Madrid
+Bonsai Partners,Tiger Global Management,S1508,Madrid
+Oakley Capital,Tiger Global Management,S1508,Madrid
+CDP Venture Capital,Crowdcube,S1509,Madrid
+CDP Venture Capital,Doha Tech Angels,S1509,Madrid
+CDP Venture Capital,Fyrfly Venture Partners,S1509,Madrid
+CDP Venture Capital,Talent Venture Group,S1509,Madrid
+Crowdcube,Doha Tech Angels,S1509,Madrid
+Crowdcube,Fyrfly Venture Partners,S1509,Madrid
+Crowdcube,Talent Venture Group,S1509,Madrid
+Doha Tech Angels,Fyrfly Venture Partners,S1509,Madrid
+Doha Tech Angels,Talent Venture Group,S1509,Madrid
+Fyrfly Venture Partners,Talent Venture Group,S1509,Madrid
+Christian Beedgen,Jorge Poyatos,S1510,Madrid
+Christian Beedgen,K Fund,S1510,Madrid
+Christian Beedgen,Picus Capital,S1510,Madrid
+Christian Beedgen,helloworld vc,S1510,Madrid
+Jorge Poyatos,K Fund,S1510,Madrid
+Jorge Poyatos,Picus Capital,S1510,Madrid
+Jorge Poyatos,helloworld vc,S1510,Madrid
+K Fund,Picus Capital,S1510,Madrid
+K Fund,helloworld vc,S1510,Madrid
+Picus Capital,helloworld vc,S1510,Madrid
+Felicis,GV,S1511,Madrid
+Felicis,Khosla Ventures,S1511,Madrid
+Felicis,Octopus Ventures,S1511,Madrid
+Felicis,Swisscom Ventures,S1511,Madrid
+GV,Khosla Ventures,S1511,Madrid
+GV,Octopus Ventures,S1511,Madrid
+GV,Swisscom Ventures,S1511,Madrid
+Khosla Ventures,Octopus Ventures,S1511,Madrid
+Khosla Ventures,Swisscom Ventures,S1511,Madrid
+Octopus Ventures,Swisscom Ventures,S1511,Madrid
+BBVA Spark,GoHub Ventures,S1512,Madrid
+BBVA Spark,Kayyak Ventures,S1512,Madrid
+BBVA Spark,Seaya,S1512,Madrid
+BBVA Spark,Start-Up Chile,S1512,Madrid
+GoHub Ventures,Kayyak Ventures,S1512,Madrid
+GoHub Ventures,Seaya,S1512,Madrid
+GoHub Ventures,Start-Up Chile,S1512,Madrid
+Kayyak Ventures,Seaya,S1512,Madrid
+Kayyak Ventures,Start-Up Chile,S1512,Madrid
+Seaya,Start-Up Chile,S1512,Madrid
+BlackRock,General Catalyst,S1719,Silicon Valley
+BlackRock,Insight Partners,S1719,Silicon Valley
+BlackRock,Menlo Ventures,S1719,Silicon Valley
+BlackRock,TPG,S1719,Silicon Valley
+General Catalyst,Insight Partners,S1719,Silicon Valley
+General Catalyst,Menlo Ventures,S1719,Silicon Valley
+General Catalyst,TPG,S1719,Silicon Valley
+Insight Partners,Menlo Ventures,S1719,Silicon Valley
+Insight Partners,TPG,S1719,Silicon Valley
+Menlo Ventures,TPG,S1719,Silicon Valley
+Bessemer Venture Partners,IVP,S1720,Silicon Valley
+Bessemer Venture Partners,NVIDIA,S1720,Silicon Valley
+Bessemer Venture Partners,New Enterprise Associates,S1720,Silicon Valley
+Bessemer Venture Partners,W1 Forward Accelerator Program - Batch 5,S1720,Silicon Valley
+IVP,NVIDIA,S1720,Silicon Valley
+IVP,New Enterprise Associates,S1720,Silicon Valley
+IVP,W1 Forward Accelerator Program - Batch 5,S1720,Silicon Valley
+NVIDIA,New Enterprise Associates,S1720,Silicon Valley
+NVIDIA,W1 Forward Accelerator Program - Batch 5,S1720,Silicon Valley
+New Enterprise Associates,W1 Forward Accelerator Program - Batch 5,S1720,Silicon Valley
+Andreessen Horowitz,CITIC Securities,S1721,Silicon Valley
+Andreessen Horowitz,Khosla Ventures,S1721,Silicon Valley
+Andreessen Horowitz,NVIDIA,S1721,Silicon Valley
+Andreessen Horowitz,TPG,S1721,Silicon Valley
+CITIC Securities,Khosla Ventures,S1721,Silicon Valley
+CITIC Securities,NVIDIA,S1721,Silicon Valley
+CITIC Securities,TPG,S1721,Silicon Valley
+Khosla Ventures,NVIDIA,S1721,Silicon Valley
+Khosla Ventures,TPG,S1721,Silicon Valley
+NVIDIA,TPG,S1721,Silicon Valley
+Andreessen Horowitz,General Catalyst,S1722,Silicon Valley
+Andreessen Horowitz,Khosla Ventures,S1722,Silicon Valley
+Andreessen Horowitz,Sequoia Capital,S1722,Silicon Valley
+Andreessen Horowitz,Temasek Holdings,S1722,Silicon Valley
+General Catalyst,Khosla Ventures,S1722,Silicon Valley
+General Catalyst,Sequoia Capital,S1722,Silicon Valley
+General Catalyst,Temasek Holdings,S1722,Silicon Valley
+Khosla Ventures,Sequoia Capital,S1722,Silicon Valley
+Khosla Ventures,Temasek Holdings,S1722,Silicon Valley
+Sequoia Capital,Temasek Holdings,S1722,Silicon Valley
+Andreessen Horowitz,Benchmark,S1723,Silicon Valley
+Andreessen Horowitz,DST Global,S1723,Silicon Valley
+Andreessen Horowitz,Google for Startups,S1723,Silicon Valley
+Andreessen Horowitz,NVIDIA,S1723,Silicon Valley
+Andreessen Horowitz,Thrive Capital,S1723,Silicon Valley
+Andreessen Horowitz,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+Benchmark,DST Global,S1723,Silicon Valley
+Benchmark,Google for Startups,S1723,Silicon Valley
+Benchmark,NVIDIA,S1723,Silicon Valley
+Benchmark,Thrive Capital,S1723,Silicon Valley
+Benchmark,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+DST Global,Google for Startups,S1723,Silicon Valley
+DST Global,NVIDIA,S1723,Silicon Valley
+DST Global,Thrive Capital,S1723,Silicon Valley
+DST Global,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+Google for Startups,NVIDIA,S1723,Silicon Valley
+Google for Startups,Thrive Capital,S1723,Silicon Valley
+Google for Startups,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+NVIDIA,Thrive Capital,S1723,Silicon Valley
+NVIDIA,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+Thrive Capital,W1 Forward Accelerator Program - Batch 5,S1723,Silicon Valley
+8VC,EXT Capital,S1724,Silicon Valley
+8VC,Khosla Ventures,S1724,Silicon Valley
+8VC,Pear VC,S1724,Silicon Valley
+8VC,South Park Commons,S1724,Silicon Valley
+EXT Capital,Khosla Ventures,S1724,Silicon Valley
+EXT Capital,Pear VC,S1724,Silicon Valley
+EXT Capital,South Park Commons,S1724,Silicon Valley
+Khosla Ventures,Pear VC,S1724,Silicon Valley
+Khosla Ventures,South Park Commons,S1724,Silicon Valley
+Pear VC,South Park Commons,S1724,Silicon Valley
+Battery Ventures,Gaingels,S1725,Silicon Valley
+Battery Ventures,IVP,S1725,Silicon Valley
+Battery Ventures,Menlo Ventures,S1725,Silicon Valley
+Battery Ventures,Norwest Venture Partners,S1725,Silicon Valley
+Gaingels,IVP,S1725,Silicon Valley
+Gaingels,Menlo Ventures,S1725,Silicon Valley
+Gaingels,Norwest Venture Partners,S1725,Silicon Valley
+IVP,Menlo Ventures,S1725,Silicon Valley
+IVP,Norwest Venture Partners,S1725,Silicon Valley
+Menlo Ventures,Norwest Venture Partners,S1725,Silicon Valley
+Andreessen Horowitz,Franklin Templeton,S1726,Silicon Valley
+Andreessen Horowitz,Gaingels,S1726,Silicon Valley
+Andreessen Horowitz,NVIDIA,S1726,Silicon Valley
+Andreessen Horowitz,Temasek Holdings,S1726,Silicon Valley
+Franklin Templeton,Gaingels,S1726,Silicon Valley
+Franklin Templeton,NVIDIA,S1726,Silicon Valley
+Franklin Templeton,Temasek Holdings,S1726,Silicon Valley
+Gaingels,NVIDIA,S1726,Silicon Valley
+Gaingels,Temasek Holdings,S1726,Silicon Valley
+NVIDIA,Temasek Holdings,S1726,Silicon Valley
+BOND Capital,Insight Partners,S1727,Silicon Valley
+BOND Capital,Radical Ventures,S1727,Silicon Valley
+BOND Capital,Salesforce Ventures,S1727,Silicon Valley
+BOND Capital,Workday Ventures,S1727,Silicon Valley
+Insight Partners,Radical Ventures,S1727,Silicon Valley
+Insight Partners,Salesforce Ventures,S1727,Silicon Valley
+Insight Partners,Workday Ventures,S1727,Silicon Valley
+Radical Ventures,Salesforce Ventures,S1727,Silicon Valley
+Radical Ventures,Workday Ventures,S1727,Silicon Valley
+Salesforce Ventures,Workday Ventures,S1727,Silicon Valley
+Andreessen Horowitz,Coatue Management,S1728,Silicon Valley
+Andreessen Horowitz,Conviction,S1728,Silicon Valley
+Andreessen Horowitz,EQT Growth,S1728,Silicon Valley
+Andreessen Horowitz,Kleiner Perkins,S1728,Silicon Valley
+Andreessen Horowitz,OpenAI,S1728,Silicon Valley
+Andreessen Horowitz,Sequoia Capital,S1728,Silicon Valley
+Coatue Management,Conviction,S1728,Silicon Valley
+Coatue Management,EQT Growth,S1728,Silicon Valley
+Coatue Management,Kleiner Perkins,S1728,Silicon Valley
+Coatue Management,OpenAI,S1728,Silicon Valley
+Coatue Management,Sequoia Capital,S1728,Silicon Valley
+Conviction,EQT Growth,S1728,Silicon Valley
+Conviction,Kleiner Perkins,S1728,Silicon Valley
+Conviction,OpenAI,S1728,Silicon Valley
+Conviction,Sequoia Capital,S1728,Silicon Valley
+EQT Growth,Kleiner Perkins,S1728,Silicon Valley
+EQT Growth,OpenAI,S1728,Silicon Valley
+EQT Growth,Sequoia Capital,S1728,Silicon Valley
+Kleiner Perkins,OpenAI,S1728,Silicon Valley
+Kleiner Perkins,Sequoia Capital,S1728,Silicon Valley
+OpenAI,Sequoia Capital,S1728,Silicon Valley
+Brookfield Asset Management,FJ Labs,S1818,Silicon Valley
+Brookfield Asset Management,Microsoft,S1818,Silicon Valley
+Brookfield Asset Management,NVIDIA,S1818,Silicon Valley
+Brookfield Asset Management,OpenAI,S1818,Silicon Valley
+FJ Labs,Microsoft,S1818,Silicon Valley
+FJ Labs,NVIDIA,S1818,Silicon Valley
+FJ Labs,OpenAI,S1818,Silicon Valley
+Microsoft,NVIDIA,S1818,Silicon Valley
+Microsoft,OpenAI,S1818,Silicon Valley
+NVIDIA,OpenAI,S1818,Silicon Valley
+Alumni Ventures,BOND Capital,S1819,Silicon Valley
+Alumni Ventures,CITIC Securities,S1819,Silicon Valley
+Alumni Ventures,Gaingels,S1819,Silicon Valley
+Alumni Ventures,NVIDIA,S1819,Silicon Valley
+BOND Capital,CITIC Securities,S1819,Silicon Valley
+BOND Capital,Gaingels,S1819,Silicon Valley
+BOND Capital,NVIDIA,S1819,Silicon Valley
+CITIC Securities,Gaingels,S1819,Silicon Valley
+CITIC Securities,NVIDIA,S1819,Silicon Valley
+Gaingels,NVIDIA,S1819,Silicon Valley
+500 Global,Coatue Management,S1820,Silicon Valley
+500 Global,Lightspeed Venture Partners,S1820,Silicon Valley
+500 Global,Redpoint eventures Brazil,S1820,Silicon Valley
+500 Global,Riverwood Capital,S1820,Silicon Valley
+Coatue Management,Lightspeed Venture Partners,S1820,Silicon Valley
+Coatue Management,Redpoint eventures Brazil,S1820,Silicon Valley
+Coatue Management,Riverwood Capital,S1820,Silicon Valley
+Lightspeed Venture Partners,Redpoint eventures Brazil,S1820,Silicon Valley
+Lightspeed Venture Partners,Riverwood Capital,S1820,Silicon Valley
+Redpoint eventures Brazil,Riverwood Capital,S1820,Silicon Valley
+Alumni Ventures,Founders Fund,S1821,Silicon Valley
+Alumni Ventures,NVIDIA,S1821,Silicon Valley
+Alumni Ventures,National Science Foundation,S1821,Silicon Valley
+Alumni Ventures,Walden International,S1821,Silicon Valley
+Founders Fund,NVIDIA,S1821,Silicon Valley
+Founders Fund,National Science Foundation,S1821,Silicon Valley
+Founders Fund,Walden International,S1821,Silicon Valley
+NVIDIA,National Science Foundation,S1821,Silicon Valley
+NVIDIA,Walden International,S1821,Silicon Valley
+National Science Foundation,Walden International,S1821,Silicon Valley
+Amazon Web Services,FedEx,S1822,Silicon Valley
+Amazon Web Services,Stellantis Ventures,S1822,Silicon Valley
+Amazon Web Services,Triatomic Capital,S1822,Silicon Valley
+Amazon Web Services,US Department of Energy,S1822,Silicon Valley
+FedEx,Stellantis Ventures,S1822,Silicon Valley
+FedEx,Triatomic Capital,S1822,Silicon Valley
+FedEx,US Department of Energy,S1822,Silicon Valley
+Stellantis Ventures,Triatomic Capital,S1822,Silicon Valley
+Stellantis Ventures,US Department of Energy,S1822,Silicon Valley
+Triatomic Capital,US Department of Energy,S1822,Silicon Valley
+BOND Capital,Engineering Capital,S1823,Silicon Valley
+BOND Capital,Sentinel Global,S1823,Silicon Valley
+BOND Capital,Venrock,S1823,Silicon Valley
+BOND Capital,Workday Ventures,S1823,Silicon Valley
+Engineering Capital,Sentinel Global,S1823,Silicon Valley
+Engineering Capital,Venrock,S1823,Silicon Valley
+Engineering Capital,Workday Ventures,S1823,Silicon Valley
+Sentinel Global,Venrock,S1823,Silicon Valley
+Sentinel Global,Workday Ventures,S1823,Silicon Valley
+Venrock,Workday Ventures,S1823,Silicon Valley
+Chipotle Mexican Grill,Compound,S1824,Silicon Valley
+Chipotle Mexican Grill,SignalRank,S1824,Silicon Valley
+Chipotle Mexican Grill,Spacecadet Ventures,S1824,Silicon Valley
+Chipotle Mexican Grill,Tiger Global Management,S1824,Silicon Valley
+Compound,SignalRank,S1824,Silicon Valley
+Compound,Spacecadet Ventures,S1824,Silicon Valley
+Compound,Tiger Global Management,S1824,Silicon Valley
+SignalRank,Spacecadet Ventures,S1824,Silicon Valley
+SignalRank,Tiger Global Management,S1824,Silicon Valley
+Spacecadet Ventures,Tiger Global Management,S1824,Silicon Valley
+Adage Capital Management,Fidelity,S1825,Silicon Valley
+Adage Capital Management,Point72 Ventures,S1825,Silicon Valley
+Adage Capital Management,StepStone Group,S1825,Silicon Valley
+Adage Capital Management,Wing Venture Capital,S1825,Silicon Valley
+Fidelity,Point72 Ventures,S1825,Silicon Valley
+Fidelity,StepStone Group,S1825,Silicon Valley
+Fidelity,Wing Venture Capital,S1825,Silicon Valley
+Point72 Ventures,StepStone Group,S1825,Silicon Valley
+Point72 Ventures,Wing Venture Capital,S1825,Silicon Valley
+StepStone Group,Wing Venture Capital,S1825,Silicon Valley
+Ballistic Ventures,Clear Ventures,S1826,Silicon Valley
+Ballistic Ventures,HarbourVest Partners,S1826,Silicon Valley
+Ballistic Ventures,Homebrew,S1826,Silicon Valley
+Ballistic Ventures,Top Tier Capital Partners,S1826,Silicon Valley
+Clear Ventures,HarbourVest Partners,S1826,Silicon Valley
+Clear Ventures,Homebrew,S1826,Silicon Valley
+Clear Ventures,Top Tier Capital Partners,S1826,Silicon Valley
+HarbourVest Partners,Homebrew,S1826,Silicon Valley
+HarbourVest Partners,Top Tier Capital Partners,S1826,Silicon Valley
+Homebrew,Top Tier Capital Partners,S1826,Silicon Valley
+Chicago Pacific Founders,Walden International,S1827,Silicon Valley
+Fengqiao Capital,Fluidra,S1937,Shenzhen
+Fengqiao Capital,Fosun RZ Capital,S1937,Shenzhen
+Fengqiao Capital,XVC,S1937,Shenzhen
+Fengqiao Capital,Yunqi Partners,S1937,Shenzhen
+Fluidra,Fosun RZ Capital,S1937,Shenzhen
+Fluidra,XVC,S1937,Shenzhen
+Fluidra,Yunqi Partners,S1937,Shenzhen
+Fosun RZ Capital,XVC,S1937,Shenzhen
+Fosun RZ Capital,Yunqi Partners,S1937,Shenzhen
+XVC,Yunqi Partners,S1937,Shenzhen
+Fortune Venture Capital,Netac Technology,S1938,Shenzhen
+Fortune Venture Capital,QF Capital,S1938,Shenzhen
+Fortune Venture Capital,Ventech China,S1938,Shenzhen
+Fortune Venture Capital,XBOTPARK Jijin,S1938,Shenzhen
+Netac Technology,QF Capital,S1938,Shenzhen
+Netac Technology,Ventech China,S1938,Shenzhen
+Netac Technology,XBOTPARK Jijin,S1938,Shenzhen
+QF Capital,Ventech China,S1938,Shenzhen
+QF Capital,XBOTPARK Jijin,S1938,Shenzhen
+Ventech China,XBOTPARK Jijin,S1938,Shenzhen
+Legend Capital,Lightspeed China Partners,S1939,Shenzhen
+Legend Capital,Longzhu Capital,S1939,Shenzhen
+Legend Capital,Meituan,S1939,Shenzhen
+Legend Capital,Sequoia Capital,S1939,Shenzhen
+Lightspeed China Partners,Longzhu Capital,S1939,Shenzhen
+Lightspeed China Partners,Meituan,S1939,Shenzhen
+Lightspeed China Partners,Sequoia Capital,S1939,Shenzhen
+Longzhu Capital,Meituan,S1939,Shenzhen
+Longzhu Capital,Sequoia Capital,S1939,Shenzhen
+Meituan,Sequoia Capital,S1939,Shenzhen
+Cloud Angel Fund,Granite Asia,S1940,Shenzhen
+Cloud Angel Fund,HSG,S1940,Shenzhen
+Cloud Angel Fund,Matrix Partners China,S1940,Shenzhen
+Cloud Angel Fund,SOSV,S1940,Shenzhen
+Granite Asia,HSG,S1940,Shenzhen
+Granite Asia,Matrix Partners China,S1940,Shenzhen
+Granite Asia,SOSV,S1940,Shenzhen
+HSG,Matrix Partners China,S1940,Shenzhen
+HSG,SOSV,S1940,Shenzhen
+Matrix Partners China,SOSV,S1940,Shenzhen
+Cathay Capital,Gaorong Capital,S1941,Shenzhen
+Cathay Capital,Shenzhen Capital Group,S1941,Shenzhen
+Cathay Capital,Shunwei Capital,S1941,Shenzhen
+Cathay Capital,Xiaomi,S1941,Shenzhen
+Gaorong Capital,Shenzhen Capital Group,S1941,Shenzhen
+Gaorong Capital,Shunwei Capital,S1941,Shenzhen
+Gaorong Capital,Xiaomi,S1941,Shenzhen
+Shenzhen Capital Group,Shunwei Capital,S1941,Shenzhen
+Shenzhen Capital Group,Xiaomi,S1941,Shenzhen
+Shunwei Capital,Xiaomi,S1941,Shenzhen
+Alibaba Group,Fortune Venture Capital,S1942,Shenzhen
+Alibaba Group,GF Xinde Investment Management,S1942,Shenzhen
+Alibaba Group,Green Pine Capital Partners,S1942,Shenzhen
+Alibaba Group,IDG Capital,S1942,Shenzhen
+Fortune Venture Capital,GF Xinde Investment Management,S1942,Shenzhen
+Fortune Venture Capital,Green Pine Capital Partners,S1942,Shenzhen
+Fortune Venture Capital,IDG Capital,S1942,Shenzhen
+GF Xinde Investment Management,Green Pine Capital Partners,S1942,Shenzhen
+GF Xinde Investment Management,IDG Capital,S1942,Shenzhen
+Green Pine Capital Partners,IDG Capital,S1942,Shenzhen
+01vc,HSG,S1943,Shenzhen
+01vc,Legend Star,S1943,Shenzhen
+01vc,Source Code Capital,S1943,Shenzhen
+01vc,Walden International,S1943,Shenzhen
+HSG,Legend Star,S1943,Shenzhen
+HSG,Source Code Capital,S1943,Shenzhen
+HSG,Walden International,S1943,Shenzhen
+Legend Star,Source Code Capital,S1943,Shenzhen
+Legend Star,Walden International,S1943,Shenzhen
+Source Code Capital,Walden International,S1943,Shenzhen
+Fosun RZ Capital,Redpoint eventures Brazil,S1944,Shenzhen
+Fosun RZ Capital,Seas Capital,S1944,Shenzhen
+Fosun RZ Capital,Shunwei Capital,S1944,Shenzhen
+Fosun RZ Capital,Taihill Venture,S1944,Shenzhen
+Redpoint eventures Brazil,Seas Capital,S1944,Shenzhen
+Redpoint eventures Brazil,Shunwei Capital,S1944,Shenzhen
+Redpoint eventures Brazil,Taihill Venture,S1944,Shenzhen
+Seas Capital,Shunwei Capital,S1944,Shenzhen
+Seas Capital,Taihill Venture,S1944,Shenzhen
+Shunwei Capital,Taihill Venture,S1944,Shenzhen
+Aeternam Stella,HSG,S1945,Shenzhen
+Aeternam Stella,Lighthouse Capital Management,S1945,Shenzhen
+Aeternam Stella,Victor Koch,S1945,Shenzhen
+Aeternam Stella,W1 Forward Accelerator Program - Batch 5,S1945,Shenzhen
+HSG,Lighthouse Capital Management,S1945,Shenzhen
+HSG,Victor Koch,S1945,Shenzhen
+HSG,W1 Forward Accelerator Program - Batch 5,S1945,Shenzhen
+Lighthouse Capital Management,Victor Koch,S1945,Shenzhen
+Lighthouse Capital Management,W1 Forward Accelerator Program - Batch 5,S1945,Shenzhen
+Victor Koch,W1 Forward Accelerator Program - Batch 5,S1945,Shenzhen
+Baidu Ventures,Contemporary Amperex Technology,S1946,Shenzhen
+Baidu Ventures,Fortune Venture Capital,S1946,Shenzhen
+Baidu Ventures,Highlight Capital,S1946,Shenzhen
+Baidu Ventures,JD.com,S1946,Shenzhen
+Contemporary Amperex Technology,Fortune Venture Capital,S1946,Shenzhen
+Contemporary Amperex Technology,Highlight Capital,S1946,Shenzhen
+Contemporary Amperex Technology,JD.com,S1946,Shenzhen
+Fortune Venture Capital,Highlight Capital,S1946,Shenzhen
+Fortune Venture Capital,JD.com,S1946,Shenzhen
+Highlight Capital,JD.com,S1946,Shenzhen
+Blue Owl,Fidelity,S2097,London
+Blue Owl,NVIDIA,S2097,London
+Blue Owl,Nokia,S2097,London
+Blue Owl,Point72 Ventures,S2097,London
+Fidelity,NVIDIA,S2097,London
+Fidelity,Nokia,S2097,London
+Fidelity,Point72 Ventures,S2097,London
+NVIDIA,Nokia,S2097,London
+NVIDIA,Point72 Ventures,S2097,London
+Nokia,Point72 Ventures,S2097,London
+EQT Ventures,Highland Europe,S2098,London
+EQT Ventures,Quiet Capital,S2098,London
+EQT Ventures,Tapestry VC,S2098,London
+EQT Ventures,Tiger Global Management,S2098,London
+Highland Europe,Quiet Capital,S2098,London
+Highland Europe,Tapestry VC,S2098,London
+Highland Europe,Tiger Global Management,S2098,London
+Quiet Capital,Tapestry VC,S2098,London
+Quiet Capital,Tiger Global Management,S2098,London
+Tapestry VC,Tiger Global Management,S2098,London
+Creandum,Goodwater Capital,S2099,London
+Creandum,LocalGlobe,S2099,London
+Creandum,Speedinvest (SI),S2099,London
+Creandum,TPG,S2099,London
+Goodwater Capital,LocalGlobe,S2099,London
+Goodwater Capital,Speedinvest (SI),S2099,London
+Goodwater Capital,TPG,S2099,London
+LocalGlobe,Speedinvest (SI),S2099,London
+LocalGlobe,TPG,S2099,London
+Speedinvest (SI),TPG,S2099,London
+Coatue Management,Endeavor Catalyst,S2100,London
+Coatue Management,Franklin Templeton,S2100,London
+Coatue Management,Insight Partners,S2100,London
+Coatue Management,Ribbit Capital,S2100,London
+Endeavor Catalyst,Franklin Templeton,S2100,London
+Endeavor Catalyst,Insight Partners,S2100,London
+Endeavor Catalyst,Ribbit Capital,S2100,London
+Franklin Templeton,Insight Partners,S2100,London
+Franklin Templeton,Ribbit Capital,S2100,London
+Insight Partners,Ribbit Capital,S2100,London
+General Catalyst,HSG,S2101,London
+General Catalyst,Stripe,S2101,London
+General Catalyst,W1 Forward Accelerator Program - Batch 5,S2101,London
+General Catalyst,Y Combinator Summer 2020,S2101,London
+HSG,Stripe,S2101,London
+HSG,W1 Forward Accelerator Program - Batch 5,S2101,London
+HSG,Y Combinator Summer 2020,S2101,London
+Stripe,W1 Forward Accelerator Program - Batch 5,S2101,London
+Stripe,Y Combinator Summer 2020,S2101,London
+W1 Forward Accelerator Program - Batch 5,Y Combinator Summer 2020,S2101,London
+Frontline Ventures,Highland Europe,S2102,London
+Frontline Ventures,Kreos Capital,S2102,London
+Frontline Ventures,LocalGlobe,S2102,London
+Frontline Ventures,Mercuri,S2102,London
+Highland Europe,Kreos Capital,S2102,London
+Highland Europe,LocalGlobe,S2102,London
+Highland Europe,Mercuri,S2102,London
+Kreos Capital,LocalGlobe,S2102,London
+Kreos Capital,Mercuri,S2102,London
+LocalGlobe,Mercuri,S2102,London
+Alumni Ventures,BAM Ventures,S2103,London
+Alumni Ventures,Defy.vc,S2103,London
+Alumni Ventures,Gaingels,S2103,London
+Alumni Ventures,HOF Capital,S2103,London
+BAM Ventures,Defy.vc,S2103,London
+BAM Ventures,Gaingels,S2103,London
+BAM Ventures,HOF Capital,S2103,London
+Defy.vc,Gaingels,S2103,London
+Defy.vc,HOF Capital,S2103,London
+Gaingels,HOF Capital,S2103,London
+01 Advisors,Balderton Capital,S2104,London
+01 Advisors,Headline VC (e.ventures),S2104,London
+01 Advisors,Passion Capital,S2104,London
+01 Advisors,Redpoint eventures Brazil,S2104,London
+Balderton Capital,Headline VC (e.ventures),S2104,London
+Balderton Capital,Passion Capital,S2104,London
+Balderton Capital,Redpoint eventures Brazil,S2104,London
+Headline VC (e.ventures),Passion Capital,S2104,London
+Headline VC (e.ventures),Redpoint eventures Brazil,S2104,London
+Passion Capital,Redpoint eventures Brazil,S2104,London
+Bossa Invest,Endeavor Catalyst,S2105,London
+Bossa Invest,Lightrock,S2105,London
+Bossa Invest,Novastar Ventures,S2105,London
+Bossa Invest,QED Investors,S2105,London
+Endeavor Catalyst,Lightrock,S2105,London
+Endeavor Catalyst,Novastar Ventures,S2105,London
+Endeavor Catalyst,QED Investors,S2105,London
+Lightrock,Novastar Ventures,S2105,London
+Lightrock,QED Investors,S2105,London
+Novastar Ventures,QED Investors,S2105,London
+Accenture,BNY,S2106,London
+Accenture,Dawn Capital,S2106,London
+Accenture,HSBC Innovation Banking,S2106,London
+Accenture,Warburg Pincus,S2106,London
+BNY,Dawn Capital,S2106,London
+BNY,HSBC Innovation Banking,S2106,London
+BNY,Warburg Pincus,S2106,London
+Dawn Capital,HSBC Innovation Banking,S2106,London
+Dawn Capital,Warburg Pincus,S2106,London
+HSBC Innovation Banking,Warburg Pincus,S2106,London
+Department for Business,Industrial Strategy,S2321,London
+Department for Business,Swiss Federal Office of Energy,S2321,London
+Industrial Strategy,Swiss Federal Office of Energy,S2321,London
+Activant Capital,FedEx,S2328,Boston
+Activant Capital,Flagship Pioneering,S2328,Boston
+Activant Capital,G Squared,S2328,Boston
+Activant Capital,Google for Startups,S2328,Boston
+FedEx,Flagship Pioneering,S2328,Boston
+FedEx,G Squared,S2328,Boston
+FedEx,Google for Startups,S2328,Boston
+Flagship Pioneering,G Squared,S2328,Boston
+Flagship Pioneering,Google for Startups,S2328,Boston
+G Squared,Google for Startups,S2328,Boston
+Horizon Capital,Sapphire Ventures,S2329,Boston
+Horizon Capital,StepStone Group,S2329,Boston
+Horizon Capital,Volition Capital,S2329,Boston
+Sapphire Ventures,StepStone Group,S2329,Boston
+Sapphire Ventures,Volition Capital,S2329,Boston
+StepStone Group,Volition Capital,S2329,Boston
+Alumni Ventures,Capital One,S2330,Boston
+Alumni Ventures,Eastern Bank,S2330,Boston
+Alumni Ventures,HPS Investment Partners,S2330,Boston
+Alumni Ventures,Sequoia Capital,S2330,Boston
+Capital One,Eastern Bank,S2330,Boston
+Capital One,HPS Investment Partners,S2330,Boston
+Capital One,Sequoia Capital,S2330,Boston
+Eastern Bank,HPS Investment Partners,S2330,Boston
+Eastern Bank,Sequoia Capital,S2330,Boston
+HPS Investment Partners,Sequoia Capital,S2330,Boston
+Boost VC,Cantos,S2331,Boston
+Boost VC,Collaborative Fund,S2331,Boston
+Boost VC,SALT,S2331,Boston
+Boost VC,Starship Ventures,S2331,Boston
+Cantos,Collaborative Fund,S2331,Boston
+Cantos,SALT,S2331,Boston
+Cantos,Starship Ventures,S2331,Boston
+Collaborative Fund,SALT,S2331,Boston
+Collaborative Fund,Starship Ventures,S2331,Boston
+SALT,Starship Ventures,S2331,Boston
+General Catalyst,Ten Eleven Ventures,S2332,Boston
+General Catalyst,W1 Forward Accelerator Program - Batch 5,S2332,Boston
+General Catalyst,Warburg Pincus,S2332,Boston
+General Catalyst,WndrCo,S2332,Boston
+Ten Eleven Ventures,W1 Forward Accelerator Program - Batch 5,S2332,Boston
+Ten Eleven Ventures,Warburg Pincus,S2332,Boston
+Ten Eleven Ventures,WndrCo,S2332,Boston
+W1 Forward Accelerator Program - Batch 5,Warburg Pincus,S2332,Boston
+W1 Forward Accelerator Program - Batch 5,WndrCo,S2332,Boston
+Warburg Pincus,WndrCo,S2332,Boston
+Baidu Ventures,CICC,S2333,Boston
+Baidu Ventures,Matrix Partners China,S2333,Boston
+Baidu Ventures,MindWorks Capital,S2333,Boston
+Baidu Ventures,Vertex Ventures China,S2333,Boston
+CICC,Matrix Partners China,S2333,Boston
+CICC,MindWorks Capital,S2333,Boston
+CICC,Vertex Ventures China,S2333,Boston
+Matrix Partners China,MindWorks Capital,S2333,Boston
+Matrix Partners China,Vertex Ventures China,S2333,Boston
+MindWorks Capital,Vertex Ventures China,S2333,Boston
+Acurio Ventures,Eclipse Ventures,S2334,Boston
+Acurio Ventures,Google Ventures (GV),S2334,Boston
+Acurio Ventures,Impatient Ventures,S2334,Boston
+Eclipse Ventures,Google Ventures (GV),S2334,Boston
+Eclipse Ventures,Impatient Ventures,S2334,Boston
+Google Ventures (GV),Impatient Ventures,S2334,Boston
+True Ventures,WISE Ventures,S2335,Boston
+Big Brain Holdings,Coinbase Ventures,S2336,Boston
+Big Brain Holdings,Notion Capital,S2336,Boston
+Big Brain Holdings,Solana Ventures,S2336,Boston
+Big Brain Holdings,TCG,S2336,Boston
+Coinbase Ventures,Notion Capital,S2336,Boston
+Coinbase Ventures,Solana Ventures,S2336,Boston
+Coinbase Ventures,TCG,S2336,Boston
+Notion Capital,Solana Ventures,S2336,Boston
+Notion Capital,TCG,S2336,Boston
+Solana Ventures,TCG,S2336,Boston
+Andreessen Horowitz,BOND Capital,S2337,Boston
+Andreessen Horowitz,CITIC Securities,S2337,Boston
+Andreessen Horowitz,Coatue Management,S2337,Boston
+Andreessen Horowitz,Index Ventures,S2337,Boston
+BOND Capital,CITIC Securities,S2337,Boston
+BOND Capital,Coatue Management,S2337,Boston
+BOND Capital,Index Ventures,S2337,Boston
+CITIC Securities,Coatue Management,S2337,Boston
+CITIC Securities,Index Ventures,S2337,Boston
+Coatue Management,Index Ventures,S2337,Boston
+Providence Equity Partners,The Walt Disney Company,S2483,Los Angeles
+Providence Equity Partners,WarnerMedia,S2483,Los Angeles
+The Walt Disney Company,WarnerMedia,S2483,Los Angeles
+HSG,Peak XV Partners,S2484,Los Angeles
+HSG,QuantumLight,S2484,Los Angeles
+HSG,Salesforce Ventures,S2484,Los Angeles
+HSG,Y Combinator Summer 2020,S2484,Los Angeles
+Peak XV Partners,QuantumLight,S2484,Los Angeles
+Peak XV Partners,Salesforce Ventures,S2484,Los Angeles
+Peak XV Partners,Y Combinator Summer 2020,S2484,Los Angeles
+QuantumLight,Salesforce Ventures,S2484,Los Angeles
+QuantumLight,Y Combinator Summer 2020,S2484,Los Angeles
+Salesforce Ventures,Y Combinator Summer 2020,S2484,Los Angeles
+Emerson Collective,Felicis,S2485,Los Angeles
+Emerson Collective,Google Ventures (GV),S2485,Los Angeles
+Emerson Collective,Muse Capital,S2485,Los Angeles
+Emerson Collective,Operator Collective,S2485,Los Angeles
+Felicis,Google Ventures (GV),S2485,Los Angeles
+Felicis,Muse Capital,S2485,Los Angeles
+Felicis,Operator Collective,S2485,Los Angeles
+Google Ventures (GV),Muse Capital,S2485,Los Angeles
+Google Ventures (GV),Operator Collective,S2485,Los Angeles
+Muse Capital,Operator Collective,S2485,Los Angeles
+8VC,Andreessen Horowitz,S2486,Los Angeles
+8VC,EXT Capital,S2486,Los Angeles
+8VC,Stoneshield Capital,S2486,Los Angeles
+8VC,Village Global,S2486,Los Angeles
+Andreessen Horowitz,EXT Capital,S2486,Los Angeles
+Andreessen Horowitz,Stoneshield Capital,S2486,Los Angeles
+Andreessen Horowitz,Village Global,S2486,Los Angeles
+EXT Capital,Stoneshield Capital,S2486,Los Angeles
+EXT Capital,Village Global,S2486,Los Angeles
+Stoneshield Capital,Village Global,S2486,Los Angeles
+Amberstone Ventures,Clayton Christopher,S2487,Los Angeles
+Amberstone Ventures,Nutrabolt,S2487,Los Angeles
+Clayton Christopher,Nutrabolt,S2487,Los Angeles
+Equal Ventures,Fika Ventures,S2488,Los Angeles
+Equal Ventures,M13,S2488,Los Angeles
+Equal Ventures,Social Capital,S2488,Los Angeles
+Equal Ventures,VITALIZE Venture Capital,S2488,Los Angeles
+Fika Ventures,M13,S2488,Los Angeles
+Fika Ventures,Social Capital,S2488,Los Angeles
+Fika Ventures,VITALIZE Venture Capital,S2488,Los Angeles
+M13,Social Capital,S2488,Los Angeles
+M13,VITALIZE Venture Capital,S2488,Los Angeles
+Social Capital,VITALIZE Venture Capital,S2488,Los Angeles
+Alpaca VC,Alumni Ventures,S2489,Los Angeles
+Alpaca VC,Gaingels,S2489,Los Angeles
+Alpaca VC,Golden Ventures,S2489,Los Angeles
+Alpaca VC,One Way Ventures,S2489,Los Angeles
+Alumni Ventures,Gaingels,S2489,Los Angeles
+Alumni Ventures,Golden Ventures,S2489,Los Angeles
+Alumni Ventures,One Way Ventures,S2489,Los Angeles
+Gaingels,Golden Ventures,S2489,Los Angeles
+Gaingels,One Way Ventures,S2489,Los Angeles
+Golden Ventures,One Way Ventures,S2489,Los Angeles
+BoxGroup,Founders Fund,S2490,Los Angeles
+BoxGroup,Long Journey Ventures,S2490,Los Angeles
+BoxGroup,True Ventures,S2490,Los Angeles
+BoxGroup,eBay Ventures,S2490,Los Angeles
+Founders Fund,Long Journey Ventures,S2490,Los Angeles
+Founders Fund,True Ventures,S2490,Los Angeles
+Founders Fund,eBay Ventures,S2490,Los Angeles
+Long Journey Ventures,True Ventures,S2490,Los Angeles
+Long Journey Ventures,eBay Ventures,S2490,Los Angeles
+True Ventures,eBay Ventures,S2490,Los Angeles
+ICONIQ Growth,Insight Partners,S2491,Los Angeles
+ICONIQ Growth,Norwest Venture Partners,S2491,Los Angeles
+ICONIQ Growth,Redpoint eventures Brazil,S2491,Los Angeles
+ICONIQ Growth,Sapphire Ventures,S2491,Los Angeles
+Insight Partners,Norwest Venture Partners,S2491,Los Angeles
+Insight Partners,Redpoint eventures Brazil,S2491,Los Angeles
+Insight Partners,Sapphire Ventures,S2491,Los Angeles
+Norwest Venture Partners,Redpoint eventures Brazil,S2491,Los Angeles
+Norwest Venture Partners,Sapphire Ventures,S2491,Los Angeles
+Redpoint eventures Brazil,Sapphire Ventures,S2491,Los Angeles
+645 Ventures,Amplify.LA,S2492,Los Angeles
+645 Ventures,Gaingels,S2492,Los Angeles
+645 Ventures,Realyze Ventures,S2492,Los Angeles
+645 Ventures,TenOneTen Ventures,S2492,Los Angeles
+Amplify.LA,Gaingels,S2492,Los Angeles
+Amplify.LA,Realyze Ventures,S2492,Los Angeles
+Amplify.LA,TenOneTen Ventures,S2492,Los Angeles
+Gaingels,Realyze Ventures,S2492,Los Angeles
+Gaingels,TenOneTen Ventures,S2492,Los Angeles
+Realyze Ventures,TenOneTen Ventures,S2492,Los Angeles
+Alibaba Group,HSG,S2642,Hangzhou
+Alibaba Group,Matrix Partners China,S2642,Hangzhou
+Alibaba Group,Shenzhen Capital Group,S2642,Hangzhou
+Alibaba Group,Tencent,S2642,Hangzhou
+HSG,Matrix Partners China,S2642,Hangzhou
+HSG,Shenzhen Capital Group,S2642,Hangzhou
+HSG,Tencent,S2642,Hangzhou
+Matrix Partners China,Shenzhen Capital Group,S2642,Hangzhou
+Matrix Partners China,Tencent,S2642,Hangzhou
+Shenzhen Capital Group,Tencent,S2642,Hangzhou
+Beijing Robot Industry Fund,F&G Venture,S2644,Hangzhou
+Beijing Robot Industry Fund,Fortune Venture Capital,S2644,Hangzhou
+Beijing Robot Industry Fund,Huaying Capital,S2644,Hangzhou
+Beijing Robot Industry Fund,Peakvest,S2644,Hangzhou
+F&G Venture,Fortune Venture Capital,S2644,Hangzhou
+F&G Venture,Huaying Capital,S2644,Hangzhou
+F&G Venture,Peakvest,S2644,Hangzhou
+Fortune Venture Capital,Huaying Capital,S2644,Hangzhou
+Fortune Venture Capital,Peakvest,S2644,Hangzhou
+Huaying Capital,Peakvest,S2644,Hangzhou
+BNP Paribas,General Atlantic,S2645,Hangzhou
+BNP Paribas,Sequoia Capital,S2645,Hangzhou
+BNP Paribas,Temasek Holdings,S2645,Hangzhou
+BNP Paribas,Warburg Pincus,S2645,Hangzhou
+General Atlantic,Sequoia Capital,S2645,Hangzhou
+General Atlantic,Temasek Holdings,S2645,Hangzhou
+General Atlantic,Warburg Pincus,S2645,Hangzhou
+Sequoia Capital,Temasek Holdings,S2645,Hangzhou
+Sequoia Capital,Warburg Pincus,S2645,Hangzhou
+Temasek Holdings,Warburg Pincus,S2645,Hangzhou
+Daocin Capital,Nano Labs,S2646,Hangzhou
+Daocin Capital,Zhang Jingping,S2646,Hangzhou
+Nano Labs,Zhang Jingping,S2646,Hangzhou
+BOCOM International,CICC,S2647,Hangzhou
+BOCOM International,China Capital Management,S2647,Hangzhou
+BOCOM International,Hillhouse Investment,S2647,Hangzhou
+BOCOM International,Walden International,S2647,Hangzhou
+CICC,China Capital Management,S2647,Hangzhou
+CICC,Hillhouse Investment,S2647,Hangzhou
+CICC,Walden International,S2647,Hangzhou
+China Capital Management,Hillhouse Investment,S2647,Hangzhou
+China Capital Management,Walden International,S2647,Hangzhou
+Hillhouse Investment,Walden International,S2647,Hangzhou
+Bonsai Partners,Oceanpine Capital,S2648,Hangzhou
+Bonsai Partners,Oriental Fortune Capital,S2648,Hangzhou
+Bonsai Partners,Tuya,S2648,Hangzhou
+Bonsai Partners,Zhang Jiahao,S2648,Hangzhou
+Oceanpine Capital,Oriental Fortune Capital,S2648,Hangzhou
+Oceanpine Capital,Tuya,S2648,Hangzhou
+Oceanpine Capital,Zhang Jiahao,S2648,Hangzhou
+Oriental Fortune Capital,Tuya,S2648,Hangzhou
+Oriental Fortune Capital,Zhang Jiahao,S2648,Hangzhou
+Tuya,Zhang Jiahao,S2648,Hangzhou
+China Internet Investment Fund,Fortune Venture Capital,S2649,Hangzhou
+China Internet Investment Fund,Highlight Capital,S2649,Hangzhou
+China Internet Investment Fund,JD.com,S2649,Hangzhou
+China Internet Investment Fund,Shunwei Capital,S2649,Hangzhou
+Fortune Venture Capital,Highlight Capital,S2649,Hangzhou
+Fortune Venture Capital,JD.com,S2649,Hangzhou
+Fortune Venture Capital,Shunwei Capital,S2649,Hangzhou
+Highlight Capital,JD.com,S2649,Hangzhou
+Highlight Capital,Shunwei Capital,S2649,Hangzhou
+JD.com,Shunwei Capital,S2649,Hangzhou
+Activant Capital,Kunyan Capital,S2650,Hangzhou
+Activant Capital,Proya,S2650,Hangzhou
+Kunyan Capital,Proya,S2650,Hangzhou
+Lotus Lake Ventures,ZSVC,S2651,Hangzhou
+Antler,Creandum,S2744,Stockholm
+Antler,Evantic Capital,S2744,Stockholm
+Antler,The Twenty Minute VC,S2744,Stockholm
+Antler,W1 Forward Accelerator Program - Batch 5,S2744,Stockholm
+Creandum,Evantic Capital,S2744,Stockholm
+Creandum,The Twenty Minute VC,S2744,Stockholm
+Creandum,W1 Forward Accelerator Program - Batch 5,S2744,Stockholm
+Evantic Capital,The Twenty Minute VC,S2744,Stockholm
+Evantic Capital,W1 Forward Accelerator Program - Batch 5,S2744,Stockholm
+The Twenty Minute VC,W1 Forward Accelerator Program - Batch 5,S2744,Stockholm
+Draper B1,Inclimo Climate Tech Fund,S2745,Stockholm
+Draper B1,K Fund,S2745,Stockholm
+Draper B1,Menlo Ventures,S2745,Stockholm
+Draper B1,Techstars,S2745,Stockholm
+Inclimo Climate Tech Fund,K Fund,S2745,Stockholm
+Inclimo Climate Tech Fund,Menlo Ventures,S2745,Stockholm
+Inclimo Climate Tech Fund,Techstars,S2745,Stockholm
+K Fund,Menlo Ventures,S2745,Stockholm
+K Fund,Techstars,S2745,Stockholm
+Menlo Ventures,Techstars,S2745,Stockholm
+Benchmark,General Catalyst,S2746,Stockholm
+Benchmark,ICONIQ Capital,S2746,Stockholm
+Benchmark,Redpoint eventures Brazil,S2746,Stockholm
+Benchmark,Y Combinator Summer 2020,S2746,Stockholm
+General Catalyst,ICONIQ Capital,S2746,Stockholm
+General Catalyst,Redpoint eventures Brazil,S2746,Stockholm
+General Catalyst,Y Combinator Summer 2020,S2746,Stockholm
+ICONIQ Capital,Redpoint eventures Brazil,S2746,Stockholm
+ICONIQ Capital,Y Combinator Summer 2020,S2746,Stockholm
+Redpoint eventures Brazil,Y Combinator Summer 2020,S2746,Stockholm
+EQT Ventures,IonQ,S2747,Stockholm
+EQT Ventures,Next Play Ventures,S2747,Stockholm
+EQT Ventures,Northzone,S2747,Stockholm
+EQT Ventures,Plug,S2747,Stockholm
+EQT Ventures,Temasek Holdings,S2747,Stockholm
+IonQ,Next Play Ventures,S2747,Stockholm
+IonQ,Northzone,S2747,Stockholm
+IonQ,Plug,S2747,Stockholm
+IonQ,Temasek Holdings,S2747,Stockholm
+Next Play Ventures,Northzone,S2747,Stockholm
+Next Play Ventures,Plug,S2747,Stockholm
+Next Play Ventures,Temasek Holdings,S2747,Stockholm
+Northzone,Plug,S2747,Stockholm
+Northzone,Temasek Holdings,S2747,Stockholm
+Plug,Temasek Holdings,S2747,Stockholm
+AMF,Alecta,S2748,Stockholm
+AMF,Blackstone Group,S2748,Stockholm
+AMF,Creandum,S2748,Stockholm
+AMF,EQT Ventures,S2748,Stockholm
+Alecta,Blackstone Group,S2748,Stockholm
+Alecta,Creandum,S2748,Stockholm
+Alecta,EQT Ventures,S2748,Stockholm
+Blackstone Group,Creandum,S2748,Stockholm
+Blackstone Group,EQT Ventures,S2748,Stockholm
+Creandum,EQT Ventures,S2748,Stockholm
+Almi Invest,Argand Partners,S2749,Stockholm
+Almi Invest,European Union,S2749,Stockholm
+Almi Invest,Sting,S2749,Stockholm
+Almi Invest,Unconventional Ventures,S2749,Stockholm
+Argand Partners,European Union,S2749,Stockholm
+Argand Partners,Sting,S2749,Stockholm
+Argand Partners,Unconventional Ventures,S2749,Stockholm
+European Union,Sting,S2749,Stockholm
+European Union,Unconventional Ventures,S2749,Stockholm
+Sting,Unconventional Ventures,S2749,Stockholm
+Acequia Capital (AceCap),EQT Ventures,S2750,Stockholm
+Acequia Capital (AceCap),Kima Ventures,S2750,Stockholm
+Acequia Capital (AceCap),Menlo Ventures,S2750,Stockholm
+Acequia Capital (AceCap),NEA -  New Enterprise Associates,S2750,Stockholm
+EQT Ventures,Kima Ventures,S2750,Stockholm
+EQT Ventures,Menlo Ventures,S2750,Stockholm
+EQT Ventures,NEA -  New Enterprise Associates,S2750,Stockholm
+Kima Ventures,Menlo Ventures,S2750,Stockholm
+Kima Ventures,NEA -  New Enterprise Associates,S2750,Stockholm
+Menlo Ventures,NEA -  New Enterprise Associates,S2750,Stockholm
+Atomico,General Catalyst,S2751,Stockholm
+Atomico,Lakestar,S2751,Stockholm
+Atomico,Lightspeed Venture Partners,S2751,Stockholm
+Atomico,O.G. Venture Partners,S2751,Stockholm
+General Catalyst,Lakestar,S2751,Stockholm
+General Catalyst,Lightspeed Venture Partners,S2751,Stockholm
+General Catalyst,O.G. Venture Partners,S2751,Stockholm
+Lakestar,Lightspeed Venture Partners,S2751,Stockholm
+Lakestar,O.G. Venture Partners,S2751,Stockholm
+Lightspeed Venture Partners,O.G. Venture Partners,S2751,Stockholm
+Anton Osika,Guillermo Rauch,S2752,Stockholm
+Anton Osika,Paul Copplestone,S2752,Stockholm
+Anton Osika,Tobias Lütke,S2752,Stockholm
+Anton Osika,W1 Forward Accelerator Program - Batch 5,S2752,Stockholm
+Guillermo Rauch,Paul Copplestone,S2752,Stockholm
+Guillermo Rauch,Tobias Lütke,S2752,Stockholm
+Guillermo Rauch,W1 Forward Accelerator Program - Batch 5,S2752,Stockholm
+Paul Copplestone,Tobias Lütke,S2752,Stockholm
+Paul Copplestone,W1 Forward Accelerator Program - Batch 5,S2752,Stockholm
+Tobias Lütke,W1 Forward Accelerator Program - Batch 5,S2752,Stockholm
+Balderton Capital,Eight Roads Ventures,S2753,Stockholm
+Balderton Capital,F-Prime,S2753,Stockholm
+Balderton Capital,Kreos Capital,S2753,Stockholm
+Balderton Capital,Oxx,S2753,Stockholm
+Eight Roads Ventures,F-Prime,S2753,Stockholm
+Eight Roads Ventures,Kreos Capital,S2753,Stockholm
+Eight Roads Ventures,Oxx,S2753,Stockholm
+F-Prime,Kreos Capital,S2753,Stockholm
+F-Prime,Oxx,S2753,Stockholm
+Kreos Capital,Oxx,S2753,Stockholm
+Baird Capital,Chengwei Capital,S2948,Guangzhou
+Baird Capital,Hillhouse Investment,S2948,Guangzhou
+Baird Capital,Sinovation Ventures,S2948,Guangzhou
+Baird Capital,SoftBank Vision Fund,S2948,Guangzhou
+Chengwei Capital,Hillhouse Investment,S2948,Guangzhou
+Chengwei Capital,Sinovation Ventures,S2948,Guangzhou
+Chengwei Capital,SoftBank Vision Fund,S2948,Guangzhou
+Hillhouse Investment,Sinovation Ventures,S2948,Guangzhou
+Hillhouse Investment,SoftBank Vision Fund,S2948,Guangzhou
+Sinovation Ventures,SoftBank Vision Fund,S2948,Guangzhou
+China Southern Power Grid,GoldStone Investment,S2949,Guangzhou
+China Southern Power Grid,Guangzhou Automobile Group,S2949,Guangzhou
+China Southern Power Grid,Invoke Capital,S2949,Guangzhou
+China Southern Power Grid,Shenzhen Capital Group,S2949,Guangzhou
+GoldStone Investment,Guangzhou Automobile Group,S2949,Guangzhou
+GoldStone Investment,Invoke Capital,S2949,Guangzhou
+GoldStone Investment,Shenzhen Capital Group,S2949,Guangzhou
+Guangzhou Automobile Group,Invoke Capital,S2949,Guangzhou
+Guangzhou Automobile Group,Shenzhen Capital Group,S2949,Guangzhou
+Invoke Capital,Shenzhen Capital Group,S2949,Guangzhou
+Bain Capital Life Sciences,Janus Henderson Investors,S2951,Guangzhou
+Bain Capital Life Sciences,Legend Capital,S2951,Guangzhou
+Bain Capital Life Sciences,Morningside,S2951,Guangzhou
+Bain Capital Life Sciences,OrbiMed,S2951,Guangzhou
+Janus Henderson Investors,Legend Capital,S2951,Guangzhou
+Janus Henderson Investors,Morningside,S2951,Guangzhou
+Janus Henderson Investors,OrbiMed,S2951,Guangzhou
+Legend Capital,Morningside,S2951,Guangzhou
+Legend Capital,OrbiMed,S2951,Guangzhou
+Morningside,OrbiMed,S2951,Guangzhou
+Crescent Point,M&L Healthcare Investments,S2952,Guangzhou
+Crescent Point,ShenZhen GTJA Investment Group,S2952,Guangzhou
+Crescent Point,Volcanics Venture,S2952,Guangzhou
+Crescent Point,YungPark Capital,S2952,Guangzhou
+M&L Healthcare Investments,ShenZhen GTJA Investment Group,S2952,Guangzhou
+M&L Healthcare Investments,Volcanics Venture,S2952,Guangzhou
+M&L Healthcare Investments,YungPark Capital,S2952,Guangzhou
+ShenZhen GTJA Investment Group,Volcanics Venture,S2952,Guangzhou
+ShenZhen GTJA Investment Group,YungPark Capital,S2952,Guangzhou
+Volcanics Venture,YungPark Capital,S2952,Guangzhou
+Boyuan Capital,CDF-Capital,S2953,Guangzhou
+Boyuan Capital,Fosun Health Capital,S2953,Guangzhou
+Boyuan Capital,Guangzhou Industrial Investment Group,S2953,Guangzhou
+Boyuan Capital,Guoju Venture Capital,S2953,Guangzhou
+CDF-Capital,Fosun Health Capital,S2953,Guangzhou
+CDF-Capital,Guangzhou Industrial Investment Group,S2953,Guangzhou
+CDF-Capital,Guoju Venture Capital,S2953,Guangzhou
+Fosun Health Capital,Guangzhou Industrial Investment Group,S2953,Guangzhou
+Fosun Health Capital,Guoju Venture Capital,S2953,Guangzhou
+Guangzhou Industrial Investment Group,Guoju Venture Capital,S2953,Guangzhou
+Gobi Partners,Greenwoods Asset Management,S2954,Guangzhou
+Gobi Partners,Highland Europe,S2954,Guangzhou
+Gobi Partners,UR HK,S2954,Guangzhou
+Greenwoods Asset Management,Highland Europe,S2954,Guangzhou
+Greenwoods Asset Management,UR HK,S2954,Guangzhou
+Highland Europe,UR HK,S2954,Guangzhou
+Acathia Capital,Alibaba Group,S2955,Guangzhou
+Acathia Capital,HSG,S2955,Guangzhou
+Acathia Capital,Innoangel Fund,S2955,Guangzhou
+Acathia Capital,Qiming Venture Partners,S2955,Guangzhou
+Alibaba Group,HSG,S2955,Guangzhou
+Alibaba Group,Innoangel Fund,S2955,Guangzhou
+Alibaba Group,Qiming Venture Partners,S2955,Guangzhou
+HSG,Innoangel Fund,S2955,Guangzhou
+HSG,Qiming Venture Partners,S2955,Guangzhou
+Innoangel Fund,Qiming Venture Partners,S2955,Guangzhou
+Apricot Capital,HSG,S2956,Guangzhou
+Apricot Capital,Matrix Partners China,S2956,Guangzhou
+Apricot Capital,Redhill Capital,S2956,Guangzhou
+HSG,Matrix Partners China,S2956,Guangzhou
+HSG,Redhill Capital,S2956,Guangzhou
+Matrix Partners China,Redhill Capital,S2956,Guangzhou

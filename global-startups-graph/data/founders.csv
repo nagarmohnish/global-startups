@@ -1,0 +1,1587 @@
+﻿founder_id,founder_name,startup_id,startup_name,city
+F0001,Hed Kovetz,S0010,Silverfort,Tel Aviv
+F0002,Yaron Kessner,S0010,Silverfort,Tel Aviv
+F0003,Yariv Bash,S0011,Flytrex Aviation Ltd.,Tel Aviv
+F0004,Dan Lahav,S0015,Irregular (formerly Pattern Labs),Tel Aviv
+F0005,Eli David,S0015,Irregular (formerly Pattern Labs),Tel Aviv
+F0006,Alon Kollmann,S0030,Clover Security,Tel Aviv
+F0007,Or Chen,S0030,Clover Security,Tel Aviv
+F0008,Shahar Papini,S0052,Attestable,Tel Aviv
+F0009,Yogev Bar,S0052,Attestable,Tel Aviv
+F0010,Chief Scientific Officer Yuval Naveh,S0069,OneStep.co,Tel Aviv
+F0011,Jihan Wu,S0099,Bitmain,Beijing
+F0012,Qiang Yang,S0100,4Paradigm,Beijing
+F0013,Wenyuan Dai,S0100,4Paradigm,Beijing
+F0014,Shiwei Hu,S0100,4Paradigm,Beijing
+F0015,Jack Smith,S0101,Vungle,Beijing
+F0016,Zain Jaffer,S0101,Vungle,Beijing
+F0017,Kai Yu ***.**@horizon.ai,S0102,Horizon Robotics,Beijing
+F0018,Xu Ming,S0103,GalaxySpace,Beijing
+F0019,Wei Wensheng,S0104,EdiGene,Beijing
+F0020,Hongbo Li,S0107,Geek+,Beijing
+F0021,Kai Liu,S0107,Geek+,Beijing
+F0022,Yong Zheng,S0107,Geek+,Beijing
+F0023,Changhao Jiang,S0108,Cobo,Beijing
+F0024,Discus Fish,S0108,Cobo,Beijing
+F0025,Jerry Sheng Yue,S0110,Benlai Works,Beijing
+F0026,Huafeng Yu,S0110,Benlai Works,Beijing
+F0027,Huang Wei (businessman),S0113,Unisound,Beijing
+F0028,Jiaen Liang,S0113,Unisound,Beijing
+F0029,Zhao Yiyang,S0113,Unisound,Beijing
+F0030,Yichuan Hu,S0115,Laiye,Beijing
+F0031,Chun'e Ma,S0118,"Shukun (Beijing) Network Technology Co., Ltd.",Beijing
+F0032,Li Yong (prince),S0120,Yuanfudao,Beijing
+F0033,Xin Liu (entrepreneur) ***@v2ex.com,S0120,Yuanfudao,Beijing
+F0034,Shu Chang,S0121,One Space,Beijing
+F0035,Han Yan,S0123,Genetron Health,Beijing
+F0036,Tina Tianning Yu,S0124,Mevion Medical Systems,Beijing
+F0037,Ge Guo,S0125,"Beijing Tiertime Technology Co., Ltd.",Beijing
+F0038,Rajiv Jayaraman,S0126,KNOLSKAPE Solutions,Beijing
+F0039,Hocking Xu,S0128,AInnovation,Beijing
+F0040,Li Lin,S0130,Beijing Health Biotech Co. Ltd.,Beijing
+F0041,Yuanyuan Li,S0131,Mobvoi,Beijing
+F0042,Sunney Xie,S0137,"Yikon Genomics Co., Ltd.",Beijing
+F0043,Dai Wei,S0140,Ofo,Beijing
+F0044,Qinghua Guo,S0143,Beijing GreenValley Technology.Co.Ltd.,Beijing
+F0045,iDeepWise Artificial Intelligence Robot Technology (Beijing) Co.,S0144,"Beijing Yunjiang Technology Co., Ltd.",Beijing
+F0046,Ltd.,S0144,"Beijing Yunjiang Technology Co., Ltd.",Beijing
+F0047,Zhiming Yang,S0144,"Beijing Yunjiang Technology Co., Ltd.",Beijing
+F0048,Hu Weiwei,S0147,Meituan Bike,Beijing
+F0049,Nikita Huang,S0148,DataMesh,Beijing
+F0050,Jie Li,S0148,DataMesh,Beijing
+F0051,Daixing Zhou,S0149,"Berry Genomics Co.,Ltd",Beijing
+F0052,Ying Hou,S0149,"Berry Genomics Co.,Ltd",Beijing
+F0053,Xin Ni,S0150,EOC Pharma Group,Beijing
+F0054,Xiaoming Zou,S0150,EOC Pharma Group,Beijing
+F0055,James LaLonde,S0153,Yodo1,Beijing
+F0056,Li Bin,S0154,BeauCare Clinics,Beijing
+F0057,Damien Shu,S0157,"Benewake (Beijing) Co., Ltd.",Beijing
+F0058,Wu Shufan,S0158,"Beijing MinoSpace Technology Co.,Ltd.",Beijing
+F0059,iSpace China,S0159,"Beijing Fangyan Juxing Technology Co., Ltd.",Beijing
+F0060,Xiong Lin,S0160,Ziroom,Beijing
+F0061,Jaecheol Kim,S0164,Seerslab,Seoul
+F0062,Jung-hee Ryu,S0165,KonoLabs,Seoul
+F0063,YJ Min **@kono.ai,S0165,KonoLabs,Seoul
+F0064,Jaehoon Choi,S0165,KonoLabs,Seoul
+F0065,Jeongho Jeon,S0167,DSRV,Seoul
+F0066,Ilsu Park,S0170,MARS Auto,Seoul
+F0067,Jungin Lee Twitter,S0171,Lunit Inc.,Seoul
+F0068,Eric seyoung Jang,S0172,Moneybrain,Seoul
+F0069,Sungjae Hwang,S0173,Fluenty Inc.,Seoul
+F0070,SeokHwan. You,S0174,Rokit Healthcare Inc.,Seoul
+F0071,Kong Pyung,S0177,Looxid Labs,Seoul
+F0072,jaeho bae,S0177,Looxid Labs,Seoul
+F0073,Jongheun Lee,S0178,Mathpresso,Seoul
+F0074,Hee Jo Lee,S0179,SOOHO,Seoul
+F0075,Hak Joo Oh,S0179,SOOHO,Seoul
+F0076,Hyungu (Dave) Cho,S0180,Classting,Seoul
+F0077,Jaesang Yoo,S0180,Classting,Seoul
+F0078,Daehyun Kim,S0182,Toss Lab,Seoul
+F0079,Daniel Chan,S0182,Toss Lab,Seoul
+F0080,Cho Man-ho,S0183,Musinsa,Seoul
+F0081,Sang Hun Oh ***.**@luxrobo.com,S0185,"Luxrobo Co., Ltd.",Seoul
+F0082,Ted Cho,S0186,Skelter Labs Inc.,Seoul
+F0083,YoungDug Kim ***@thewavetalk.com,S0189,The Wave Talk,Seoul
+F0084,Yongkeun Park,S0189,The Wave Talk,Seoul
+F0085,Jaesung Lee,S0190,DeepValidation,Seoul
+F0086,Brian Lee,S0190,DeepValidation,Seoul
+F0087,Yongjoon Choi,S0191,Lululab,Seoul
+F0088,Changhyun Yoo,S0192,PILAB,Seoul
+F0089,Samuel Ahn,S0193,"Hyperconnect, Inc.",Seoul
+F0090,Yong Hyeon-taek,S0193,"Hyperconnect, Inc.",Seoul
+F0091,Taehoon Kim,S0195,Deeping Source Inc.,Seoul
+F0092,Sumin Lee,S0195,Deeping Source Inc.,Seoul
+F0093,SangYoung Park,S0197,DAYLI Financial Group Inc.,Seoul
+F0094,Sean Shin,S0197,DAYLI Financial Group Inc.,Seoul
+F0095,Jung Seok Kang,S0198,AIZEN,Seoul
+F0096,Dan Hong,S0200,Quotabook,Seoul
+F0097,Minjong Chung,S0201,Tridge,Seoul
+F0098,Kangwook Lee,S0201,Tridge,Seoul
+F0099,Taehyung Kwon,S0202,PharmCADD,Seoul
+F0100,Chulhee Choi,S0204,ILIAS Biologics,Seoul
+F0101,Sung-Ho Han ***@olive-hc.com,S0205,Olive Healthcare,Seoul
+F0102,Michael Jeong,S0207,AIDOT,Seoul
+F0103,Hwijin Lee,S0210,LawTalk,Seoul
+F0104,Michael Hong,S0213,Pandora TV,Seoul
+F0105,Tae-Jin Kang,S0214,Insignary,Seoul
+F0106,Jeongtae Kim,S0215,Odd Concepts,Seoul
+F0107,Daniel Shin,S0216,Chai Corporation,Seoul
+F0108,Chul-Woo Kim,S0217,BIOINFRA Life Science Inc.,Seoul
+F0109,Kwangjin Lee,S0219,Deep Medi,Seoul
+F0110,Sanghoon Park,S0222,Illimis Therapeutics,Seoul
+F0111,Wonsuk Chung,S0222,Illimis Therapeutics,Seoul
+F0112,Chanhyuk Kim,S0222,Illimis Therapeutics,Seoul
+F0113,Jeong Doo-hee,S0225,Impactive AI,Seoul
+F0114,Gracy Chen,S0228,Bitget,Singapore
+F0115,Eric Barbier,S0229,Thunes,Singapore
+F0116,Peter Caluwe,S0229,Thunes,Singapore
+F0117,Alex Svanevik,S0230,Nansen,Singapore
+F0118,Evgeny Medvedev,S0230,Nansen,Singapore
+F0119,Lars Bakke Krogvig,S0230,Nansen,Singapore
+F0120,Richard Li,S0231,bolttech,Singapore
+F0121,Jack Zhang,S0232,Airwallex,Singapore
+F0122,Jacob Dai,S0232,Airwallex,Singapore
+F0123,Ki-Lok Wong,S0232,Airwallex,Singapore
+F0124,Lucy Yueting Liu,S0232,Airwallex,Singapore
+F0125,Max Li,S0232,Airwallex,Singapore
+F0126,Michael Bermingham,S0233,Nium,Singapore
+F0127,Prajit Nanu,S0233,Nium,Singapore
+F0128,Pratik Gandhi,S0233,Nium,Singapore
+F0129,Andrea Baronchelli,S0234,Aspire,Singapore
+F0130,Giacomo Ficari,S0234,Aspire,Singapore
+F0131,Giovanni Casinelli,S0234,Aspire,Singapore
+F0132,Joel Leong,S0234,Aspire,Singapore
+F0133,Stefan Hadjidetschev,S0234,Aspire,Singapore
+F0134,Stefano Pellegrino,S0234,Aspire,Singapore
+F0135,Thibaud Chommeloux,S0234,Aspire,Singapore
+F0136,Junjie Yan,S0235,MiniMax,Singapore
+F0137,Aaron Ong,S0236,GRVT,Singapore
+F0138,Hong Gyu Yea,S0236,GRVT,Singapore
+F0139,Matthew Quek,S0236,GRVT,Singapore
+F0140,Chris Xu,S0251,Shein,Singapore
+F0141,Eduardo Saverin,S0254,Ninja Van,Singapore
+F0142,Dror Feldheim,S0260,Trax,Singapore
+F0143,Ken Griffin,S0274,DayOne,Singapore
+F0144,Hon Weng Chong,S0280,Cortical Labs,Singapore
+F0145,Malcolm Rodrigues,S0284,MyRepublic,Singapore
+F0146,Siu Rui Quek,S0289,Carousell,Singapore
+F0147,gDEX Metaverse,S0289,Carousell,Singapore
+F0148,J.D. Salbego,S0289,Carousell,Singapore
+F0149,Rahul Sasi,S0296,CloudSEK,Singapore
+F0150,Peter Fedichev,S0297,Gero,Singapore
+F0151,Claude Dauphin,S0300,Trafigura,Singapore
+F0152,Akshay Kothari,S0304,Atlan,Singapore
+F0153,Varun Banka,S0304,Atlan,Singapore
+F0132,Joel Leong,S0307,ShopBack,Singapore
+F0154,Rong Lin,S0318,SynFutures,Singapore
+F0155,Louis Nguyen,S0323,Whale,Singapore
+F0156,Jason Dinh,S0323,Whale,Singapore
+F0157,Akshit Bordia,S0324,Flint,Singapore
+F0158,Pankaj Balani,S0325,Delta Exchange,Singapore
+F0159,Jitender Tokas,S0325,Delta Exchange,Singapore
+F0160,Winston Zhang,S0326,Cega,Singapore
+F0161,Weixiang Zhong,S0327,Ecxx,Singapore
+F0162,Julian Hosp,S0328,Cake DeFi,Singapore
+F0163,Ben He ***@token.im,S0329,Footprint Analytics,Singapore
+F0164,Daniel Lv,S0329,Footprint Analytics,Singapore
+F0165,Tung Dao,S0330,VCC Exchange,Singapore
+F0011,Jihan Wu,S0331,Matrixport,Singapore
+F0166,Sandeep Nailwal,S0332,Cypherock Wallet,Singapore
+F0167,Mahin Gupta,S0332,Cypherock Wallet,Singapore
+F0168,Jack Tao,S0333,Phemex,Singapore
+F0169,Max Giammario ***@metapals.pet,S0335,MetaPals,Singapore
+F0170,Tony Song,S0335,MetaPals,Singapore
+F0171,Richard Eldridge Twitter,S0336,LenddoEFL,Singapore
+F0172,Jeffrey Stewart,S0336,LenddoEFL,Singapore
+F0173,Anton Katz,S0337,Talos Trading,Singapore
+F0174,Ethan Feldman,S0337,Talos Trading,Singapore
+F0175,Xinxi Wang,S0338,COINUT,Singapore
+F0176,Cain Huang,S0338,COINUT,Singapore
+F0177,Gautam Altekar *.*@menlosecurity.com,S0339,Menlo Security,Singapore
+F0178,Amir Ben-Efraim,S0339,Menlo Security,Singapore
+F0179,Antoni Trenchev,S0340,Vauld,Singapore
+F0180,Joe Fitzsimons ***@horizonquantum.com,S0341,Horizon Quantum Computing,Singapore
+F0181,Ka Yi Ling,S0342,Shiok Meats,Singapore
+F0182,Rui Sales ***@stratioautomotive.com,S0344,Stratio Automotive,Singapore
+F0183,Idan Ofrat,S0345,Fireblocks,Singapore
+F0184,Michael Shaulov,S0345,Fireblocks,Singapore
+F0185,Pavel Berengoltz,S0345,Fireblocks,Singapore
+F0186,Marc Amez-Droz **@hextrust.com,S0346,Hex Trust,Singapore
+F0187,Nick Cayer,S0350,Jumio,Singapore
+F0188,Eric Byunn,S0350,Jumio,Singapore
+F0189,Rohit Jha,S0351,Transcelestial Technologies,Singapore
+F0190,Mohammad Danesh,S0351,Transcelestial Technologies,Singapore
+F0191,Florian Savoy,S0355,Medios Technologies,Singapore
+F0192,Bhargav Sosale,S0355,Medios Technologies,Singapore
+F0193,Joe Zawadzki ***@aperiam.vc,S0356,MediaMath,Singapore
+F0194,Joaquin Keller,S0358,Entropica Labs,Singapore
+F0195,Grace Chia,S0359,BeeX,Singapore
+F0196,Goh Eng Wei,S0359,BeeX,Singapore
+F0197,Philip Stehlik Twitter,S0360,Taulia,Singapore
+F0198,Bertram Meyer,S0360,Taulia,Singapore
+F0199,Markus Ament Twitter,S0360,Taulia,Singapore
+F0200,Yu Xu **.**@tigergraph.com,S0361,TigerGraph,Singapore
+F0201,Vicky Bindra,S0364,Pine Labs,Singapore
+F0202,Charlie Baillie,S0365,Ampverse,Singapore
+F0203,Sascha Zehe,S0366,Polemos,Singapore
+F0204,Dr Luo Sha,S0368,Nuspace PTE. Ltd.,Singapore
+F0205,Zhen Ning Ng,S0368,Nuspace PTE. Ltd.,Singapore
+F0206,Malcolm Brenner,S0369,Tessa Therapeutics,Singapore
+F0207,Prashant Kirtane,S0370,Travelstop,Singapore
+F0208,Altaf Dhamani,S0370,Travelstop,Singapore
+F0209,Irene Zhao,S0372,SO-COL,Singapore
+F0210,Benjamin Tang,S0372,SO-COL,Singapore
+F0211,Creating Asia,S0374,Karana,Singapore
+F0212,Darryl Wan,S0375,Reap,Singapore
+F0213,Aaron Tan,S0392,CARRO (carro.co),Singapore
+F0214,Aditya Lesmana,S0392,CARRO (carro.co),Singapore
+F0215,Ashwin Damera,S0393,Eruditus,Singapore
+F0216,Joan Ong,S0394,Supermom,Singapore
+F0217,Luke Lim,S0394,Supermom,Singapore
+F0218,Lynn Yeoh,S0394,Supermom,Singapore
+F0219,Rebecca Koh,S0394,Supermom,Singapore
+F0220,Chris Ng,S0407,SkyArk Studio,Singapore
+F0221,Calvin Liu,S0424,Dora Factory,Singapore
+F0222,Ramakant Sharma,S0435,Livspace,Singapore
+F0223,Anuj Srivastava,S0435,Livspace,Singapore
+F0224,Ezaan Mangalji,S0445,Initia Labs,Singapore
+F0225,Andrea Fortugno,S0446,MagicBlock Labs,Singapore
+F0226,Gabriele Picco,S0446,MagicBlock Labs,Singapore
+F0227,Anatoly Yakovenko,S0450,Oobit Technologies,Singapore
+F0228,Peng Zhihui,S0453,Agibot,Shanghai
+F0229,Charlwin Mao Wenchao,S0454,Xiaohongshu,Shanghai
+F0230,Miranda Qu,S0454,Xiaohongshu,Shanghai
+F0231,Jiao Guofang,S0455,Biren Technology,Shanghai
+F0232,Zhang Wen,S0455,Biren Technology,Shanghai
+F0233,Hong-hoi Ting,S0456,Full-Life Technologies,Shanghai
+F0234,Lanny Sun,S0456,Full-Life Technologies,Shanghai
+F0235,Nicholas Wong,S0456,Full-Life Technologies,Shanghai
+F0236,Junfeng Yao,S0457,Smartee Denti-Technology,Shanghai
+F0237,Zhongwei Yao,S0457,Smartee Denti-Technology,Shanghai
+F0238,John Ma,S0458,Ronovo Surgical,Shanghai
+F0239,Ying Mao,S0458,Ronovo Surgical,Shanghai
+F0240,Bao-Hong Zhang,S0459,Epigenic Therapeutics,Shanghai
+F0241,William CHEN,S0460,MetaX,Shanghai
+F0242,Daniel Mou,S0461,United Imaging Healthcare,Shanghai
+F0243,Jie Gu,S0462,Fourier Intelligence,Shanghai
+F0244,Zhang Lu,S0463,Soul APP,Shanghai
+F0245,Beijing Sinohytec,S0469,Hozon,Shanghai
+F0246,Zhejiang Yangtze Delta Region Institute,S0469,Hozon,Shanghai
+F0247,Zhang Jie,S0501,Mabang ERP,Shanghai
+F0248,Limin Tan,S0505,Westwell Lab,Shanghai
+F0249,Sun Shuo,S0506,Xiangwushuo,Shanghai
+F0250,Wu Weimin,S0525,Shijia Technology,Shanghai
+F0251,Charles Xie,S0543,Zilliz,Shanghai
+F0252,James Yang,S0545,AMEC,Shanghai
+F0253,Jie Fan,S0548,Accutar Biotech,Shanghai
+F0254,Ke Liu,S0548,Accutar Biotech,Shanghai
+F0255,David Chen,S0549,Strikingly,Shanghai
+F0256,Soul Htite,S0550,Dianrong,Shanghai
+F0257,Nicky Li,S0551,Blocklords,Shanghai
+F0258,Kandaswamy Vijayan,S0552,Omniome,Shanghai
+F0259,Wayne Dai,S0553,VeriSilicon Holdings,Shanghai
+F0260,Dr. Hangwen Li,S0554,Stemirna Therapeutics,Shanghai
+F0261,Greg Zaharchuk,S0555,Subtle Medical,Shanghai
+F0262,Enhao Gong,S0555,Subtle Medical,Shanghai
+F0263,Javier Mata,S0558,Yalochat,Shanghai
+F0264,Zheren Hu,S0559,Laix,Shanghai
+F0265,Hui Lin ***.***@liulishuo.com,S0559,Laix,Shanghai
+F0266,Julian Zheren,S0564,Inceptio Technology,Shanghai
+F0267,Anne Monjanel,S0565,Polyplus-Transfection S.A.,Shanghai
+F0268,Joelle Bloch,S0565,Polyplus-Transfection S.A.,Shanghai
+F0269,Patrick Metz,S0565,Polyplus-Transfection S.A.,Shanghai
+F0270,iTutorGroup,S0567,The CareVoice,Shanghai
+F0271,diaDexus,S0568,3D Medicines,Shanghai
+F0272,Fu Cairui,S0578,HuJiang,Shanghai
+F0273,Alan Feng Xinpeng,S0580,"NextVPU (Shanghai) Co., Ltd.",Shanghai
+F0274,Tommie Tao,S0584,"Anhui Cowarobot Co., Ltd.",Shanghai
+F0275,Qiang Lu ***@genfleet.com,S0585,GenFleet Therapeutics,Shanghai
+F0276,Lintao Tan,S0586,"Alinket Electronic Technology (Shanghai) Co., Ltd.",Shanghai
+F0277,Maodong Qian,S0587,SKYSYS Intelligent Technology Limited,Shanghai
+F0278,Will Lee,S0591,Youxia Motors,Shanghai
+F0279,Gabriel Mirón,S0592,ShouTi Inc.,Shanghai
+F0280,Vishesh Nargotra,S0592,ShouTi Inc.,Shanghai
+F0281,xiaoi,S0592,ShouTi Inc.,Shanghai
+F0282,Eddie Chan,S0594,Motovis Intelligent Technologies (Shanghai) Co Ltd,Shanghai
+F0283,Davy Luk,S0594,Motovis Intelligent Technologies (Shanghai) Co Ltd,Shanghai
+F0284,Yu Zhenghua,S0594,Motovis Intelligent Technologies (Shanghai) Co Ltd,Shanghai
+F0285,Alexandre van 't Westende,S0595,Seeder Energy,Shanghai
+F0286,Sign up to access our full database,S0595,Seeder Energy,Shanghai
+F0287,Enter your email,S0595,Seeder Energy,Shanghai
+F0288,get access to 71,S0595,Seeder Energy,Shanghai
+F0289,000 + technology companies you can partner with.,S0595,Seeder Energy,Shanghai
+F0290,Ron Victor,S0597,IoTium,Tokyo
+F0291,Alexandre Dalyac,S0598,Tractable AI,Tokyo
+F0292,Adrien Cohen,S0598,Tractable AI,Tokyo
+F0293,Takashi Eishima,S0599,AxelSpace,Tokyo
+F0294,Naoki Miyashita,S0599,AxelSpace,Tokyo
+F0295,Thibaut Britz,S0602,Talkwalker,Tokyo
+F0296,Robert W. Laing,S0603,Gengo,Tokyo
+F0297,Ryo Chikazawa ***@autify.com,S0604,Autify,Tokyo
+F0298,Takayuki Shimizu,S0604,Autify,Tokyo
+F0299,Masatoshi Kumagai,S0606,GMO Internet Group,Tokyo
+F0300,Tetsuro Takemoto,S0607,Ineeza,Tokyo
+F0301,Masuda Shunsuke,S0608,Cryptact,Tokyo
+F0302,Issei Takino,S0609,Mujin,Tokyo
+F0303,Rosen Diankov,S0609,Mujin,Tokyo
+F0304,Keisuke Tomimatsu,S0611,ABEJA,Tokyo
+F0305,Takanori Ogata,S0611,ABEJA,Tokyo
+F0306,Chetan Bhuta,S0613,Scalix,Tokyo
+F0307,Julie Hanna,S0613,Scalix,Tokyo
+F0308,Daisuke Okanohara,S0614,Preferred Networks,Tokyo
+F0309,Morikawa Hiroyuki,S0614,Preferred Networks,Tokyo
+F0310,Hiroichi Yoshida,S0617,"ELIIY Power Co., Ltd.",Tokyo
+F0311,Lee Smith ***@savea.com,S0620,Paidy,Tokyo
+F0312,Russell Cummer,S0620,Paidy,Tokyo
+F0313,Yang Tento,S0623,QunaSys,Tokyo
+F0314,Tennin Yan ***@qunasys.com,S0623,QunaSys,Tokyo
+F0315,Koichi Nakayama,S0624,Cyfuse Biomedical K.K.,Tokyo
+F0316,Koji Kuchiishi,S0624,Cyfuse Biomedical K.K.,Tokyo
+F0317,Michael Carter,S0627,Playco,Tokyo
+F0318,Justin Waldron,S0627,Playco,Tokyo
+F0319,Julien Hora,S0629,Datance,Tokyo
+F0320,Alireza Goudarzi,S0629,Datance,Tokyo
+F0321,Gabriel Stempinski,S0629,Datance,Tokyo
+F0322,Dallas Johnston,S0630,Credify,Tokyo
+F0323,Hironao Kunimitsu,S0631,Thirdverse,Tokyo
+F0324,Prakash Murthy,S0632,Atonarp,Tokyo
+F0325,Tomoyoshi Sato,S0632,Atonarp,Tokyo
+F0326,Kohta Satake,S0635,CureApp,Tokyo
+F0327,Hirao Ichiro,S0641,TAGCyx Biotechnologies,Tokyo
+F0328,Takenori Kitagamae,S0643,Kibiro,Tokyo
+F0329,Osamu Nureki,S0644,Modalis Therapeutics Corporation,Tokyo
+F0330,Kazuya Hata,S0649,JustInCase,Tokyo
+F0331,Shinichi Nasukawa,S0649,JustInCase,Tokyo
+F0332,Akihiro Okabe,S0650,Novars,Tokyo
+F0333,Daisuke Sasaki,S0651,Freee,Tokyo
+F0334,Takaya Taguchi,S0654,Helical Fusion,Tokyo
+F0335,Junichi Miyazawa,S0654,Helical Fusion,Tokyo
+F0336,Yu Yamashiro,S0656,Jij,Tokyo
+F0337,amplified ai,S0656,Jij,Tokyo
+F0338,Christopher Grainger,S0656,Jij,Tokyo
+F0339,Hideyuki Okano,S0657,SanBio,Tokyo
+F0286,Sign up to access our full database,S0657,SanBio,Tokyo
+F0287,Enter your email,S0657,SanBio,Tokyo
+F0288,get access to 71,S0657,SanBio,Tokyo
+F0289,000 + technology companies you can partner with.,S0657,SanBio,Tokyo
+F0340,Akio Morita,S0674,Eco-Pork Co,Tokyo
+F0341,Masaru Ibuka,S0674,Eco-Pork Co,Tokyo
+F0342,Norio Yamaguchi,S0675,Ubiden,Tokyo
+F0343,Lina Sakai,S0712,SHONAI (Organic Rice Design),Tokyo
+F0343,Lina Sakai,S0715,Sarowin,Tokyo
+F0344,Arthur Mensch,S0751,Mistral AI,Paris
+F0345,Charles Gorintin,S0751,Mistral AI,Paris
+F0346,Guillaume Lample,S0751,Mistral AI,Paris
+F0347,Jean Charles Samuelian,S0751,Mistral AI,Paris
+F0348,Timothee Lacroix,S0751,Mistral AI,Paris
+F0349,Frederic Trinel,S0752,EcoVadis,Paris
+F0350,Pierre Francois Thaler,S0752,EcoVadis,Paris
+F0351,Morgan Perry,S0753,Qovery,Paris
+F0352,Pierre Mavro,S0753,Qovery,Paris
+F0353,Romaric Philogene,S0753,Qovery,Paris
+F0354,Julien Blancher,S0754,Finary,Paris
+F0355,Mounir Laggoune,S0754,Finary,Paris
+F0356,Dali Rashid,S0755,Genomines,Paris
+F0357,Fabien Koutchekian,S0755,Genomines,Paris
+F0358,David Cahané,S0756,Bioptimus,Paris
+F0359,Eric Durand,S0756,Bioptimus,Paris
+F0360,Felipe Llinares López,S0756,Bioptimus,Paris
+F0361,Jean-Philippe Vert,S0756,Bioptimus,Paris
+F0362,Rodolphe Jenatton,S0756,Bioptimus,Paris
+F0363,Zelda Mariet,S0756,Bioptimus,Paris
+F0364,Raphaël Lescanne,S0757,Alice & Bob,Paris
+F0365,Théau Péronnin,S0757,Alice & Bob,Paris
+F0366,Anne Osdoit,S0758,SafeHeal,Paris
+F0367,Charles A. Kantor,S0759,H Company,Paris
+F0368,Julien Perolat,S0759,H Company,Paris
+F0369,Karl Tuyls,S0759,H Company,Paris
+F0370,Adam Dowson,S0760,Request Finance,Paris
+F0371,Christophe Lassuyt,S0760,Request Finance,Paris
+F0372,Julien Devoir,S0760,Request Finance,Paris
+F0373,Yoann Marion,S0760,Request Finance,Paris
+F0374,Marc-Henri Gires,S0761,Defacto,Paris
+F0375,Stanislas Polu,S0775,Dust,Paris
+F0376,Gabriel Hubert,S0775,Dust,Paris
+F0377,Guillaume Beraud-Sudreau,S0776,Akur8,Paris
+F0378,Edourd mascre **@pennylane.com,S0799,Pennylane,Paris
+F0379,Philippe Ravaud,S0804,Inato,Paris
+F0380,Alexis Barreyat,S0812,BeReal.,Paris
+F0381,Adrien Nussenbaum,S0837,Mirakl,Paris
+F0382,Philippe Corrot,S0837,Mirakl,Paris
+F0383,Christian Raisson,S0838,ManoMano,Paris
+F0384,Victoire Bach,S0845,Hopia,Paris
+F0385,Matthias Lesage,S0845,Hopia,Paris
+F0386,Dominique Bolignano,S0849,Prove & Run,Paris
+F0387,Joel Pobeda,S0854,Ledger (cryptocurrency wallet company),Paris
+F0388,Nicolas Bacca,S0854,Ledger (cryptocurrency wallet company),Paris
+F0389,Frédéric Montagnon,S0856,Arianee,Paris
+F0390,Christian Jorge *@jorge.fr,S0856,Arianee,Paris
+F0391,Sébastien Forestier ***@forest.bio,S0857,Massa,Paris
+F0392,Adrien Laversanne-Finot **@mit.edu,S0857,Massa,Paris
+F0393,Valerian Giesz,S0858,Quandela,Paris
+F0394,Pierre-Baptiste Béchu **@aircall.io,S0860,Aircall,Paris
+F0395,Xavier Durand,S0860,Aircall,Paris
+F0396,Mohamed Haouache **@thestorefront.com,S0861,Storefront,Paris
+F0397,Erik Eliason,S0861,Storefront,Paris
+F0398,Timothy Lu ***.**@sentibio.com,S0862,Eligo Bioscience,Paris
+F0399,Luciano Marraffini,S0862,Eligo Bioscience,Paris
+F0400,Jean-Charles Samuelian Werve,S0863,Alan,Paris
+F0401,Nicolas COSME,S0865,Gleamer,Paris
+F0402,Alexis Angot,S0866,Ynsect,Paris
+F0403,Fabrice Berro,S0866,Ynsect,Paris
+F0404,Steve Anavi,S0867,Qonto,Paris
+F0405,Nicolas Chaunu,S0870,Mailjet,Paris
+F0406,Fernando Americano,S0874,Le Wagon,Paris
+F0407,Sébastien Saunier,S0874,Le Wagon,Paris
+F0408,Matthieu Gendreau,S0875,FairMoney,Paris
+F0409,Raphaël Vullierme,S0877,Luko,Paris
+F0410,Thibaud Elziere,S0878,Slite,Paris
+F0411,Dan Serfaty,S0879,Viadeo,Paris
+F0412,Maximilien Leveque **@aqemia.com,S0881,Aqemia,Paris
+F0413,Nadav Shoval,S0882,OpenWeb,Paris
+F0414,Roee Goldberg,S0882,OpenWeb,Paris
+F0415,Ishay Green,S0882,OpenWeb,Paris
+F0416,Michael W Kilpatrick,S0884,Ikonisys,Paris
+F0417,PhD,S0884,Ikonisys,Paris
+F0418,Achraf Hakimi Twitter,S0884,Ikonisys,Paris
+F0419,Aqil Mammadov,S0884,Ikonisys,Paris
+F0420,Nadim Kobeissi,S0888,Capsule Social,Paris
+F0421,Thibaud Elziere (entrepreneur),S0889,Spendesk,Paris
+F0422,Manuel Montalban,S0890,Lemon Way,Paris
+F0423,Sébastien Burlet,S0890,Lemon Way,Paris
+F0424,Jacques Lolieux,S0892,Aplo,Paris
+F0425,Bénédicte de Raphélis Soissan,S0894,Clustree,Paris
+F0426,Boris Dezier,S0901,Actility,Paris
+F0427,Jean Guillou (entrepreneur) Twitter,S0902,Dashlane,Paris
+F0428,Kevin Sartori,S0903,Auterion,Zurich
+F0429,Lorenz Meier,S0903,Auterion,Zurich
+F0430,Andreas Lauber,S0904,ANYbotics,Zurich
+F0431,Christian Gehring,S0904,ANYbotics,Zurich
+F0432,Hanspeter Fässler,S0904,ANYbotics,Zurich
+F0433,Marco Hutter,S0904,ANYbotics,Zurich
+F0434,Peter Fankhauser,S0904,ANYbotics,Zurich
+F0435,Patrick Staeuble,S0905,Teylor,Zurich
+F0436,Christoph Gebald,S0906,Climeworks,Zurich
+F0437,Jan Wurzbacher,S0906,Climeworks,Zurich
+F0438,Daniela Marino,S0907,Cutiss,Zurich
+F0439,Fabienne Hartmann-Fritsch,S0907,Cutiss,Zurich
+F0440,Alexander Reske,S0908,RIVR,Zurich
+F0441,Giorgio Valsecchi,S0908,RIVR,Zurich
+F0442,Lorenz Wellhausen,S0908,RIVR,Zurich
+F0443,Marko Bjelonic,S0908,RIVR,Zurich
+F0444,Joao Pedro Monteiro,S0910,Veezoo,Zurich
+F0445,Marcos Monteiro,S0910,Veezoo,Zurich
+F0446,Till Haug,S0910,Veezoo,Zurich
+F0447,Fabian Riesen,S0911,Loft Dynamics,Zurich
+F0448,Hany Rashwan,S0912,21Shares,Zurich
+F0449,Ophelia Snyder,S0912,21Shares,Zurich
+F0450,Felix Hürlimann,S0914,Squirro,Zurich
+F0451,ben brandt,S0923,Ledgy,Zurich
+F0452,Christian Floerkemeier,S0925,Scandit,Zurich
+F0453,Max Ahnen,S0926,Positrigo,Zurich
+F0454,Jannis Fischer,S0926,Positrigo,Zurich
+F0455,Alfred Buck,S0926,Positrigo,Zurich
+F0456,Guenther Dissertori,S0926,Positrigo,Zurich
+F0457,Werner Lustermann,S0926,Positrigo,Zurich
+F0458,Bruno Weber,S0926,Positrigo,Zurich
+F0459,Julian Liniger,S0929,Relai,Zurich
+F0460,Adem Bilican,S0929,Relai,Zurich
+F0461,Karim Saleh **@cerrion.com,S0930,Cerrion,Zurich
+F0462,Michael Gygli,S0930,Cerrion,Zurich
+F0463,Philippe Sahli,S0931,Yokoy,Zurich
+F0464,Luuk van Dijk,S0933,Daedalean,Zurich
+F0465,Alessandro Ofner,S0942,Microcaps,Zurich
+F0466,Michael Hagander,S0942,Microcaps,Zurich
+F0467,Renat Heuberger,S0945,South Pole,Zurich
+F0468,Christoph Grobbel,S0945,South Pole,Zurich
+F0469,Pascal Kaufmann,S0946,Starmind.ai,Zurich
+F0470,Marc Vontobel,S0946,Starmind.ai,Zurich
+F0471,Luciano Franceschina,S0948,Teralytics,Zurich
+F0472,Lea von Bidder,S0949,Ava,Zurich
+F0473,Philipp Tholen,S0949,Ava,Zurich
+F0474,Pascal Koenig,S0949,Ava,Zurich
+F0475,Dan Wendlandt ***@isovalent.com,S0950,Isovalent,Zurich
+F0476,Urban Connect,S0955,Anjarium Biosciences,Zurich
+F0477,Urban Connect is an app based booking platform providing access to bikes,S0955,Anjarium Biosciences,Zurich
+F0478,e-bikes,S0955,Anjarium Biosciences,Zurich
+F0479,e-scooters or e-cars.,S0955,Anjarium Biosciences,Zurich
+F0480,Judith Häberli,S0955,Anjarium Biosciences,Zurich
+F0481,Fabio Federici,S0958,Base 58 Capital,Zurich
+F0482,Julien Arnold,S0961,Numbrs,Zurich
+F0483,Martin Saidler,S0961,Numbrs,Zurich
+F0484,Sergei Lupashin,S0963,Fotokite,Zurich
+F0485,Ansuman Satpathy,S0967,Immunai,Zurich
+F0486,Dan Littman,S0967,Immunai,Zurich
+F0487,Stefan Mitrović,S0969,ImmunOs Therapeutics,Zurich
+F0488,Veselin Raychev,S0972,DeepCode,Zurich
+F0489,deskbird,S0972,DeepCode,Zurich
+F0490,Alice Nawfal,S0981,Notabene,Zurich
+F0491,Ania Lipinska,S0981,Notabene,Zurich
+F0492,Phil Lojacono,S0982,Advanon,Zurich
+F0493,Stijn Pieper,S0982,Advanon,Zurich
+F0494,Aaron Voisine,S0983,BRD (formerly breadwallet),Zurich
+F0495,flov technologies,S0985,Crypto Storage AG,Zurich
+F0496,Emanuel Burgener,S0985,Crypto Storage AG,Zurich
+F0497,Franck Legendre,S0986,Uepaa AG,Zurich
+F0498,guuru,S0986,Uepaa AG,Zurich
+F0499,Wences Casares (entrepreneur),S0987,Xapo,Zurich
+F0500,Eli Bixby ***@cradle.bio,S0988,Cradle,Zurich
+F0286,Sign up to access our full database,S0989,Mirai Foods,Zurich
+F0287,Enter your email,S0989,Mirai Foods,Zurich
+F0288,get access to 71,S0989,Mirai Foods,Zurich
+F0289,000 + technology companies you can partner with.,S0989,Mirai Foods,Zurich
+F0501,Access 71k+ startups,S0989,Mirai Foods,Zurich
+F0502,Professeur Andreas Pl,S0991,Molecular Partners,Zurich
+F0503,Jeff Bezos,S0996,Swiss-Mile,Zurich
+F0504,Mimic Robotics,S0997,Mimic Robotics,Zurich
+F0505,Ivan Cossu,S1000,Deskbird,Zurich
+F0506,Thomas Wolf,S1003,Ahead Health,Zurich
+F0507,Christian Engler,S1006,Tethys Robotics - Switzerland,Zurich
+F0508,Eduardo Morrison,S1027,Schuman Financial AG,Zurich
+F0509,Nicholas Pouzin,S1027,Schuman Financial AG,Zurich
+F0510,Amrita Srivastava,S1027,Schuman Financial AG,Zurich
+F0511,Christian Heiduschke,S1029,tiun.,Zurich
+F0512,Harald Kr,S1035,Chipmind,Zurich
+F0513,Jan Oberhauser,S1069,n8n,Berlin
+F0514,Gundbert Scherf,S1070,Helsing,Berlin
+F0515,Niklas Köhler,S1070,Helsing,Berlin
+F0516,Torsten Reil,S1070,Helsing,Berlin
+F0517,Juha Ristolainen,S1071,Upvest,Berlin
+F0518,Martin Kassing,S1071,Upvest,Berlin
+F0519,Til Rochow,S1071,Upvest,Berlin
+F0520,Tobias Auferoth,S1071,Upvest,Berlin
+F0521,Malte Kosub,S1072,Parloa,Berlin
+F0522,Stefan Ostwald,S1072,Parloa,Berlin
+F0523,Johannes Reck,S1073,GetYourGuide,Berlin
+F0524,Martin Sieber,S1073,GetYourGuide,Berlin
+F0525,Pascal Mathis,S1073,GetYourGuide,Berlin
+F0526,Tao Tao,S1073,GetYourGuide,Berlin
+F0527,Tobias Rein,S1073,GetYourGuide,Berlin
+F0528,Matti Niebelschuetz,S1074,CoachHub,Berlin
+F0529,Yannis Niebelschuetz,S1074,CoachHub,Berlin
+F0530,Matteo Fava,S1075,Claro,Berlin
+F0531,Tameesh Biswas,S1075,Claro,Berlin
+F0532,Till Westermann,S1075,Claro,Berlin
+F0533,Fabian Kamberi,S1076,Born,Berlin
+F0534,Jannis Ringwald,S1076,Born,Berlin
+F0535,Stefan Quernhorst,S1076,Born,Berlin
+F0536,Bastian Bergmann,S1077,Solsten,Berlin
+F0537,Joe Schaeppi,S1077,Solsten,Berlin
+F0538,Julius Muth,S1078,revel8,Berlin
+F0539,Tom Müller,S1078,revel8,Berlin
+F0540,Alexander Ljung Twitter,S1084,SoundCloud,Berlin
+F0541,Vess Bakalov,S1088,Pliant,Berlin
+F0542,Dimitar Blagoev **@pliantrx.com,S1088,Pliant,Berlin
+F0543,Matt Goldberg,S1088,Pliant,Berlin
+F0544,Valentin Stalf Twitter,S1089,N26,Berlin
+F0545,Jens Wohltorf,S1094,Blacklane,Berlin
+F0546,Max Linden,S1098,lemon.markets,Berlin
+F0547,zeotap,S1103,Apheris,Berlin
+F0548,Felix Steffens,S1109,WorkMotion,Berlin
+F0549,Karim Zaghloul,S1109,WorkMotion,Berlin
+F0550,Carsten Lebtig,S1109,WorkMotion,Berlin
+F0551,Max Tayenthal,S1111,finmid,Berlin
+F0552,Michael Cassau,S1112,Grover,Berlin
+F0553,Daniel Khachab,S1115,Choco,Berlin
+F0554,Julian Hammer,S1115,Choco,Berlin
+F0555,Peter Thiel,S1122,Mondu,Berlin
+F0556,Jared Smith,S1138,Tourlane,Berlin
+F0557,Lars Bresan,S1167,Reverse.supply,Berlin
+F0558,Ian Duggan,S1168,Cere Network,Berlin
+F0559,t3rn,S1168,Cere Network,Berlin
+F0560,Julian Teicke,S1169,Wefox,Berlin
+F0561,Bruce Pon,S1170,Bigchain DB,Berlin
+F0562,Şeyhmus Ölker,S1171,App Samurai,Berlin
+F0563,Ben Ebner ***@zeedz.io,S1172,Zeedz,Berlin
+F0564,Iddo Gino,S1173,RapidAPI,Berlin
+F0565,Robert Meyer,S1175,Alcemy,Berlin
+F0566,Leopold Spenner,S1175,Alcemy,Berlin
+F0567,everphone,S1175,Alcemy,Berlin
+F0568,Lav Odorovic,S1178,Penta,Berlin
+F0569,Jessica Holzbach,S1178,Penta,Berlin
+F0570,Jan Martin (entrepreneur),S1179,Pitch,Berlin
+F0571,Kyle Clark (entrepreneur),S1179,Pitch,Berlin
+F0572,Bing He,S1180,Jina AI,Berlin
+F0573,Humberto Ayres Pereira,S1181,Rows,Berlin
+F0574,Torben Schulz,S1181,Rows,Berlin
+F0575,Christian Reber,S1182,Wunderlist,Berlin
+F0576,Sebastian Scheerer,S1182,Wunderlist,Berlin
+F0577,Moritz Mueller-Freitag,S1183,TwentyBN,Berlin
+F0578,Roland Memisevic,S1183,TwentyBN,Berlin
+F0579,Patrick Weissert,S1184,German Autolabs,Berlin
+F0580,deepset,S1185,Teraki,Berlin
+F0581,Timo Möller,S1185,Teraki,Berlin
+F0582,Guy Galonska,S1186,Infarm,Berlin
+F0583,Osnat Michaeli,S1186,Infarm,Berlin
+F0584,Erez Galonska,S1186,Infarm,Berlin
+F0585,Ali Albazaz ***@inkitt.com,S1187,Inkitt,Berlin
+F0586,Raviteja Dodda,S1188,MoEngage,Berlin
+F0587,Yashwanth Kumar,S1188,MoEngage,Berlin
+F0588,Eugene Danilkis,S1189,Mambu,Berlin
+F0589,Frederik Pfisterer,S1189,Mambu,Berlin
+F0590,Sofia Nunes,S1189,Mambu,Berlin
+F0591,Kağan Sümer,S1190,Gorillas,Berlin
+F0592,Jörg Kattner,S1190,Gorillas,Berlin
+F0593,Bill Rosenberg,S1191,Donut,Berlin
+F0594,Xin Sheen Hu,S1192,MatchX,Berlin
+F0595,Benedikt Brand,S1193,Flip,Berlin
+F0596,Martin Damaske **@aazzur.com,S1194,Aazzur,Berlin
+F0597,Philipp Buschmann **@aazzur.com,S1194,Aazzur,Berlin
+F0598,Max Klenk ***@li.finance,S1195,LI.FI,Berlin
+F0599,solarisBank,S1195,LI.FI,Berlin
+F0600,Kasia Zalewska,S1197,Made of Air,Berlin
+F0601,Tim Kunde ***@friendsurance.de,S1198,Friendsurance,Berlin
+F0602,Peter Sanger,S1200,Green City Solutions,Berlin
+F0603,Andreas Pursian,S1201,Klima,Berlin
+F0604,Jonas Brandau,S1201,Klima,Berlin
+F0605,Markus Gilles,S1201,Klima,Berlin
+F0606,Tim Wegner ***@workist.com,S1202,Workist,Berlin
+F0607,Manuel Kallenbach,S1203,Steady,Berlin
+F0608,Dirk Holzapfel,S1203,Steady,Berlin
+F0609,Sebastian Esser,S1203,Steady,Berlin
+F0610,Philipp Schw,S1203,Steady,Berlin
+F0611,Janus Friis,S1205,Wire,Berlin
+F0612,Pablo Villalba Villar,S1206,8fit,Berlin
+F0613,Mathias J. Klenk,S1209,Passbase,Berlin
+F0614,Jan Goslicki ***@bitwala.com,S1211,Bitwala,Berlin
+F0615,Jörg von Minckwitz,S1211,Bitwala,Berlin
+F0616,Benjamin Jones (entrepreneur),S1211,Bitwala,Berlin
+F0617,Lorenz Aschoff,S1212,EyeEm,Berlin
+F0618,Sadakane Gen ***@fake.agency,S1212,EyeEm,Berlin
+F0619,Henning Grob,S1214,Element,Berlin
+F0286,Sign up to access our full database,S1214,Element,Berlin
+F0287,Enter your email,S1214,Element,Berlin
+F0288,get access to 71,S1214,Element,Berlin
+F0289,000 + technology companies you can partner with.,S1214,Element,Berlin
+F0620,Enrico Bernardo,S1248,hellomed.com,Berlin
+F0621,Tim Bogdan,S1248,hellomed.com,Berlin
+F0622,Felix Morawski,S1248,hellomed.com,Berlin
+F0623,Maximilian Rolf,S1250,Sensmore,Berlin
+F0624,Felix Hoffman,S1259,7Learnings,Berlin
+F0625,Investors List,S1273,M^0 Labs,Berlin
+F0626,Carsten Eckmiller,S1286,Autovio,Berlin
+F0627,Amir Hadi,S1286,Autovio,Berlin
+F0628,Eduardo Haber,S1290,Nomad,Sao Paulo
+F0629,Marcos Nader,S1290,Nomad,Sao Paulo
+F0630,Patrick Sigrist,S1290,Nomad,Sao Paulo
+F0631,Henrique Vaz,S1291,Enter,Sao Paulo
+F0632,Mateus Costa-Ribeiro,S1291,Enter,Sao Paulo
+F0633,Michael Mac-Vicar,S1291,Enter,Sao Paulo
+F0634,Fabricio Valadão,S1292,Arvo,Sao Paulo
+F0635,Rafael Tinoco,S1292,Arvo,Sao Paulo
+F0636,Marcelo Lombardo,S1293,Omie,Sao Paulo
+F0637,Diego Iván Garcia Escobedo,S1294,Clara,Sao Paulo
+F0638,Gerry Giacoman Colyer,S1294,Clara,Sao Paulo
+F0639,Benjamin Gleason,S1295,Kamino,Sao Paulo
+F0640,Gonzalo Parejo Navajas,S1295,Kamino,Sao Paulo
+F0641,Gutemberg Fragoso,S1295,Kamino,Sao Paulo
+F0642,Juliana Strohl,S1295,Kamino,Sao Paulo
+F0643,Rodrigo Perenha,S1295,Kamino,Sao Paulo
+F0644,Marcos Galperin,S1296,Mercado Pago,Sao Paulo
+F0645,Marcelo Sampaio,S1297,Hashdex,Sao Paulo
+F0646,Steve Koshansky,S1297,Hashdex,Sao Paulo
+F0647,Alex Körner,S1298,180 Seguros,Sao Paulo
+F0648,Franco Lamping,S1298,180 Seguros,Sao Paulo
+F0649,Mauro Levi D'Ancona,S1298,180 Seguros,Sao Paulo
+F0650,Gabriel Ambrósio Archanjo,S1299,BotCity,Sao Paulo
+F0651,Lorhan Caproni,S1299,BotCity,Sao Paulo
+F0652,Ricardo Josua Pismo,S1309,Pismo,Sao Paulo
+F0653,Andre Florence,S1313,Alice,Sao Paulo
+F0654,Pedro Braz,S1314,Credituz,Sao Paulo
+F0655,Nikolay Storonsky,S1316,NG.CASH,Sao Paulo
+F0656,Paulo Veras,S1320,99,Sao Paulo
+F0657,Renato Freitas,S1320,99,Sao Paulo
+F0658,Ariel Lambrecht,S1320,99,Sao Paulo
+F0659,Fernando Gadotti,S1322,Tako,Sao Paulo
+F0660,Ludmila Pontremolez,S1323,Zippi,Sao Paulo
+F0661,Bruno Lucas,S1323,Zippi,Sao Paulo
+F0662,Luiz Carlos Guedes Stukas,S1325,CRMBonus,Sao Paulo
+F0663,Patrick Drahi,S1327,BT Group,Sao Paulo
+F0664,Diogo Frenkel,S1332,Dock,Sao Paulo
+F0665,Frederico Amaral,S1332,Dock,Sao Paulo
+F0666,Marcelo Jacques,S1332,Dock,Sao Paulo
+F0667,Marcelo Claure,S1338,Cayena,Sao Paulo
+F0668,Shu Nyatta,S1338,Cayena,Sao Paulo
+F0669,Kenneth Diamond,S1347,Escale,Sao Paulo
+F0670,Thiago Alvarez,S1360,Guiabolso,Sao Paulo
+F0671,Florian Hagenbuch,S1364,Loft,Sao Paulo
+F0672,Kristian Huber,S1364,Loft,Sao Paulo
+F0673,Marcus Vinicius Grigoletto,S1364,Loft,Sao Paulo
+F0674,Robson Silva Junior,S1388,Pods,Sao Paulo
+F0675,Guilherme Guimaraes ***@pods.finance,S1388,Pods,Sao Paulo
+F0676,Renan Esposte,S1390,Idwall,Sao Paulo
+F0677,Gabriel Braga,S1391,QuintoAndar,Sao Paulo
+F0678,Brian Requarth,S1393,Latitud,Sao Paulo
+F0679,Ron van der Burg,S1395,Servoy,Sao Paulo
+F0680,Laurens Bushoff,S1395,Servoy,Sao Paulo
+F0681,Henry Hazan,S1406,Weel,Sao Paulo
+F0681,Henry Hazan,S1406,Weel,Sao Paulo
+F0682,Daniel Avizú,S1407,ZoeMob,Sao Paulo
+F0683,Helio Freitas,S1407,ZoeMob,Sao Paulo
+F0684,Richard A,S1409,Bitshopp,Sao Paulo
+F0685,Jorge Romaguera,S1409,Bitshopp,Sao Paulo
+F0686,Gui Alvarenga,S1412,Trela,Sao Paulo
+F0687,iFood,S1415,Sigalei,Sao Paulo
+F0688,Gabriel Laet,S1417,EmCasa,Sao Paulo
+F0689,Gustavo Vaz,S1417,EmCasa,Sao Paulo
+F0690,Monica Saccarelli,S1419,Grao,Sao Paulo
+F0691,Rafael Cl,S1420,Azos,Sao Paulo
+F0692,Marina Proen,S1423,Mentora,Sao Paulo
+F0693,Micael Hamra,S1425,Medway,Sao Paulo
+F0694,Alexandre Remor,S1425,Medway,Sao Paulo
+F0695,Ronaldo Abati,S1430,Central da Visão,Sao Paulo
+F0696,Jaime Leonel de Paula,S1431,Neoway,Sao Paulo
+F0697,Daniella Castro,S1432,Huna,Sao Paulo
+F0417,PhD,S1432,Huna,Sao Paulo
+F0698,Alexander Karbankov,S1433,Rhino,Sao Paulo
+F0699,Rodrigo Palandi,S1439,Movêu,Sao Paulo
+F0700,Eduardo Rocha,S1443,Klubi,Sao Paulo
+F0701,Fernando Santos,S1446,Conta Simples,Sao Paulo
+F0702,Newton Maia,S1459,Principia,Sao Paulo
+F0703,Igor Senra Magalh,S1470,Cora,Sao Paulo
+F0704,Paul Allen,S1477,Wildlife Studios,Sao Paulo
+F0705,Eren Bali,S1478,Sami,Sao Paulo
+F0706,Zhou Xi,S1485,"CloudWalk, Inc",Sao Paulo
+F0707,Guilherme Assis,S1486,Gorila Brazil,Sao Paulo
+F0708,Robinson Dantas,S1486,Gorila Brazil,Sao Paulo
+F0709,Leo Kalim,S1486,Gorila Brazil,Sao Paulo
+F0710,Diego Lira,S1497,Turbi,Sao Paulo
+F0711,Marcia Netto,S1503,Sallve,Sao Paulo
+F0712,Daniel Wjuniski,S1503,Sallve,Sao Paulo
+F0713,Cristobal Viedma,S1504,Lingokids,Madrid
+F0714,Marieta Viedma,S1504,Lingokids,Madrid
+F0715,Pedro Castillo,S1505,ONUM,Madrid
+F0716,Fernando Pedraz,S1506,Reveni,Madrid
+F0717,Albert Nieto,S1507,Seedtag,Madrid
+F0718,Jorge Poyatos,S1507,Seedtag,Madrid
+F0719,Pablo López Torres,S1507,Seedtag,Madrid
+F0720,Andrés de la Morena,S1508,idealista,Madrid
+F0721,Bernardo Hernandez,S1508,idealista,Madrid
+F0722,Fernando Encinar,S1508,idealista,Madrid
+F0723,Jesús Encinar,S1508,idealista,Madrid
+F0724,Andrea Marino,S1509,Nova,Madrid
+F0725,Christian Mischler,S1509,Nova,Madrid
+F0726,Lars-Henrik Friis Molin,S1509,Nova,Madrid
+F0727,Ramón Rodrigáñez Riesco,S1509,Nova,Madrid
+F0728,Paul Goldbaum,S1510,Lightbase,Madrid
+F0729,Martin Varsavsky,S1511,Overture Life,Madrid
+F0730,Santiago Munne,S1511,Overture Life,Madrid
+F0731,Alejandro Perez,S1512,Fracttal,Madrid
+F0732,Christian Struve,S1512,Fracttal,Madrid
+F0733,Antonio Berga,S1525,Embat,Madrid
+F0734,Carlos Serrano Garc,S1525,Embat,Madrid
+F0735,Vitaly Yakovlev Twitter,S1530,ZKX,Madrid
+F0736,Grupo Venemergencia,S1539,asistensi,Madrid
+F0737,Jorge Díaz Largo,S1542,Hellotickets,Madrid
+F0738,Iker Marcaide,S1549,Clevergy,Madrid
+F0739,Luis Mart,S1556,Luda Partners,Madrid
+F0740,Laurence Fontinoy,S1574,WOOM,Madrid
+F0741,Clelia Morales,S1574,WOOM,Madrid
+F0742,David Moreno,S1601,Hawkers,Madrid
+F0743,Ignacio Soriano Cano,S1601,Hawkers,Madrid
+F0744,Alex Moreno,S1601,Hawkers,Madrid
+F0745,Ivan Nabalon,S1602,ElectronicID,Madrid
+F0746,Pep Gomez,S1603,Fever,Madrid
+F0747,Mohammad Behroozian,S1604,Hootsuite,Madrid
+F0748,Beth Gadomski,S1604,Hootsuite,Madrid
+F0747,Mohammad Behroozian,S1604,Hootsuite,Madrid
+F0749,Stephen Rivard,S1604,Hootsuite,Madrid
+F0749,Stephen Rivard,S1604,Hootsuite,Madrid
+F0750,Rodrigo Nuno,S1605,Unima,Madrid
+F0751,Jose Luis Nuño Ayala,S1605,Unima,Madrid
+F0752,Alejandro Nuno,S1605,Unima,Madrid
+F0753,Lupina Iturriaga,S1610,Fintonic,Madrid
+F0754,Sergio Chalbaud,S1610,Fintonic,Madrid
+F0755,Marcos Icardo,S1610,Fintonic,Madrid
+F0756,Sinuhe Arroyo,S1614,Taiger,Madrid
+F0757,ifeel,S1614,Taiger,Madrid
+F0758,Juan Braschi,S1615,Boopos,Madrid
+F0759,Ariel Quinones,S1620,Ironhack,Madrid
+F0760,Gonzalo Manrique,S1620,Ironhack,Madrid
+F0761,Maria Gonzalez,S1622,Tucuvi,Madrid
+F0762,David Llorente,S1623,Narrativa,Madrid
+F0763,Antonio Moratilla,S1623,Narrativa,Madrid
+F0764,Eugenio Fernandez,S1623,Narrativa,Madrid
+F0765,Youngsik Kim,S1626,Stratio,Madrid
+F0766,Jae Hyung Lee (entrepreneur),S1626,Stratio,Madrid
+F0767,Yeul Na,S1626,Stratio,Madrid
+F0768,Inigo Jeganath,S1628,IDoven,Madrid
+F0769,Inigo Juantegui,S1628,IDoven,Madrid
+F0770,José María Lillo Castellano,S1628,IDoven,Madrid
+F0771,Daniel Ceinos,S1631,TRIBBU,Madrid
+F0772,Ben Askew-Renaut,S1634,Packlink,Madrid
+F0773,Ana Hernando Abascal ***@eb2.tech,S1635,Evidence-Based Behavior,Madrid
+F0774,Juan Jose Campana,S1635,Evidence-Based Behavior,Madrid
+F0775,Angel Luengo,S1637,24symbols,Madrid
+F0776,Justo Hidalgo,S1637,24symbols,Madrid
+F0777,David Sánchez (entrepreneur),S1637,24symbols,Madrid
+F0778,Tommaso Prennushi,S1640,Stampery,Madrid
+F0779,Luis Cuende,S1640,Stampery,Madrid
+F0780,Eneko Knorr Twitter,S1641,Onyze,Madrid
+F0781,Cristina Lería,S1642,Tu Lecho al Techo,Madrid
+F0782,Sébastien Chartier,S1642,Tu Lecho al Techo,Madrid
+F0783,Rodrigo Rodriguez Twitter,S1644,Odilo,Madrid
+F0784,Mario Morante,S1647,DudyFit,Madrid
+F0785,Javier Ortega,S1647,DudyFit,Madrid
+F0786,Javier Camuñas Velasco,S1648,Soysuper,Madrid
+F0787,Audrey Mark,S1648,Soysuper,Madrid
+F0788,Alejandro Betancourt,S1658,Auro Travel,Madrid
+F0789,Daniel Espejo,S1671,Omnia,Madrid
+F0790,Daniela Amodei,S1719,Anthropic,Silicon Valley
+F0791,Dario Amodei,S1719,Anthropic,Silicon Valley
+F0792,Jack Clark,S1719,Anthropic,Silicon Valley
+F0793,Jared Kaplan,S1719,Anthropic,Silicon Valley
+F0794,Sam McCandlish,S1719,Anthropic,Silicon Valley
+F0795,Tom Brown,S1719,Anthropic,Silicon Valley
+F0796,Andy Konwinski,S1720,Perplexity,Silicon Valley
+F0797,Aravind Srinivas,S1720,Perplexity,Silicon Valley
+F0798,Denis Yarats,S1720,Perplexity,Silicon Valley
+F0799,Johnny Ho,S1720,Perplexity,Silicon Valley
+F0800,Andrej Karpathy,S1721,OpenAI,Silicon Valley
+F0801,Durk Kingma,S1721,OpenAI,Silicon Valley
+F0802,Elon Musk,S1721,OpenAI,Silicon Valley
+F0803,Greg Brockman,S1721,OpenAI,Silicon Valley
+F0804,Ilya Sutskever,S1721,OpenAI,Silicon Valley
+F0805,John Schulman,S1721,OpenAI,Silicon Valley
+F0806,Pamela Vagata,S1721,OpenAI,Silicon Valley
+F0807,Sam Altman,S1721,OpenAI,Silicon Valley
+F0808,Trevor Blackwell,S1721,OpenAI,Silicon Valley
+F0809,Vicki Cheung,S1721,OpenAI,Silicon Valley
+F0810,Wojciech Zaremba,S1721,OpenAI,Silicon Valley
+F0811,John Collison,S1722,Stripe,Silicon Valley
+F0812,Aman Sanger,S1723,Anysphere,Silicon Valley
+F0813,Arvid Lunnemark,S1723,Anysphere,Silicon Valley
+F0814,Michael Truell,S1723,Anysphere,Silicon Valley
+F0815,Sualeh Asif,S1723,Anysphere,Silicon Valley
+F0816,Scott Wu,S1724,Cognition,Silicon Valley
+F0817,Steven Hao,S1724,Cognition,Silicon Valley
+F0818,Walden Yan,S1724,Cognition,Silicon Valley
+F0819,Jyoti Bansal,S1725,Harness,Silicon Valley
+F0820,Rishi Singh,S1725,Harness,Silicon Valley
+F0820,Rishi Singh,S1725,Harness,Silicon Valley
+F0821,Ali Ghodsi,S1726,Databricks,Silicon Valley
+F0796,Andy Konwinski,S1726,Databricks,Silicon Valley
+F0822,Arsalan Tavakoli-Shiraji,S1726,Databricks,Silicon Valley
+F0823,Ion Stoica,S1726,Databricks,Silicon Valley
+F0824,Matei Zaharia,S1726,Databricks,Silicon Valley
+F0825,Patrick Wendell,S1726,Databricks,Silicon Valley
+F0826,Reynold Xin,S1726,Databricks,Silicon Valley
+F0827,May Habib,S1727,Writer,Silicon Valley
+F0828,Waseem AlShikh,S1727,Writer,Silicon Valley
+F0829,Gabe Pereyra,S1728,Harvey,Silicon Valley
+F0830,Winston Weinberg,S1728,Harvey,Silicon Valley
+F0831,Matan Grinberg,S1733,Factory,Silicon Valley
+F0832,Jon Wang,S1736,Assort Health,Silicon Valley
+F0833,Jeff Liu,S1736,Assort Health,Silicon Valley
+F0834,Mira Murati,S1737,Thinking Machines Lab,Silicon Valley
+F0835,Bret Taylor,S1738,Sierra,Silicon Valley
+F0836,Clay Bavor,S1738,Sierra,Silicon Valley
+F0837,Jeff Wang,S1740,Exa,Silicon Valley
+F0838,Will Bryk,S1740,Exa,Silicon Valley
+F0839,Arjun Prakash,S1743,Distyl AI,Silicon Valley
+F0840,Derek Ho,S1743,Distyl AI,Silicon Valley
+F0841,Maria Davidson,S1750,Kojo,Silicon Valley
+F0842,Ryan Gibson,S1750,Kojo,Silicon Valley
+F0843,Rujul Zaparde,S1751,Zip,Silicon Valley
+F0844,Eoghan Mc,S1755,Intercom,Silicon Valley
+F0845,Tasso Argyros,S1757,Aster,Silicon Valley
+F0846,Beat Impossible Odds At Webflow,S1758,Webflow,Silicon Valley
+F0847,Alexandr Wang,S1760,Scale AI,Silicon Valley
+F0848,Joseph Jacob,S1761,Burnt,Silicon Valley
+F0849,Ankush Gola,S1763,LangChain,Silicon Valley
+F0850,Abhinav Shashank,S1767,Innovaccer,Silicon Valley
+F0851,Kanav Hasija,S1767,Innovaccer,Silicon Valley
+F0852,Sandeep Gupta,S1767,Innovaccer,Silicon Valley
+F0853,Ankit Maheshwari,S1767,Innovaccer,Silicon Valley
+F0854,Ruben Harris,S1770,Career Karma,Silicon Valley
+F0503,Jeff Bezos,S1771,Kong,Silicon Valley
+F0855,Georgia Tech,S1777,Greptile,Silicon Valley
+F0807,Sam Altman,S1782,Tools For Humanity,Silicon Valley
+F0856,Alex Blania,S1782,Tools For Humanity,Silicon Valley
+F0857,Chris Golden,S1788,Coalition,Silicon Valley
+F0858,Leigh Jasper,S1794,Jasper,Silicon Valley
+F0859,Robert Phillpot,S1794,Jasper,Silicon Valley
+F0860,Hyunggi Cho,S1795,Phantom,Silicon Valley
+F0861,Chan Kyu Lee,S1795,Phantom,Silicon Valley
+F0862,Barry Mc,S1798,Hex Technologies,Silicon Valley
+F0863,Mark Zuckerberg,S1812,Flutterwave,Silicon Valley
+F0864,Priscilla Chan,S1812,Flutterwave,Silicon Valley
+F0865,Brett Adcock,S1818,Figure,Silicon Valley
+F0866,Michael Balaban,S1819,Lambda,Silicon Valley
+F0867,Stephen Balaban,S1819,Lambda,Silicon Valley
+F0868,Anant Kale,S1820,AppZen,Silicon Valley
+F0869,Kunal Verma,S1820,AppZen,Silicon Valley
+F0870,Alex Wright-Gladstein,S1821,Ayar Labs,Silicon Valley
+F0871,Chen Sun,S1821,Ayar Labs,Silicon Valley
+F0872,Mark Wade,S1821,Ayar Labs,Silicon Valley
+F0873,Milos Popovic,S1821,Ayar Labs,Silicon Valley
+F0874,Rajeev Ram,S1821,Ayar Labs,Silicon Valley
+F0875,Vladimir Stojanovic,S1821,Ayar Labs,Silicon Valley
+F0876,Daniel Cook,S1822,Lyten,Silicon Valley
+F0877,Lars Herlitz,S1822,Lyten,Silicon Valley
+F0878,Scott Mobley,S1822,Lyten,Silicon Valley
+F0879,William Wraith III,S1822,Lyten,Silicon Valley
+F0880,Adina Simu,S1823,Auditoria.AI,Silicon Valley
+F0881,Gaurav Bhatia,S1823,Auditoria.AI,Silicon Valley
+F0882,Rohit Gupta,S1823,Auditoria.AI,Silicon Valley
+F0883,Daniel Fukuba,S1824,Hyphen,Silicon Valley
+F0884,Stephen Klein,S1824,Hyphen,Silicon Valley
+F0885,Krishna Rangasayee,S1825,SiMa.ai,Silicon Valley
+F0886,Steven J. Rosston,S1825,SiMa.ai,Silicon Valley
+F0887,Karthik Krishnan,S1826,Concentric AI,Silicon Valley
+F0888,Madhu Shashanka,S1826,Concentric AI,Silicon Valley
+F0889,Shankar Subramaniam,S1826,Concentric AI,Silicon Valley
+F0890,Shashank Dubey,S1827,Tredence,Silicon Valley
+F0891,Shub Bhowmick,S1827,Tredence,Silicon Valley
+F0892,Sumit Mehra,S1827,Tredence,Silicon Valley
+F0893,Ankur Singla,S1829,Exaforce,Silicon Valley
+F0894,Rajesh Ramanand,S1834,Signifyd,Silicon Valley
+F0895,John Chambers,S1849,Nile,Silicon Valley
+F0896,Shreesha Ramdas,S1859,Lumber,Silicon Valley
+F0897,Ian Mc,S1862,Savor,Silicon Valley
+F0898,Mark Gabel,S1863,Solver,Silicon Valley
+F0899,Daniel Lord,S1863,Solver,Silicon Valley
+F0802,Elon Musk,S1876,Neuralink,Silicon Valley
+F0900,Paul Merolla,S1876,Neuralink,Silicon Valley
+F0901,Craig Walker (entrepreneur),S1877,Dialpad,Silicon Valley
+F0902,Alex Cornell,S1877,Dialpad,Silicon Valley
+F0903,Jae Kwon ***@tendermint.com,S1879,Ignite,Silicon Valley
+F0904,Chris Britt,S1880,Chime Bank,Silicon Valley
+F0905,Justin Kan,S1881,Fractal,Silicon Valley
+F0906,Richard Craib,S1882,Numerai,Silicon Valley
+F0907,Evan Williams (Internet entrepreneur),S1883,Medium,Silicon Valley
+F0908,Adil Yusuf,S1883,Medium,Silicon Valley
+F0909,Dieter Shirley,S1884,CryptoKitties,Silicon Valley
+F0910,Mack Flavelle Twitter,S1884,CryptoKitties,Silicon Valley
+F0911,Sepandar Kamvar,S1885,Celo,Silicon Valley
+F0912,Laks Srini Twitter,S1886,TriNet Zenefits,Silicon Valley
+F0913,Jennifer Doudna,S1887,Mammoth Biosciences,Silicon Valley
+F0914,Alex Tew,S1888,Calm,Silicon Valley
+F0915,Bethany Bongiorno,S1889,Humane,Silicon Valley
+F0916,Jason Citron,S1890,Discord,Silicon Valley
+F0917,George Bonaci,S1891,Pembient,Silicon Valley
+F0918,Gil Silberman ***@equityllp.com,S1892,Forge,Silicon Valley
+F0919,Mitchell Hashimoto,S1893,HashiCorp,Silicon Valley
+F0920,Diego Saez-Gil,S1894,Pachama,Silicon Valley
+F0921,Alexander Liegl,S1898,Layer1,Silicon Valley
+F0922,Ryan Petersen (entrepreneur),S1899,Flexport,Silicon Valley
+F0923,Sam Blackshear ***@mystenlabs.com,S1903,Mysten Labs,Silicon Valley
+F0924,Kostas Chalkias,S1903,Mysten Labs,Silicon Valley
+F0925,JSquare,S1903,Mysten Labs,Silicon Valley
+F0926,Jackie Wallace,S1906,Full Circle Biochar,Silicon Valley
+F0927,Steven Schuurman Facebook,S1907,Elastic,Silicon Valley
+F0928,Shay Banon,S1907,Elastic,Silicon Valley
+F0929,Uri Boness,S1907,Elastic,Silicon Valley
+F0930,Don Holly ***@forhims.com,S1909,Paravision,Silicon Valley
+F0931,Jonathan Mumm,S1909,Paravision,Silicon Valley
+F0932,Art Amador ***@equbot.com,S1912,EquBot,Silicon Valley
+F0933,Chris Natividad,S1912,EquBot,Silicon Valley
+F0934,Vinay Hiremath,S1914,Loom,Silicon Valley
+F0935,Joe Thomas (entrepreneur) ***@loom.com,S1914,Loom,Silicon Valley
+F0936,Filip Victor,S1916,MetaMap,Silicon Valley
+F0937,Aram Shatakhtsyan,S1917,CodeSignal,Silicon Valley
+F0938,Wade Foster,S1918,Zapier,Silicon Valley
+F0939,Michelle Wolf (entrepreneur),S1919,New Wave Foods,Silicon Valley
+F0940,Dominique Barnes,S1919,New Wave Foods,Silicon Valley
+F0941,Dmitry Petrov,S1920,Iterative.ai,Silicon Valley
+F0942,Jiten Vaidya,S1921,PlanetScale,Silicon Valley
+F0943,Sugu Sougoumarane,S1921,PlanetScale,Silicon Valley
+F0944,Ankit Sobti,S1922,Postman,Silicon Valley
+F0945,Michael Selden,S1923,Finless Foods,Silicon Valley
+F0945,Michael Selden,S1923,Finless Foods,Silicon Valley
+F0946,Josh Balk,S1924,"Just, Inc.",Silicon Valley
+F0947,Edvard Engesæth,S1925,Nurx,Silicon Valley
+F0948,Chris Raethke,S1927,Bugcrowd,Silicon Valley
+F0949,Sergei Belokamen Facebook,S1927,Bugcrowd,Silicon Valley
+F0946,Josh Balk,S1928,Eat Just,Silicon Valley
+F0950,Uma Valeti ***@upsidefoods.com,S1929,Upside Foods,Silicon Valley
+F0951,Nicholas Genovese,S1929,Upside Foods,Silicon Valley
+F0952,Will Clem,S1929,Upside Foods,Silicon Valley
+F0953,Jessica Owens,S1930,Grail,Silicon Valley
+F0954,Jeff Huber,S1930,Grail,Silicon Valley
+F0955,Alex Aravanis,S1930,Grail,Silicon Valley
+F0956,Daniel Perez ***@hingehealth.com,S1931,Hinge Health,Silicon Valley
+F0957,Engin Akyol,S1933,Distil Networks,Silicon Valley
+F0958,Ofer Simon,S1934,Deel,Silicon Valley
+F0959,Ryan Freitas,S1936,About.me,Silicon Valley
+F0286,Sign up to access our full database,S1936,About.me,Silicon Valley
+F0287,Enter your email,S1936,About.me,Silicon Valley
+F0288,get access to 71,S1936,About.me,Silicon Valley
+F0289,000 + technology companies you can partner with.,S1936,About.me,Silicon Valley
+F0960,Richard Wang,S1937,Aiper,Shenzhen
+F0961,Richard Mou,S1938,SwitchBot,Shenzhen
+F0962,Zhichen Li,S1938,SwitchBot,Shenzhen
+F0963,Elizabeth Chan,S1940,Neptune Robotics,Shenzhen
+F0964,Jacky IM,S1940,Neptune Robotics,Shenzhen
+F0965,Kate Hongqian Ma,S1940,Neptune Robotics,Shenzhen
+F0966,Eugene You,S1941,Aqara,Shenzhen
+F0967,Chen Xingbo,S1942,JMGO,Shenzhen
+F0968,Eric Hu,S1942,JMGO,Shenzhen
+F0969,Richie Chen,S1943,HAI ROBOTICS,Shenzhen
+F0970,Shengdong Xu,S1943,HAI ROBOTICS,Shenzhen
+F0971,Frank Wang,S1945,DJI,Shenzhen
+F0972,Pete Lau,S1947,OnePlus,Shenzhen
+F0973,Carl Pei,S1947,OnePlus,Shenzhen
+F0974,Nie Yunchen,S1950,HeyTea,Shenzhen
+F0975,Li Bingzhong,S1957,RealMe,Shenzhen
+F0976,Huanming Yang,S1975,BGI,Shenzhen
+F0977,Wang Jian,S1975,BGI,Shenzhen
+F0978,Liu Siqi,S1975,BGI,Shenzhen
+F0979,Elnaz Sarraf,S1977,ROYBI,Shenzhen
+F0980,John Tang,S1978,FTX (gaming company),Shenzhen
+F0981,Zheng Tang,S1978,FTX (gaming company),Shenzhen
+F0976,Huanming Yang,S1979,BGI Genomics,Shenzhen
+F0982,Yang Huanming,S1979,BGI Genomics,Shenzhen
+F0977,Wang Jian,S1979,BGI Genomics,Shenzhen
+F0983,Zhou Jian,S1981,UBTech Robotics,Shenzhen
+F0984,Qiu Chunxin,S1982,RoboSense LiDAR,Shenzhen
+F0985,Qiu Chunchao,S1982,RoboSense LiDAR,Shenzhen
+F0986,Jerry Liu,S1983,"Shenzhen Yuejiang Technology Co., Ltd.",Shenzhen
+F0987,Hao Zhang,S1984,Dorabot,Shenzhen
+F0988,Deng Yaohuan,S1984,Dorabot,Shenzhen
+F0989,Lin Hai,S1985,Flypro,Shenzhen
+F0990,Steve Chang,S1985,Flypro,Shenzhen
+F0991,Jason Zhao,S1987,GJS,Shenzhen
+F0992,Shuai Wang,S1987,GJS,Shenzhen
+F0993,Zhao Junjian,S1987,GJS,Shenzhen
+F0994,Jasen Wang,S1988,Makeblock,Shenzhen
+F0995,Wenhui Chen,S1989,"Shenzhen Feima Robotics Technology Co., Ltd.",Shenzhen
+F0996,Dinglong Huang,S1991,Malong Technologies,Shenzhen
+F0997,Chen Ning,S1992,Intellifusion,Shenzhen
+F0998,Yang Zhang,S1995,AptaCam,Shenzhen
+F0999,Zhang Quan,S1996,YH Global,Shenzhen
+F0999,Zhang Quan,S1996,YH Global,Shenzhen
+F1000,Zichao Zhao,S1998,Cfuas,Shenzhen
+F1001,Jun Wang,S2004,ICarbonX,Shenzhen
+F1002,Liang Jin,S2005,Shenzhen Smart Drone,Shenzhen
+F1003,Lu Zhihui,S2006,"MicroMultiCopter Aero Technology Co., Ltd",Shenzhen
+F1004,Ying Tong,S2007,"Shenzhen Crystal Video Technology Co., Ltd.",Shenzhen
+F1005,Shenglong Zou,S2008,Xunlei,Shenzhen
+F1006,Brad Pope,S2009,Dobot,Shenzhen
+F1007,Brian Davis,S2009,Dobot,Shenzhen
+F1008,John Longley (entrepreneur),S2009,Dobot,Shenzhen
+F1009,Yi Li **.**@trony.com,S2010,Trony Solar,Shenzhen
+F1010,Jiankui He,S2015,Direct Genomics,Shenzhen
+F1011,Jie Di,S2021,"Shenzhen Qianhai Dasudian Technology Co., Ltd.",Shenzhen
+F1012,Yongwu Xian,S2022,Touna,Shenzhen
+F1013,Renqing Zhang,S2025,Rock Space,Shenzhen
+F1014,Dan Schieler,S2032,Fibocom Wireless,Shenzhen
+F0286,Sign up to access our full database,S2032,Fibocom Wireless,Shenzhen
+F0287,Enter your email,S2032,Fibocom Wireless,Shenzhen
+F0288,get access to 71,S2032,Fibocom Wireless,Shenzhen
+F0289,000 + technology companies you can partner with.,S2032,Fibocom Wireless,Shenzhen
+F1015,Nathalie Zadoks,S2033,Mutable,NYC
+F1016,Narasimha Suda,S2034,Wavel.ai,NYC
+F1017,Ben Chow,S2035,Jupiter Exchange,NYC
+F1018,Ben Darnell,S2037,Cockroach Labs,NYC
+F1019,Gal Shaul ***@augury.com,S2038,Augury,NYC
+F1020,Eric Lefkofsky,S2042,Tempus Labs,NYC
+F1021,Evan Goldenberg,S2048,Alloy (software company),NYC
+F1022,Luana Lopes Lara,S2049,Kalshi,NYC
+F1023,Zac Prince ***@blockfi.com,S2051,BlockFi,NYC
+F1024,Eric Glyman,S2052,Ramp,NYC
+F1025,Nat Turner,S2055,Flatiron Health,NYC
+F1026,Cyrus Massoumi,S2056,Zocdoc,NYC
+F1027,Nadav Maman,S2057,Deep Instinct,NYC
+F1028,Ben Nadel,S2058,InVision,NYC
+F1029,Kathryn Minshew,S2059,The Muse,NYC
+F1030,Melissa McCreery Reeves,S2059,The Muse,NYC
+F1031,Sergey Poroshin,S2062,Voximplant,NYC
+F1032,John Crystal,S2064,MoneyLion,NYC
+F1033,Ruggero Gramatica,S2065,Yewno,NYC
+F1034,Mohamed Altantawy Twitter,S2066,Agolo,NYC
+F1035,Malcom Ong,S2068,Skillshare,NYC
+F1036,James D Robinson (entrepreneur),S2069,Abra,NYC
+F1037,Guillermo Sanchez (entrepreneur) Twitter,S2073,Reonomy,NYC
+F1038,Vid Jain,S2074,Wallaroo,NYC
+F1039,Alejandro Matamala Ortiz,S2077,Runway,NYC
+F1040,Arturo Loaiza Bonilla,S2080,Massive Bio,NYC
+F1041,James Corwell,S2081,Ocean Hugger Foods,NYC
+F1042,Varun Khona,S2085,Headout,NYC
+F1043,Jay Radia ***@yieldify.com,S2086,Yieldify,NYC
+F1044,Victoria Meakin,S2087,Ocrolus,NYC
+F1045,Ryan Selkis,S2088,Messari,NYC
+F1046,Hunter Hooge-Schaker,S2088,Messari,NYC
+F1047,Paul Rojas,S2088,Messari,NYC
+F1048,Ian Sax ***.***@h1.co,S2089,H1,NYC
+F1049,Jason Boehmig,S2090,Ironclad,NYC
+F1050,Devin Daly,S2093,SpinCar,NYC
+F1051,Steven Saporta,S2093,SpinCar,NYC
+F1052,Jinha Lee,S2095,Spatial,NYC
+F0286,Sign up to access our full database,S2096,75F,NYC
+F0287,Enter your email,S2096,75F,NYC
+F0288,get access to 71,S2096,75F,NYC
+F0289,000 + technology companies you can partner with.,S2096,75F,NYC
+F0501,Access 71k+ startups,S2096,75F,NYC
+F1053,Donald Morrison,S2097,Nscale,London
+F1054,Josh Payne,S2097,Nscale,London
+F1055,Akis Evangelidis,S2098,Nothing,London
+F0973,Carl Pei,S2098,Nothing,London
+F1056,David Sanmartin Garcia,S2098,Nothing,London
+F1057,George Bevis,S2099,Tide,London
+F1058,Guillaume Pousaz,S2100,Checkout.com,London
+F1059,Gary Dolman,S2101,Monzo,London
+F1060,Jason Bates,S2101,Monzo,London
+F1061,Jonas Huckestein,S2101,Monzo,London
+F1062,Paul Rippon,S2101,Monzo,London
+F1063,Tom Blomfield,S2101,Monzo,London
+F1064,David Benigson,S2102,Signal AI,London
+F1065,Miguel Martinez,S2102,Signal AI,London
+F1066,Wesley Hall,S2102,Signal AI,London
+F1067,Anthony Meir,S2103,CRED,London
+F1068,Chaitanya Shah,S2103,CRED,London
+F1069,Jon Carr-Harris,S2103,CRED,London
+F1070,Alexander Christie,S2104,Attio,London
+F1071,Nicolas Sharp,S2104,Attio,London
+F1072,Felix Ike,S2105,Moniepoint,London
+F1073,Tosin Eniolorunda,S2105,Moniepoint,London
+F1074,Imam Hoque,S2106,Quantexa,London
+F1075,Vishal Marria,S2106,Quantexa,London
+F1076,Gareth Williams,S2110,Ember,London
+F1077,Sir Len Blavatnik,S2112,DAZN,London
+F1078,Toby Cubitt,S2113,Phasecraft,London
+F1079,Ashley Montanaro,S2113,Phasecraft,London
+F1080,John Morton,S2113,Phasecraft,London
+F1081,Ben Freeman,S2114,Omnea,London
+F1082,Marc Benioff,S2115,Fyxer AI,London
+F1063,Tom Blomfield,S2118,GoCardless,London
+F1083,Laksh Aithani,S2119,CHARM Therapeutics,London
+F1084,David Baker,S2119,CHARM Therapeutics,London
+F1085,Flaviu Radulescu,S2135,Runware,London
+F1086,Graham Rodford,S2139,Archax,London
+F1087,Andrew Flatt,S2139,Archax,London
+F1088,Alan Chang,S2148,Fuse Energy,London
+F1089,Charles Orr,S2148,Fuse Energy,London
+F1090,Bianca Cefalo,S2163,Space DOTS,London
+F1091,Meri Beckwith,S2164,Lindus Health,London
+F1092,Nik Haldimann,S2164,Lindus Health,London
+F1093,Michael Young,S2164,Lindus Health,London
+F1094,Anne Boden,S2165,Starling Bank,London
+F1095,Leslie Benzies,S2170,Build A Rocket Boy,London
+F1096,Alisha Fredriksson,S2175,Seabound,London
+F1097,Philip Goffin,S2177,ZILO,London
+F1098,Dean Elwood,S2179,Umony,London
+F1099,Alyx Van Der Vorm,S2180,Clyx,London
+F1100,Vlad Yatsenko,S2182,Revolut,London
+F1101,Nik Storonsky ***@revolut.com,S2182,Revolut,London
+F1102,Harrison Rose,S2187,GoodFit,London
+F1103,Aleksander Bury,S2187,GoodFit,London
+F1104,Luca Cartechini,S2193,Shop Circle,London
+F1105,Gian Maria Gramondi,S2193,Shop Circle,London
+F1106,Brian Spector,S2194,Qredo,London
+F1107,Anthony Foy,S2194,Qredo,London
+F1108,Christopher Grant,S2195,Synthace,London
+F1109,Mohan Ganesalingam,S2196,What3words,London
+F1110,Joe Root ***@permutive.com,S2197,Permutive,London
+F1111,Tim Spratt ***@permutive.com,S2197,Permutive,London
+F1112,Assaf Hefetz (businessman),S2198,Snyk,London
+F1113,Guy Podjarny,S2198,Snyk,London
+F1114,David Barber,S2200,Humanloop,London
+F1115,Manish Bardolia,S2205,Tacit Knowledge,London
+F1116,Scott Askew,S2205,Tacit Knowledge,London
+F1117,Taavet Hinrikus (entrepreneur),S2206,Wise,London
+F1118,Nikola Mrk,S2207,PolyAI,London
+F1119,Michael Michelis,S2208,Intelistyle,London
+F1120,Stan Bokov,S2209,TradingView,London
+F1121,Denis Globa,S2209,TradingView,London
+F1122,Anton Chashchin,S2210,Currency.com,London
+F1123,Rob Bassett Cross ***@adarga.ai,S2211,Adarga,London
+F1124,Jonah H. Harris,S2212,MariaDB,London
+F1125,Zac Williamson ***@aztec-labs.com,S2216,Aztec,London
+F1126,Pablo Graiver,S2217,Antidote.me,London
+F1127,Eithan Ephrati,S2217,Antidote.me,London
+F1128,Jessica Mann,S2217,Antidote.me,London
+F1129,Wes Hather,S2218,Outreach,London
+F1130,Gordon Hempton,S2218,Outreach,London
+F1131,Greg FitzGerald,S2219,Carbon Analytics,London
+F1132,Michael Thornton,S2219,Carbon Analytics,London
+F1133,Colin MacLaughlin,S2219,Carbon Analytics,London
+F1134,James Arthur,S2220,Hazy,London
+F1135,Nigel Verdon,S2226,Railsr,London
+F1136,Thomas Adams,S2227,Tessian,London
+F1137,Edward Bishop,S2227,Tessian,London
+F1138,Nick Tidball,S2232,Vollebak,London
+F1139,Steve Tidball,S2232,Vollebak,London
+F1140,Gregg Sando,S2233,Kuur Therapeutics,London
+F1141,Michael Kent (entrepreneur),S2236,Azimo,London
+F1142,Marta Krupinska,S2236,Azimo,London
+F1143,Lubomir Fotev,S2239,Parity,London
+F1144,Aeron Buchanan,S2239,Parity,London
+F1145,TJ Saw,S2239,Parity,London
+F1146,iProov,S2240,Minimum (carbon offsetting company),London
+F1147,Ana Maria Escobar,S2241,Infobip,London
+F1148,Izabel Jelenic,S2241,Infobip,London
+F1149,Silvio Kutic,S2241,Infobip,London
+F1150,Sean Adkinson,S2248,Streem,London
+F0286,Sign up to access our full database,S2249,Artificial Labs,London
+F0287,Enter your email,S2249,Artificial Labs,London
+F0288,get access to 71,S2249,Artificial Labs,London
+F0289,000 + technology companies you can partner with.,S2249,Artificial Labs,London
+F0501,Access 71k+ startups,S2249,Artificial Labs,London
+F1151,Zach Bailet,S2251,Swap,London
+F1152,Robin Klein,S2255,Motorway,London
+F1153,Marchmont Ventures,S2255,Motorway,London
+F1154,Dean Little,S2258,Proxymity,London
+F1155,Jonathan Smalley,S2258,Proxymity,London
+F1156,Francesco Simoneschi,S2270,TrueLayer Limited,London
+F1157,Antony Jenkins,S2271,10x Banking,London
+F1113,Guy Podjarny,S2277,Tessl,London
+F1158,Brett Wigdortz,S2284,Tiney,London
+F1159,Professor Tim Spector,S2286,Zoe,London
+F1160,Moshiel Biton,S2292,Addionics,London
+F1161,Nomura Holdings,S2301,Komainu,London
+F1162,Jason Nathan,S2317,Epoch BioDesign,London
+F1163,James Dacombe,S2322,CoMind,London
+F1164,Anthony Baker,S2323,Satellite Vu,London
+F1165,Tobias Reinicke,S2323,Satellite Vu,London
+F1166,David Berry,S2328,Indigo,Boston
+F1167,Geoffrey von Maltzahn,S2328,Indigo,Boston
+F1168,Ignacio Martinez,S2328,Indigo,Boston
+F1169,Noubar Afeyan,S2328,Indigo,Boston
+F1170,Katherine Kostereva,S2329,Creatio,Boston
+F1171,Chad Laurans,S2330,SimpliSafe,Boston
+F1172,Eleanor Laurans,S2330,SimpliSafe,Boston
+F1173,Ariana Thacker,S2331,MoldCo,Boston
+F1174,Hari Ravichandran,S2332,Aura,Boston
+F1175,Huaiyu Meng,S2333,Lightelligence,Boston
+F1176,Li Jing,S2333,Lightelligence,Boston
+F1177,Spencer Powers,S2333,Lightelligence,Boston
+F1178,Yichen Shen,S2333,Lightelligence,Boston
+F1179,Austin Gray,S2334,Blue Water Autonomy,Boston
+F1180,Rylan Hamilton,S2334,Blue Water Autonomy,Boston
+F1181,Scott N. Miller,S2334,Blue Water Autonomy,Boston
+F1182,David Stifter,S2335,PredictAP,Boston
+F1183,Russell Franks,S2335,PredictAP,Boston
+F1184,Trisha Koyanagi,S2335,PredictAP,Boston
+F1185,Arnold Lee,S2336,Sphere,Boston
+F1186,Luigi Charles,S2336,Sphere,Boston
+F1187,Anu Sudarsan,S2337,Starburst,Boston
+F1188,Kamil Bajda-Pawlikowski,S2337,Starburst,Boston
+F1189,Matt Fuller,S2337,Starburst,Boston
+F1190,Wojciech Biela,S2337,Starburst,Boston
+F1191,Vishal Sunak,S2346,LinkSquares,Boston
+F1192,Chris Combs,S2346,LinkSquares,Boston
+F1193,Lior Div,S2353,7AI,Boston
+F1194,Yonatan Striem,S2353,7AI,Boston
+F1195,Irene Ghobrial,S2354,Predicta Biosciences,Boston
+F1196,Kenneth Anderson,S2354,Predicta Biosciences,Boston
+F1197,Gad Getz,S2354,Predicta Biosciences,Boston
+F1198,Aurelian Nicolae,S2356,WHOOP,Boston
+F1199,Leo Urbina (entrepreneur),S2359,BitSight,Boston
+F1200,Nagarjuna Venna,S2359,BitSight,Boston
+F1201,Sean Grundy,S2366,Bevi,Boston
+F1202,James Hamet,S2367,Neurable,Boston
+F1203,Sami Shalabi,S2376,Maven AGI,Boston
+F1204,Jonathan Corbin,S2376,Maven AGI,Boston
+F1205,Eugene Mann,S2376,Maven AGI,Boston
+F1206,Equity Splits Trends,S2382,Later,Boston
+F1207,Vikram Aggarwal,S2384,EnergySage,Boston
+F1208,Manny Lubin,S2387,Slate Milk,Boston
+F1209,Josh Belinsky,S2387,Slate Milk,Boston
+F1210,Anastasia Khvorova,S2390,Atalanta Therapeutics,Boston
+F1211,Tess Michaels,S2391,Clasp,Boston
+F1212,Valentina Ratner,S2396,AllSpice.io,Boston
+F1213,Stefania Mallett,S2398,ezCater,Boston
+F0865,Brett Adcock,S2402,Proof,Boston
+F1214,Victor Kostyuk,S2403,OfferFit,Boston
+F1215,George Khachatryan,S2403,OfferFit,Boston
+F1216,Julie Yoo,S2408,Kyruus,Boston
+F1217,Brian Zitin,S2411,Reggora,Boston
+F1218,Rei Goffer ***@tomorrow.io,S2426,ClimaCell,Boston
+F1219,Steven Touw,S2427,Immuta,Boston
+F1220,Doug Rand,S2428,Boundless,Boston
+F1221,Jeremy Allaire,S2429,Circle,Boston
+F1222,Jeremy Achin,S2430,DataRobot,Boston
+F1223,Thomas DeGodoy,S2430,DataRobot,Boston
+F1224,Nathaniel Roquet,S2432,Catalog,Boston
+F1225,Cees van Riel,S2433,The RepTrak Company,Boston
+F1226,Dr. Charles Fombrun,S2433,The RepTrak Company,Boston
+F1227,Kasper Ulf Nielsen,S2433,The RepTrak Company,Boston
+F1228,Kate Blanchard,S2438,Orig3n,Boston
+F1229,Jared McDaniel,S2439,Help Scout,Boston
+F1230,Denny Swindle,S2439,Help Scout,Boston
+F1231,Matteo Lai **@empatica.com,S2440,Empatica,Boston
+F1232,Rosalind Picard,S2440,Empatica,Boston
+F1233,Maurizio Garbarino,S2440,Empatica,Boston
+F1234,Eddy Wong,S2441,Wanderu,Boston
+F1235,David Cancel,S2442,Drift,Boston
+F1236,Elias Torres,S2442,Drift,Boston
+F1237,Christopher McKown,S2444,Iora Health,Boston
+F1238,botkeeper,S2444,Iora Health,Boston
+F1239,Pardis Sabeti,S2446,Sherlock Biosciences,Boston
+F1240,Todd Golub,S2446,Sherlock Biosciences,Boston
+F1241,David R. Walt,S2446,Sherlock Biosciences,Boston
+F1242,Uta Fendt,S2448,VMRay,Boston
+F1243,Louis Perna,S2449,Accion Systems,Boston
+F1244,Natalya Brikner,S2449,Accion Systems,Boston
+F1245,Yossi Naar,S2450,Cybereason,Boston
+F1246,Tas Giakouminakis,S2451,Rapid7,Boston
+F1247,Chad Loder,S2451,Rapid7,Boston
+F1248,Alan Matthews,S2451,Rapid7,Boston
+F1249,Jacob Stahl,S2454,Antera Therapeutics,Boston
+F1250,Patrick Conway,S2455,Intarcia Therapeutics,Boston
+F1251,Nancy Thornberry,S2455,Intarcia Therapeutics,Boston
+F1252,Ali Azarbayejani,S2457,Cogito,Boston
+F1253,ezCater,S2457,Cogito,Boston
+F1254,Briscoe Rodgers,S2457,Cogito,Boston
+F1255,Wilson Funkhouser,S2458,ProdPerfect,Boston
+F1256,Daniel Widing,S2458,ProdPerfect,Boston
+F1257,Ben Edelstein ***@logrocket.com,S2460,LogRocket,Boston
+F1258,Ann Whittaker,S2462,Rethink Robotics,Boston
+F1259,Jim Myers (entrepreneur),S2463,Flipside Crypto,Boston
+F1260,Dan Shores,S2464,Fortify,Boston
+F1261,Scott Goodrich,S2464,Fortify,Boston
+F1262,Andrew Caunter,S2464,Fortify,Boston
+F1263,Joseph Abrahamson,S2465,Reify Health,Boston
+F1264,John Newton,S2468,Alfresco (software),Boston
+F1265,John Powell,S2468,Alfresco (software),Boston
+F1266,Avishai Wool,S2469,AlgoSec,Boston
+F1267,Nathanael Ren,S2471,Buoy Health,Boston
+F1268,Matt Shobe,S2472,Mighty AI,Boston
+F1269,Patrick O'Donnell (cardinal),S2472,Mighty AI,Boston
+F1270,Xinyu (Ivy) Li,S2473,Phiar Technologies,Boston
+F1271,Chen-Ping Yu,S2473,Phiar Technologies,Boston
+F1272,Jonathan Kay (entrepreneur),S2477,Apptopia,Boston
+F1273,Matthew Bellows,S2478,Yesware,Boston
+F1274,Rajat Bhargava,S2478,Yesware,Boston
+F1275,Matt Barba,S2479,Placester,Boston
+F1276,Mikhail Galustyan Twitter,S2479,Placester,Boston
+F1277,Connor Duffy,S2480,Reverie Labs,Boston
+F1278,Heather Ames Versace,S2481,Neurala,Boston
+F1279,Anatoly Gorshechnikov,S2481,Neurala,Boston
+F0286,Sign up to access our full database,S2482,BrainCo,Boston
+F0287,Enter your email,S2482,BrainCo,Boston
+F0288,get access to 71,S2482,BrainCo,Boston
+F0289,000 + technology companies you can partner with.,S2482,BrainCo,Boston
+F0501,Access 71k+ startups,S2482,BrainCo,Boston
+F1280,Elizabeth Comstock,S2483,Hulu,Los Angeles
+F1281,Jason Kilar,S2483,Hulu,Los Angeles
+F1282,Mark Lee,S2484,MarqVision,Los Angeles
+F1283,Joanna Strober,S2485,Midi Health,Los Angeles
+F1284,Sharon Meers,S2485,Midi Health,Los Angeles
+F1285,Ian Cinnamon,S2486,Apex,Los Angeles
+F1286,Maximilian Benassi,S2486,Apex,Los Angeles
+F1287,Mari Llewellyn,S2487,Bloom Nutrition,Los Angeles
+F1288,Jesse Forrest,S2488,Upwards,Los Angeles
+F1289,Jessica Chang,S2488,Upwards,Los Angeles
+F1290,Matt Reilly,S2488,Upwards,Los Angeles
+F1291,Isaac Castro,S2489,Emerge,Los Angeles
+F1292,Mauricio Teran,S2489,Emerge,Los Angeles
+F1293,Sly Spencer- Lee,S2489,Emerge,Los Angeles
+F1294,Ben Jacobs,S2490,Modern Animal,Los Angeles
+F1295,Steven Eidelman,S2490,Modern Animal,Los Angeles
+F1296,Cullen Zandstra,S2491,FloQast,Los Angeles
+F1297,Mike Whitmire,S2491,FloQast,Los Angeles
+F1298,Angela Stuart,S2492,RentSpree,Los Angeles
+F1299,Michael Lucarelli,S2492,RentSpree,Los Angeles
+F1300,Paul Sirisuphang,S2492,RentSpree,Los Angeles
+F1301,Ryan Chan,S2493,UpKeep,Los Angeles
+F1302,Ross Mc,S2499,VideoAmp,Los Angeles
+F1303,Jing Gao,S2512,FLY BY JING,Los Angeles
+F1304,Shawn Fanning,S2514,Napster,Los Angeles
+F1305,Shaun Parker,S2514,Napster,Los Angeles
+F1306,Gwyneth Paltrow,S2515,Goop,Los Angeles
+F1307,Cory Klippsten,S2516,Swan Bitcoin,Los Angeles
+F1308,Nick Green,S2524,Thrive Market,Los Angeles
+F1309,Gunnar Lovelace,S2524,Thrive Market,Los Angeles
+F1310,Kate Mulling,S2524,Thrive Market,Los Angeles
+F1311,Joshua Bruno,S2529,Rula,Los Angeles
+F1312,Gabriel Diop,S2529,Rula,Los Angeles
+F1313,Larry Jackson,S2532,gamma,Los Angeles
+F1314,Ike Youssef,S2532,gamma,Los Angeles
+F1315,Reese Witherspoon,S2537,Hello Sunshine,Los Angeles
+F1316,Daniel Berlind,S2539,Snappt,Los Angeles
+F1317,Noah Goldman,S2539,Snappt,Los Angeles
+F1318,Daina Trout,S2540,Health-Ade,Los Angeles
+F1319,Nicole Clark,S2541,Trellis Research,Los Angeles
+F1320,Maria Shriver,S2545,Mosh,Los Angeles
+F1321,Patrick Schwarzenegger,S2545,Mosh,Los Angeles
+F1322,Peyton Manning,S2549,Omaha Productions,Los Angeles
+F1323,Jamie Horowitz,S2549,Omaha Productions,Los Angeles
+F1324,Tom Ryan,S2550,Pluto TV,Los Angeles
+F1325,Cassandra Grey,S2552,VIOLET GREY,Los Angeles
+F1326,Randall Kaplan,S2559,Jump,Los Angeles
+F1327,Ken Babcock ***@tango.us,S2561,Tango,Los Angeles
+F1328,Sarah Staudinger,S2567,STAUD,Los Angeles
+F1329,George Augusto,S2567,STAUD,Los Angeles
+F1330,Nanea Reeves,S2569,TRIPP,Los Angeles
+F1331,Chris Andrew,S2570,Scrunch AI,Los Angeles
+F1332,Joe Tsai,S2571,Just Women's Sports,Los Angeles
+F1333,Cat Chen,S2572,Skylar,Los Angeles
+F1334,Jordan Long,S2579,Nectir,Los Angeles
+F1335,Logan Head,S2586,Whatnot,Los Angeles
+F1336,Grant La,S2586,Whatnot,Los Angeles
+F1337,Jacob Peters,S2589,Launch House,Los Angeles
+F1338,Ari Meilich,S2590,Big Time Studios,Los Angeles
+F1339,Paul Kessler,S2592,StartEngine,Los Angeles
+F1340,Montana Reed,S2593,Mira Labs,Los Angeles
+F1341,Joseph May,S2593,Mira Labs,Los Angeles
+F1342,Benjamin Taft ***@miralabs.io,S2593,Mira Labs,Los Angeles
+F1343,Kyle Arbaugh,S2594,Stackin,Los Angeles
+F1344,Ben Jabbawy ***@privy.com,S2596,Privy,Los Angeles
+F1345,Zachary Silverman,S2597,LeafLink,Los Angeles
+F1346,Corey Mack,S2598,LAFORGE Optical,Los Angeles
+F1347,Jeff Schenck Twitter,S2599,Chewse,Los Angeles
+F1348,Tim Ellis (entrepreneur) ***@relativityspace.com,S2601,Relativity Space,Los Angeles
+F1349,Ben Dusastre ***@producepay.com,S2602,ProducePay,Los Angeles
+F1350,Paul Allen (entrepreneur),S2604,Ordermark,Los Angeles
+F1351,Michael Jacobs (entrepreneur),S2604,Ordermark,Los Angeles
+F1352,Yhonastan Fabian,S2605,Enervee,Los Angeles
+F1353,Aoife Ní Fhearraigh,S2605,Enervee,Los Angeles
+F1354,Bhavesh M. Mehta Twitter,S2605,Enervee,Los Angeles
+F1355,Stephen Chen,S2609,Scanwell Health,Los Angeles
+F1356,Dan Hanchey ***@nile.ai,S2612,Neural Analytics,Los Angeles
+F1357,Leo Petrossian ***@neuralanalytics.com,S2612,Neural Analytics,Los Angeles
+F1358,Jonathan Zweig,S2613,AppOnboard,Los Angeles
+F1359,Tracy Di,S2614,Tradesy,Los Angeles
+F1360,Robert Damoiseaux,S2615,Forcyte Biotechnologies,Los Angeles
+F1361,Dino Di Carlo,S2615,Forcyte Biotechnologies,Los Angeles
+F1362,Doug Imbruce,S2617,Leucadia Therapeutics,Los Angeles
+F1363,Justin Kifer,S2619,Sportsy,Los Angeles
+F1364,Amanda Kifer,S2619,Sportsy,Los Angeles
+F1365,Stephan Dalyai,S2619,Sportsy,Los Angeles
+F1366,Doug Griswold,S2620,Wright Electric,Los Angeles
+F1367,Donald Griffin,S2622,Tempo Therapeutics,Los Angeles
+F1368,Eric Jackson,S2623,CapLinked,Los Angeles
+F1369,Phäedra Randolph,S2624,Spero Foods,Los Angeles
+F1370,Boris Jarry,S2625,JetPack Aviation,Los Angeles
+F1371,Ariel Jalali,S2626,Sensay,Los Angeles
+F1372,Crystal Rose,S2626,Sensay,Los Angeles
+F1373,Sara DeCou,S2627,Brud,Los Angeles
+F1374,Amit Tishler,S2628,PopBase,Los Angeles
+F1375,Richard Weeks (entrepreneur),S2628,PopBase,Los Angeles
+F1376,Lisa Wong,S2628,PopBase,Los Angeles
+F1377,Reichen Kuhl,S2629,LeaseLock,Los Angeles
+F1378,Danielle Hinde,S2631,DoomsDayX,Los Angeles
+F1379,Brian Singh,S2632,DroneAI,Los Angeles
+F1380,Nitya Singh,S2632,DroneAI,Los Angeles
+F1381,Krishna PhD,S2632,DroneAI,Los Angeles
+F1382,Christopher Webb (entrepreneur),S2634,ChowNow,Los Angeles
+F1383,Michael Pan,S2637,Nephosity,Los Angeles
+F1384,Danielle Li,S2639,Popshop Live,Los Angeles
+F1385,Jim Heath,S2640,Indi Molecular,Los Angeles
+F1386,Lee Hood Twitter,S2640,Indi Molecular,Los Angeles
+F1387,XingXing Wang,S2642,Unitree Robotics,Hangzhou
+F1388,Liang Wenfeng,S2643,DeepSeek,Hangzhou
+F1389,Chao Li,S2644,Deep Robotics,Hangzhou
+F1390,Zhu Qiuguo,S2644,Deep Robotics,Hangzhou
+F1391,Jack Ma,S2645,Ant Group,Hangzhou
+F1392,Philip Rosedale,S2646,Second Life,Hangzhou
+F1391,Jack Ma,S2661,Alipay,Hangzhou
+F1393,Li Shufu,S2665,Geely,Hangzhou
+F1394,Lei Jun,S2666,DXY,Hangzhou
+F1395,Wang Wei (businessman),S2667,Dt Dream,Hangzhou
+F1396,Huang Xiaohuang,S2670,Kujiale,Hangzhou
+F1397,Chen Hang,S2670,Kujiale,Hangzhou
+F1398,Aaron Li,S2675,Jollychic,Hangzhou
+F1399,Pan Hai,S2683,Sciwind Biosciences,Hangzhou
+F0163,Ben He ***@token.im,S2707,Mentioned on:,Hangzhou
+F0164,Daniel Lv,S2707,Mentioned on:,Hangzhou
+F1400,Tao Jiang ***@chinasonglin.cn,S2709,Tongdun Technology,Hangzhou
+F1401,Jackal Ma,S2709,Tongdun Technology,Hangzhou
+F1402,Wei Qi,S2711,Jimu Technology,Hangzhou
+F1403,Lei Zhang,S2713,"Hangzhou Xunyi Network Technology Co., Ltd.",Hangzhou
+F1404,Heng Li,S2713,"Hangzhou Xunyi Network Technology Co., Ltd.",Hangzhou
+F1405,Liang Zhao,S2713,"Hangzhou Xunyi Network Technology Co., Ltd.",Hangzhou
+F1406,Liang Jian,S2716,"Zhejiang InnoTek Co., Ltd.",Hangzhou
+F1407,Tian Yuan,S2716,"Zhejiang InnoTek Co., Ltd.",Hangzhou
+F1408,Lou Vincent,S2717,Club Factory,Hangzhou
+F1409,Nianxiong Tan,S2722,"Hangzhou Vango Technologies, Inc.",Hangzhou
+F1410,Lianglun Zhang,S2724,BeiBei,Hangzhou
+F1411,Xie Han sword,S2725,"Cryptape Co., Ltd.",Hangzhou
+F1412,Wenshou Wang,S2726,"Hangzhou Jitai Pharmaceutical Technology Co., Ltd.",Hangzhou
+F1413,Caida Lai Ph.D,S2726,"Hangzhou Jitai Pharmaceutical Technology Co., Ltd.",Hangzhou
+F1414,Zhongkao Jin,S2727,CGTZ,Hangzhou
+F1415,Wei Xiao,S2733,McClaire,Hangzhou
+F1416,Zhiqiang Pan,S2733,McClaire,Hangzhou
+F1417,Anton Osika,S2744,Lovable,Stockholm
+F1418,Fabian Hedin,S2744,Lovable,Stockholm
+F1419,Luis Medina Rivas,S2745,Tether,Stockholm
+F1420,Martim Perestrelo,S2745,Tether,Stockholm
+F1421,August Erséus,S2746,Legora,Stockholm
+F1422,Max Junestrand,S2746,Legora,Stockholm
+F1423,Sigge Labor,S2746,Legora,Stockholm
+F1424,Filip Lilja,S2747,Einride,Stockholm
+F1425,Linnéa Kornehed,S2747,Einride,Stockholm
+F1426,Robert Falck,S2747,Einride,Stockholm
+F1427,David Stenmarck,S2748,Epidemic Sound,Stockholm
+F1428,Hjalmar Winbladh,S2748,Epidemic Sound,Stockholm
+F1429,Jan Zachrisson,S2748,Epidemic Sound,Stockholm
+F1430,Oscar Höglund,S2748,Epidemic Sound,Stockholm
+F1431,Peer Åström,S2748,Epidemic Sound,Stockholm
+F1432,Sara Nozkova,S2749,Flox,Stockholm
+F1433,Tomas Becklin,S2749,Flox,Stockholm
+F1434,Joel Hellermark,S2750,Sana,Stockholm
+F1435,Daniel Ek,S2751,Neko Health,Stockholm
+F1436,Hjalmar Nilsonne,S2751,Neko Health,Stockholm
+F1437,Birk Nilson,S2752,Polar,Stockholm
+F1438,Fredrik Skantze,S2753,Funnel,Stockholm
+F1439,Per Made,S2753,Funnel,Stockholm
+F1440,Estelle Westling,S2755,VOI Technology,Stockholm
+F1441,Hrishikesh Rajan,S2757,TrusTrace,Stockholm
+F1442,Madhava Venkatesh,S2757,TrusTrace,Stockholm
+F1443,Hedda Båverud Olsson,S2767,Lassie,Stockholm
+F1444,Paolo Cerruti,S2772,Northvolt,Stockholm
+F1445,Peter Carlsson,S2772,Northvolt,Stockholm
+F1446,Leif Andersson,S2780,Areim,Stockholm
+F1447,Paul Schempp,S2784,Aonic Group,Stockholm
+F1448,Olliver Heins,S2784,Aonic Group,Stockholm
+F1449,Kaveh Rostampor,S2792,Planhat,Stockholm
+F1450,Niklas Skog,S2792,Planhat,Stockholm
+F1451,Henrik Fräsén,S2798,Mentimeter,Stockholm
+F1452,Josef Fares,S2806,Hazelight,Stockholm
+F1453,Tim Bjelkstam ***@tiptapp.com,S2815,Tiptapp,Stockholm
+F1454,Frank Schuil,S2821,Safello,Stockholm
+F1455,Joakim Johansson,S2821,Safello,Stockholm
+F1456,Niklas Adalberth,S2822,Klarna,Stockholm
+F1457,Andreas Bernstrom,S2825,Sinch,Stockholm
+F1458,Daniel Forsman,S2825,Sinch,Stockholm
+F1459,Henrik Sandell,S2825,Sinch,Stockholm
+F1460,Jesper Ejenstam,S2826,LeadCold,Stockholm
+F1461,Tom Sundstrom,S2827,Bambuser,Stockholm
+F1462,Pouria Ruhi,S2827,Bambuser,Stockholm
+F1463,Oliver Fleetwood,S2830,Alex Therapeutics,Stockholm
+F1464,Jakob Mattsson,S2832,Fishbrain,Stockholm
+F1465,Ulf Ekenman,S2833,Radio Innovation,Stockholm
+F1466,Magnus Hultman Twitter,S2835,Wrapp,Stockholm
+F1467,Andreas Ehn Twitter,S2835,Wrapp,Stockholm
+F1468,Carl Fritjofsson,S2835,Wrapp,Stockholm
+F1469,Jens Nielsen,S2838,Elypta,Stockholm
+F1470,Patric Stiller,S2840,BitRefill,Stockholm
+F1471,Andreas Thorstensson,S2843,Goals,Stockholm
+F1472,Peter Beckman,S2844,Treyd,Stockholm
+F1473,Sameh El,S2844,Treyd,Stockholm
+F1474,Johan A. Gustavsson,S2849,Artificial Solutions,Stockholm
+F1475,Michael Soderstrom,S2849,Artificial Solutions,Stockholm
+F1476,Roger Sippl,S2850,Wilson Therapeutics,Stockholm
+F1477,Peder Nordstrom,S2851,BehavioSec,Stockholm
+F1478,Carl Waldekranz Twitter,S2852,Tictail,Stockholm
+F1479,Pontus Silfverstolpe,S2855,Barnebys,Stockholm
+F1480,Gustaf Grapengiesser,S2855,Barnebys,Stockholm
+F1481,Peter Simon,S2856,Kavall,Stockholm
+F1482,John C.F Tengberg,S2856,Kavall,Stockholm
+F1483,Robin Rendahl,S2856,Kavall,Stockholm
+F1484,Anders Perméus,S2857,Agreement24,Stockholm
+F1485,Johan Wiberg,S2857,Agreement24,Stockholm
+F1486,Henrik Torstensson,S2858,Lifesum,Stockholm
+F1487,Vikas Gupta (entrepreneur),S2861,Sverve,Stockholm
+F1488,Sam Saatchi ***@norbloc.com,S2863,Norbloc,Stockholm
+F1489,Rickard Br,S2866,Vässla,Stockholm
+F1490,anotherblock,S2867,Zaver,Stockholm
+F1491,Sebastian Ljungberg,S2867,Zaver,Stockholm
+F0286,Sign up to access our full database,S2867,Zaver,Stockholm
+F1492,Karl Andersson,S2874,Matsmart,Stockholm
+F1417,Anton Osika,S2879,Brickanta,Stockholm
+F1493,Tandem Health,S2879,Brickanta,Stockholm
+F1494,Siavash Ghorbani,S2893,Stilla,Stockholm
+F1495,Kaj Drobin,S2893,Stilla,Stockholm
+F1496,Tor Espen Steinvik,S2897,Skye Energy,Stockholm
+F1497,Henrik Hansson,S2908,Vesence,Stockholm
+F1498,Ludvig Swanstr,S2908,Vesence,Stockholm
+F1499,Martin Blomberg,S2909,Agteria Biotech,Stockholm
+F1500,Tommi Remonen,S2909,Agteria Biotech,Stockholm
+F1501,Noel Abdayem,S2915,DENTME,Stockholm
+F1502,Daniel Mauno Pettersson,S2920,QA.tech,Stockholm
+F1503,Patrick Lef,S2920,QA.tech,Stockholm
+F1504,Erik Fjellborg,S2937,Quinyx,Stockholm
+F1505,Alan Mamedi,S2941,Truecaller for Developers,Stockholm
+F1506,Nami Zarringhalam,S2941,Truecaller for Developers,Stockholm
+F1507,Johan Outinen,S2944,Elvy,Stockholm
+F1508,Dylan D. Jeng,S2948,XAG,Guangzhou
+F1509,Justin Gong,S2948,XAG,Guangzhou
+F1510,Fangmin Xie,S2952,Jianke,Guangzhou
+F1511,Mingguang Li,S2954,Urban Revivo,Guangzhou
+F1512,Li Zhan,S2955,TUNGEE,Guangzhou
+F1513,Wang Luquan,S2956,Vibrant,Guangzhou
+F1514,Qing Lu ***@weride.ai,S2998,WeRide,Guangzhou
+F1515,Yan Li ***.**@weride.ai,S2998,WeRide,Guangzhou
+F1516,He Xiaopeng,S3000,Xiaopeng Motors,Guangzhou
+F1517,Xia Heng,S3000,Xiaopeng Motors,Guangzhou
+F1518,Heyuan Huang,S3002,"Guangzhou HeyGears Technology Co., Ltd.",Guangzhou
+F1519,Fan Jianbing,S3003,AnchorDx,Guangzhou
+F1520,Rong Pan,S3005,"Guangzhou AIXIN Technology Co., Ltd",Guangzhou
+F1521,Yang Yang,S3005,"Guangzhou AIXIN Technology Co., Ltd",Guangzhou
+F1522,Zwsoft Echo,S3007,ZWSOFT,Guangzhou
+F1523,Kai Su,S3008,Yunnex,Guangzhou
+F1524,Xiangdong Zhang,S3009,Sungy Mobile,Guangzhou
+F1525,Yuqiang Deng,S3009,Sungy Mobile,Guangzhou
