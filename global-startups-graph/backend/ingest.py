@@ -88,6 +88,9 @@ class GraphIngester:
             "CREATE CONSTRAINT IF NOT EXISTS FOR (inv:Investor) REQUIRE inv.name IS UNIQUE",
             "CREATE CONSTRAINT IF NOT EXISTS FOR (f:Founder) REQUIRE f.name IS UNIQUE",
             "CREATE CONSTRAINT IF NOT EXISTS FOR (fs:FundingStage) REQUIRE fs.name IS UNIQUE",
+            "CREATE CONSTRAINT IF NOT EXISTS FOR (ic:IndustryCategory) REQUIRE ic.name IS UNIQUE",
+            "CREATE CONSTRAINT IF NOT EXISTS FOR (fb:FundingBracket) REQUIRE fb.name IS UNIQUE",
+            "CREATE CONSTRAINT IF NOT EXISTS FOR (fc:FoundedCohort) REQUIRE fc.name IS UNIQUE",
         ]
         for c in constraints:
             self.run(c)
@@ -235,7 +238,7 @@ class GraphIngester:
     # Relationship ingestion
     # ------------------------------------------------------------------
     def ingest_startup_city_rels(self, startups_df, cities_df):
-        print("\n=== Ingesting Startup → City relationships ===")
+        print("\n=== Ingesting Startup -> City relationships ===")
         # Primary city
         rows = [
             {"startup_id": r["startup_id"], "city": r["city"]}
@@ -266,7 +269,7 @@ class GraphIngester:
             )
 
     def ingest_startup_industry_rels(self, startups_df):
-        print("\n=== Ingesting Startup → Industry relationships ===")
+        print("\n=== Ingesting Startup -> Industry relationships ===")
         rows = []
         for _, r in startups_df.iterrows():
             primary = clean_val(r.get("primary_industry"))
@@ -293,7 +296,7 @@ class GraphIngester:
         )
 
     def ingest_startup_stage_rels(self, startups_df):
-        print("\n=== Ingesting Startup → FundingStage relationships ===")
+        print("\n=== Ingesting Startup -> FundingStage relationships ===")
         rows = [
             {"startup_id": r["startup_id"], "stage": r["funding_stage"]}
             for _, r in startups_df.iterrows()
@@ -401,6 +404,327 @@ class GraphIngester:
         )
 
     # ------------------------------------------------------------------
+    # Phase 2: Hierarchical structures
+    # ------------------------------------------------------------------
+    def ingest_industry_categories(self, taxonomy_df):
+        """Create IndustryCategory parent nodes and link Industries to them."""
+        print("\n=== Ingesting Industry Categories (hierarchy) ===")
+        cats = taxonomy_df["canonical_category"].dropna().unique().tolist()
+        rows = [{"name": c} for c in cats if c and c != "nan"]
+        self.run_batch(
+            "UNWIND $rows AS row MERGE (ic:IndustryCategory {name: row.name})",
+            rows, "IndustryCategory nodes",
+        )
+        # Link raw Industry nodes to their parent category
+        mappings = []
+        for _, r in taxonomy_df.iterrows():
+            raw = clean_val(r.get("raw_tag"))
+            cat = clean_val(r.get("canonical_category"))
+            if raw and cat:
+                mappings.append({"raw": raw, "cat": cat})
+        # Also ensure primary industries map to themselves as categories
+        for c in cats:
+            mappings.append({"raw": c, "cat": c})
+        self.run_batch(
+            """UNWIND $rows AS row
+            MATCH (i:Industry {name: row.raw})
+            MATCH (ic:IndustryCategory {name: row.cat})
+            MERGE (i)-[:PART_OF_CATEGORY]->(ic)""",
+            mappings, "PART_OF_CATEGORY",
+        )
+
+    def ingest_funding_brackets(self, startups_df):
+        """Create FundingBracket nodes and link startups."""
+        print("\n=== Ingesting Funding Brackets ===")
+        brackets = [
+            {"name": "Bootstrapped (<$1M)", "min": 0, "max": 1_000_000},
+            {"name": "Early ($1M-$10M)", "min": 1_000_000, "max": 10_000_000},
+            {"name": "Growth ($10M-$50M)", "min": 10_000_000, "max": 50_000_000},
+            {"name": "Scale ($50M-$200M)", "min": 50_000_000, "max": 200_000_000},
+            {"name": "Late ($200M-$1B)", "min": 200_000_000, "max": 1_000_000_000},
+            {"name": "Mega ($1B+)", "min": 1_000_000_000, "max": 999_000_000_000},
+        ]
+        self.run_batch(
+            """UNWIND $rows AS row
+            MERGE (fb:FundingBracket {name: row.name})
+            SET fb.min_usd = row.min, fb.max_usd = row.max""",
+            brackets, "FundingBracket nodes",
+        )
+        # Link startups
+        rows = []
+        for _, r in startups_df.iterrows():
+            f = clean_float(r.get("funding_usd"))
+            if f is None:
+                continue
+            for b in brackets:
+                if b["min"] <= f < b["max"]:
+                    rows.append({"startup_id": r["startup_id"], "bracket": b["name"]})
+                    break
+        self.run_batch(
+            """UNWIND $rows AS row
+            MATCH (s:Startup {startup_id: row.startup_id})
+            MATCH (fb:FundingBracket {name: row.bracket})
+            MERGE (s)-[:IN_FUNDING_BRACKET]->(fb)""",
+            rows, "IN_FUNDING_BRACKET",
+        )
+
+    def ingest_founded_cohorts(self, startups_df):
+        """Create FoundedCohort nodes and link startups."""
+        print("\n=== Ingesting Founded Cohorts ===")
+        cohort_defs = [
+            {"name": "Pre-2010", "min": 0, "max": 2010},
+            {"name": "2010-2015", "min": 2010, "max": 2016},
+            {"name": "2016-2018", "min": 2016, "max": 2019},
+            {"name": "2019-2021", "min": 2019, "max": 2022},
+            {"name": "2022-2024", "min": 2022, "max": 2025},
+            {"name": "2025+", "min": 2025, "max": 9999},
+        ]
+        self.run_batch(
+            """UNWIND $rows AS row
+            MERGE (fc:FoundedCohort {name: row.name})
+            SET fc.min_year = row.min, fc.max_year = row.max""",
+            cohort_defs, "FoundedCohort nodes",
+        )
+        rows = []
+        for _, r in startups_df.iterrows():
+            y = clean_int(r.get("founded_year"))
+            if y is None:
+                continue
+            for c in cohort_defs:
+                if c["min"] <= y < c["max"]:
+                    rows.append({"startup_id": r["startup_id"], "cohort": c["name"]})
+                    break
+        self.run_batch(
+            """UNWIND $rows AS row
+            MATCH (s:Startup {startup_id: row.startup_id})
+            MATCH (fc:FoundedCohort {name: row.cohort})
+            MERGE (s)-[:FOUNDED_IN_COHORT]->(fc)""",
+            rows, "FOUNDED_IN_COHORT",
+        )
+
+    # ------------------------------------------------------------------
+    # Phase 3: Computed analytical edges
+    # ------------------------------------------------------------------
+    def compute_investor_focus(self):
+        """Investor -> FOCUSES_ON -> IndustryCategory (aggregated from portfolio)."""
+        print("\n=== Computing Investor -> FOCUSES_ON -> IndustryCategory ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (inv:Investor)-[:INVESTED_IN]->(s:Startup)-[:IN_INDUSTRY {is_primary: true}]->(i:Industry)
+                WITH inv, i.name AS industry, count(DISTINCT s) AS cnt, sum(s.funding_usd) AS total
+                MATCH (ic:IndustryCategory {name: industry})
+                MERGE (inv)-[r:FOCUSES_ON]->(ic)
+                SET r.startup_count = cnt, r.total_funding = total
+            """)
+            cnt = s.run("MATCH ()-[r:FOCUSES_ON]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} FOCUSES_ON edges")
+
+    def compute_investor_active_in(self):
+        """Investor -> ACTIVE_IN -> City (aggregated from portfolio geography)."""
+        print("\n=== Computing Investor -> ACTIVE_IN -> City ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (inv:Investor)-[:INVESTED_IN]->(s:Startup)-[:LOCATED_IN {is_primary: true}]->(c:City)
+                WITH inv, c, count(DISTINCT s) AS cnt, sum(s.funding_usd) AS total
+                MERGE (inv)-[r:ACTIVE_IN]->(c)
+                SET r.startup_count = cnt, r.total_funding = total
+            """)
+            cnt = s.run("MATCH ()-[r:ACTIVE_IN]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} ACTIVE_IN edges")
+
+    def compute_investor_stage_profile(self):
+        """Investor -> INVESTS_AT_STAGE -> FundingStage."""
+        print("\n=== Computing Investor -> INVESTS_AT_STAGE -> FundingStage ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (inv:Investor)-[:INVESTED_IN]->(s:Startup)-[:AT_STAGE]->(fs:FundingStage)
+                WITH inv, fs, count(DISTINCT s) AS cnt
+                MERGE (inv)-[r:INVESTS_AT_STAGE]->(fs)
+                SET r.count = cnt
+            """)
+            cnt = s.run("MATCH ()-[r:INVESTS_AT_STAGE]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} INVESTS_AT_STAGE edges")
+
+    def compute_city_specializations(self):
+        """City -> SPECIALIZES_IN -> IndustryCategory with Location Quotient."""
+        print("\n=== Computing City -> SPECIALIZES_IN -> IndustryCategory (with LQ) ===")
+        with self.driver.session() as s:
+            # Get global industry distribution
+            s.run("""
+                // Get per-city, per-category counts
+                MATCH (s:Startup)-[:LOCATED_IN {is_primary: true}]->(c:City)
+                MATCH (s)-[:IN_INDUSTRY {is_primary: true}]->(i:Industry)
+                OPTIONAL MATCH (i)-[:PART_OF_CATEGORY]->(cat:IndustryCategory)
+                WITH c, COALESCE(cat.name, i.name) AS category, count(s) AS city_cat_count
+                // Get city totals
+                WITH c, category, city_cat_count
+                MATCH (s2:Startup)-[:LOCATED_IN {is_primary: true}]->(c)
+                WITH c, category, city_cat_count, count(s2) AS city_total
+                // Get global category count and global total
+                MATCH (s3:Startup)-[:IN_INDUSTRY {is_primary: true}]->(i3:Industry)
+                OPTIONAL MATCH (i3)-[:PART_OF_CATEGORY]->(cat3:IndustryCategory)
+                WITH c, category, city_cat_count, city_total,
+                     COALESCE(cat3.name, i3.name) AS g_cat, count(s3) AS pair_count
+                WITH c, category, city_cat_count, city_total,
+                     sum(CASE WHEN g_cat = category THEN pair_count ELSE 0 END) AS global_cat_count,
+                     sum(pair_count) AS global_total
+                WITH c, category, city_cat_count, city_total, global_cat_count, global_total,
+                     CASE WHEN global_cat_count = 0 OR city_total = 0 THEN 0
+                     ELSE (toFloat(city_cat_count)/city_total) / (toFloat(global_cat_count)/global_total)
+                     END AS lq
+                MATCH (city:City {name: c.name})
+                MATCH (ic:IndustryCategory {name: category})
+                MERGE (city)-[r:SPECIALIZES_IN]->(ic)
+                SET r.startup_count = city_cat_count,
+                    r.location_quotient = round(lq * 100) / 100,
+                    r.city_share = round(toFloat(city_cat_count) / city_total * 10000) / 100
+            """)
+            cnt = s.run("MATCH ()-[r:SPECIALIZES_IN]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} SPECIALIZES_IN edges")
+
+    def compute_competes_with(self):
+        """Startup -> COMPETES_WITH -> Startup (same category + same city)."""
+        print("\n=== Computing COMPETES_WITH edges ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (a:Startup)-[:IN_INDUSTRY {is_primary: true}]->(ia:Industry)
+                MATCH (b:Startup)-[:IN_INDUSTRY {is_primary: true}]->(ib:Industry)
+                WHERE a.startup_id < b.startup_id
+                  AND ia = ib
+                MATCH (a)-[:LOCATED_IN {is_primary: true}]->(c:City)<-[:LOCATED_IN {is_primary: true}]-(b)
+                // Also check for shared non-primary industries
+                OPTIONAL MATCH (a)-[:IN_INDUSTRY]->(shared:Industry)<-[:IN_INDUSTRY]-(b)
+                WITH a, b, c, ia.name AS industry, count(DISTINCT shared) AS shared_industries
+                // Check if same funding bracket
+                OPTIONAL MATCH (a)-[:IN_FUNDING_BRACKET]->(fb:FundingBracket)<-[:IN_FUNDING_BRACKET]-(b)
+                WITH a, b, c.name AS city, industry, shared_industries,
+                     CASE WHEN fb IS NOT NULL THEN true ELSE false END AS same_bracket,
+                     shared_industries * 2 + CASE WHEN fb IS NOT NULL THEN 2 ELSE 0 END AS score
+                WHERE score >= 2
+                MERGE (a)-[r:COMPETES_WITH]->(b)
+                SET r.city = city, r.industry = industry,
+                    r.shared_industries = shared_industries,
+                    r.same_funding_bracket = same_bracket,
+                    r.score = score
+            """)
+            cnt = s.run("MATCH ()-[r:COMPETES_WITH]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} COMPETES_WITH edges")
+
+    def compute_similar_to(self):
+        """Startup -> SIMILAR_TO -> Startup (cross-city structural similarity, top 5 per startup)."""
+        print("\n=== Computing SIMILAR_TO edges (top 5 per startup) ===")
+        with self.driver.session() as s:
+            # Multi-factor similarity: shared investors (3x) + shared industries (2x)
+            s.run("""
+                MATCH (inv:Investor)-[:INVESTED_IN]->(a:Startup)
+                MATCH (inv)-[:INVESTED_IN]->(b:Startup)
+                WHERE a.startup_id < b.startup_id
+                WITH a, b, count(DISTINCT inv) AS shared_investors
+                WHERE shared_investors >= 1
+                OPTIONAL MATCH (a)-[:IN_INDUSTRY]->(i:Industry)<-[:IN_INDUSTRY]-(b)
+                WITH a, b, shared_investors, count(DISTINCT i) AS shared_industries,
+                     shared_investors * 3 + count(DISTINCT i) * 2 AS score
+                WHERE score >= 5
+                MERGE (a)-[r:SIMILAR_TO]->(b)
+                SET r.score = score, r.shared_investors = shared_investors, r.shared_industries = shared_industries
+            """)
+            cnt = s.run("MATCH ()-[r:SIMILAR_TO]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} SIMILAR_TO edges")
+
+    def compute_ecosystem_peers(self):
+        """City -> ECOSYSTEM_PEER -> City (shared investors + similar industry mix)."""
+        print("\n=== Computing ECOSYSTEM_PEER edges ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (c1:City)<-[:LOCATED_IN]-(s1:Startup)<-[:INVESTED_IN]-(inv:Investor)-[:INVESTED_IN]->(s2:Startup)-[:LOCATED_IN]->(c2:City)
+                WHERE c1.name < c2.name
+                WITH c1, c2, count(DISTINCT inv) AS shared_investors
+                WHERE shared_investors >= 2
+                MERGE (c1)-[r:ECOSYSTEM_PEER]->(c2)
+                SET r.shared_investors = shared_investors
+            """)
+            # Add industry similarity
+            s.run("""
+                MATCH (c1:City)-[sp1:SPECIALIZES_IN]->(ic:IndustryCategory)<-[sp2:SPECIALIZES_IN]-(c2:City)
+                WHERE c1.name < c2.name
+                WITH c1, c2, count(ic) AS shared_categories,
+                     sum(abs(sp1.location_quotient - sp2.location_quotient)) AS lq_diff
+                MATCH (c1)-[r:ECOSYSTEM_PEER]->(c2)
+                SET r.shared_categories = shared_categories,
+                    r.industry_similarity = round((1.0 / (1.0 + lq_diff)) * 100) / 100
+            """)
+            cnt = s.run("MATCH ()-[r:ECOSYSTEM_PEER]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} ECOSYSTEM_PEER edges")
+
+    def compute_serial_founder_links(self):
+        """Startup -> SERIAL_FOUNDER_LINK -> Startup (connected through shared founder)."""
+        print("\n=== Computing SERIAL_FOUNDER_LINK edges ===")
+        with self.driver.session() as s:
+            s.run("""
+                MATCH (a:Startup)-[:FOUNDED_BY]->(f:Founder)<-[:FOUNDED_BY]-(b:Startup)
+                WHERE a.startup_id < b.startup_id
+                MERGE (a)-[r:SERIAL_FOUNDER_LINK]->(b)
+                SET r.founder = f.name
+            """)
+            cnt = s.run("MATCH ()-[r:SERIAL_FOUNDER_LINK]->() RETURN count(r) AS cnt").single()["cnt"]
+            print(f"  Created {cnt} SERIAL_FOUNDER_LINK edges")
+
+    # ------------------------------------------------------------------
+    # Phase 4: Enrich node properties with computed metrics
+    # ------------------------------------------------------------------
+    def enrich_node_properties(self):
+        """Add computed properties to Investor, City, and Startup nodes."""
+        print("\n=== Enriching node properties ===")
+        with self.driver.session() as s:
+            # Investor: portfolio_size, primary_focus, geographic_reach
+            s.run("""
+                MATCH (inv:Investor)-[:INVESTED_IN]->(s:Startup)
+                WITH inv, count(s) AS portfolio_size,
+                     sum(s.funding_usd) AS total_funding,
+                     count(DISTINCT s.city) AS geo_reach
+                SET inv.portfolio_size = portfolio_size,
+                    inv.portfolio_total_funding = total_funding,
+                    inv.geographic_reach = geo_reach
+            """)
+            # Investor: primary_focus (most common category)
+            s.run("""
+                MATCH (inv:Investor)-[r:FOCUSES_ON]->(ic:IndustryCategory)
+                WITH inv, ic.name AS cat, r.startup_count AS cnt
+                ORDER BY inv.name, cnt DESC
+                WITH inv, collect(cat)[0] AS top_cat
+                SET inv.primary_focus = top_cat
+            """)
+            print("  Enriched Investor nodes")
+
+            # City: computed stats
+            s.run("""
+                MATCH (c:City)<-[:LOCATED_IN {is_primary: true}]-(s:Startup)
+                WITH c, count(s) AS cnt, sum(s.funding_usd) AS total,
+                     avg(s.funding_usd) AS avg_f
+                SET c.startup_count = cnt,
+                    c.total_funding = total,
+                    c.avg_funding = round(avg_f)
+            """)
+            # City: top_category
+            s.run("""
+                MATCH (c:City)-[sp:SPECIALIZES_IN]->(ic:IndustryCategory)
+                WITH c, ic.name AS cat, sp.startup_count AS cnt
+                ORDER BY c.name, cnt DESC
+                WITH c, collect(cat)[0] AS top
+                SET c.top_category = top
+            """)
+            print("  Enriched City nodes")
+
+            # Startup: investor_count, competitor_count
+            s.run("""
+                MATCH (s:Startup)
+                OPTIONAL MATCH (inv:Investor)-[:INVESTED_IN]->(s)
+                WITH s, count(inv) AS inv_cnt
+                SET s.investor_count = inv_cnt
+            """)
+            print("  Enriched Startup nodes")
+
+    # ------------------------------------------------------------------
     # Main
     # ------------------------------------------------------------------
     def ingest_all(self):
@@ -412,16 +736,18 @@ class GraphIngester:
         investors_df = read_csv("investors.csv")
         co_invest_df = read_csv("co_investments.csv")
         cities_df = read_csv("startup_cities.csv")
+        taxonomy_df = read_csv("industry_taxonomy.csv")
 
         print(f"  startups: {len(startups_df)}")
         print(f"  founders: {len(founders_df)}")
         print(f"  investors: {len(investors_df)}")
         print(f"  co_investments: {len(co_invest_df)}")
         print(f"  multi-city mappings: {len(cities_df)}")
+        print(f"  taxonomy mappings: {len(taxonomy_df)}")
 
         self.create_constraints()
 
-        # Nodes
+        # Phase 1: Core nodes and relationships
         self.ingest_regions(startups_df)
         self.ingest_countries(startups_df)
         self.ingest_cities(startups_df)
@@ -431,11 +757,28 @@ class GraphIngester:
         self.ingest_founders(founders_df)
         self.ingest_investors(investors_df)
 
-        # Relationships
         self.ingest_startup_city_rels(startups_df, cities_df)
         self.ingest_startup_industry_rels(startups_df)
         self.ingest_startup_stage_rels(startups_df)
         self.ingest_co_investments(co_invest_df)
+
+        # Phase 2: Hierarchical structures
+        self.ingest_industry_categories(taxonomy_df)
+        self.ingest_funding_brackets(startups_df)
+        self.ingest_founded_cohorts(startups_df)
+
+        # Phase 3: Computed analytical edges
+        self.compute_investor_focus()
+        self.compute_investor_active_in()
+        self.compute_investor_stage_profile()
+        self.compute_city_specializations()
+        self.compute_competes_with()
+        self.compute_similar_to()
+        self.compute_ecosystem_peers()
+        self.compute_serial_founder_links()
+
+        # Phase 4: Enrich node properties
+        self.enrich_node_properties()
 
         elapsed = time.time() - t0
         print(f"\n{'='*60}")
