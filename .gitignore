@@ -3,11 +3,17 @@ __pycache__/
 *.pyc
 .env
 
-# Debug/temp files
+# Temp/debug files
 page_debug.html
 ~$*.xlsx
 
-# Old output files (superseded by global_startups_final.xlsx)
+# Log files
+*.log
+
+# Progress tracking (resumable state, not needed in repo)
+data/_*_progress.json
+
+# Old output files
 f6s_tel_aviv_startups*.xlsx
 tel_aviv_startups.xlsx
 global_startups.xlsx
