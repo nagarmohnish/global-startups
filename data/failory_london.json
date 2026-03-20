@@ -1,8 +1,8 @@
 [
   {
     "Name": "Nscale",
-    "Website": "https://www.nscale.com/press-releases/nscale-uk-ai-infrastructure-announcement",
-    "Description": "Nscalewas incorporated in theUKon 29 May 2024, withCompaniesHouse confirming thecompanyhas seven directors, with four of them residing in the ...",
+    "Website": "https://www.nscale.com/",
+    "Description": "Nscalewas incorporated in the UKon 29 May 2024, with Companies House confirming thecompanyhas seven directors, with four of them residing in the ...",
     "Industry": "AI",
     "Founded": "2024",
     "Funding": "$1.7B",
@@ -14,7 +14,7 @@
   {
     "Name": "Nothing",
     "Website": "https://nothing.tech/?srsltid=AfmBOooZgirPHcvvYWuFBpcGHi6Aa_EbEsmj-SNxs0z0JC3_NG1jNz1v",
-    "Description": "Nothing Technology Limited (stylised as NOTHING) is a British consumer electronics company headquartered in London. It was co-founded in 2020 by Carl Pei ...HistoryProductsSmartphonesAudio products",
+    "Description": "Nothing Technology Limited (stylised as NOTHING) is a British consumer electronics company headquartered in London. It was co-founded in 2020 by Carl Pei ...History Products Smartphones Audio products",
     "Industry": "Hardware",
     "Founded": "2020",
     "Funding": "$446.1M",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "Tide",
-    "Website": "https://www.vestbee.com/insights/articles/tide-secures-120-m",
+    "Website": "https://tide.com/",
     "Description": "Tide (Tide Platform Limited) is a UK financial technology company providing mobile-first banking services for small and medium-sized enterprises.",
     "Industry": "Banking/Fintech",
     "Founded": "2015",
@@ -39,8 +39,8 @@
   },
   {
     "Name": "Checkout.com",
-    "Website": "https://www.founderoo.co/resources/the-top-44-startups-in-the-uk",
-    "Description": "London-basedCheckout.comempowers businesses to adapt, innovate and thrive with Connected Payments. ...Checkout.comas they continue to build an ...",
+    "Website": "https://www.checkout.com/",
+    "Description": "London-based Checkout.comempowers businesses to adapt, innovate and thrive with Connected Payments. ...Checkout.comas they continue to build an ...",
     "Industry": "Payments/Fintech",
     "Founded": "2012",
     "Funding": "$1.8B",
@@ -51,8 +51,8 @@
   },
   {
     "Name": "Monzo",
-    "Website": "https://www.ycombinator.com/companies/monzo-bank",
-    "Description": "Monzo Bank Limited, trading as Monzo is a British online bank based in London. Monzo launched as part of a wave of app-based challenger banks entering the ...HistoryFundraisingProducts and servicesIssued cards",
+    "Website": "https://monzo.com/",
+    "Description": "Monzo Bank Limited, trading as Monzo is a British online bank based in London. Monzo launched as part of a wave of app-based challenger banks entering the ...History Fundraising Products and services Issued cards",
     "Industry": "Fintech",
     "Founded": "2015",
     "Funding": "$1.8B",
@@ -64,7 +64,7 @@
   },
   {
     "Name": "Signal AI",
-    "Website": "https://signal-ai.com/about/",
+    "Website": "https://signal-ai.com/",
     "Description": "SignalAIis a leading risk and reputation intelligence company, helping today’s business leaders make sense of the outside world. Our solutions leverage proprietary AI to analyze more than 2 billion data points from traditional and social media, across 226 markets, and in 75 languages.",
     "Industry": "AI",
     "Founded": "2013",
@@ -89,7 +89,7 @@
   },
   {
     "Name": "Attio",
-    "Website": "https://www.eu-startups.com/2021/11/london-based-attio-gets-e6-87-million-boost-to-transform-customer-relationship-management/",
+    "Website": "https://attio.com/",
     "Description": "Attiohas been engineered to handle all the CRM needs of a modern business, givingcompaniesan overview of every relationship and process from sales ...",
     "Industry": "AI",
     "Founded": "2019",
@@ -113,8 +113,8 @@
   },
   {
     "Name": "Quantexa",
-    "Website": "https://usearch.com/company/quantexa/overview",
-    "Description": "Quantexais an intelligencecompanythat provides a platform for customers to use to analyze their data and expand their businesses.10 York Rd,London, GreaterLondon, SE1 7ND,UnitedKingdom| view all locations. Phone Number: +44 2038088299.",
+    "Website": "https://www.quantexa.com/",
+    "Description": "Quantexais an intelligencecompanythat provides a platform for customers to use to analyze their data and expand their businesses.10 York Rd,London, Greater London, SE1 7ND,United Kingdom| view all locations. Phone Number: +44 2038088299.",
     "Industry": "Fintech",
     "Founded": "2016",
     "Funding": "$545M",
@@ -126,7 +126,7 @@
   {
     "Name": "Paid",
     "Website": "https://www.paid.ai/",
-    "Description": "Information on valuation, funding, cap tables, investors, and executives forPaid(UK). Use the PitchBook Platform to explore the full profile.",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Paid(UK). Use the Pitch Book Platform to explore the full profile.",
     "Industry": "AI",
     "Founded": "2024",
     "Funding": "$32.4M",
@@ -138,7 +138,7 @@
   {
     "Name": "Wayve",
     "Website": "https://wayve.ai/",
-    "Description": "Wayve is a privately held company headquartered in London, England, with its primary research and development office in the Kings Cross area of London. The company was initially incorporated asWayve Technologies Ltdin the UK.",
+    "Description": "Wayve is a privately held company headquartered in London, England, with its primary research and development office in the Kings Cross area of London. The company was initially incorporated as Wayve Technologies Ltdin the UK.",
     "Industry": "AI",
     "Founded": "2017",
     "Funding": "$1.3B",
@@ -162,7 +162,7 @@
   {
     "Name": "Ember",
     "Website": "https://ember.co/",
-    "Description": "...EmberCEO, Aaron Shaw, “Emberis at a crucial ... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -CompanyNo.",
+    "Description": "...EmberCEO, Aaron Shaw, “Emberis at a crucial ... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -Company No.",
     "Industry": "Fintech",
     "Founded": "2019",
     "Funding": "£10.9M",
@@ -210,7 +210,7 @@
   {
     "Name": "Omnea",
     "Website": "https://www.omnea.co/",
-    "Description": "Omnea’s platform handles the entire purchasing process: giving ... Before that, I founded theUK’s largest youth events & productioncompany.",
+    "Description": "Omnea’s platform handles the entire purchasing process: giving ... Before that, I founded the UK’s largest youth events & productioncompany.",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$75M",
@@ -234,7 +234,7 @@
   {
     "Name": "Fyxer AI",
     "Website": "https://www.fyxer.com/",
-    "Description": "Sep 9, 2025 ·Founded in 2024,FyxerAIprovides productivity tools specifically designed for everyday professionals. The platform integrates into existing workflows, automating repetitive tasks such as email management, meeting summaries, scheduling, and proactive follow-ups.",
+    "Description": "Founded in 2024,FyxerAIprovides productivity tools specifically designed for everyday professionals. The platform integrates into existing workflows, automating repetitive tasks such as email management, meeting summaries, scheduling, and proactive follow-ups.",
     "Industry": "AI",
     "Founded": "2014",
     "Funding": "$40M",
@@ -246,7 +246,7 @@
   {
     "Name": "Hormona",
     "Website": "https://www.hormona.io/",
-    "Description": "May 27, 2025 ·London-basedHormona, a HealthTech company using AI and at-home testing to help women track, understand and optimise their hormones, has raised a €7.8 million Seed round to fuel their expansion and help launch its hormone tests.",
+    "Description": "London-based Hormona, a Health Tech company using AI and at-home testing to help women track, understand and optimise their hormones, has raised a €7.8 million Seed round to fuel their expansion and help launch its hormone tests.",
     "Industry": "Healthcare",
     "Founded": "2020",
     "Funding": "£6.6M",
@@ -270,7 +270,7 @@
   {
     "Name": "GoCardless",
     "Website": "https://gocardless.com/",
-    "Description": "GoCardlessis a fintechcompanythat specialises in bank payments including recurring payments, Direct Debit processing and Open Banking .",
+    "Description": "Go Cardlessis a fintechcompanythat specialises in bank payments including recurring payments, Direct Debit processing and Open Banking .",
     "Industry": "Fintech",
     "Founded": "2011",
     "Funding": "$529.3M",
@@ -281,8 +281,8 @@
   },
   {
     "Name": "CHARM Therapeutics",
-    "Website": "https://charmtx.com/",
-    "Description": "Founded in 2025 by Laksh Aithani and David Baker,CHARMTherapeuticsis a BioTechcompanyinnovating the next generation of precision oncology ...",
+    "Website": "https://charmco.com/",
+    "Description": "Founded in 2025 by Laksh Aithani and David Baker,CHARMTherapeuticsis a Bio Techcompanyinnovating the next generation of precision oncology ...",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$162.7M",
@@ -294,7 +294,7 @@
   {
     "Name": "FNZ",
     "Website": "http://www.fnz.com/",
-    "Description": "In 2005, shortly after fintechstartupFNZhad launched in theUK, its founder and CEO Adrian Durham walked into a conference room carrying a beach ...",
+    "Description": "In 2005, shortly after fintechstartupFNZhad launched in the UK, its founder and CEO Adrian Durham walked into a conference room carrying a beach ...",
     "Industry": "Fintech",
     "Founded": "2004",
     "Funding": "$5.8B",
@@ -306,7 +306,7 @@
   {
     "Name": "Castore",
     "Website": "https://castore.com/",
-    "Description": "Tom and Phil Beahon quite the City ofLondontostartCastore.Brand now worth around £1bn. In November last year,Castorewas named as theUK’s fastest growing retailer. Thecompanytopped the list from Retail Index which analyses revenue growth over a two-year period.",
+    "Description": "Tom and Phil Beahon quite the City of Londontostart Castore.Brand now worth around £1bn. In November last year,Castorewas named as the UK’s fastest growing retailer. Thecompanytopped the list from Retail Index which analyses revenue growth over a two-year period.",
     "Industry": "Marketing",
     "Founded": "2016",
     "Funding": "£198.2M",
@@ -355,7 +355,7 @@
   {
     "Name": "TerraPay",
     "Website": "https://terrapay.com/",
-    "Description": "6 days ago ·TerraPayis an acquiredcompanybased inLondon(United Kingdom), founded in 2014 by Ambar Sur, Ram Sundaram and Ani Sane. It operates as an Omnichannel payment solution for cross-border money transfers.TerraPayhas raised $100M in funding from IFC. Thecompanyhas 36 active competitors, incl...",
+    "Description": "Approved in 32 markets, we offer global payment solutions for your local payout needs Digital wallets Connect to 3.7+ billion digital wallets with Terra Payas we boost mobile wallet acceptance at merchant PoS and enable cross-border payments in local currencies.",
     "Industry": "Fintech",
     "Founded": "2014",
     "Funding": "$259.1M",
@@ -368,7 +368,7 @@
   {
     "Name": "Granola",
     "Website": "https://www.granola.so/",
-    "Description": "Feb 12, 2026 ·Granola- About thecompanyGranolais a series Bcompanybased inLondon(United Kingdom), founded in 2023 by Sam Stephenson. It operates as a Developer of an AI-powered tool for automated meeting note taking.Granolahas raised $67.2M in funding from investors like Lightspeed Venture Partne...",
+    "Description": "Granola- About thecompany Granolais a series Bcompanybased in London(United Kingdom), founded in 2023 by Sam Stephenson. It operates as a Developer of an AI-powered tool for automated meeting note taking.Granolahas raised $67.2M in funding from investors like Lightspeed Venture Partne...",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$67.3M",
@@ -418,7 +418,7 @@
   {
     "Name": "Tern Group",
     "Website": "http://www.tern-group.com/",
-    "Description": "Sep 10, 2025 ·Founded in 2023,TERN Groupis a global talent mobility platform building a Clinical AI Workforce system. Operating across India, Germany, theUK, the GCC, and Japan,TERN Groupaims to help healthcare providers hire faster, more compliantly, and at scale, while ensuring professionals be...",
+    "Description": "Founded in 2023,TERN Groupis a global talent mobility platform building a Clinical AI Workforce system. Operating across India, Germany, the UK, the GCC, and Japan,TERN Groupaims to help healthcare providers hire faster, more compliantly, and at scale, while ensuring professionals be...",
     "Industry": "Healthcare",
     "Founded": "2023",
     "Funding": "$33M",
@@ -527,8 +527,8 @@
   },
   {
     "Name": "Archax",
-    "Website": "https://www.archax.com/",
-    "Description": "Archax, based inLondon, is theUK's first FCA -regulated digital asset exchange, brokerage, and custodian, and was also the first entry on the FCA's Cryptoasset Register. [1][2][3][4]",
+    "Website": "https://archax.co/",
+    "Description": "Archax, based in London, is the UK's first FCA -regulated digital asset exchange, brokerage, and custodian, and was also the first entry on the FCA's Cryptoasset Register. [1][2][3][4]",
     "Industry": "Crypto",
     "Founded": "2018",
     "Funding": "$45.1M",
@@ -540,7 +540,7 @@
   {
     "Name": "Accelex",
     "Website": "https://accelextech.com/",
-    "Description": "Nov 12, 2025 ·Accelex is a series A company based inLondon(UnitedKingdom), founded in 2018 by Michael Aldridge, Nicole A Weder and Franck Vialaron. It operates as a Data analytics and reporting solutions for investors and asset managers.Accelex is headquartered inLondon, with offices in Paris, Lu...",
+    "Description": "Accelex is a series A company based in London(United Kingdom), founded in 2018 by Michael Aldridge, Nicole A Weder and Franck Vialaron. It operates as a Data analytics and reporting solutions for investors and asset managers.Accelex is headquartered in London, with offices in Paris, Lu...",
     "Industry": "Analytics",
     "Founded": "2018",
     "Funding": "$24.6M",
@@ -552,7 +552,7 @@
   {
     "Name": "DICE",
     "Website": "https://dice.fm/",
-    "Description": "October 16, 2025 -Phil Hutcheon founded Dice in 2014.Prior to founding Dice, Hutcheon spent over 10 years working in the music industry running Modular Recordings and latterly his own record label, management and events company Deadly People.",
+    "Description": "Phil Hutcheon founded Dice in 2014.Prior to founding Dice, Hutcheon spent over 10 years working in the music industry running Modular Recordings and latterly his own record label, management and events company Deadly People.",
     "Industry": "Marketing",
     "Founded": "2014",
     "Funding": "$200M",
@@ -564,7 +564,7 @@
   {
     "Name": "Cassava Technologies",
     "Website": "https://www.cassavatechnologies.com/",
-    "Description": "CassavaTechnologiesis a global technology leader of African heritage providing a vertically integrated ecosystem of digital services and infrastructure enabling digital transformation.",
+    "Description": "Cassava Technologiesis a global technology leader of African heritage providing a vertically integrated ecosystem of digital services and infrastructure enabling digital transformation.",
     "Industry": "SaaS",
     "Founded": "2021",
     "Funding": "$140M",
@@ -577,7 +577,7 @@
   {
     "Name": "TrueLayer",
     "Website": "https://truelayer.com/",
-    "Description": "TrueLayeris a series Ecompanybased inLondon(United Kingdom), founded in 2016 by Francesco Simoneschi and Luca Martinetti. It operates as a Provider of open banking platform facilitating payments and data solutions.TrueLayerhas raised $322M in funding from investors like Northzone, Temasek and Ant...",
+    "Description": "True Layeris a series Ecompanybased in London(United Kingdom), founded in 2016 by Francesco Simoneschi and Luca Martinetti. It operates as a Provider of open banking platform facilitating payments and data solutions.True Layerhas raised $322M in funding from investors like Northzone, Temasek and Ant...",
     "Industry": "Fintech",
     "Founded": "2016",
     "Funding": "$321.5M",
@@ -589,7 +589,7 @@
   {
     "Name": "BVNK",
     "Website": "https://bvnk.com/",
-    "Description": "BVNKis a series Bcompanybased inLondon(United Kingdom), founded in 2016 by Jesse Hemson-Struthers, Kyle Redelinghuys and Donald J. It operates as an Online platform offering multiple crypto services.BVNKhas raised $93.2M in funding from Tiger Global Management and Haun Ventures, with a current va...",
+    "Description": "BVNKis a series Bcompanybased in London(United Kingdom), founded in 2016 by Jesse Hemson-Struthers, Kyle Redelinghuys and Donald J. It operates as an Online platform offering multiple crypto services.BVNKhas raised $93.2M in funding from Tiger Global Management and Haun Ventures, with a current va...",
     "Industry": "Enterprise",
     "Founded": "2021",
     "Funding": "$90.1M",
@@ -613,7 +613,7 @@
   {
     "Name": "SumUp",
     "Website": "https://sumup.co.uk/",
-    "Description": "sumup.co.uk.SumUpis a British financial technologycompanyheadquartered inLondon.SumUp’s primary product is an EMV card reader and a number of online payment and bank account system for merchants and businesses. It has over 18 offices across Europe and America.",
+    "Description": "sumup.co.uk.Sum Upis a British financial technologycompanyheadquartered in London.Sum Up’s primary product is an EMV card reader and a number of online payment and bank account system for merchants and businesses. It has over 18 offices across Europe and America.",
     "Industry": "Fintech",
     "Founded": "2011",
     "Funding": "$4B",
@@ -649,7 +649,7 @@
   {
     "Name": "Fuse Energy",
     "Website": "https://www.fuseenergy.com/",
-    "Description": "London-basedenergycompanyFuseEnergy, today announced an additional €59 million ($70 million) in funding to accelerate international expansion ...",
+    "Description": "London-basedenergycompany Fuse Energy, today announced an additional €59 million ($70 million) in funding to accelerate international expansion ...",
     "Industry": "Energy",
     "Founded": "2022",
     "Funding": "$100.7M",
@@ -673,7 +673,7 @@
   {
     "Name": "Synthesized",
     "Website": "https://synthesized.io/",
-    "Description": "WithSynthesized, enterprises unlock secure, high-quality, production-grade data on demand — accelerating test automation, QA, and delivery while eliminating compliance risk and operational...",
+    "Description": "With Synthesized, enterprises unlock secure, high-quality, production-grade data on demand — accelerating test automation, QA, and delivery while eliminating compliance risk and operational...",
     "Industry": "Cloud",
     "Founded": "2020",
     "Funding": "$22.8M",
@@ -684,8 +684,8 @@
   },
   {
     "Name": "Verto",
-    "Website": "https://www.vertofx.com/",
-    "Description": "WithVertoreceiving the Milken-Motsepe Prize, appearing on CNBCs list of fastest growingUKcompanies, the Deloitte Fast 50 and Sifted’ s fastest ...",
+    "Website": "https://www.verto.com/",
+    "Description": "With Vertoreceiving the Milken-Motsepe Prize, appearing on CNBCs list of fastest growingUKcompanies, the Deloitte Fast 50 and Sifted’ s fastest ...",
     "Industry": "Fintech",
     "Founded": "2017",
     "Funding": "$12.4M",
@@ -697,7 +697,7 @@
   {
     "Name": "Depop",
     "Website": "http://www.depop.com/",
-    "Description": "DepopLimited is a social e-commercecompanybased inLondon, with additional offices in Milan and New York City .",
+    "Description": "Depop Limited is a social e-commercecompanybased in London, with additional offices in Milan and New York City .",
     "Industry": "Infrastructure",
     "Founded": "2011",
     "Funding": "$105.6M",
@@ -710,7 +710,7 @@
   {
     "Name": "PerfectTed",
     "Website": "https://www.perfectted.com/",
-    "Description": "Jun 19, 2025 ·AboutPerfectTedFounded inLondonin 2021 and backed by Entrepreneur and investor Steven Bartlett,PerfectTedproduces plant-powered matcha energy drinks and powders designed to give consumers a clean caffeine alternative. Thecompanyemploys 30 people and is headquartered in Steven Bartle...",
+    "Description": "About Perfect Ted Founded in Londonin 2021 and backed by Entrepreneur and investor Steven Bartlett,Perfect Tedproduces plant-powered matcha energy drinks and powders designed to give consumers a clean caffeine alternative. Thecompanyemploys 30 people and is headquartered in Steven Bartle...",
     "Industry": "Retail",
     "Founded": "2020",
     "Funding": "$9.3M",
@@ -722,7 +722,7 @@
   {
     "Name": "OneWeb",
     "Website": "https://oneweb.net/",
-    "Description": "The company has offices in Paris (France), London (UK) and Virginia (US), and satellite manufacturing facilities in Florida and Toulouse – Airbus OneWeb ...",
+    "Description": "The company has offices in Paris (France), London (UK) and Virginia (US), and satellite manufacturing facilities in Florida and Toulouse – Airbus One Web ...",
     "Industry": "Mobility",
     "Founded": "2012",
     "Funding": "$4.7B",
@@ -734,7 +734,7 @@
   {
     "Name": "ClearScore",
     "Website": "https://www.clearscore.com/",
-    "Description": "ClearScore is a British financial technology business that provides credit scores, reports and affordability scores for individuals at no cost to its users.",
+    "Description": "Clear Score is a British financial technology business that provides credit scores, reports and affordability scores for individuals at no cost to its users.",
     "Industry": "Fintech",
     "Founded": "2014",
     "Funding": "$242.3M",
@@ -807,7 +807,7 @@
   {
     "Name": "Google DeepMind",
     "Website": "https://deepmind.google/",
-    "Description": "He is the chief executive officer and co-founder ofGoogleDeepMindand Isomorphic Labs, and aUKGovernment AI Adviser.Hassabis is the CEO and co-founder of DeepMind, a machine learning AIstartup, founded inLondonin 2010 with Shane Legg and Mustafa Suleyman.",
+    "Description": "He is the chief executive officer and co-founder of Google Deep Mindand Isomorphic Labs, and a UKGovernment AI Adviser.Hassabis is the CEO and co-founder of Deep Mind, a machine learning AIstartup, founded in Londonin 2010 with Shane Legg and Mustafa Suleyman.",
     "Industry": "AI",
     "Founded": "2010",
     "Funding": "—",
@@ -819,7 +819,7 @@
   {
     "Name": "Moneybox",
     "Website": "https://www.moneyboxapp.com/",
-    "Description": "Moneybox- About thecompanyMoneyboxis a series Dcompanybased inLondon(United Kingdom), founded in 2015 by Ben Stanway and Charlie Mortimer. It operates as an App based platform for users to save, invest, buy a home, and plan for retirement.",
+    "Description": "Moneybox- About thecompany Moneyboxis a series Dcompanybased in London(United Kingdom), founded in 2015 by Ben Stanway and Charlie Mortimer. It operates as an App based platform for users to save, invest, buy a home, and plan for retirement.",
     "Industry": "Fintech",
     "Founded": "2015",
     "Funding": "$211.3M",
@@ -831,7 +831,7 @@
   {
     "Name": "Boldyn Networks",
     "Website": "https://www.boldyn.com/",
-    "Description": "BoldynNetworksis a network infrastructure needed for a smart, inclusive, and sustainable future.BOLDYNNETWORKSUKLIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activityBoldyn Networks...",
+    "Description": "Boldyn Networksis a network infrastructure needed for a smart, inclusive, and sustainable future.BOLDYNNETWORKSUKLIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity Boldyn Networks...",
     "Industry": "Enterprise",
     "Founded": "—",
     "Funding": "$1.2B",
@@ -843,7 +843,7 @@
   {
     "Name": "Space DOTS",
     "Website": "https://www.space-dots.com/",
-    "Description": "Space DOTS® | 4,817 followers on LinkedIn. No insights, no foresight. Good luck out there. |London-basedSpace DOTS® is enabling the next leap in the space economy by solving its greatest data challenge: understanding and predicting the environments where humanity will expand. We are building and ...",
+    "Description": "Space DOTS® | 4,817 followers on Linked In. No insights, no foresight. Good luck out there. |London-based Space DOTS® is enabling the next leap in the space economy by solving its greatest data challenge: understanding and predicting the environments where humanity will expand. We are building and ...",
     "Industry": "Mobility",
     "Founded": "2021",
     "Funding": "$5.1M",
@@ -855,7 +855,7 @@
   {
     "Name": "Lindus Health",
     "Website": "https://www.lindushealth.com/",
-    "Description": "\"LindusHealth’s approach to clinical trial execution and their associated technologies should be incredibly helpful to biotech and pharmaceuticalcompaniesand enable them to bring new therapies to market faster and more efficiently.\" Prof Robert Langer.",
+    "Description": "\"Lindus Health’s approach to clinical trial execution and their associated technologies should be incredibly helpful to biotech and pharmaceuticalcompaniesand enable them to bring new therapies to market faster and more efficiently.\" Prof Robert Langer.",
     "Industry": "Biotech",
     "Founded": "2021",
     "Funding": "$79.5M",
@@ -867,7 +867,7 @@
   {
     "Name": "Starling Bank",
     "Website": "https://www.starlingbank.com/",
-    "Description": "Starling Bank is a licensed and regulated bank, founded by former Allied Irish Banks COO, Anne Boden, in January 2014.HistoryCardsMobile appsEngineAcquisitionsSenior leadership",
+    "Description": "Starling Bank is a licensed and regulated bank, founded by former Allied Irish Banks COO, Anne Boden, in January 2014.History Cards Mobile apps Engine Acquisitions Senior leadership",
     "Industry": "Fintech",
     "Founded": "2014",
     "Funding": "$1.1B",
@@ -880,7 +880,7 @@
   {
     "Name": "Capital.Com",
     "Website": "https://capital.com/",
-    "Description": "Mar 31, 2025 ·As a global fintech company with a strong presence inLondonand other financial hubs,Capital.comis well-positioned to contribute to theUK’s status as a leading tech and financial services powerhouse.",
+    "Description": "As a global fintech company with a strong presence in Londonand other financial hubs,Capital.comis well-positioned to contribute to the UK’s status as a leading tech and financial services powerhouse.",
     "Industry": "Media",
     "Founded": "2016",
     "Funding": "$25M",
@@ -918,7 +918,7 @@
   {
     "Name": "Chip",
     "Website": "https://getchip.uk/",
-    "Description": "Twelve semiconductorstartupstaking part in theUK’s ChipStart scheme have raised over £10mn in funding from private investors and grants, the ...",
+    "Description": "Twelve semiconductorstartupstaking part in the UK’s Chip Start scheme have raised over £10mn in funding from private investors and grants, the ...",
     "Industry": "Fintech",
     "Founded": "2016",
     "Funding": "£56.4M",
@@ -930,7 +930,7 @@
   {
     "Name": "Build A Rocket Boy",
     "Website": "https://buildarocketboy.com/",
-    "Description": "MindsEye is a 2025 action-adventure game developed byBuildaRocketBoyand published by IO Interactive Partners. In the game, players assume control of Jacob Diaz (Alex Hernandez), a former soldier with a mysterious neural implant, known as the MindsEye.",
+    "Description": "Minds Eye is a 2025 action-adventure game developed by Builda Rocket Boyand published by IO Interactive Partners. In the game, players assume control of Jacob Diaz (Alex Hernandez), a former soldier with a mysterious neural implant, known as the Minds Eye.",
     "Industry": "Gaming",
     "Founded": "2016",
     "Funding": "$110M",
@@ -942,7 +942,7 @@
   {
     "Name": "Alchemab Therapeutics",
     "Website": "https://alchemab.com/",
-    "Description": "This article covers a Series A extension on 9 September 2025 atAlchemab Therapeutics, aLondon-based biopharmaceuticalcompanythat identifies and develops naturally occurring therapeutic antibodies from resilient individuals, led by CEO Jane Osbourn. The raise brought the total to $114m, with Ono V...",
+    "Description": "This article covers a Series A extension on 9 September 2025 at Alchemab Therapeutics, a London-based biopharmaceuticalcompanythat identifies and develops naturally occurring therapeutic antibodies from resilient individuals, led by CEO Jane Osbourn. The raise brought the total to $114m, with Ono V...",
     "Industry": "Biotech",
     "Founded": "2019",
     "Funding": "$117.6M",
@@ -954,7 +954,7 @@
   {
     "Name": "THIS",
     "Website": "https://this.co/",
-    "Description": "Every month, we catch up with one ofLondon’ s brilliantstartupfounders .Thisweek we chatted to Sinead Mac Manus .",
+    "Description": "Every month, we catch up with one of London’ s brilliantstartupfounders .Thisweek we chatted to Sinead Mac Manus .",
     "Industry": "Food",
     "Founded": "2018",
     "Funding": "$78.4M",
@@ -978,7 +978,7 @@
   {
     "Name": "Wirex",
     "Website": "https://wirexapp.com/",
-    "Description": "Wirexoffers regulated accounts, crypto wallet, cards, and payments forUKusers with secure, compliant local services.",
+    "Description": "Wirexoffers regulated accounts, crypto wallet, cards, and payments for UKusers with secure, compliant local services.",
     "Industry": "Media",
     "Founded": "2014",
     "Funding": "$27.8M",
@@ -1003,7 +1003,7 @@
   {
     "Name": "MOVA",
     "Website": "https://movaproperty.com/",
-    "Description": "AtMovawe believe in aUKwhere nobody is left behind by innovations in media and communications infrastructure.Movasupports nationally important infrastructure projects, guided by its values.Movais wholly owned by EE, Virgin Media O2 and VodafoneThree – theUK’s mobile network operators.",
+    "Description": "At Movawe believe in a UKwhere nobody is left behind by innovations in media and communications infrastructure.Movasupports nationally important infrastructure projects, guided by its values.Movais wholly owned by EE, Virgin Media O2 and Vodafone Three – the UK’s mobile network operators.",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$1M",
@@ -1015,7 +1015,7 @@
   {
     "Name": "ZILO",
     "Website": "http://www.zilo.co.uk/",
-    "Description": "ZILOis a series Acompanybased inLondon(United Kingdom), founded in 2020 by Philip Goffin and Venkatesh Pulla. It operates as a Software-enabled transfer agency system.ZILOhas raised $58.7M in funding from investors like Fidelity International Strategic Ventures, Portage and Altered Capital, with ...",
+    "Description": "ZILOis a series Acompanybased in London(United Kingdom), founded in 2020 by Philip Goffin and Venkatesh Pulla. It operates as a Software-enabled transfer agency system.ZILOhas raised $58.7M in funding from investors like Fidelity International Strategic Ventures, Portage and Altered Capital, with ...",
     "Industry": "Fintech",
     "Founded": "2020",
     "Funding": "$75.6M",
@@ -1027,7 +1027,7 @@
   {
     "Name": "throxy",
     "Website": "https://throxy.com/",
-    "Description": "Mar 7, 2026 ·From climate and health to AI and creativity, these innovators are tackling big challenges—while racing to scale, secure funding, and attract top talent.Throxyis an outbound growth partner for...",
+    "Description": "From climate and health to AI and creativity, these innovators are tackling big challenges—while racing to scale, secure funding, and attract top talent.Throxyis an outbound growth partner for...",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$6.2M",
@@ -1050,7 +1050,7 @@
   },
   {
     "Name": "Clyx",
-    "Website": "https://www.clyx.com/",
+    "Website": "https://www.clyx.net/",
     "Description": "Clyx was founded in 2020. Where is Clyx headquartered? Clyx is headquartered in London, United Kingdom. What is the size of Clyx?",
     "Industry": "Media",
     "Founded": "2020",
@@ -1064,7 +1064,7 @@
   {
     "Name": "Netomnia",
     "Website": "https://www.netomnia.com/",
-    "Description": "Netomnia supported byUKbroadband ISP YouFibre has confirmed that they ve begun to build their new 10Gbps capable Fibre-to-the-Premises...",
+    "Description": "Netomnia supported by UKbroadband ISP You Fibre has confirmed that they ve begun to build their new 10Gbps capable Fibre-to-the-Premises...",
     "Industry": "Enterprise",
     "Founded": "2019",
     "Funding": "£948M",
@@ -1076,7 +1076,7 @@
   {
     "Name": "Revolut",
     "Website": "http://www.revolut.com/",
-    "Description": "Revolut Group Holdings Ltd, known as Revolut, is a global financial technology company headquartered in London and founded in July 2015 by Nik Storonskiy and ...HistoryEarly history (2015–2017)EU banking licence and...Transition to a licensed bank...UK banking licence and global...Criticism and c...",
+    "Description": "Revolut Group Holdings Ltd, known as Revolut, is a global financial technology company headquartered in London and founded in July 2015 by Nik Storonskiy and ...History Early history (2015–2017)EU banking licence and...Transition to a licensed bank...UK banking licence and global...Criticism and c...",
     "Industry": "Fintech",
     "Founded": "2015",
     "Funding": "$1.9B",
@@ -1089,7 +1089,7 @@
   {
     "Name": "Berenberg",
     "Website": "http://www.berenberg.de/",
-    "Description": "BerenberginLondon, England Work in one of the financial centre’s of the world, a true hub of energy and activity. Experience an atmosphere that brings out the best in you and allows you to truly fulfil your potential.",
+    "Description": "Berenbergin London, England Work in one of the financial centre’s of the world, a true hub of energy and activity. Experience an atmosphere that brings out the best in you and allows you to truly fulfil your potential.",
     "Industry": "Fintech",
     "Founded": "1590",
     "Funding": "$500M",
@@ -1101,7 +1101,7 @@
   {
     "Name": "Community Fibre",
     "Website": "http://www.communityfibre.co.uk/",
-    "Description": "London-based broadbandstartupCommunityFibreLtd will attempt to double the number of homes it serves in the U.K.",
+    "Description": "London-based broadbandstartup Community Fibre Ltd will attempt to double the number of homes it serves in the U.K.",
     "Industry": "Infrastructure",
     "Founded": "2013",
     "Funding": "£1.2B",
@@ -1113,7 +1113,7 @@
   {
     "Name": "Concirrus",
     "Website": "https://www.concirrus.com/",
-    "Description": "... customer portfolio in the last quarter alone,Concirrus... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -CompanyNo.",
+    "Description": "... customer portfolio in the last quarter alone,Concirrus... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -Company No.",
     "Industry": "Enterprise",
     "Founded": "2012",
     "Funding": "£31.1M",
@@ -1125,7 +1125,7 @@
   {
     "Name": "Onfido",
     "Website": "http://www.onfido.com/",
-    "Description": "London-basedstartupOnfidoaims to bring background ... WhenLondonstartupOnfidosecured $4.5 million a few months ago, eyebrows were raised.",
+    "Description": "London-basedstartup Onfidoaims to bring background ... When Londonstartup Onfidosecured $4.5 million a few months ago, eyebrows were raised.",
     "Industry": "Fintech",
     "Founded": "2012",
     "Funding": "$182.1M",
@@ -1138,7 +1138,7 @@
   {
     "Name": "GoodFit",
     "Website": "https://www.goodfit.io/",
-    "Description": "GoodFitwas founded to solve the challenges go-to-market teams face with poor-fit accounts and rising costs. Learn our story, meet the team, and see how we help companies run smarter, data-driven GTM strategies.",
+    "Description": "Good Fitwas founded to solve the challenges go-to-market teams face with poor-fit accounts and rising costs. Learn our story, meet the team, and see how we help companies run smarter, data-driven GTM strategies.",
     "Industry": "Data",
     "Founded": "2020",
     "Funding": "$13M",
@@ -1150,7 +1150,7 @@
   {
     "Name": "Phoebe",
     "Website": "https://phoebe.ai/",
-    "Description": "...UKtech funding deals include AI immune systemPhoebe... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -CompanyNo.",
+    "Description": "...UKtech funding deals include AI immune system Phoebe... Registered in England & Wales at 124 City Roads,London, England, EC1V 2NX -Company No.",
     "Industry": "AI",
     "Founded": "2024",
     "Funding": "$17M",
@@ -1162,7 +1162,7 @@
   {
     "Name": "Hidden Road",
     "Website": "https://hiddenroad.com/",
-    "Description": "HiddenRoadis the global credit network for institutions. Prime brokerage, clearing and financing across traditional and digital assets.",
+    "Description": "Hidden Roadis the global credit network for institutions. Prime brokerage, clearing and financing across traditional and digital assets.",
     "Industry": "Fintech",
     "Founded": "2019",
     "Funding": "$50M",
@@ -1174,7 +1174,7 @@
   {
     "Name": "CellPoint Digital",
     "Website": "https://cellpointdigital.com/",
-    "Description": "... run over the next three months, during which timeCellPointDigitalwill be fully immersed in Plug and Play's global network of over 40,000startups...",
+    "Description": "... run over the next three months, during which time Cell Point Digitalwill be fully immersed in Plug and Play's global network of over 40,000startups...",
     "Industry": "Retail",
     "Founded": "2007",
     "Funding": "$55M",
@@ -1185,8 +1185,8 @@
   },
   {
     "Name": "GCEX",
-    "Website": "https://www.gc.exchange/",
-    "Description": "Headquartered inLondon, with multiple offices across the globe,GCEXis regulated by theUK’s FCA, registered with the Danish FSA as a VASP and ...",
+    "Website": "https://www.gcex.lt/",
+    "Description": "Headquartered in London, with multiple offices across the globe,GCEXis regulated by the UK’s FCA, registered with the Danish FSA as a VASP and ...",
     "Industry": "Crypto",
     "Founded": "2018",
     "Funding": "$4M",
@@ -1198,7 +1198,7 @@
   {
     "Name": "Tangible Markets",
     "Website": "https://www.tangible-markets.com/",
-    "Description": "TangibleMarketsLtd Website is a website operated byTangibleMarketsLtd, a private limitedcompanyregistered in England and Wales.",
+    "Description": "Tangible Markets Ltd Website is a website operated by Tangible Markets Ltd, a private limitedcompanyregistered in England and Wales.",
     "Industry": "Fintech",
     "Founded": "2023",
     "Funding": "$10.1M",
@@ -1210,7 +1210,7 @@
   {
     "Name": "Shop Circle",
     "Website": "https://shopcircle.co/",
-    "Description": "Sep 16, 2025 ·Founded in 2021,ShopCircleis building an AI-driven software group, with a portfolio of high-performing B2B products powering the digital infrastructure of today’s enterprise.",
+    "Description": "Founded in 2021,Shop Circleis building an AI-driven software group, with a portfolio of high-performing B2B products powering the digital infrastructure of today’s enterprise.",
     "Industry": "Retail",
     "Founded": "2021",
     "Funding": "$285M",

@@ -1,8 +1,8 @@
 [
   {
     "Name": "Mentioned on:",
-    "Website": "https://www.binghamtonhomepage.com/news/business/ap-what-is-deepseek-the-chinese-ai-company-upending-the-stock-market/",
-    "Description": "imToken is a company providing a multi-chain cryptocurrency wallet.",
+    "Website": "",
+    "Description": "im Token is a company providing a multi-chain cryptocurrency wallet.",
     "Industry": "Decentralized application (dApp), Decentralized Finance, Blockchain",
     "Founded": "2023",
     "Funding": "$50.0M",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Ant Financial",
-    "Website": "https://www.antgroup.com/en",
+    "Website": "https://www.antgroup.com/",
     "Description": "A venture capital firm in China that focuses on bringing inclusive financial services to the world.",
     "Industry": "Financial inclusion, Wealth management, Loan",
     "Founded": "2004",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "DT Dream",
-    "Website": "https://www.feedough.com/startup-resources/unicorn-companies-in-hangzhou/",
+    "Website": "https://dreamtheaterusa.com/",
     "Description": "DT Dream is a company providing cloud and big data services for enterprise clients.",
     "Industry": "Big data, Software as a service (SaaS), Software",
     "Founded": "2015",
@@ -62,7 +62,7 @@
   },
   {
     "Name": "Jollychic",
-    "Website": "https://www.datanyze.com/companies/jollychic/357945720",
+    "Website": "https://id.jollychic.com/",
     "Description": "Also known as Jolly Information Technology, Jollychic provides an e-commerce platform that sells clothing and accessories.",
     "Industry": "Sporting Goods, Retail, Fashion",
     "Founded": "2012",
@@ -74,7 +74,7 @@
   },
   {
     "Name": "Proprium",
-    "Website": "https://www.preqin.com/data/profile/asset/hangzhou-proprium-biotech-co-ltd-/376737",
+    "Website": "https://proprium.com/",
     "Description": "Proprium is a Hangzhou-based biotechnology company.",
     "Industry": "Biology, Technology, Biotechnology",
     "Founded": "2020",
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Tongdun Technology",
-    "Website": "https://www.hiredchina.com/companys/16592503-39a2-4ca1-a561-9839582278d9",
+    "Website": "https://www.tongdun.cn/",
     "Description": "Tongdun Technology is a company developing security software solutions. It provides anti-theft and fraud management services for banking, non-bank microfinance, insurance and other industries in China.",
     "Industry": "Network security, Cybersecurity",
     "Founded": "2013",
@@ -99,7 +99,7 @@
   },
   {
     "Name": "Hangzhou Liangzhi Data Technology Co., Ltd.",
-    "Website": "https://discovery.patsnap.com/company/hangzhou-liangzhi",
+    "Website": "https://www.liangzhi-robot.com/",
     "Description": "Hangzhou Liangzhi Data Technology Co. Limited is a Hangzhou-based company.",
     "Industry": "Information Systems & Services, Technology, Business intelligence (BI)",
     "Founded": "2016",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "Jimu Technology",
-    "Website": "https://www.ventureradar.com/organisation/Jimu+Technology/66305a7e-9331-4588-b174-b2bb7de516c3",
+    "Website": "http://jimu.ai/",
     "Description": "Jimu Technology is a technology company developing artificial intelligence and robotics products for various industries.",
     "Industry": "Artificial Intelligence (AI), Software, Information technology",
     "Founded": "2016",
@@ -123,7 +123,7 @@
   },
   {
     "Name": "Regenovo Biotechnology Co., Ltd.",
-    "Website": "https://discovery.patsnap.com/company/hangzhou-regenovo-biotechnology/expert/",
+    "Website": "http://www.regenovo.com/",
     "Description": "Regenovo Biotechnology Company Limited is a high-tech company.",
     "Industry": "Biotechnology, Biology, Synthetic biology",
     "Founded": "",
@@ -135,7 +135,7 @@
   },
   {
     "Name": "Hangzhou Xunyi Network Technology Co., Ltd.",
-    "Website": "https://discovery-patsnap-com.libproxy.mit.edu/company/hangzhou-xunyi/",
+    "Website": "",
     "Description": "Hangzhou Xunyi Network Technology Co., Ltd. is an Hangzhou-based company founded by Heng Li, Lei Zhang and Liang Zhao.",
     "Industry": "Delivery, Hardware, Drones",
     "Founded": "",
@@ -147,7 +147,7 @@
   },
   {
     "Name": "Zhejiang Guozi Robot Technology Co., Ltd.",
-    "Website": "https://app.dealroom.co/companies/guozi",
+    "Website": "https://www.guozi-robotics.com/",
     "Description": "A robotics company attending to the needs of multiple prominent industries.",
     "Industry": "Robotics, Industrial automation, Technology",
     "Founded": "2011",
@@ -159,7 +159,7 @@
   },
   {
     "Name": "Wacai",
-    "Website": "https://www.trueup.io/co/wacai",
+    "Website": "https://www.wacai.com/",
     "Description": "Provider of a personal accounting and wealth management platform designed to help people better manage their finances.",
     "Industry": "Finance, Technology, Financial technology",
     "Founded": "2009",
@@ -172,7 +172,7 @@
   {
     "Name": "Zhejiang InnoTek Co., Ltd.",
     "Website": "https://www.innotek-co.com/",
-    "Description": "Zhejiang InnoTek Co., Ltd. is a smart parking company founded in 2011 by Liang Jian.",
+    "Description": "Zhejiang Inno Tek Co., Ltd. is a smart parking company founded in 2011 by Liang Jian.",
     "Industry": "Technology, Software, Information technology",
     "Founded": "2011",
     "Funding": "$5.1M",
@@ -183,7 +183,7 @@
   },
   {
     "Name": "Club Factory",
-    "Website": "",
+    "Website": "https://www.clublexus.com/",
     "Description": "Club Factory is a fashion, beauty and lifestyle e-commerce store founded in 2014.",
     "Industry": "Publishing, Internet of things (IoT)",
     "Founded": "",
@@ -195,7 +195,7 @@
   },
   {
     "Name": "Souche",
-    "Website": "https://www.souchegroup.com/en/html/about-us/",
+    "Website": "https://www.souchegroup.com/",
     "Description": "Souche is an automotive retail platform in China.",
     "Industry": "Software as a service (SaaS), Automotive industry, Retail",
     "Founded": "2012",
@@ -220,7 +220,7 @@
   },
   {
     "Name": "Ranok Therapeutics",
-    "Website": "https://www.life-sciences-asia.com/organisation/ranok-therapeutics-hangzhou-ltd-group-zhejiang-chekiang-province-2001-48187.html",
+    "Website": "https://ranoktherapeutics.com/",
     "Description": "Ranok Therapeutics uses of chaperone-mediated protein degraders (CHAMPs) against BRD4, a transcription factor that is implicated in cancer development.",
     "Industry": "Cancer, Oncology, Biology",
     "Founded": "2018",
@@ -232,7 +232,7 @@
   },
   {
     "Name": "Kujiale",
-    "Website": "https://equalocean.com/company/kujiale/research",
+    "Website": "https://www.kujiale.com/",
     "Description": "A company offering a home decoration and design software platform.",
     "Industry": "Software as a service (SaaS), Technology, Design",
     "Founded": "2011",
@@ -244,8 +244,8 @@
   },
   {
     "Name": "WeDoctor",
-    "Website": "https://www.irma-international.org/viewtitle/357064/",
-    "Description": "Also known as Guahao, WeDoctor is a company providing a medical health technology platform.",
+    "Website": "https://www.wedoctor.com/",
+    "Description": "Also known as Guahao, We Doctor is a company providing a medical health technology platform.",
     "Industry": "Healthcare, Information technology, Electronic health record",
     "Founded": "2014",
     "Funding": "$500.0M",
@@ -256,7 +256,7 @@
   },
   {
     "Name": "Hangzhou Vango Technologies, Inc.",
-    "Website": "https://www.volza.com/company-profile/hangzhou-vango-technologies-inc-17147104/",
+    "Website": "http://www.vangotech.com/",
     "Description": "Hangzhou Vango Technologies, Inc. is a high-tech company in China.",
     "Industry": "Energy industry, Semiconductor, Electronics",
     "Founded": "2006",
@@ -268,7 +268,7 @@
   },
   {
     "Name": "Visionular",
-    "Website": "https://visionular.ai/about-us/",
+    "Website": "https://visionular.ai/",
     "Description": "Visionular is a Mountain View, California-based artificial intelligence and cloud-based video processing solutions provider.",
     "Industry": "Artificial Intelligence (AI), Digital media, AI video compression",
     "Founded": "",
@@ -280,7 +280,7 @@
   },
   {
     "Name": "BeiBei",
-    "Website": "https://www.sramanamitra.com/2015/12/03/billion-dollar-unicorns-beibei-the-baby-of-the-club/",
+    "Website": "https://beibei.jd.com/",
     "Description": "Beibei is a company offering an e-commerce platform for maternal and infant products including children’s clothes, shoes, toys and other supplies.",
     "Industry": "Fashion, E-commerce, Shopping",
     "Founded": "2011",
@@ -292,7 +292,7 @@
   },
   {
     "Name": "Cryptape Co., Ltd.",
-    "Website": "https://www.preqin.com/data/profile/asset/cryptape-co-ltd-/266587",
+    "Website": "https://cryptape.com/",
     "Description": "Cryptape Company Limited is a computer software company.",
     "Industry": "Computer, Software, Technology",
     "Founded": "2016",
@@ -304,7 +304,7 @@
   },
   {
     "Name": "Sciwind Biosciences",
-    "Website": "https://www.prnewswire.com/news-releases/sciwind-biosciences-partners-with-pfizer-china-to-commercialize-its-biased-glp-1-in-china-302695339.html",
+    "Website": "https://www.sciwindbio.com/",
     "Description": "Sciwind Biosciences is an oral peptide delivery founded in 2017 by Pan Hai.",
     "Industry": "Engineering, Biomedical engineering, Technology",
     "Founded": "2017",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "Hangzhou Jitai Pharmaceutical Technology Co., Ltd.",
-    "Website": "https://profiles-biocentury-com.biomarinproxy01.infotrieve.com/companies/hangzhou_jitai_pharmaceutical_technology_co_ltd",
+    "Website": "",
     "Description": "Hangzhou Jitai Pharmaceutical Technology Co. Ltd. is world's a company that drive the development of pharmaceutical preparations with AI.",
     "Industry": "Artificial Intelligence (AI), Technology",
     "Founded": "",
@@ -328,7 +328,7 @@
   },
   {
     "Name": "CGTZ",
-    "Website": "https://www.preqin.com/data/profile/asset/cgtz-com/196240",
+    "Website": "https://www.cgtz.cn/",
     "Description": "CGTZ is a financial technology company providing a platform for access to investment and loan-related products and services.",
     "Industry": "Finance, Financial technology, Technology",
     "Founded": "2013",
@@ -340,7 +340,7 @@
   },
   {
     "Name": "ABC360",
-    "Website": "https://contactout.com/company/abc360-7628462",
+    "Website": "https://www.demenagement24.com/",
     "Description": "Online English language learning platform with live tutors.",
     "Industry": "Technology, Educational Technology, B2C",
     "Founded": "2011",
@@ -352,7 +352,7 @@
   },
   {
     "Name": "Qulian Technology",
-    "Website": "https://www.startus-insights.com/innovators-guide/blockchain-startups-impacting-governments/",
+    "Website": "https://qulian.com/",
     "Description": "Qulian Technology is an Hangzhou-based company founded in 2016.",
     "Industry": "Blockchain, Blockchain and cryptocurrency",
     "Founded": "2016",
@@ -364,7 +364,7 @@
   },
   {
     "Name": "SKIO Matrix",
-    "Website": "https://www.preqin.com/data/profile/asset/zhejiang-skio-matrix-co-ltd-/262776",
+    "Website": "https://skiomusic.com/",
     "Description": "SKIO Matrix is a clean energy travel group operating in China founded in 2009.",
     "Industry": "Sustainability, Clean technology, Travel",
     "Founded": "2009",
@@ -388,7 +388,7 @@
   },
   {
     "Name": "Taobao Movie",
-    "Website": "https://www.latimes.com/entertainment/envelope/cotown/la-et-ct-spielberg-china-20161013-snap-story.html",
+    "Website": "https://www.taobao.com/",
     "Description": "Taobao Movie is an Hangzhou-based entertainment company founded in 2014.",
     "Industry": "Entertainment",
     "Founded": "2014",
@@ -400,7 +400,7 @@
   },
   {
     "Name": "Caocao Chuxing",
-    "Website": "https://ir.caocao.com.cn/en/information-disclosure/company-news/company-news-2/",
+    "Website": "https://www.caocao.com.cn/",
     "Description": "Caocao Chuxing is a company offering a Chinese rise sharing platform founded in 2015.",
     "Industry": "Sharing economy",
     "Founded": "2015",
@@ -412,8 +412,8 @@
   },
   {
     "Name": "McClaire",
-    "Website": "https://directory.startupluxembourg.com/companies/mcclaire",
-    "Description": "McClaire is a Hangzhou-based manufacturer of air purification products.",
+    "Website": "https://mcclures.com/",
+    "Description": "Mc Claire is a Hangzhou-based manufacturer of air purification products.",
     "Industry": "Clean technology, Air pollution",
     "Founded": "",
     "Funding": "$1.9M",
@@ -424,7 +424,7 @@
   },
   {
     "Name": "Panshi",
-    "Website": "https://www.hiredchina.com/companys/__1542789748817",
+    "Website": "https://www.panshi.pro/",
     "Description": "1 Mar 2026—Panshi is a series D company based in Hangzhou (China), founded in 2004 by Tian Ning. It operates as an Online and mobile advertising solutions provider to ...",
     "Industry": "Mobile advertising, Software as a service (SaaS), Cloud computing",
     "Founded": "2004",
@@ -436,7 +436,7 @@
   },
   {
     "Name": "Alibaba Music",
-    "Website": "https://www.swotanalysis.com/alibaba-music",
+    "Website": "https://www.alibaba.com/",
     "Description": "Alibaba Music is an Hangzhou-based company founded in 2015.",
     "Industry": "Music, Entertainment",
     "Founded": "1999",
@@ -448,7 +448,7 @@
   },
   {
     "Name": "Chance Pharmaceuticals",
-    "Website": "https://synapse.zhihuiya.com/organization/1993ca9f51daf14bbec67e3275b91c49",
+    "Website": "https://www.chancepharmaceuticals.com/",
     "Description": "Chance Pharmaceuticals is an Hangzhou-based company.",
     "Industry": "Biotechnology, Biopharmaceutical, Healthcare",
     "Founded": "2015",
@@ -460,7 +460,7 @@
   },
   {
     "Name": "Chemao",
-    "Website": "https://app.dealroom.co/companies/chemao_1",
+    "Website": "https://chemao.shop/",
     "Description": "A company offering a marketplace for buying and selling cars.",
     "Industry": "Automotive",
     "Founded": "2012",
@@ -472,8 +472,8 @@
   },
   {
     "Name": "MoreSec",
-    "Website": "https://www.moresec.cn/en_us/about-us",
-    "Description": "MoreSec is an Hangzhou-based enterprise company.",
+    "Website": "https://www.moresec.cn/",
+    "Description": "More Sec is an Hangzhou-based enterprise company.",
     "Industry": "Enterprise",
     "Founded": "2016",
     "Funding": "$28.0M",
@@ -484,7 +484,7 @@
   },
   {
     "Name": "Tsign﻿",
-    "Website": "https://discovery.patsnap.com/company/hangzhou-tiangu-info-tech/",
+    "Website": "https://www.t-sign.com/",
     "Description": "Tsign﻿ is an Hangzhou-based electronic signature company.",
     "Industry": "Electronic signature",
     "Founded": "2002",
@@ -496,7 +496,7 @@
   },
   {
     "Name": "B-Soft",
-    "Website": "https://finance.yahoo.com/quote/300451.SZ/profile/",
+    "Website": "https://bsoftapp.com/",
     "Description": "B-Soft is an Hangzhou-based company.",
     "Industry": "Software, Web development, Technology",
     "Founded": "1998",
@@ -508,7 +508,7 @@
   },
   {
     "Name": "Jubo Glass",
-    "Website": "https://jbgy.atjubo.com/zh-CN/About?lang=en-US",
+    "Website": "https://www.julbo-sunglasses.com/",
     "Description": "Jubo Glass is an Hangzhou-based supply chain company.",
     "Industry": "Supply chain",
     "Founded": "2016",
@@ -520,7 +520,7 @@
   },
   {
     "Name": "Panshi",
-    "Website": "https://www.hiredchina.com/companys/__1542789748817",
+    "Website": "https://www.panshi.pro/",
     "Description": "Panshi is an Hangzhou-based company.",
     "Industry": "",
     "Founded": "2004",
@@ -532,7 +532,7 @@
   },
   {
     "Name": "Wel",
-    "Website": "https://sus-wel.com/pages/about-us?srsltid=AfmBOooGE88rXA_YHjKPIZnbGN2DRbkjTOQ7Q3kab6oo2V5b6kmYwOgB",
+    "Website": "https://sus-wel.com/",
     "Description": "Wel is an Hangzhou-based company.",
     "Industry": "Inchina",
     "Founded": "2014",
@@ -544,7 +544,7 @@
   },
   {
     "Name": "Yunxi",
-    "Website": "https://directory.startupluxembourg.com/companies/yunxi_technology",
+    "Website": "https://www.yunxiclothing.com/",
     "Description": "Yunxi is an Hangzhou-based company.",
     "Industry": "Construction",
     "Founded": "2015",
@@ -556,7 +556,7 @@
   },
   {
     "Name": "Maihaoche",
-    "Website": "https://finland.dealroom.co/companies/maihaoche",
+    "Website": "https://www.maihaoche.com/",
     "Description": "Maihaoche is headquartered in Hangzhou, China. What industry is Maihaoche in? Maihaoche's primary industry is Business/Productivity Software. Is Maihaoche a ...",
     "Industry": "Software",
     "Founded": "2014",
@@ -568,8 +568,8 @@
   },
   {
     "Name": "Qianbbaomu",
-    "Website": "http://www.allchinatech.com/qianbbaomu-secures-investment-despite-chinas-cooling-fintech-market-more/",
-    "Description": "Get information on funding, investors, industries, and more forQianbbaomu. SeeQianbbaomucompanyprofile and funding data.",
+    "Website": "https://www.weebly.com/",
+    "Description": "Get information on funding, investors, industries, and more for Qianbbaomu. See Qianbbaomucompanyprofile and funding data.",
     "Industry": "Biotech",
     "Founded": "2017",
     "Funding": "$14.5M",

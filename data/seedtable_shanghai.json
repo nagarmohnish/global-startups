@@ -1,7 +1,7 @@
 [
   {
     "Name": "Eat Just",
-    "Website": "https://www.theceomagazine.com/business/news/eat-just-cultured-chicken-singapore/",
+    "Website": "https://meetzemeat.com/",
     "Description": "Eat Just is a San Francisco based food technology company founded in 2011. The company is known for its bean-based egg substitute called Just Egg. Eat Just also produces egg-free mayonnaise.",
     "Industry": "Clean technology, Biology, Food technology",
     "Founded": "",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Zilliz",
-    "Website": "https://zilliz.com/about",
+    "Website": "https://zilliz.com/",
     "Description": "Zilliz is a vector database company providing products for enterprise-grade AI.",
     "Industry": "MLOps, Enterprise software, Machine learning",
     "Founded": "",
@@ -25,7 +25,7 @@
   },
   {
     "Name": "Proxy",
-    "Website": "https://www.proxychinaconsulting.com/en",
+    "Website": "https://www.proxychinaconsulting.com/",
     "Description": "A mobile application allowing its users access their office, building or apartment",
     "Industry": "Personalization, Enterprise software, Internet of things (IoT)",
     "Founded": "",
@@ -37,7 +37,7 @@
   },
   {
     "Name": "Everledger",
-    "Website": "https://everledger.io/about-us/",
+    "Website": "https://everledger.io/",
     "Description": "Everledger is a supply chain and asset tracking company using blockchain to store records of valuable assets like diamonds.",
     "Industry": "Asset management, Traceability, Supply chain",
     "Founded": "2015",
@@ -50,7 +50,7 @@
   },
   {
     "Name": "SolidEnergy Systems",
-    "Website": "https://www.reuters.com/business/autos-transportation/hyundai-motor-invest-100-mln-battery-startup-solidenergy-systems-yonhap-2021-07-05/",
+    "Website": "https://www.solidenergy.dk/",
     "Description": "A technology manufacturing company making Li-Metal materials, cells, and packs for drones, consumer electronics and automotive applications.",
     "Industry": "Manufacturing, Energy storage, Battery",
     "Founded": "2012",
@@ -62,7 +62,7 @@
   },
   {
     "Name": "AMEC",
-    "Website": "https://asia.nikkei.com/spotlight/caixin/from-silicon-valley-to-shanghai-china-s-amec-founder-bets-on-chinese-chips",
+    "Website": "https://www.amec.church/",
     "Description": "AMEC is a company founded in 2004 by James Yang.",
     "Industry": "Semiconductor, Manufacturing, Industrial",
     "Founded": "2004",
@@ -75,7 +75,7 @@
   },
   {
     "Name": "IceKredit",
-    "Website": "https://www.icekredit.ai/about-us/",
+    "Website": "https://www.icekredit.ai/",
     "Description": "A financial technology company offering marketing solutions and predictive analytics using big data and machine learning.",
     "Industry": "Small- and medium-sized enterprises, Technology, Finance",
     "Founded": "2015",
@@ -87,7 +87,7 @@
   },
   {
     "Name": "JW (Cayman) Therapeutics Co. Ltd",
-    "Website": "https://finance.yahoo.com/quote/JWCTF/profile/",
+    "Website": "https://www.jwtherapeutics.com/",
     "Description": "JW (Cayman) Therapeutics Co. Ltd is a Shanghai-based developer of cell-based therapy technologies for cancer treatment.",
     "Industry": "Engineering, Oncology, Therapeutics",
     "Founded": "2016",
@@ -99,7 +99,7 @@
   },
   {
     "Name": "Accutar Biotech",
-    "Website": "https://www.accutarbio.com/about/",
+    "Website": "https://www.accutarbio.com/",
     "Description": "Drug discovery artificial intelligence company founded in 2015 by Jie Fan and Ke Liu.",
     "Industry": "Artificial Intelligence (AI), Biotechnology, Drug discovery",
     "Founded": "2015",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "Strikingly",
-    "Website": "https://www.strikingly.com/s/careers",
+    "Website": "https://www.strikingly.com/",
     "Description": "Strikingly is a company providing an online web platform for building mobile-optimized websites. It participated in the W13 cohort of Y Combinator.",
     "Industry": "Software as a service (SaaS), Web design, Technology",
     "Founded": "2012",
@@ -123,7 +123,7 @@
   },
   {
     "Name": "Dianrong",
-    "Website": "https://www.cgaa.org/article/dianrong",
+    "Website": "https://www.dianrong.com/",
     "Description": "Dianrong is a Shanghai-based peer-to-peer lending marketplace where users can invest in other people or small businesses, or individuals or businesses can find financial support.",
     "Industry": "Lending, Loan, Finance",
     "Founded": "2012",
@@ -135,7 +135,7 @@
   },
   {
     "Name": "Blocklords",
-    "Website": "https://blocklords.com/news-updates/detailed-explanation-of-blocklords",
+    "Website": "https://blocklords.com/",
     "Description": "Blocklords is a strategy game founded by David Johansson.",
     "Industry": "Gaming, Non-fungible token (NFT), Video game industry",
     "Founded": "2021",
@@ -147,7 +147,7 @@
   },
   {
     "Name": "Omniome",
-    "Website": "https://programs.pacificbiosciences.com/omniome",
+    "Website": "https://programs.pacificbiosciences.com/",
     "Description": "Omniome is a San Diego-based company.",
     "Industry": "Engineering, Consumer biotechnology, Biomedical engineering",
     "Founded": "2013",
@@ -159,8 +159,8 @@
   },
   {
     "Name": "VeriSilicon Holdings",
-    "Website": "https://www.verisilicon.com/en/PressRelease/GC7000XSVXVisionGPU",
-    "Description": "VeriSilicon Holdings is a company founded in 2001 by Wayne Dai.",
+    "Website": "https://www.verisilicon.com/",
+    "Description": "Veri Silicon Holdings is a company founded in 2001 by Wayne Dai.",
     "Industry": "Integrated circuit, Cloud computing, Manufacturing",
     "Founded": "2001",
     "Funding": "$90.7M",
@@ -171,7 +171,7 @@
   },
   {
     "Name": "Stemirna Therapeutics",
-    "Website": "https://flcube.com/?p=6770",
+    "Website": "https://stemline.com/",
     "Description": "Stemirna Therapeutics is an mRNA therapeutics and nanoparticle formulation company in China focused on treatments for cancer, infectious diseases and rare diseases.",
     "Industry": "Biology, RNA-based and RNA-targeted therapeutics, Technology",
     "Founded": "2016",
@@ -183,7 +183,7 @@
   },
   {
     "Name": "Lixiang",
-    "Website": "https://kiwicar.en.made-in-china.com/product-group/zMCGaRrbsLpi/Lixiang-2.html",
+    "Website": "https://www.lixiang.com/",
     "Description": "Lixiang is a company founded in 2015.",
     "Industry": "Sustainable transport, Electric vehicle manufacturing, Electric car manufacturing",
     "Founded": "",
@@ -195,7 +195,7 @@
   },
   {
     "Name": "Subtle Medical",
-    "Website": "https://subtlemedical.com/about-us/",
+    "Website": "https://subtlemedical.com/",
     "Description": "Subtle Medical is a medical imaging software company based in Menlo Park, CA.",
     "Industry": "Diagnostic Equipment, Medical device, Software",
     "Founded": "",
@@ -207,8 +207,8 @@
   },
   {
     "Name": "DaDa (school)",
-    "Website": "https://www.wikibin.org/articles/dada-(school).html",
-    "Description": "DaDa (known as DaDaABC prior to June 2018) is a global online education company headquartered in Shanghai, China. The DaDa platform provides children with live one-on-one lessons taught by English teachers, operating through the flipped classroom model and utilizing blended learning strategies.",
+    "Website": "https://www.dadaschoolsystem.com/",
+    "Description": "Da Da (known as Da DaABC prior to June 2018) is a global online education company headquartered in Shanghai, China. The Da Da platform provides children with live one-on-one lessons taught by English teachers, operating through the flipped classroom model and utilizing blended learning strategies.",
     "Industry": "Technology, Educational Technology",
     "Founded": "",
     "Funding": "$225.0M",
@@ -219,7 +219,7 @@
   },
   {
     "Name": "Tuhu",
-    "Website": "https://cathayinnovation.com/company/tuhu-car/",
+    "Website": "https://www.tuhu.my/",
     "Description": "Tuhu is a company providing an automobile after-sales products and services via its website, mobile application, call center and third-party e-commerce platforms.",
     "Industry": "Service industry, E-commerce, Automotive industry",
     "Founded": "2011",
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Yalochat",
-    "Website": "https://www.slideshare.net/slideshow/tracxn-chatbots-startup-landscape-165342407/165342407",
+    "Website": "https://www.yalo.ai/",
     "Description": "Yalochat is an artificial Intelligence company founded in 2015 by Javier Mata.",
     "Industry": "Software as a service (SaaS), Mobile commerce, Machine learning",
     "Founded": "2015",
@@ -243,7 +243,7 @@
   },
   {
     "Name": "Laix",
-    "Website": "https://www.hiredchina.com/companys/liulishuo_laix_1582167754936",
+    "Website": "https://www.laix.lu/",
     "Description": "LAIX Inc. is a developer and provider of AI-powered products designed to help users learn English.",
     "Industry": "Technology, Artificial Intelligence (AI), Education",
     "Founded": "",
@@ -256,7 +256,7 @@
   },
   {
     "Name": "Shanghai Gingkoo Financial Information Co.,Ltd.",
-    "Website": "https://www.gingkoo.com/about",
+    "Website": "https://www.gingkoo.com/",
     "Description": "Shanghai Gingkoo Financial Information Co.,Ltd. is a Shanghai-based company.",
     "Industry": "Cryptocurrency, Blockchain, Financial services",
     "Founded": "2014",
@@ -268,7 +268,7 @@
   },
   {
     "Name": "Chengjia Apartment",
-    "Website": "https://www.tripadvisor.com/Hotel_Review-g308272-d1774923-Reviews-Chengjia_Apartment_Shanghai_Jinshajiang_Road_Metro_Station-Shanghai.html",
+    "Website": "http://chengjia.hotelsofshenzhen.com/",
     "Description": "Chengjia Apartment is a hotel company founded in 2015.",
     "Industry": "Hotel",
     "Founded": "2015",
@@ -280,7 +280,7 @@
   },
   {
     "Name": "Apollomics Inc",
-    "Website": "https://www.apollomicsinc.com/updates/apollomics-inc-announces-official-opening-of-shanghai-branch/",
+    "Website": "https://www.apollomicsinc.com/",
     "Description": "Apollomics Inc is a cancer medicines founded in 2015 by Guo Liang Yu.",
     "Industry": "Pharmaceutical industry, Technology, Oncology",
     "Founded": "2016",
@@ -292,7 +292,7 @@
   },
   {
     "Name": "YITU Technology",
-    "Website": "http://www.totanet.com/en",
+    "Website": "https://www.yitutech.com/",
     "Description": "YITU Technology is a company developing application software integrated with artificial intelligence technologies for security, finance, transportation and healthcare industry.",
     "Industry": "Software development, Biometrics, Access control",
     "Founded": "2012",
@@ -304,7 +304,7 @@
   },
   {
     "Name": "Biren Technology",
-    "Website": "https://www.reuters.com/world/asia-pacific/china-ai-chip-firm-biren-raises-717-million-hong-kong-ipo-2025-12-31/",
+    "Website": "https://www.birentech.com/",
     "Description": "Biren Technology is a Chinese fabless semiconductor company founded in 2019 that designs intelligent GPUs like the BR100 and BR104 for AI training and high-performance computing. Despite U.S. export restrictions, it's raised ~¥1.5 B and is preparing a Hong Kong IPO.",
     "Industry": "Technology",
     "Founded": "2019",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "Inceptio Technology",
-    "Website": "https://www.preqin.com/data/profile/asset/inceptio-technology/373942",
+    "Website": "https://www.inceptionai.ai/",
     "Description": "Inceptio Technology is a Shanghai-based company.",
     "Industry": "Autonomous vehicle, Logistics, Autonomous System",
     "Founded": "2018",
@@ -328,7 +328,7 @@
   },
   {
     "Name": "Polyplus-Transfection S.A.",
-    "Website": "https://golden.com/wiki/Polyplus-Transfection_S.A.-EAGXARW",
+    "Website": "https://www.polyplus-sartorius.com/",
     "Description": "Polyplus-Transfection S.A. is a transfection Supplies founded in 2001 by Anne Monjanel, Joelle Bloch, Patrick Metz and Paul Behr.",
     "Industry": "Consumer biotechnology, Healthcare, Life science",
     "Founded": "2001",
@@ -340,7 +340,7 @@
   },
   {
     "Name": "Shanghai Personal Biotechnology Co.,Ltd.",
-    "Website": "http://www.personalbio.cn/en-us/Default.aspx",
+    "Website": "http://www.personalbio.cn/",
     "Description": "Shanghai Personal Biotechnology Co., Ltd. is a Shanghai-based technology company founded in 2011 that provides gene sequencing services.",
     "Industry": "Biology, Biotechnology, Genetics",
     "Founded": "2011",
@@ -352,7 +352,7 @@
   },
   {
     "Name": "Xiaohongshu",
-    "Website": "https://www.trueup.io/co/xiaohongshu",
+    "Website": "https://www.xiaohongshu.com/",
     "Description": "Xiaohongshu provides an online platform for sharing information on discount, featured items, shopping malls and shopping tips.",
     "Industry": "Social media, Mobile Apps, Internet",
     "Founded": "2013",
@@ -364,7 +364,7 @@
   },
   {
     "Name": "United Imaging Healthcare",
-    "Website": "https://usa.united-imaging.com/",
+    "Website": "https://global.united-imaging.com/",
     "Description": "Also known as Shanghai United Imaging Healthcare, United Imaging Healthcare is a company developing and manufacturing medical equipment and solutions. It offers imaging products including computed tomography, molecular imaging, magnetic resonance, and X-ray radiography products, radiotherapy equipment.",
     "Industry": "Medical imaging, Healthcare, Imaging",
     "Founded": "2011",
@@ -376,7 +376,7 @@
   },
   {
     "Name": "Mobvoi",
-    "Website": "https://www.pymnts.com/news/investment-tracker/2019/mobvoi-valuation-google/",
+    "Website": "https://www.mobvoi.com/",
     "Description": "Mobvoi is an AI company that developed Chinese voice recognition, natural language processing, and vertical search technology in-house.",
     "Industry": "Human–computer interaction, E-commerce, Natural language processing (NLP)",
     "Founded": "",
@@ -389,8 +389,8 @@
   },
   {
     "Name": "The CareVoice",
-    "Website": "https://www.thecarevoice.com/home",
-    "Description": "ITutorGroup provides an online educational platform for students and business professionals.",
+    "Website": "https://www.thecarevoice.com/",
+    "Description": "ITutor Group provides an online educational platform for students and business professionals.",
     "Industry": "Health insurance, Technology, Software, Technology, Educational Technology, Training",
     "Founded": "2013",
     "Funding": "$315.0M",
@@ -401,8 +401,8 @@
   },
   {
     "Name": "3D Medicines",
-    "Website": "https://en.3d-medicines.com/",
-    "Description": "diaDexus is a diagnostics company developing cardiovascular diagnostic products founded in 1997.",
+    "Website": "https://www.3dmedbiotech.com/",
+    "Description": "dia Dexus is a diagnostics company developing cardiovascular diagnostic products founded in 1997.",
     "Industry": "Diagnostic tools, Medical diagnostics, Biomedical engineering, Medical diagnostics, Technology, Biology",
     "Founded": "2010",
     "Funding": "$49.2M",
@@ -413,7 +413,7 @@
   },
   {
     "Name": "Yikon Genomics Co., Ltd.",
-    "Website": "https://en.yikongenomics.com/",
+    "Website": "https://www.yikongenomics.com/",
     "Description": "Yikon Genomics Co., Ltd. is a company founded by Sunney Xie.",
     "Industry": "Biotechnology, Technology, Biology",
     "Founded": "2012",
@@ -425,8 +425,8 @@
   },
   {
     "Name": "Hello TransTech",
-    "Website": "https://www.tipranks.com/private-companies/pc:heltr",
-    "Description": "A company, formerly known as HelloBike, making smart-sharing bikes in China.",
+    "Website": "https://www.hellomagazine.com/",
+    "Description": "A company, formerly known as Hello Bike, making smart-sharing bikes in China.",
     "Industry": "Sharing economy, Travel, Software",
     "Founded": "",
     "Funding": "",
@@ -437,7 +437,7 @@
   },
   {
     "Name": "WM Motor",
-    "Website": "https://www.electrive.com/2025/09/10/chinese-electric-car-manufacturer-wm-motor-plans-comeback/",
+    "Website": "https://www.wm-motor.com/",
     "Description": "WM Motor is a Chinese company that designs, manufactures, and markets battery-operated electric vehicles",
     "Industry": "Sustainable transport, Electric vehicle, Automotive industry",
     "Founded": "",
@@ -449,8 +449,8 @@
   },
   {
     "Name": "Shansong Express",
-    "Website": "https://kr-asia.com/todays-tech-headlines-grab-ventures-to-invest-us250m-in-indonesian-startups",
-    "Description": "Also known as FlashEx, Shansong Express is a logistics company providing within the city express delivery service in China.",
+    "Website": "https://www.ishansong.com/",
+    "Description": "Also known as Flash Ex, Shansong Express is a logistics company providing within the city express delivery service in China.",
     "Industry": "Delivery (commerce), Logistics",
     "Founded": "2014",
     "Funding": "$359.0M",
@@ -461,7 +461,7 @@
   },
   {
     "Name": "Zhaogang",
-    "Website": "https://equalocean.com/company/zhaogang-com/research",
+    "Website": "https://www.zhaogang.com/",
     "Description": "Zhaogang operates an online platform for steel trading information services for buyers and suppliers.",
     "Industry": "Steel, E-commerce",
     "Founded": "2012",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "Leia Inc.",
-    "Website": "https://discovery.patsnap.com/company/leia/",
+    "Website": "https://www.leiainc.com.cn/",
     "Description": "Nanotechnology company offering 3D lightfield products and software applications.",
     "Industry": "Social media marketing, Mobile Devices, Health technology",
     "Founded": "2014",
@@ -485,8 +485,8 @@
   },
   {
     "Name": "BioShin",
-    "Website": "https://www.advfn.com/stock-market/stock-news/85540251/bioshin-expands-senior-leadership-team-sarah-lu-j",
-    "Description": "Based inShanghai,BioShinLimited is a biopharmaceuticalcompanyfocused on the discovery, development and commercialization of novel, life-improving treatments for patients with neuro-immune diseases inChinaand the Asia-Pacific region.",
+    "Website": "",
+    "Description": "Based in Shanghai,Bio Shin Limited is a biopharmaceuticalcompanyfocused on the discovery, development and commercialization of novel, life-improving treatments for patients with neuro-immune diseases in Chinaand the Asia-Pacific region.",
     "Industry": "Healthcare, Technology, Biology",
     "Founded": "2019",
     "Funding": "$120.0M",
@@ -497,7 +497,7 @@
   },
   {
     "Name": "Dingdong Maicai",
-    "Website": "https://kr-asia.com/dingdong-maicai-defies-fresh-e-commerce-collapse-with-focus-on-efficiency",
+    "Website": "https://kr-asia.com/",
     "Description": "A China-based grocery delivery service with a focus on fish, vegetables, fresh water, and fruit",
     "Industry": "Grocery and Convenience Retailers, Delivery (commerce), Food",
     "Founded": "2017",
@@ -522,7 +522,7 @@
   },
   {
     "Name": "PPTV",
-    "Website": "https://www.brv.com/pptv",
+    "Website": "https://www.pptv.com/",
     "Description": "PPTV is a company founded in 2004.",
     "Industry": "Gaming",
     "Founded": "2005",
@@ -534,7 +534,7 @@
   },
   {
     "Name": "Ximalaya",
-    "Website": "https://www.musicbusinessworldwide.com/tencent-music-entertainment-to-acquire-audio-platform-ximalaya-for-2-4bn/",
+    "Website": "https://www.ximalaya.com/",
     "Description": "Ximalaya is a Shanghai-based company.",
     "Industry": "Construction",
     "Founded": "2012",
@@ -547,8 +547,8 @@
   },
   {
     "Name": "ThinkForce",
-    "Website": "https://equalocean.com/company/thinkforce/info@think-force.com",
-    "Description": "ThinkForce is a Shanghai-based artificial intelligence chip maker.",
+    "Website": "http://www.think-force.com/",
+    "Description": "Think Force is a Shanghai-based artificial intelligence chip maker.",
     "Industry": "Technology, Semiconductor, Surveillance",
     "Founded": "2017",
     "Funding": "$203.5M",
@@ -559,7 +559,7 @@
   },
   {
     "Name": "HuJiang",
-    "Website": "https://canvasbusinessmodel.com/blogs/brief-history/hujiang-brief-history",
+    "Website": "http://chinahujiang.com/",
     "Description": "Hujiang Education Technologies or Hujiang is an educational technology company developing and providing online language learning, communication, information and services.",
     "Industry": "Education, Technology, Educational Technology",
     "Founded": "2001",
@@ -572,7 +572,7 @@
   },
   {
     "Name": "Zhangmen",
-    "Website": "https://www.preqin.com/data/profile/asset/zhangmen-com/171723",
+    "Website": "https://www.zhangmen.com/",
     "Description": "Zhangmen is an online education company that provides tutoring courses for primary and middle school students.",
     "Industry": "Technology, B2C, Educational Technology",
     "Founded": "2005",
@@ -584,7 +584,7 @@
   },
   {
     "Name": "NextVPU (Shanghai) Co., Ltd.",
-    "Website": "https://www.nextvpu.com/en/",
+    "Website": "https://www.nextvpu.com/",
     "Description": "NextVPU (Shanghai) Co., Ltd. is a Shanghai-based company founded by Alan Feng Xinpeng.",
     "Industry": "Technology, Artificial Intelligence (AI), Semiconductor",
     "Founded": "2016",
@@ -596,8 +596,8 @@
   },
   {
     "Name": "HiScene",
-    "Website": "https://www.preqin.com/data/profile/asset/hiscene/242282",
-    "Description": "HiScene is a company founded in 2011 by Chunyuan Liao.",
+    "Website": "https://www.hisense-usa.com/",
+    "Description": "Hi Scene is a company founded in 2011 by Chunyuan Liao.",
     "Industry": "Augmented reality, Artificial Intelligence (AI), Software as a service (SaaS)",
     "Founded": "2012",
     "Funding": "$108.9M",
@@ -608,7 +608,7 @@
   },
   {
     "Name": "PDD Group",
-    "Website": "https://www.pddinnovation.com.cn/contact/",
+    "Website": "https://www.pddinnovation.com.cn/",
     "Description": "The total volume of commodity transactions (GMV) of Pinduoduo platform in 2021 will reach 2.44 trillion yuan [3]. In 2022, the number of annual active buyers of Pinduoduo will reach 880 million [4] out of the 12 \"Pinduoduo\" in 2022.",
     "Industry": "Internet, Industrial design",
     "Founded": "2015",
@@ -620,8 +620,8 @@
   },
   {
     "Name": "ZongMu Technology",
-    "Website": "https://www.zongmutech.com/our.html",
-    "Description": "Zongmu Technologyis a series Ecompanybased inShanghai(China), founded in 2013 by Rui Tang. It operates as a Tech-enabled platform offering ADAS and autonomous driving solutions.Zongmu Technologyhas raised $382M in funding from investors like Qualcomm Ventures, Legend Capital and C&D, with a curre...",
+    "Website": "https://www.zongmutech.com/",
+    "Description": "Zongmu Technologyis a series Ecompanybased in Shanghai(China), founded in 2013 by Rui Tang. It operates as a Tech-enabled platform offering ADAS and autonomous driving solutions.Zongmu Technologyhas raised $382M in funding from investors like Qualcomm Ventures, Legend Capital and C&D, with a curre...",
     "Industry": "Autonomous System, Artificial Intelligence (AI), Logistics",
     "Founded": "2013",
     "Funding": "$532.5M",
@@ -633,7 +633,7 @@
   },
   {
     "Name": "Anhui Cowarobot Co., Ltd.",
-    "Website": "https://golden.com/wiki/Anhui_Cowarobot_Co.,_Ltd.-63NPRAM",
+    "Website": "https://www.cowarobot.com/",
     "Description": "Anhui Cowarobot is a Shanghai, China-based high-tech company developing AI-powered solutions with the aim to make travel more convenient.",
     "Industry": "Artificial Intelligence (AI), Information technology, Technology",
     "Founded": "",
@@ -645,8 +645,8 @@
   },
   {
     "Name": "GenFleet Therapeutics",
-    "Website": "https://profiles.biocentury.com/companies/genfleet_therapeutics_(shanghai)_co_ltd",
-    "Description": "GenFleet Therapeutics is a small and Large Molecules founded in 2017 by Qiang Lu.",
+    "Website": "http://www.genfleet.com/",
+    "Description": "Gen Fleet Therapeutics is a small and Large Molecules founded in 2017 by Qiang Lu.",
     "Industry": "Engineering, Technology, Biology",
     "Founded": "2017",
     "Funding": "$75.0M",
@@ -657,7 +657,7 @@
   },
   {
     "Name": "Alinket Electronic Technology (Shanghai) Co., Ltd.",
-    "Website": "https://www.alinket.com/en/",
+    "Website": "https://www.alinket.com/",
     "Description": "Alinket Electronic Technology (Shanghai) Co., Ltd. is a company founded by Lintao Tan.",
     "Industry": "Electrical & Electronic Manufacturing, Manufacturing",
     "Founded": "2013",
@@ -669,7 +669,7 @@
   },
   {
     "Name": "SKYSYS Intelligent Technology Limited",
-    "Website": "https://gogetgpt.com/en/c/companies/national-security/skysys-intelligent-technology-limited",
+    "Website": "https://www.skysys.ai/",
     "Description": "Skysys is an intelligent drone automatic operation platform.",
     "Industry": "Machine learning, Aerospace, Drones",
     "Founded": "",
@@ -681,7 +681,7 @@
   },
   {
     "Name": "Cyclone Robotics",
-    "Website": "https://en.cyclone-robotics.com/about.html",
+    "Website": "http://www.mycyclone.com/",
     "Description": "Cyclone Robotics is a Shanghai-based company founded in 2015.",
     "Industry": "Artificial Intelligence (AI), Technology, Robotic process automation",
     "Founded": "2015",
@@ -693,8 +693,8 @@
   },
   {
     "Name": "InventisBio Inc",
-    "Website": "https://www.life-sciences-asia.com/organisation/inventisbio-inc-shanghai-province-china-east-asia-cancer-2001-43368.html",
-    "Description": "InventisBio Inc is an oncology & Metabolic Diseases founded in 2013.",
+    "Website": "http://www.inventisbio.com/",
+    "Description": "Inventis Bio Inc is an oncology & Metabolic Diseases founded in 2013.",
     "Industry": "Biomedical engineering, Engineering, Cancer",
     "Founded": "2013",
     "Funding": "$236.0M",
@@ -705,7 +705,7 @@
   },
   {
     "Name": "DLG Power Battery (Shanghai) Co., Ltd.",
-    "Website": "https://www.business-yellowpages.com/details/250362/china/DLG-Power-Battery-Shanghai-Co-Ltd",
+    "Website": "https://dlglearningcenter.com/",
     "Description": "DLG Power Battery (Shanghai) Co., Ltd. is a Shanghai-based battery company.",
     "Industry": "Manufacturing, Sales, Battery",
     "Founded": "",
@@ -717,7 +717,7 @@
   },
   {
     "Name": "Youxia Motors",
-    "Website": "https://qz.com/1648682/vc-favored-chinese-electric-vehicle-firm-youxia-motors-is-mia",
+    "Website": "https://youxiamotors.com.siteindices.com/",
     "Description": "Youxia Motors is a company designing and manufacturing electric vehicles.",
     "Industry": "Clean technology, Electric vehicle, Automotive industry",
     "Founded": "2014",
@@ -729,7 +729,7 @@
   },
   {
     "Name": "APEX Technologies",
-    "Website": "https://rocketreach.co/apex-technologies-profile_b5c82afef42e34a9",
+    "Website": "https://www.apextechnologies.co/",
     "Description": "APEX Technologies develops and provides end-to-end marketing and analytics solutions to medium and large companies.",
     "Industry": "Customer Data Platform, Computer Software, Machine learning",
     "Founded": "2014",
@@ -741,7 +741,7 @@
   },
   {
     "Name": "ShouTi Inc.",
-    "Website": "https://www.businesswire.com/news/home/20220217005010/en/ShouTi-Introduces-Basecamp-Bio-as-a-Wholly-Owned-Subsidiary-to-Expand-Pipeline-and-Partnerships",
+    "Website": "https://flcube.com/",
     "Description": "xiaoi is a Shanghai-based company founded in 2001 by Yuan Hui.",
     "Industry": "Biotechnology, Healthcare, Pharmaceutical industry, Blockchain, Payment system, Financial services, Artificial Intelligence (AI), Robotics, Automotive industry",
     "Founded": "2019",
@@ -753,7 +753,7 @@
   },
   {
     "Name": "Zhejiang Huayou Cobalt Co., Ltd",
-    "Website": "https://finance.yahoo.com/quote/603799.SS/",
+    "Website": "https://huayouess.com/",
     "Description": "A high-tech enterprise focused on developing new Li-ion battery and cobalt materials.",
     "Industry": "Mineral, Chemical industry",
     "Founded": "2020",
@@ -765,7 +765,7 @@
   },
   {
     "Name": "Motovis Intelligent Technologies (Shanghai) Co Ltd",
-    "Website": "http://www.motovis.com/En",
+    "Website": "http://www.motovis.com/",
     "Description": "Motovis Intelligent Technologies (Shanghai) Co Ltd is a Shanghai-based company founded by Bruce Wang, Chunhua Shen, Davy Luk, Eddie Chan and Yu Zhenghua.",
     "Industry": "Technology, Autonomous System, Artificial Intelligence (AI)",
     "Founded": "2015",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Seeder Energy",
-    "Website": "http://seederenergy.com/about-us/",
+    "Website": "http://seederenergy.com/",
     "Description": "Seeder Energy is a company founded in 2013 by Alex Shoer, Alexandre van 't Westende, Johnny Browaeys and Rebecca Coombs.",
     "Industry": "Green building, Renewable energy, Sustainability",
     "Founded": "2013",

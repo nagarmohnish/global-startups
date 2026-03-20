@@ -1,8 +1,8 @@
 [
   {
     "Name": "Agibot",
-    "Website": "https://agibot.com/qzproduct/213.html",
-    "Description": "AgiBot is a Chinese robotics company headquartered in Shanghai. Founded in 2023 by former Huawei engineers Deng Taihua and Peng Zhihui, the firm develops ...",
+    "Website": "https://agibot.com/",
+    "Description": "Agi Bot is a Chinese robotics company headquartered in Shanghai. Founded in 2023 by former Huawei engineers Deng Taihua and Peng Zhihui, the firm develops ...",
     "Industry": "Robotics",
     "Founded": "2023",
     "Funding": "CN¥600M",
@@ -14,8 +14,8 @@
   },
   {
     "Name": "Xiaohongshu",
-    "Website": "https://www.chinafy.com/china-tech/what-is-xiaohongshu-red-and-how-to-get-started",
-    "Description": "Xiaohongshu known in English as RedNote, is a Chinese social networking and e-commerce platform. It is known for combining user-generated “notes” (posts ...",
+    "Website": "https://www.xiaohongshu.com/",
+    "Description": "Xiaohongshu known in English as Red Note, is a Chinese social networking and e-commerce platform. It is known for combining user-generated “notes” (posts ...",
     "Industry": "E-Commerce",
     "Founded": "2013",
     "Funding": "$917.7M",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "Biren Technology",
-    "Website": "https://www.reuters.com/company/shanghai-biren-technology-co-ltd/",
+    "Website": "https://www.birentech.com/",
     "Description": "Biren Technology. Simplified Chinese, 上海壁仞科技股份有限公司. Traditional ... ^ \"China Chip Startup Biren Seeking Funds at $2.7 Billion Valuation\".",
     "Industry": "AI",
     "Founded": "2019",
@@ -40,7 +40,7 @@
   {
     "Name": "Full-Life Technologies",
     "Website": "https://www.full-life.com/",
-    "Description": "Full-Life Technologies Limited is a fully integrated global radiotherapeutics company headquartered in Shanghai, China with operations in Europe.Missing:startup| Show results with:startup",
+    "Description": "Full-Life Technologies Limited (“Full-Life”) is a fully integrated global radiotherapeutics company with operations in Belgium, Germany, and China.",
     "Industry": "IoT",
     "Founded": "2021",
     "Funding": "$187.3M",
@@ -63,7 +63,7 @@
   },
   {
     "Name": "Ronovo Surgical",
-    "Website": "https://synapse.patsnap.com/organization/47c0b9e4de01e2209617e213d7cf7aac",
+    "Website": "https://ronovosurgical.com/",
     "Description": "Founded in 2019, Ronovo Surgical has established itself in Shanghai, a global innovation hub, with a focus on addressing unmet clinical needs in surgery.",
     "Industry": "EdTech",
     "Founded": "2019",
@@ -75,8 +75,8 @@
   },
   {
     "Name": "Epigenic Therapeutics",
-    "Website": "https://www.biospace.com/press-releases/epigenic-therapeutics-announces-completion-of-60-million-series-b-financing-to-accelerate-clinical-development-of-epigenetic-medicines",
-    "Description": "Sep 8, 2025 ·EpigenicTherapeuticsis a frontier biotechnology company dedicated to developing next-generation gene modulation therapy utilizing regulation of epigenetic genome for a variety of diseases.",
+    "Website": "https://www.shipwreckedfalmouth.com/",
+    "Description": "Epigenic Therapeuticsis a frontier biotechnology company dedicated to developing next-generation gene modulation therapy utilizing regulation of epigenetic genome for a variety of diseases.",
     "Industry": "Biotech",
     "Founded": "2021",
     "Funding": "$122M",
@@ -87,8 +87,8 @@
   },
   {
     "Name": "MetaX",
-    "Website": "https://www.cnbc.com/2025/12/17/chinese-chipmaker-metax-shares-soar-shanghai-debut.html",
-    "Description": "MetaX Integrated Circuits (Shanghai) Co., Ltd is a Chinese technology company headquartered in Shanghai. MetaX Integrated Circuits (Shanghai) Co., Ltd ...Missing:startup| Show results with:startup",
+    "Website": "https://www.metax-tech.com/",
+    "Description": "MetaXIntegrated Circuits (Shanghai) Co., Ltd (MetaX; Chinese: 沐曦; pinyin: Mùxī)is a Chinese technologycompanyheadquartered in Shanghai. Thecompanydevelops general-purpose computing on graphics processing units (GPGPUs) for use in the field of artificial intelligence (AI). It has been compared to N...",
     "Industry": "AI",
     "Founded": "2020",
     "Funding": "CN¥2B",
@@ -100,8 +100,8 @@
   },
   {
     "Name": "United Imaging Healthcare",
-    "Website": "https://global.united-imaging.com/en/about-united-imaging",
-    "Description": "UnitedImaging(UIH; Chinese: 联影医疗; pinyin: Liányǐng Yīliáo) is a publicly listed multinational medical technologycompanyheadquartered inShanghai,China. The company manufactures medical imaging and radiotherapy equipment and was founded with private funding.",
+    "Website": "http://unimaging.com/",
+    "Description": "United Imaging(UIH; Chinese: 联影医疗; pinyin: Liányǐng Yīliáo) is a publicly listed multinational medical technologycompanyheadquartered in Shanghai,China. The company manufactures medical imaging and radiotherapy equipment and was founded with private funding.",
     "Industry": "IoT",
     "Founded": "2011",
     "Funding": "CN¥3.3B",
@@ -112,7 +112,7 @@
   },
   {
     "Name": "Fourier Intelligence",
-    "Website": "https://ifdesign.com/en/brands-creatives/company/shanghai-fourier-intelligence-co/20834",
+    "Website": "",
     "Description": "... Chinese robotics company headquartered in Shanghai. Fourier. Native name. 上海傅利叶智能科技有限公司. Formerly, Fourier Intelligence. Company type, Private.",
     "Industry": "Robotics",
     "Founded": "2015",
@@ -124,8 +124,8 @@
   },
   {
     "Name": "Soul APP",
-    "Website": "https://www.soulapp.cn/en",
-    "Description": "Soul (app) ... Soul is a social platform founded by Zhang Lu in 2016. The company is operated byShanghaiRenyimen Technology Co., Ltd. and headquartered inShanghai,China. [1][2] It focuses on common interests and gamified interactions.",
+    "Website": "https://www.soulapp.cn/",
+    "Description": "Soul (app) ... Soul is a social platform founded by Zhang Lu in 2016. The company is operated by Shanghai Renyimen Technology Co., Ltd. and headquartered in Shanghai,China. [1][2] It focuses on common interests and gamified interactions.",
     "Industry": "Media",
     "Founded": "2016",
     "Funding": "$401.6M",
@@ -137,8 +137,8 @@
   },
   {
     "Name": "YolTech Therapeutics",
-    "Website": "https://www.yoltx.com/",
-    "Description": "YolTech Therapeutics. Biotechnology Research. A clinical-stage in vivo gene editing company committed to pioneering the next generation of precision genetic ...",
+    "Website": "https://www.sinodrugwatch.com/",
+    "Description": "Yol Tech Therapeutics. Biotechnology Research. A clinical-stage in vivo gene editing company committed to pioneering the next generation of precision genetic ...",
     "Industry": "Biotech",
     "Founded": "2021",
     "Funding": "CN¥500M",
@@ -162,7 +162,7 @@
   {
     "Name": "VelaVigo",
     "Website": "https://www.velavigo.com/",
-    "Description": "VelaVigo is building its global R&D headquarter in Shanghai, and will set up R&D footprint globally. VelaVigo combines internal discovery/development and win- ...",
+    "Description": "Vela Vigo is building its global R&D headquarter in Shanghai, and will set up R&D footprint globally. Vela Vigo combines internal discovery/development and win- ...",
     "Industry": "Biotech",
     "Founded": "2021",
     "Funding": "$160M",
@@ -174,7 +174,7 @@
   {
     "Name": "Volant Aerotech",
     "Website": "http://www.volantaerotech.com/",
-    "Description": "Jul 23, 2025 ·(Yicai) July 23 -- Volant Aerotech has signed a USD1.75 billion deal to supply electric vertical take-off and landing aircraft for use mainly in Thailand and the Maldives, making it the largest order so far placed with aChineseeVTOL business.",
+    "Description": "(Yicai) July 23 -- Volant Aerotech has signed a USD1.75 billion deal to supply electric vertical take-off and landing aircraft for use mainly in Thailand and the Maldives, making it the largest order so far placed with a ChineseeVTOL business.",
     "Industry": "Mobility",
     "Founded": "2021",
     "Funding": "CN¥500M",
@@ -198,7 +198,7 @@
   {
     "Name": "Hozon",
     "Website": "https://www.hozonauto.com/",
-    "Description": "HozonAuto was founded in 2014 in the Zhejiang province, co-founded by Beijing Sinohytec and Zhejiang Yangtze Delta Region Institute of Tsinghua University and is based in Jiaxing. [3] It opened an Autonomous Vehicle Research Centre in California's Silicon Valley in 2018, and a Beijing-based Desig...",
+    "Description": "Hozon Auto was founded in 2014 in the Zhejiang province, co-founded by Beijing Sinohytec and Zhejiang Yangtze Delta Region Institute of Tsinghua University and is based in Jiaxing. [3] It opened an Autonomous Vehicle Research Centre in California's Silicon Valley in 2018, and a Beijing-based Desig...",
     "Industry": "Mobility",
     "Founded": "2014",
     "Funding": "CN¥26.4B",
@@ -211,7 +211,7 @@
   {
     "Name": "XTransfer",
     "Website": "https://www.xtransfer.com/",
-    "Description": "XTransferis very efficient, safe, professional, and convenient! I sincerely recommendXTransferto the vast number of traders in north-eastChina!",
+    "Description": "XTransferis very efficient, safe, professional, and convenient! I sincerely recommendXTransferto the vast number of traders in north-east China!",
     "Industry": "Fintech",
     "Founded": "2017",
     "Funding": "$168M",
@@ -224,7 +224,7 @@
   {
     "Name": "Enflame",
     "Website": "http://www.enflame-tech.com/",
-    "Description": "ShanghaiEnflameTechnology Co., Ltd. (Enflame; Chinese: 燧原科技; pinyin: Suìyuán Kējì) is a Chinese technologycompanyheadquartered inShanghai. Thecompanydevelops general-purpose computing on graphics processing units (GPGPUs) for use in the field of cloud computing and artificial intelligence (AI).",
+    "Description": "Shanghai Enflame Technology Co., Ltd. (Enflame; Chinese: 燧原科技; pinyin: Suìyuán Kējì) is a Chinese technologycompanyheadquartered in Shanghai. Thecompanydevelops general-purpose computing on graphics processing units (GPGPUs) for use in the field of cloud computing and artificial intelligence (AI).",
     "Industry": "AI",
     "Founded": "2018",
     "Funding": "CN¥5.1B",
@@ -249,7 +249,7 @@
   {
     "Name": "Hello TransTech",
     "Website": "https://www.hello-inc.com/",
-    "Description": "Hello TransTech, founded in September, 2016 and headquartered in Beijing, is a mobile travel platform. Established by Yang Lei, Han Mei, Jiang Wei and Li ...",
+    "Description": "Hello Trans Tech, founded in September, 2016 and headquartered in Beijing, is a mobile travel platform. Established by Yang Lei, Han Mei, Jiang Wei and Li ...",
     "Industry": "Media",
     "Founded": "2016",
     "Funding": "$2B",
@@ -260,7 +260,7 @@
   },
   {
     "Name": "United Imaging Intelligence",
-    "Website": "https://www.uii-ai.com/",
+    "Website": "https://flcube.com/",
     "Description": "United Imaging Intelligence (UII), founded in 2017, is a global medical artificial intelligence (AI) company with offices in Shanghai and Boston.",
     "Industry": "Healthcare",
     "Founded": "2017",
@@ -284,7 +284,7 @@
   },
   {
     "Name": "Mufan Power",
-    "Website": "http://www.marvel-tech.cn/",
+    "Website": "https://www.bankofamerica.com/",
     "Description": "Mufan Power is a new energy high-tech enterprise in the field of turbomachinery. It is committed to the development of a new generation of zero-carbon ...",
     "Industry": "Enterprise",
     "Founded": "2015",
@@ -297,7 +297,7 @@
   {
     "Name": "Belief BioMed",
     "Website": "https://beliefbiomed.com/",
-    "Description": "BELIEF BIOMED ... BeliefBioMed is a biopharmaceutical company that dedicated to developing AAV-based gene therapy for patients living with serious diseases. BBM- ...",
+    "Description": "BELIEF BIOMED ... Belief Bio Med is a biopharmaceutical company that dedicated to developing AAV-based gene therapy for patients living with serious diseases. BBM- ...",
     "Industry": "Biotech",
     "Founded": "2018",
     "Funding": "$204M",
@@ -309,7 +309,7 @@
   {
     "Name": "MediTrust Health",
     "Website": "https://www.meditrusthealth.com/",
-    "Description": "MediTrust Health was founded in 2017. Where is MediTrust Health headquartered? MediTrust Health is headquartered in Shanghai, China. What is the size of ...",
+    "Description": "Medi Trust Health was founded in 2017. Where is Medi Trust Health headquartered? Medi Trust Health is headquartered in Shanghai, China. What is the size of ...",
     "Industry": "Healthcare",
     "Founded": "2017",
     "Funding": "$308M",
@@ -332,7 +332,7 @@
   },
   {
     "Name": "Moyang Biotechnology",
-    "Website": "https://www.mybiotec.com/",
+    "Website": "https://flcube.com/",
     "Description": "Moyang Biotechnology is a company that develops, produces, and sells nano to micro biomedical materials and absorbable Class III implantable products.",
     "Industry": "Biotech",
     "Founded": "2018",
@@ -345,7 +345,7 @@
   {
     "Name": "Financely",
     "Website": "https://www.financely-group.com/",
-    "Description": "Xuhui,Shanghai,China. 11-50. Debt Financing.Financelyis a trade and project finance consultancycompanythat provides customized financial solutions.",
+    "Description": "Debt Financing.Financelyis a trade and project finance consultancycompanythat provides customized financial solutions.",
     "Industry": "Fintech",
     "Founded": "—",
     "Funding": "$116.5M",
@@ -370,7 +370,7 @@
   {
     "Name": "Ling Mou Zhineng",
     "Website": "http://www.lingmouai.com/",
-    "Description": "LingMouZhinengis an AI technology company that focuses on retail scenarios and provides intelligent solutions through machine vision.",
+    "Description": "Ling Mou Zhinengis an AI technology company that focuses on retail scenarios and provides intelligent solutions through machine vision.",
     "Industry": "AI",
     "Founded": "2017",
     "Funding": "CN¥151M",
@@ -382,7 +382,7 @@
   {
     "Name": "XellSmart",
     "Website": "http://www.xellsmart.com/",
-    "Description": "Xellsmartdevelops stem cell treatment solutions for a variety of degenerative diseases for which there are now no clinical treatments.Xellsmartis located in Minhang District,Shanghai,China.Jul 29, 2025 ·XellSmarthas achieved a significant milestone in global central nervous system (CNS) injury re...",
+    "Description": "Xellsmartdevelops stem cell treatment solutions for a variety of degenerative diseases for which there are now no clinical treatments.Xellsmartis located in Minhang District,Shanghai,China.Jul 29, 2025 ·Xell Smarthas achieved a significant milestone in global central nervous system (CNS) injury re...",
     "Industry": "Biotech",
     "Founded": "2021",
     "Funding": "CN¥177M",
@@ -394,7 +394,7 @@
   {
     "Name": "70mai",
     "Website": "https://www.70mai.com/",
-    "Description": "Feb 16, 2026 ·70maiis a funded company based inShanghai(China), founded in 2016. It operates as a Smart mirrors & dashcams for automobiles. The company has 209 active competitors, including 21 funded and 12 that have exited. Its top competitor s include companies like Nexar, Nextbase and Lytx.70m...",
+    "Description": "70maiis a funded company based in Shanghai(China), founded in 2016. It operates as a Smart mirrors & dashcams for automobiles. The company has 209 active competitors, including 21 funded and 12 that have exited. Its top competitor s include companies like Nexar, Nextbase and Lytx.70m...",
     "Industry": "Mobility",
     "Founded": "2016",
     "Funding": "$6.5M",
@@ -418,7 +418,7 @@
   {
     "Name": "Semitech",
     "Website": "https://www.semi-tech.com/",
-    "Description": "ShanghaiSemitechSemiconductor Co., Ltd. is a supplier of high-quality semiconductor separation devices, especially protection devices.",
+    "Description": "Shanghai Semitech Semiconductor Co., Ltd. is a supplier of high-quality semiconductor separation devices, especially protection devices.",
     "Industry": "Automation",
     "Founded": "2017",
     "Funding": "CN¥1.2B",
@@ -429,7 +429,7 @@
   },
   {
     "Name": "Tianhu Technology",
-    "Website": "https://www.matwings.com/",
+    "Website": "",
     "Description": "11 Nov 2025—90 Additional Shanghai Startups Worth Following ; Tianhu Technology logo Tianhu Technology, AI, 2021 ; Red Bear AI logo Red Bear AI, Mobility ...",
     "Industry": "AI",
     "Founded": "2021",
@@ -441,8 +441,8 @@
   },
   {
     "Name": "Red Bear AI",
-    "Website": "https://www.aiprb.com/solution",
-    "Description": "Dec 31, 2024 ·Information on valuation, funding, cap tables, investors, and executives forRedBearAI. Use the PitchBook Platform to explore the full profile.",
+    "Website": "https://bigbear.ai/",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Red BearAI. Use the Pitch Book Platform to explore the full profile.",
     "Industry": "Mobility",
     "Founded": "2024",
     "Funding": "CN¥23M",
@@ -477,7 +477,7 @@
   },
   {
     "Name": "Leju Technology",
-    "Website": "https://www.yeloworld.cn/",
+    "Website": "https://www.lejurobot.com/",
     "Description": "11 Nov 2025—2019, $73.6M, Series B. Leju Technology logo Leju Technology, Logistics, 2018, CN¥200M, Series B. Leapstack logo Leapstack, AI, 2016, CN¥450M ...",
     "Industry": "Logistics",
     "Founded": "2018",
@@ -502,7 +502,7 @@
   {
     "Name": "VETRESKA",
     "Website": "https://vetreskanyc.com/",
-    "Description": "Where is VETRESKA headquartered? VETRESKA is headquartered in Shanghai, China. What is the size of VETRESKA? VETRESKA has 100 total employees.",
+    "Description": "VETRESKAcreates products that keep your pet happy and brighten your home. Bring joy into your life with pet supplies and accessories fromVETRESKA.",
     "Industry": "Fashion",
     "Founded": "2017",
     "Funding": "$60.4M",
@@ -526,7 +526,7 @@
   {
     "Name": "JunHe",
     "Website": "http://www.junhe.com/",
-    "Description": "... Jūnhé Lǜshī Shīwùsuǒ) is a corporate law firm headquartered in Beijing, China. JunHe is one of the first private Chinese law firms. Jun He ...",
+    "Description": "... Jūnhé Lǜshī Shīwùsuǒ) is a corporate law firm headquartered in Beijing, China. Jun He is one of the first private Chinese law firms. Jun He ...",
     "Industry": "Healthcare",
     "Founded": "1989",
     "Funding": "$7.6M",
@@ -537,8 +537,8 @@
   },
   {
     "Name": "Tushen Zhihe",
-    "Website": "https://tsynbio.com/",
-    "Description": "AboutTuShenZhiheTushenZhiheis an artificial intelligence protein design service provider, committed to providing customers with a universal, lightweight, controllable protein design and generative AI platform, accelerating the research and development of protein engineering in the field of synthe...",
+    "Website": "https://www.zhihe.com/",
+    "Description": "About TuShen Zhihe Tushen Zhiheis an artificial intelligence protein design service provider, committed to providing customers with a universal, lightweight, controllable protein design and generative AI platform, accelerating the research and development of protein engineering in the field of synthe...",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$1.5M",
@@ -549,7 +549,7 @@
   },
   {
     "Name": "Ruishi Technology",
-    "Website": "http://svision100.com/",
+    "Website": "https://www.electriccombs.com/",
     "Description": "Ruishi Technology was founded in 2017. Where is Ruishi Technology headquartered? Ruishi Technology is headquartered in Shanghai, China. What industry is ...",
     "Industry": "Healthcare",
     "Founded": "2017",
@@ -562,7 +562,7 @@
   {
     "Name": "HILONG GROUP OF COMPANIES",
     "Website": "http://hilonggroup.com/",
-    "Description": "Findcompanyresearch, competitor information, contact details & financial data forHilong Group of CompaniesofShanghai,Shanghai. Get the latest business insights from Dun & Bradstreet.",
+    "Description": "Findcompanyresearch, competitor information, contact details & financial data for Hilong Group of Companiesof Shanghai,Shanghai. Get the latest business insights from Dun & Bradstreet.",
     "Industry": "Energy",
     "Founded": "2002",
     "Funding": "CN¥100M",
@@ -574,7 +574,7 @@
   {
     "Name": "Linkfin Technology",
     "Website": "https://www.linkfin-tech.com/",
-    "Description": "Jul 26, 2020 ·LinkfinTechnologyis an auto fin-techcompanythat provides auto financial products, funds, channels, and technology solutions. Use the CB Insights Platform to explore LinkfinTechnology'sfull profile.",
+    "Description": "Linkfin Technologyis an auto fin-techcompanythat provides auto financial products, funds, channels, and technology solutions. Use the CB Insights Platform to explore Linkfin Technology'sfull profile.",
     "Industry": "Mobility",
     "Founded": "2017",
     "Funding": "$50M",
@@ -586,7 +586,7 @@
   {
     "Name": "TONGYU AUTOMOTIVE",
     "Website": "http://www.tongyuauto.com/",
-    "Description": "Frequently Asked Questions Where isTONGYU AUTOMOTIVE's headquarters?TONGYU AUTOMOTIVEis located in Jiading,Shanghai,China. Who invested inTONGYU AUTOMOTIVE?TONGYU AUTOMOTIVEhas 28 investors including BOCOM International and Yizhou Capital. When was the last funding round forTONGYU AUTOMOTIVE?TONG...",
+    "Description": "\"Shanghai Tongyu Automotive Technology Co.., Ltd.is aleading supplier of intelligent chassis systems for automobiles in China. Established in 2016, thecompanyspecializes in the research, development and industrialization of new generation wire-controlled chassis core technology to enhance smart tra...",
     "Industry": "Mobility",
     "Founded": "2016",
     "Funding": "CN¥703M",
@@ -597,7 +597,7 @@
   },
   {
     "Name": "Horen",
-    "Website": "https://www.xiangxiang.com/",
+    "Website": "https://horengroup.com/",
     "Description": "HOREN was established 1998 in Shanghai China and has developed from that time into a Global enterprise employing over 400 people.",
     "Industry": "Hardware",
     "Founded": "1998",
@@ -622,7 +622,7 @@
   {
     "Name": "Boohee",
     "Website": "http://www.boohee.com/",
-    "Description": "BooHeeis headquartered inShanghai,China. What is the size ofBooHee?BooHeehas 180 total employees. What industry isBooHeein?BooHee'sprimary industry is Information Services (B2C). IsBooHeea private or publiccompany?BooHeeis a Privatecompany. What isBooHee'scurrent revenue? The current revenue forB...",
+    "Description": "Booheeis ahealth managementcompanybased in Shanghai, China. The Boohee Health Appis ahealth management tool, which has helped 80 million users lose 200 million kilograms.",
     "Industry": "Sports",
     "Founded": "2008",
     "Funding": "$41.3M",
@@ -633,7 +633,7 @@
   },
   {
     "Name": "Pulse",
-    "Website": "https://en.pulse-imaging.com/",
+    "Website": "https://www.pulse.com/",
     "Description": "Pulse Medical Technology, Inc., founded in 2015, located in Shanghai, China, is dedicated to develop innovative technology for precise diagnosis and optimal treatment of vascular diseases.",
     "Industry": "Enterprise",
     "Founded": "2015",
@@ -682,7 +682,7 @@
   {
     "Name": "Xiangwushuo",
     "Website": "http://www.xiangwushuo.com/",
-    "Description": "Xiangwushuo (享物说), also known asHappy Sharing, was established in 2017 by founder Sun Shuo and is headquartered in Shanghai, China. The company operated as an online marketplace for pre-owned goods, differentiating itself by eschewing traditional monetary transactions.",
+    "Description": "Xiangwushuo (享物说), also known as Happy Sharing, was established in 2017 by founder Sun Shuo and is headquartered in Shanghai, China. The company operated as an online marketplace for pre-owned goods, differentiating itself by eschewing traditional monetary transactions.",
     "Industry": "Retail",
     "Founded": "2017",
     "Funding": "$89.4M",
@@ -706,7 +706,7 @@
   {
     "Name": "MKSEMI",
     "Website": "http://www.mk-semi.com/",
-    "Description": "Frequently Asked Questions Where isMKSEMI'sheadquarters?MKSEMIis located inShanghai,Shanghai,China. Who invested inMKSEMI?MKSEMIhas 7 investors includingChinaMerchants Venture Capital and Kuaichuangying. When was the last funding round forMKSEMI?MKSEMIclosed its last funding round on",
+    "Description": "MKSEMIis alow-power ultra-wideband (UWB)company, provides a complete high precision location solution for device OEMs and ODMs.",
     "Industry": "Manufacturing",
     "Founded": "2019",
     "Funding": "$36.9M",
@@ -729,7 +729,7 @@
   },
   {
     "Name": "Zhenkunxing",
-    "Website": "https://www.zkh360.com/",
+    "Website": "https://www.office.com/",
     "Description": "Zhenkunxing is an industrial supplies service platform for the manufacturing industry.",
     "Industry": "Manufacturing",
     "Founded": "1998",
@@ -767,7 +767,7 @@
   {
     "Name": "Sitrus Technology",
     "Website": "http://www.sitrus.tech/",
-    "Description": "SitrusTechnologyis acompanycreated by returnees from overseas. Its primary goal is the creation and sale of a new generation of high-speed network connectivity processors.",
+    "Description": "Sitrus Technologyis acompanycreated by returnees from overseas. Its primary goal is the creation and sale of a new generation of high-speed network connectivity processors.",
     "Industry": "AI",
     "Founded": "2012",
     "Funding": "CN¥200M",
@@ -778,7 +778,7 @@
   },
   {
     "Name": "Hrain Biotechnology",
-    "Website": "http://www.dashengbio.com/",
+    "Website": "https://flcube.com/",
     "Description": "Hrain Biotechnology was founded in 2015. Where is Hrain Biotechnology headquartered? Hrain Biotechnology is headquartered in Shanghai, China. What is the ...",
     "Industry": "Biotech",
     "Founded": "2015",
@@ -791,7 +791,7 @@
   {
     "Name": "StepStar",
     "Website": "https://www.stepfun.com/",
-    "Description": "Jan 8, 2026 ·As an innovativecompanyled by former Microsoft executives,StepStarcontinues to advance the pursuit of AGI with practical actions. Its Step series models and its diverse product applications provide new ideas and directions for achieving the AGI goal, leading a new wave of generative AI.",
+    "Description": "As an innovativecompanyled by former Microsoft executives,Step Starcontinues to advance the pursuit of AGI with practical actions. Its Step series models and its diverse product applications provide new ideas and directions for achieving the AGI goal, leading a new wave of generative AI.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$3M",
@@ -803,7 +803,7 @@
   {
     "Name": "Jidu Auto",
     "Website": "https://jiduauto.com/",
-    "Description": "Jidu Auto is a joint venture premium intelligent EV startup between Chinese tech giant Baidu and car manufacturer Geely. It is headquartered in Shanghai, ...HistoryRelation with Ji Yue brandProducts",
+    "Description": "Jidu Auto is a joint venture premium intelligent EV startup between Chinese tech giant Baidu and car manufacturer Geely. It is headquartered in Shanghai, ...History Relation with Ji Yue brand Products",
     "Industry": "Mobility",
     "Founded": "2021",
     "Funding": "$403M",
@@ -826,8 +826,8 @@
   },
   {
     "Name": "eRoad Software",
-    "Website": "https://www.ersoft.cn/",
-    "Description": "When was eRoad Software founded? eRoad Software was founded in 2004. Where is eRoad Software headquartered? eRoad Software is headquartered in Shanghai, China.",
+    "Website": "https://www.eroad.com/",
+    "Description": "Aboute Roadsoftware| 易路软件 作为亚太地区领先的人力资源“一站式”服务供应商，易路People+以复杂薪酬计算为核心，覆盖员工选用育留全生命周期及商业活动中与人相关的所有活动。",
     "Industry": "Enterprise",
     "Founded": "2004",
     "Funding": "CN¥1.2B",
@@ -839,7 +839,7 @@
   {
     "Name": "Gejian Semiconductor",
     "Website": "http://www.gejian-semi.com/",
-    "Description": "Gejian SemiconductorFAQs When wasGejian Semiconductorfounded?Gejian Semiconductorwas founded in 2022. Where isGejian Semiconductorheadquartered?Gejian Semiconductoris headquartered inShanghai,China. What industry isGejian Semiconductorin?Gejian Semiconductor's primary industry is Computers, Parts...",
+    "Description": "Gejian SemiconductorFAQs When was Gejian Semiconductorfounded?Gejian Semiconductorwas founded in 2022. Where is Gejian Semiconductorheadquartered?Gejian Semiconductoris headquartered in Shanghai,China. What industry is Gejian Semiconductorin?Gejian Semiconductor's primary industry is Computers, Parts...",
     "Industry": "Manufacturing",
     "Founded": "2022",
     "Funding": "CN¥250M",
@@ -850,8 +850,8 @@
   },
   {
     "Name": "Guoquan Shihui",
-    "Website": "http://www.zzgqsh.com/",
-    "Description": "When was Guoquan Shihui founded? Guoquan Shihui was founded in 2017. Where is Guoquan Shihui headquartered? Guoquan Shihui is headquartered in Shanghai, China.",
+    "Website": "http://www.guoquanhui.com/",
+    "Description": "Guoquanis a leading one-stop home meal products brand in China.Guoquan Shihui's product portfolio comprises eight categories, including hotpot products, barbecue products, beverages, solo-dining meals, ready-to-cook meal kits, fresh produce, western cuisines, and snacks, serving diverse dining sce...",
     "Industry": "Food",
     "Founded": "2017",
     "Funding": "$551.8M",
@@ -900,7 +900,7 @@
   },
   {
     "Name": "Minxin Technology",
-    "Website": "http://www.winscene.com.cn/",
+    "Website": "https://www.amway.com/",
     "Description": "Minxin Technology focuses on the research, development, manufacture, and sales of photo- and thermal-curing functional materials and electronic-grade wet ...",
     "Industry": "Marketing",
     "Founded": "2019",
@@ -913,7 +913,7 @@
   {
     "Name": "QureBio",
     "Website": "http://www.qurebio.com/",
-    "Description": "QureBio focuses on the research and development of innovative macromolecular biopharmaceuticals. Its goal is to develop new therapeutic drugs.",
+    "Description": "Qure Bio focuses on the research and development of innovative macromolecular biopharmaceuticals. Its goal is to develop new therapeutic drugs.",
     "Industry": "Biotech",
     "Founded": "2017",
     "Funding": "CN¥309M",
@@ -924,8 +924,8 @@
   },
   {
     "Name": "Shijia Technology",
-    "Website": "https://www.sdrive-tech.com/",
-    "Description": "Feb 20, 2026 ·ExploreShijiaTechnology'sin-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "Website": "http://www.sz-shijia.com/",
+    "Description": "Explore Shijia Technology'sin-depth company profile, including funding details, key investors, leadership, and competitors.",
     "Industry": "Mobility",
     "Founded": "2021",
     "Funding": "CN¥100M",
@@ -937,7 +937,7 @@
   {
     "Name": "Medical Image Insights",
     "Website": "http://www.imagecore.com.cn/",
-    "Description": "MedicalImageInsightsis acompanythat specializes in medical imaging AI integration and R&D. It provide medical imaging professionals with AI and statistical-based medical imaging auxiliary tools, as well as its own medical imaging AI solutions.It caters to technology, research, and development, me...",
+    "Description": "Medical Image Insightsis acompanythat specializes in medical imaging AI integration and R&D. It provide medical imaging professionals with AI and statistical-based medical imaging auxiliary tools, as well as its own medical imaging AI solutions.It caters to technology, research, and development, me...",
     "Industry": "Healthcare",
     "Founded": "2020",
     "Funding": "CN¥100M",
@@ -948,7 +948,7 @@
   },
   {
     "Name": "Yixi Technology",
-    "Website": "https://www.htsfusion.com/",
+    "Website": "http://www.yixi-tech.com/",
     "Description": "Shanghai Yixi Technology was founded in 2022. Where is Shanghai Yixi Technology headquartered? Shanghai Yixi Technology is headquartered in Shanghai, China.",
     "Industry": "Manufacturing",
     "Founded": "2022",
@@ -961,7 +961,7 @@
   {
     "Name": "Dearer Medical",
     "Website": "https://dearergroup.com/",
-    "Description": "When was Dearer Medical founded? Dearer Medical was founded in 2017. Where is Dearer Medical headquartered? Dearer Medical is headquartered in Shanghai, China.",
+    "Description": "Dearer Medicalis amedical devicecompanythat specializes in the development, production, and sales of eye-related products and devices.",
     "Industry": "Fashion",
     "Founded": "2017",
     "Funding": "CN¥720M",
@@ -973,7 +973,7 @@
   {
     "Name": "Kai Medtech",
     "Website": "https://www.kaimtgroup.com/",
-    "Description": "Information on valuation, funding, cap tables, investors, and executives forKaiMedtech. Use the PitchBook Platform to explore the full profile.Founded in 2019, the company has rapidly emerged as a prominent brand inChina’s neurovascular sector. Renowned for its high-quality products and exception...",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Kai Medtech. Use the Pitch Book Platform to explore the full profile.Founded in 2019, the company has rapidly emerged as a prominent brand in China’s neurovascular sector. Renowned for its high-quality products and exception...",
     "Industry": "Healthcare",
     "Founded": "2019",
     "Funding": "CN¥200M",
@@ -998,7 +998,7 @@
   {
     "Name": "Yikon Genomics",
     "Website": "http://www.yikongenomics.com/",
-    "Description": "Innovate for the Health of Billions Innovate for the Health of BillionsYIKON GenomicsFounded in 2012 and headquartered inShanghai,China, ourcompanyhas established branches in the United States, Japan, Spain, Thailand, and Malaysia.",
+    "Description": "Innovate for the Health of Billions Innovate for the Health of BillionsYIKON Genomics Founded in 2012 and headquartered in Shanghai,China, ourcompanyhas established branches in the United States, Japan, Spain, Thailand, and Malaysia.",
     "Industry": "Biotech",
     "Founded": "2012",
     "Funding": "$69.7M",
@@ -1010,7 +1010,7 @@
   {
     "Name": "JoyMed Technology",
     "Website": "http://www.joymed-tech.com/",
-    "Description": "Joymed Technology | 248 followers on LinkedIn. A Contract Design/Development and Manufacturing Organization for medical and healthcare devices.",
+    "Description": "Joymed Technology | 248 followers on Linked In. A Contract Design/Development and Manufacturing Organization for medical and healthcare devices.",
     "Industry": "Healthcare",
     "Founded": "2014",
     "Funding": "CN¥138M",
@@ -1021,7 +1021,7 @@
   },
   {
     "Name": "Xingmai Technology",
-    "Website": "http://www.proxima-ai.com/",
+    "Website": "",
     "Description": "11 Nov 2025—90 Additional Shanghai Startups Worth Following ; Xingmai Technology logo Xingmai Technology, AI, 2018, CN¥100M, Venture Round ; Shuhai Supply ...",
     "Industry": "AI",
     "Founded": "2018",
@@ -1034,7 +1034,7 @@
   {
     "Name": "Shuhai Supply Chain Logistics",
     "Website": "http://www.shuhaisc.com/",
-    "Description": "Where isShuhai Supply Chain Logistics's headquarters?Shuhai Supply Chain Logisticsis located in Minhang,Shanghai,China. Who invested inShuhai Supply Chain Logistics?Shuhai Supply Chain Logisticshas 12 investors including Bank ofChinaGroup Investment and CR Capital Management. When was the last fu...",
+    "Description": "Shuhai Supply Chain Logisticsis a supply chain service enterprises that provides overall ingredients supply chain solutions services. It has a nationwide modern cold chain logistics center, food processing plants, and other bases.",
     "Industry": "Food",
     "Founded": "2011",
     "Funding": "CN¥800M",
@@ -1058,7 +1058,7 @@
   {
     "Name": "X-Imaging",
     "Website": "http://www.x-imaging.com/",
-    "Description": "Aug 31, 2021 ·Information on valuation, funding, cap tables, investors, and executives forX-imagingInformation Technology. Use the PitchBook Platform to explore the full profile.",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for X-imaging Information Technology. Use the Pitch Book Platform to explore the full profile.",
     "Industry": "Media",
     "Founded": "2009",
     "Funding": "CN¥150M",
@@ -1071,7 +1071,7 @@
   {
     "Name": "DeepSight",
     "Website": "https://www.deepsight.ai/",
-    "Description": "Shanghai DeepSight focuses on imaging and AI tech innovation, which provides deep Learning based product and solution to the process of manufacturing.",
+    "Description": "Shanghai Deep Sight focuses on imaging and AI tech innovation, which provides deep Learning based product and solution to the process of manufacturing.",
     "Industry": "AI",
     "Founded": "2017",
     "Funding": "$11.5M",
@@ -1083,7 +1083,7 @@
   {
     "Name": "KYEE",
     "Website": "http://www.kyee.com.cn/",
-    "Description": "京颐科技，业务范围涵盖医疗云、健康医疗大数据、智慧病房等领域。提供面向单体医院的KyeeOne一体化医疗云解决方案、面向区域内卫健委、医共体、医疗集团的KyeePro区域一体化医疗云解决方案、面向泛医疗大数据领域的KyeeData健康医疗大数据解决方案、面向大型医疗机构的KyeeCare智慧病房解决方案 ...",
+    "Description": "京颐科技，业务范围涵盖医疗云、健康医疗大数据、智慧病房等领域。提供面向单体医院的Kyee One一体化医疗云解决方案、面向区域内卫健委、医共体、医疗集团的Kyee Pro区域一体化医疗云解决方案、面向泛医疗大数据领域的Kyee Data健康医疗大数据解决方案、面向大型医疗机构的Kyee Care智慧病房解决方案 ...",
     "Industry": "Healthcare",
     "Founded": "2004",
     "Funding": "$138.4M",
@@ -1107,7 +1107,7 @@
   {
     "Name": "Sectrend",
     "Website": "https://www.sectrend.com.cn/",
-    "Description": "Information on valuation, funding, cap tables, investors, and executives forSECTREND. Use the PitchBook Platform to explore the full profile.",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for SECTREND. Use the Pitch Book Platform to explore the full profile.",
     "Industry": "Enterprise",
     "Founded": "2021",
     "Funding": "CN¥100M",
@@ -1131,8 +1131,8 @@
   },
   {
     "Name": "Taiyi Guanjia",
-    "Website": "https://www.shantaijk.cn/",
-    "Description": "TaiyiGuanjiais acompanythat combines technology and medical health innovation, aiming to enhance the insurance industry and create a robust medical and health ecosystem.Jun 26, 2025 ·TaiyiGuanjiais a series D company based in Xuhui (China), founded in 2020. It operates as a Provider of online hea...",
+    "Website": "https://taiyi.cn/",
+    "Description": "Taiyi Guanjiais acompanythat combines technology and medical health innovation, aiming to enhance the insurance industry and create a robust medical and health ecosystem.Jun 26, 2025 ·Taiyi Guanjiais a series D company based in Xuhui (China), founded in 2020. It operates as a Provider of online hea...",
     "Industry": "Biotech",
     "Founded": "2020",
     "Funding": "CN¥920M",
@@ -1143,8 +1143,8 @@
   },
   {
     "Name": "Hutouju",
-    "Website": "http://www.ukpgs.com/",
-    "Description": "Frequently Asked Questions Where isHutouju'sheadquarters?Hutoujuis located in Minhang,Shanghai,China. Who invested inHutouju?Hutoujuhas 6 investors including GGV Capital and HSG. When was the last funding round forHutouju?Hutoujuclosed its last funding round on",
+    "Website": "https://www.hutoujun.com/",
+    "Description": "About Hutouju Hutoujufocuses on a new trendy brand of Chinese dim sum, with the mission of reviving Chinese pastry, and insists on making it by hand. The company was founded in 2020 and is based in Shanghai, China.",
     "Industry": "Food",
     "Founded": "2020",
     "Funding": "$50M",

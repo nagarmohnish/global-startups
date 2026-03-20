@@ -73,7 +73,7 @@
   },
   {
     "Name": "Ava",
-    "Website": "https://www.avawomen.com/about",
+    "Website": "https://www.avawomen.com/",
     "Description": "Ava is a women's health company based in Zurich and San Francisco.",
     "Industry": "Health technology, Technology, Artificial Intelligence (AI)",
     "Founded": "2014",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "Isovalent",
-    "Website": "https://isovalent.com/about-us/",
+    "Website": "https://isovalent.com/",
     "Description": "Isovalent is a Mountain View, California-headquartered developer of cloud-native networking and security, through the company's Cilium product.",
     "Industry": "Software as a service (SaaS), Network security, Cloud management",
     "Founded": "2017",
@@ -109,7 +109,7 @@
   },
   {
     "Name": "Apiax",
-    "Website": "https://grcoutlook.com/apiax/",
+    "Website": "",
     "Description": "Apiax transforms complex regulations into digital compliance rules, which are constantly up-to-date and verified, accessible via an API.",
     "Industry": "Compliance, Legal technology, Information technology",
     "Founded": "2017",
@@ -121,8 +121,8 @@
   },
   {
     "Name": "FQX",
-    "Website": "https://www.eu-startups.com/directory/fqx/",
-    "Description": "FQX is radically facilitating trade finance & money markets by using eNotes™",
+    "Website": "https://fqxholefoundation.org/",
+    "Description": "FQX is radically facilitating trade finance & money markets by using e Notes™",
     "Industry": "Digital currency, Finance, Blockchain",
     "Founded": "2019",
     "Funding": "$6.7M",
@@ -134,7 +134,7 @@
   {
     "Name": "LatticeFlow",
     "Website": "https://latticeflow.ai/",
-    "Description": "LatticeFlow helps organizations build and deploy artificial intelligence.",
+    "Description": "Lattice Flow helps organizations build and deploy artificial intelligence.",
     "Industry": "Machine learning, Artificial Intelligence (AI), Technology",
     "Founded": "2020",
     "Funding": "$29.6M",
@@ -158,7 +158,7 @@
   },
   {
     "Name": "Kenjo",
-    "Website": "https://www.kenjo.io/company/about-kenjo",
+    "Website": "https://www.kenjo.io/",
     "Description": "Kenjo is the HR software designed for the modern world.",
     "Industry": "B2B, Software as a service (SaaS), HR software",
     "Founded": "2017",
@@ -170,7 +170,7 @@
   },
   {
     "Name": "Anjarium Biosciences",
-    "Website": "https://www.greaterzuricharea.com/en/news/anjarium-biosciences-receives-fresh-capital",
+    "Website": "",
     "Description": "Anjarium is an early-stage biotechnology company developing next-generation, non-viral gene therapy therapeutics.",
     "Industry": "Therapeutics, Therapy, Drug delivery, Mobility, Electric vehicle, Hardware",
     "Founded": "2016",
@@ -182,7 +182,7 @@
   },
   {
     "Name": "Mila",
-    "Website": "https://app.welcometothejungle.com/companies/Mila",
+    "Website": "https://www.milaclothing.com/",
     "Description": "Mila is a Zurich-based crowd services platform where users can find, book and rate tech-savvy people or offer their technical know-how.",
     "Industry": "Software as a service (SaaS), E-commerce",
     "Founded": "2015",
@@ -195,7 +195,7 @@
   },
   {
     "Name": "Acodis",
-    "Website": "https://www.acodis.io/contact-us",
+    "Website": "https://www.acodis.io/",
     "Description": "Acodis is a developer of Intelligent Document Processing (IDP) software, allowing for the digitization of documents.",
     "Industry": "Marketing, Software, Finance",
     "Founded": "2016",
@@ -207,7 +207,7 @@
   },
   {
     "Name": "Daedalean AI",
-    "Website": "https://www.daedalean.ai/company/about",
+    "Website": "https://www.daedalean.ai/",
     "Description": "Daedalean is building autonomous piloting software systems for civil aircraft of today and advanced aerial mobility of tomorrow.",
     "Industry": "Space Technology, Autonomous vehicle, Aerospace",
     "Founded": "2016",
@@ -219,7 +219,7 @@
   },
   {
     "Name": "Base 58 Capital",
-    "Website": "https://golden.com/wiki/Base_58_Capital-R9DG545",
+    "Website": "https://base58.ch/",
     "Description": "Base 58 Capital is an hedge fund managing company that specializes in cryptocurrencies and blockchain-based tokens.",
     "Industry": "Blockchain, Hedge fund, Investment",
     "Founded": "2017",
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Pexapark AG",
-    "Website": "https://pexapark.com/contacts/",
+    "Website": "https://pexapark.com/",
     "Description": "Pexapark AG is a blockchain company founded in 2017 by Michael Waldner, Florian Müller and Luca Pedretti.",
     "Industry": "Clean technology, Blockchain and cryptocurrency, Financial technology",
     "Founded": "2017",
@@ -243,7 +243,7 @@
   },
   {
     "Name": "Seervision AG",
-    "Website": "https://www.eu-startups.com/directory/seervision/",
+    "Website": "",
     "Description": "Seervision AG is a Zurich-based software company co-founded in 2016 by Conrad von Grebel, Nikos Kariotoglou, and Reto Hofmann.",
     "Industry": "Broadcasting, Machine learning, Computer Vision",
     "Founded": "2016",
@@ -255,7 +255,7 @@
   },
   {
     "Name": "Numbrs",
-    "Website": "https://www.swissinfo.ch/eng/business/restructuring-blow_fintech-unicorn-numbrs-slashes-jobs-as-investors-turn-tail/45746054",
+    "Website": "https://numbrs.ai/",
     "Description": "Platform for managing bank accounts and personal finances.",
     "Industry": "Bank, Mobile Devices, Financial technology",
     "Founded": "2012",
@@ -267,7 +267,7 @@
   },
   {
     "Name": "CLST",
-    "Website": "https://fintechnews.ch/list-of-fintech-startups-in-switzerland/fintech/clst/",
+    "Website": "https://www.clst.com/",
     "Description": "CLST is a we create markets for the new money founded in 2021.",
     "Industry": "Financial technology, Web3",
     "Founded": "2021",
@@ -279,7 +279,7 @@
   },
   {
     "Name": "Fotokite",
-    "Website": "https://www.greaterzuricharea.com/en/success-stories/fotokite",
+    "Website": "https://fotokite.com/",
     "Description": "Fotokite is a company that builds drones specifically to assist first responders.",
     "Industry": "Unmanned aerial vehicle (UAV), Drones, Public security",
     "Founded": "2014",
@@ -303,7 +303,7 @@
   },
   {
     "Name": "9T Labs",
-    "Website": "https://www.startup.ch/9t-labs",
+    "Website": "https://www.9tlabs.com/",
     "Description": "9T Labs is a carbon composite manufacturing technology developer founded in 2018 by Martin Eichenhofer, Chester Houwink and Giovanni Cavolina.",
     "Industry": "3D printing, Aerospace, Manufacturing",
     "Founded": "2018",
@@ -315,7 +315,7 @@
   },
   {
     "Name": "Squirro",
-    "Website": "https://squirro.com/news-and-events/squirro-awarded-swiss-economic-foundation-recognition",
+    "Website": "https://squirro.com/",
     "Description": "Squirro is a company founded in 2012 by Dorian Selz, Patrice Neff, Felix Hürlimann and Toni Birrer.",
     "Industry": "Software, Artificial Intelligence (AI), Cloud computing",
     "Founded": "2012",
@@ -340,7 +340,7 @@
   },
   {
     "Name": "Immunai",
-    "Website": "https://www.immunai.com/company/",
+    "Website": "https://www.immunai.com/",
     "Description": "Comprehensively mapping and reprogramming the immune system with single-cell biology and AI to power new therapeutic discoveries, accelerate drug development and improve patient outcomes",
     "Industry": "Generative AI, Diagnosis, Biotechnology",
     "Founded": "",
@@ -364,7 +364,7 @@
   },
   {
     "Name": "Ledgy",
-    "Website": "https://www.eu-startups.com/directory/ledgy/",
+    "Website": "https://ledgy.com/",
     "Description": "Ledgy is a End-to-End equity management platform founded in 2017 by ben brandt, timo horstschaefer and yoko spirig.",
     "Industry": "Private equity, Finance, Software as a service (SaaS)",
     "Founded": "2017",
@@ -376,7 +376,7 @@
   },
   {
     "Name": "Auterion",
-    "Website": "https://auterion.com/company/",
+    "Website": "https://auterion.com/",
     "Description": "Auterion is a provider of autonomous systems software for defense founded in 2017 by Lorenz Meier.",
     "Industry": "Drones, Robotics, Open-source software",
     "Founded": "2017",
@@ -388,7 +388,7 @@
   },
   {
     "Name": "Moximed",
-    "Website": "https://moximed.com/about-us/",
+    "Website": "https://moximed.com/",
     "Description": "Moximed is a medical equipment manufacturing company that specializes in developing innovative solutions for osteoarthritis",
     "Industry": "Technology, Biotechnology, Healthcare",
     "Founded": "",
@@ -400,8 +400,8 @@
   },
   {
     "Name": "ImmunOs Therapeutics",
-    "Website": "https://www.swissbiotech.org/listing/immunos-therapeutics/",
-    "Description": "FinTech, Business Process Solution, SaaS, Accounting, Web App, Mobile App",
+    "Website": "https://www.immunostherapeutics.com/",
+    "Description": "Fin Tech, Business Process Solution, SaaS, Accounting, Web App, Mobile App",
     "Industry": "Biotechnology, Biomedical engineering, Immunotherapy, Software as a service (SaaS), Finance, Financial technology",
     "Founded": "2014",
     "Funding": "$2.3M",
@@ -412,8 +412,8 @@
   },
   {
     "Name": "Yokoy",
-    "Website": "https://www.startupticker.ch/en/companies/expense-robot",
-    "Description": "Yokoy is a FinTech company that offers a spend management platform that automates expense, invoicing, and credit card processing.",
+    "Website": "https://www.yokoy.com/",
+    "Description": "Yokoy is a Fin Tech company that offers a spend management platform that automates expense, invoicing, and credit card processing.",
     "Industry": "Financial software, Artificial Intelligence (AI), Machine learning",
     "Founded": "2019",
     "Funding": "$212.0M",
@@ -424,7 +424,7 @@
   },
   {
     "Name": "Servoy",
-    "Website": "https://servoy.com/content/servoy-opens-new-office-in-zurich-for-germany-austria-switzerland",
+    "Website": "https://servoy.com/",
     "Description": "Servoy is a company founded in 2001 by Ron van der Burg.",
     "Industry": "Cloud computing, Software, Software as a service (SaaS)",
     "Founded": "2001",
@@ -436,7 +436,7 @@
   },
   {
     "Name": "Locatee",
-    "Website": "https://www.greaterzuricharea.com/en/news/locatee-secures-71-million-euros",
+    "Website": "https://locatee.com/",
     "Description": "Workplace analytics solution that turns data into space utilization insights.",
     "Industry": "Analytics, Data analysis, Retail",
     "Founded": "2013",
@@ -449,7 +449,7 @@
   },
   {
     "Name": "Cerrion",
-    "Website": "https://www.cerrion.com/about",
+    "Website": "https://www.cerrion.com/",
     "Description": "AI-driven video agent platform for real-time manufacturing production insights and process anomaly detection.",
     "Industry": "Computer Vision, Machine learning, Artificial Intelligence (AI)",
     "Founded": "2021",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "DeepCode",
-    "Website": "https://www.eu-startups.com/directory/deepcode/",
+    "Website": "https://deepcoder.net/",
     "Description": "deskbird is an AI-driven hybrid workplace management platform founded in 2020 by Ivan Cossu.",
     "Industry": "Software as a service (SaaS), Cloud computing, User experience design, Information technology, Software as a service (SaaS), Business intelligence (BI)",
     "Founded": "2016",
@@ -485,7 +485,7 @@
   },
   {
     "Name": "OneSoil",
-    "Website": "",
+    "Website": "http://www.onesoil.com/",
     "Description": "Platform for agricultural professionals to monitor fields and increase yields.",
     "Industry": "E-agriculture, Artificial Intelligence (AI), Machine learning",
     "Founded": "",
@@ -521,8 +521,8 @@
   },
   {
     "Name": "Neon",
-    "Website": "https://www.greaterzuricharea.com/en/news/presenting-greater-zurich-startup-neon",
-    "Description": "neon-free is a neobank based in Switzerland offering Personal accounts including a debit card, with all transactions being managed from an iPhone or Android application. neon-free currently accepts to open mobile bank accounts for residents of Switzerland.",
+    "Website": "",
+    "Description": "neon-free is a neobank based in Switzerland offering Personal accounts including a debit card, with all transactions being managed from an i Phone or Android application. neon-free currently accepts to open mobile bank accounts for residents of Switzerland.",
     "Industry": "Mobile Devices, Finance, Financial technology",
     "Founded": "2017",
     "Funding": "$135.8M",
@@ -557,7 +557,7 @@
   },
   {
     "Name": "OTO Systems, Inc.",
-    "Website": "https://golden.com/wiki/OTO_Systems,_Inc.-VWKD5ZE",
+    "Website": "https://otolawn.com/",
     "Description": "Oto is a Zürich, Switzerland-based artificial intelligence company building conversational tech solutions.",
     "Industry": "Customer support, Customer service, Customer success",
     "Founded": "2017",
@@ -582,7 +582,7 @@
   },
   {
     "Name": "Lightly",
-    "Website": "https://www.lightly.ai/about-us",
+    "Website": "https://www.lightly.ai/",
     "Description": "Lightly is a data curation company for machine learning that helps companies build better models through better data.",
     "Industry": "Computer Vision, Technology, Software as a service (SaaS)",
     "Founded": "2018",
@@ -594,7 +594,7 @@
   },
   {
     "Name": "Starmind International",
-    "Website": "https://www.startupranking.com/startup/starmind-international-ag",
+    "Website": "https://www.starmind.com/",
     "Description": "Starmind connects employees to colleagues with answers through self-learning knowledge networks enabled by AI",
     "Industry": "Enterprise software, Software as a service (SaaS), Artificial Intelligence (AI)",
     "Founded": "2010",
@@ -606,7 +606,7 @@
   },
   {
     "Name": "Memo Therapeutics",
-    "Website": "https://www.swissbiotech.org/listing/memo-therapeutics-ag/",
+    "Website": "https://memo-therapeutics.com/",
     "Description": "Memo Therapeutics is an antibody Discovery Technology founded in 2012.",
     "Industry": "Biomedical engineering, Drug discovery, Engineering",
     "Founded": "2012",
@@ -619,8 +619,8 @@
   },
   {
     "Name": "Nexxiot",
-    "Website": "https://www.eu-startups.com/directory/nexxiot/",
-    "Description": "Nexxiot is a TradeTech pioneer with a mission to enable easier, safer, and cleaner transportation for all stakeholders in the supply chain.",
+    "Website": "https://nexxiot.com/",
+    "Description": "Nexxiot is a Trade Tech pioneer with a mission to enable easier, safer, and cleaner transportation for all stakeholders in the supply chain.",
     "Industry": "Artificial Intelligence (AI), Software, Supply chain management",
     "Founded": "2015",
     "Funding": "$103.0M",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Notabene",
-    "Website": "https://www.pointzeroforum.com/discover-pzf2025",
+    "Website": "https://www.notabene.com/",
     "Description": "Notabene builds privacy-preserving compliance tools for financial institutions and crypto companies.",
     "Industry": "Blockchain and cryptocurrency, Insurance, Cryptocurrency",
     "Founded": "2021",
@@ -643,7 +643,7 @@
   },
   {
     "Name": "Advanon",
-    "Website": "https://app.dealroom.co/companies/advanon",
+    "Website": "https://advanton.com/",
     "Description": "Advanon is an online platform where SMEs can find funds for their short-term financing needs by selling invoices to financial investors.",
     "Industry": "Financial services, Finance, Financial technology",
     "Founded": "2015",
@@ -655,8 +655,8 @@
   },
   {
     "Name": "BRD (formerly breadwallet)",
-    "Website": "https://globalventuring.com/corporate/coinbase-buys-brd/",
-    "Description": "The most renowned iPhone bitcoin wallet, including an Android app. Breadwallet allows the users to have complete control over their funds along with security and privacy features. The interface of the wallet is highly appreciated and helps in preventing bitcoin theft.",
+    "Website": "https://www.brd.ro/",
+    "Description": "The most renowned i Phone bitcoin wallet, including an Android app. Breadwallet allows the users to have complete control over their funds along with security and privacy features. The interface of the wallet is highly appreciated and helps in preventing bitcoin theft.",
     "Industry": "Cryptocurrency, Virtual currency, Mobile payment",
     "Founded": "2015",
     "Funding": "$15.0M",
@@ -679,7 +679,7 @@
   },
   {
     "Name": "IRsweep",
-    "Website": "https://optics.org/buyers/company/C000020402",
+    "Website": "https://www.irs.gov/",
     "Description": "IRSweep is a technology research and developing company.",
     "Industry": "Healthcare, Aerospace",
     "Founded": "2014",
@@ -703,7 +703,7 @@
   },
   {
     "Name": "Crypto Storage AG",
-    "Website": "https://opencorporates.com/companies/ch/1329257",
+    "Website": "https://cryptostorage.com/",
     "Description": "flov technologies is a privately owned financial services company.",
     "Industry": "Asset management, Technology, Financial services, Cryptocurrency, Blockchain, Financial services",
     "Founded": "",
@@ -715,7 +715,7 @@
   },
   {
     "Name": "Uepaa AG",
-    "Website": "https://rocketreach.co/mathias-haussmann-email_715032",
+    "Website": "https://www.uepaa.ch/",
     "Description": "guuru is a platform providing AI-powered customer service founded in 2015.",
     "Industry": "Software, Technology, Security, Social commerce, E-commerce, Artificial Intelligence (AI)",
     "Founded": "2012",
@@ -728,7 +728,7 @@
   },
   {
     "Name": "Xapo",
-    "Website": "https://bitcoinmagazine.com/culture/xapo-relocates-corporate-headquarters-privacy-friendly-switzerland-1431723554",
+    "Website": "https://www.xapobank.com/",
     "Description": "Xapo is a Zürich-based company founded in 2013 by Wences Casares.",
     "Industry": "Cryptocurrency wallet, Blockchain, Finance",
     "Founded": "",
@@ -740,7 +740,7 @@
   },
   {
     "Name": "Cradle",
-    "Website": "",
+    "Website": "https://www.cradle.bio/",
     "Description": "Cradle is an AI-powered protein engineering platform founded in 2021 by Stef van Grieken , Elise de Reus and Eli Bixby.",
     "Industry": "Technology, Generative AI, Artificial Intelligence (AI)",
     "Founded": "",
@@ -752,7 +752,7 @@
   },
   {
     "Name": "Teylor AG",
-    "Website": "https://www.teylor.com/en/company/",
+    "Website": "https://www.teylor.com/",
     "Description": "Platform providing the fastest and most comfortable SME loans.",
     "Industry": "Technology, Finance, Software as a service (SaaS)",
     "Founded": "2018",

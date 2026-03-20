@@ -1,7 +1,7 @@
 [
   {
     "Name": "Vungle",
-    "Website": "https://gamebiz.jp/news/391051",
+    "Website": "https://vungle.com/",
     "Description": "Vungle (Vungle, Inc.) is startup which powers video advertisements inside of mobile apps and games.",
     "Industry": "Software, Technology, Software development",
     "Founded": "",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Integriculture Inc.",
-    "Website": "https://integriculture.com/en/company/",
+    "Website": "https://integriculture.com/",
     "Description": "Integriculture is a Japanese cellular agriculture company making lab grown foie gras and other clean meat and cellular agriculture products. The company was founded in on October 23, 2015 and is located in Tokyo, Japan.",
     "Industry": "Engineering, Cell-based meat, Plant-based meat",
     "Founded": "",
@@ -25,7 +25,7 @@
   },
   {
     "Name": "Uniphore",
-    "Website": "",
+    "Website": "https://www.uniphore.com/",
     "Description": "An Indian artificial intelligence company creating conversational AI technology",
     "Industry": "Artificial Intelligence (AI), Customer service, Automation",
     "Founded": "",
@@ -37,8 +37,8 @@
   },
   {
     "Name": "IoTium",
-    "Website": "https://us.nttdata.com/en/news/press-release/2019/july/ntt-data-invites-technology-startups-to-enter-its-10th-annual-open-innovation-contest",
-    "Description": "IoTium is a provider of secure managed software-defined network infrastructure.",
+    "Website": "",
+    "Description": "Io Tium is a provider of secure managed software-defined network infrastructure.",
     "Industry": "Cloud computing, Internet of things (IoT), Information infrastructure",
     "Founded": "",
     "Funding": "$30.4M",
@@ -61,8 +61,8 @@
   },
   {
     "Name": "AxelSpace",
-    "Website": "https://japan-dev.com/companies/axelspace",
-    "Description": "AxelSpace is a company that is developing technology for private microsatellites.",
+    "Website": "https://www.axelspace.com/",
+    "Description": "Axel Space is a company that is developing technology for private microsatellites.",
     "Industry": "Space debris, Space industry, Space colonization",
     "Founded": "2008",
     "Funding": "$72.7M",
@@ -73,7 +73,7 @@
   },
   {
     "Name": "Astroscale",
-    "Website": "https://www.astroscale.com/news/astroscale-japan-selected-by-government-of-japan-for-j-startup-impact-program",
+    "Website": "https://www.astroscale.com/",
     "Description": "Safe and sustainable development of space for the benefit of future generations",
     "Industry": "Satellite, Space industry, Space debris",
     "Founded": "2013",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "AI Medical Service",
-    "Website": "https://en.ai-ms.com/",
+    "Website": "https://aimedicalcentre.com/",
     "Description": "AI Medical Services is an artificial intelligence and healthcare company making software for the early detection of gastrointestinal cancers.",
     "Industry": "Artificial Intelligence (AI), Diagnosis, Radiology",
     "Founded": "2017",
@@ -97,7 +97,7 @@
   },
   {
     "Name": "BlockPunk",
-    "Website": "https://e27.co/startups/blockpunk/",
+    "Website": "https://apply.workable.com/",
     "Description": "A blockchain company that has a platform for its entertainment studio. It is located in Singapore and was founded in 2018.",
     "Industry": "Blockchain and cryptocurrency, Cryptocurrency, Blockchain",
     "Founded": "",
@@ -109,7 +109,7 @@
   },
   {
     "Name": "Talkwalker",
-    "Website": "https://www.talkwalker.com/ja/about-us",
+    "Website": "https://www.talkwalker.com/",
     "Description": "Talkwalker is a social media analytics and monitoring tool.",
     "Industry": "Social media, Cybersecurity, Analytics",
     "Founded": "",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Gengo",
-    "Website": "https://gengo.com/news/startup-better-tokyo-silicon-valley/",
+    "Website": "https://gengo.com/",
     "Description": "Gengo is a Tokyo-based company founded in 2008 by Robert W. Laing.",
     "Industry": "Technology, Translation, Application programming interface (API)",
     "Founded": "2008",
@@ -145,7 +145,7 @@
   },
   {
     "Name": "Visualase",
-    "Website": "https://www.lifesciencemarketresearch.com/emt-database/visualase-acquired",
+    "Website": "https://www.medicaldesignandoutsourcing.com/",
     "Description": "A company developing and manufacture laser and MRI-guided technology products",
     "Industry": "Biology, Biotechnology, Technology",
     "Founded": "",
@@ -157,7 +157,7 @@
   },
   {
     "Name": "GMO Internet Group",
-    "Website": "https://group.gmo/en/news/article/337/",
+    "Website": "https://group.gmo/",
     "Description": "A company developing internet infrastructure, media, and financial technologies.",
     "Industry": "Cryptocurrency, Media, Cryptocurrency mining",
     "Founded": "1991",
@@ -169,7 +169,7 @@
   },
   {
     "Name": "Ineeza",
-    "Website": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8004267/",
+    "Website": "https://www.ineeza.com/",
     "Description": "Ineeza is a company founded in 2015 by Tetsuro Takemoto.",
     "Industry": "Technology, Blockchain, E-commerce",
     "Founded": "2015",
@@ -181,7 +181,7 @@
   },
   {
     "Name": "Cryptact",
-    "Website": "https://www.cryptact.com/en/news/pr-support-for-Canada",
+    "Website": "https://www.cryptact.com/",
     "Description": "Cryptact is a company founded in 2018 by Masuda Shunsuke.",
     "Industry": "Cryptocurrency, Blockchain, Personal finance",
     "Founded": "2018",
@@ -193,8 +193,8 @@
   },
   {
     "Name": "Mujin",
-    "Website": "https://mujin-corp.com/company",
-    "Description": "Mujin is a Tokyo, Japan-based technology company offering a platform to facilitate the autonomous movement of robots and industrial equipment The company's platform MujinController leverages a real-time digital twin and provides a suite of perception, planning, and control algorithms.",
+    "Website": "https://mujin-corp.com/",
+    "Description": "Mujin is a Tokyo, Japan-based technology company offering a platform to facilitate the autonomous movement of robots and industrial equipment The company's platform Mujin Controller leverages a real-time digital twin and provides a suite of perception, planning, and control algorithms.",
     "Industry": "Robotics, Automotive industry, Manufacturing",
     "Founded": "2011",
     "Funding": "$309.8M",
@@ -205,8 +205,8 @@
   },
   {
     "Name": "LeapMind Inc.",
-    "Website": "https://monoist.itmedia.co.jp/mn/articles/2407/22/news071.html",
-    "Description": "LeapMind is centered on the innovation of machine learning-powered software and hardware solutions for a variety of applications.",
+    "Website": "https://www.leapmindlabs.com/",
+    "Description": "Leap Mind is centered on the innovation of machine learning-powered software and hardware solutions for a variety of applications.",
     "Industry": "Semiconductor, Artificial Intelligence (AI), Computer Vision",
     "Founded": "2012",
     "Funding": "$4.6M",
@@ -217,7 +217,7 @@
   },
   {
     "Name": "ABEJA",
-    "Website": "https://www.abejainc.com/en",
+    "Website": "https://www.abejainc.com/",
     "Description": "Artificial Intelligence company",
     "Industry": "Deep learning, Artificial Intelligence (AI), Software as a service (SaaS)",
     "Founded": "2012",
@@ -229,7 +229,7 @@
   },
   {
     "Name": "SmartNews",
-    "Website": "https://www.smartnews.com/en",
+    "Website": "https://www.smartnews.com/",
     "Description": "Operator of a news platform intended to discover and deliver the latest trending news stories.",
     "Industry": "Artificial Intelligence (AI), News, Machine learning",
     "Founded": "2012",
@@ -241,7 +241,7 @@
   },
   {
     "Name": "Scalix",
-    "Website": "https://japan.cnet.com/company/20170106/",
+    "Website": "https://www.scalix.io/",
     "Description": "Scalix provides email, group calendaring and other collaborative software that enables users to reduce cost of ownership.",
     "Industry": "Social messaging, Technology, Communication software",
     "Founded": "",
@@ -253,7 +253,7 @@
   },
   {
     "Name": "Preferred Networks",
-    "Website": "https://japan-dev.com/companies/preferred-networks",
+    "Website": "https://preferredhotels.com/",
     "Description": "Preferred Networks is a software development company integrating machine learning technologies to the applications of the Internet of Things (IoT).",
     "Industry": "Software, Internet of things (IoT), Machine learning",
     "Founded": "2014",
@@ -278,7 +278,7 @@
   },
   {
     "Name": "ALE Co., Ltd",
-    "Website": "https://star-ale.com/en/company/",
+    "Website": "https://star-ale.com/",
     "Description": "ALE is a space startup company.",
     "Industry": "Space industry, Space debris, Aerospace",
     "Founded": "2011",
@@ -290,7 +290,7 @@
   },
   {
     "Name": "ELIIY Power Co., Ltd.",
-    "Website": "https://www.eliiypower.co.jp/english",
+    "Website": "https://www.eliiypower.co.jp/",
     "Description": "ELIIY Power Co., Ltd. is a producer and distributor of energy storage systems",
     "Industry": "Manufacturing, Energy industry",
     "Founded": "2006",
@@ -302,7 +302,7 @@
   },
   {
     "Name": "ZMP INC.",
-    "Website": "https://www.azorobotics.com/Suppliers.aspx?SupplierID=864",
+    "Website": "https://zmpus.com/",
     "Description": "ZMP INC. is a Tokyo-based company founded in 2001 by Hisashi Taniguchi.",
     "Industry": "Logistics, Robotics, Automotive industry",
     "Founded": "2001",
@@ -314,7 +314,7 @@
   },
   {
     "Name": "Meltin MMI",
-    "Website": "https://japan-dev.com/companies/meltin-mmi",
+    "Website": "",
     "Description": "MELTIN MMI describes itself as \"developing Cyborg Technology that connects bodies with machines.\" The company's products examine biosignals to produce highly accurate real time analyses of body movements. Their MELTANT-? cyborg is a robotic hand model which is used by a human user to create motions as similar as possible to our own hands while adding features such as enhanced flexibility, speed, strength, power, and accuracy. The cyborgs can be operated by a human user wearing the robotic devices, or remotely, even from overseas, thanks to the MELTIN MMI servers. While creating the MELTANT hand was the primary goal of the company, it has now set its sights on other modalities beyond movement, such as vision.",
     "Industry": "Robotics, Technology, Big data",
     "Founded": "2013",
@@ -326,7 +326,7 @@
   },
   {
     "Name": "Paidy",
-    "Website": "https://fintechmagazine.com/company/paidy",
+    "Website": "https://paidy.com/",
     "Description": "Paidy is a Minato, Tokyo-based developer of a buy now, pay later platform and related financial services.",
     "Industry": "E-commerce, Financial technology, Payment system",
     "Founded": "2014",
@@ -338,8 +338,8 @@
   },
   {
     "Name": "MPP Global",
-    "Website": "https://www.mppglobal.com/us/contact-us/",
-    "Description": "Accelerate revenues with digital intelligence. Cloud Identity Management CRM & eCommerce",
+    "Website": "https://www.mppglobal.com/",
+    "Description": "Accelerate revenues with digital intelligence. Cloud Identity Management CRM & e Commerce",
     "Industry": "Business software, Business intelligence (BI), CRM",
     "Founded": "2000",
     "Funding": "$30.5M",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Healios",
-    "Website": "https://www.healios.co.jp/en/",
+    "Website": "https://www.healios.co.jp/",
     "Description": "Healios is a biotechnology company developing stem cell regenerative medicine therapies for the treatment of retinal and age-related macular diseases.",
     "Industry": "Healthcare, Regenerative medicine, Cell therapy",
     "Founded": "2011",
@@ -364,7 +364,7 @@
   {
     "Name": "QunaSys",
     "Website": "https://qunasys.com/",
-    "Description": "QunaSys is a Bunkyo, Tokyo-based information technology company.",
+    "Description": "Quna Sys is a Bunkyo, Tokyo-based information technology company.",
     "Industry": "Computer Software, Software, Technology",
     "Founded": "2018",
     "Funding": "$2.8M",
@@ -388,7 +388,7 @@
   },
   {
     "Name": "Spike",
-    "Website": "https://japan-dev.com/companies/spike-studio",
+    "Website": "https://spike.legoeducation.com/",
     "Description": "Spike is a Herzliya, Isreal-based software development company offering an AI-powered email platform featuring a chat-like interface with voice calls, video calls, group collaboration, advanced search, priority inbox, and file management.",
     "Industry": "Professional services, Artificial Intelligence (AI), Chat (industry)",
     "Founded": "",
@@ -400,7 +400,7 @@
   },
   {
     "Name": "Sensyn Robotics",
-    "Website": "https://www.sensyn-robotics.com/en",
+    "Website": "https://www.sensyn-robotics.com/",
     "Description": "Sensyn Robotics is a Japan-based robotics company.",
     "Industry": "Technology, Robotics, Information technology",
     "Founded": "2015",
@@ -424,7 +424,7 @@
   },
   {
     "Name": "SmartHR",
-    "Website": "https://smarthr.co.jp/en/",
+    "Website": "https://smarthr.co.jp/",
     "Description": "Developer of a cloud HR software designed to help automate social insurance and employment insurance procedures.",
     "Industry": "Software as a service (SaaS), Technology",
     "Founded": "2013",
@@ -436,7 +436,7 @@
   },
   {
     "Name": "Mevion Medical Systems",
-    "Website": "https://mevion.com/contact",
+    "Website": "https://mevion.com/",
     "Description": "Mevion Medical Systems is a company developing radiation therapies for cancer treatment founded in 2004 by Tina Tianning Yu.",
     "Industry": "Healthcare, Biomedical engineering, Engineering",
     "Founded": "2004",
@@ -448,7 +448,7 @@
   },
   {
     "Name": "Datance",
-    "Website": "https://parsers.vc/startup/datance.ai/",
+    "Website": "https://datagence.io/",
     "Description": "Datance is a company that provides enterprises with the worlds first fully-managed, code-free, data analyst friendly data management and analytics solution.",
     "Industry": "Business intelligence (BI), Analytics, Data visualization",
     "Founded": "2020",
@@ -460,7 +460,7 @@
   },
   {
     "Name": "Preferred Networks, Inc",
-    "Website": "https://www.preferred.jp/en",
+    "Website": "https://www.preferred.jp/",
     "Description": "Preferred Networks is a company that develops the applications of deep learning and other advanced technologies.",
     "Industry": "Technology, Computer network, Artificial Intelligence (AI)",
     "Founded": "2014",
@@ -472,7 +472,7 @@
   },
   {
     "Name": "Credify",
-    "Website": "https://www.prnewswire.com/news-releases/credify-announces-seed-investment-by-beenext-and-deepcore-301005787.html",
+    "Website": "https://credifyonlinebnk.com/",
     "Description": "Credify - Delivering the world's leading embedded finance platform. Our solution enables financial industry participants to connect with consumers at the right time in the right way.",
     "Industry": "Online marketplace, Blockchain, Recommender system",
     "Founded": "",
@@ -508,7 +508,7 @@
   },
   {
     "Name": "AI inside",
-    "Website": "https://inside.ai/en/about",
+    "Website": "https://inside.ai/",
     "Description": "AI inside Inc. is a Tokyo-based firm engaged in artificial intelligence (AI) solutions.",
     "Industry": "Artificial Intelligence (AI), Natural language processing (NLP), Technology",
     "Founded": "2023",
@@ -520,7 +520,7 @@
   },
   {
     "Name": "GROOVE X",
-    "Website": "https://droidage.com/company/groove-x/",
+    "Website": "https://www.groovex.band/",
     "Description": "GROOVE X is a Japanese robotics company.",
     "Industry": "Deep learning, Artificial Intelligence (AI), Technology",
     "Founded": "",
@@ -532,8 +532,8 @@
   },
   {
     "Name": "CureApp",
-    "Website": "https://japan-dev.com/companies/cureapp",
-    "Description": "CureApp is a company that is recreating treatment with software.",
+    "Website": "https://cureapp.com/",
+    "Description": "Cure App is a company that is recreating treatment with software.",
     "Industry": "Healthcare, Internet of things (IoT), Digital therapeutics",
     "Founded": "2014",
     "Funding": "$48.0M",
@@ -544,7 +544,7 @@
   },
   {
     "Name": "Umami Bioworks",
-    "Website": "https://asia.nikkei.com/business/biotechnology/singapore-lab-grown-seafood-startup-to-launch-japan-plant-in-2027",
+    "Website": "https://careers.umamibioworks.com/",
     "Description": "Umami Bioworks (previously known as Umami Meats) is a Singapore-based food technology company producing cultivated fish.",
     "Industry": "Food technology, Cultured meat, Machine learning",
     "Founded": "",
@@ -556,7 +556,7 @@
   },
   {
     "Name": "Orb (loyalty program company)",
-    "Website": "https://golden.com/query/list-of-companies-in-sbi-groups-investment-portfolio-RJK4",
+    "Website": "https://www.orb.com/",
     "Description": "Orb is a Tokyo-based company founded in 2014 by Masaaki Nakatsu.",
     "Industry": "Insurance, Database, Loyalty program",
     "Founded": "2014",
@@ -568,7 +568,7 @@
   },
   {
     "Name": "Tier IV",
-    "Website": "https://www.prnewswire.com/news-releases/tier-iv-unveils-ai-based-level-4-autonomous-driving-accelerating-global-platform-expansion-across-japan-us-and-europe-302714131.html",
+    "Website": "https://tier4.jp/",
     "Description": "Tier IV is a mobility company founded in 2015.",
     "Industry": "Mobility",
     "Founded": "2015",
@@ -580,8 +580,8 @@
   },
   {
     "Name": "LayerX",
-    "Website": "https://www.thesaasnews.com/news/layerx-raises-100-million-in-series-b",
-    "Description": "Evaluate Everything. LayerX Inc is a company who is focusing on Blockchain Technology. Joint venture between Gunosy Inc and AnyPay Inc.",
+    "Website": "https://layerx.co.jp/",
+    "Description": "Evaluate Everything. LayerX Inc is a company who is focusing on Blockchain Technology. Joint venture between Gunosy Inc and Any Pay Inc.",
     "Industry": "Artificial Intelligence (AI), Software as a service (SaaS)",
     "Founded": "2018",
     "Funding": "$100.0M",
@@ -592,7 +592,7 @@
   },
   {
     "Name": "Bespoke",
-    "Website": "https://www.be-spoke.io/en/home",
+    "Website": "https://www.be-spoke.io/",
     "Description": "Bespoke is a company that offers an AI Powered Chatbots.",
     "Industry": "Artificial Intelligence (AI), Communication, Machine learning",
     "Founded": "2015",
@@ -606,7 +606,7 @@
   {
     "Name": "EmbodyMe",
     "Website": "https://embodyme.com/",
-    "Description": "EmbodyMe is a Tokyo-based artificial intelligence company developing technology for synthetic media, including for video chat, live stream, and video production.",
+    "Description": "Embody Me is a Tokyo-based artificial intelligence company developing technology for synthetic media, including for video chat, live stream, and video production.",
     "Industry": "Artificial Intelligence (AI), Video production, Synthetic Media",
     "Founded": "",
     "Funding": "$2.9M",
@@ -617,7 +617,7 @@
   },
   {
     "Name": "TAGCyx Biotechnologies",
-    "Website": "https://www.jetro.go.jp/en/startup/acceleration/companies/tagcyxbiotechnologies.html",
+    "Website": "https://login.ionos.com/",
     "Description": "TAGCyx Biotechnologies is an oligonucleotide Drug Discovery Platform founded by Hirao Ichiro.",
     "Industry": "Biology, Drug discovery, Biomedical engineering",
     "Founded": "2007",
@@ -629,7 +629,7 @@
   },
   {
     "Name": "Digital Media Professionals Inc.",
-    "Website": "",
+    "Website": "https://www.dmprof.com/",
     "Description": "Digital Media Professionals Inc. is an artificial intelligence and robotics company.",
     "Industry": "Machine learning, Artificial Intelligence (AI), Technology",
     "Founded": "",
@@ -641,7 +641,7 @@
   },
   {
     "Name": "Kibiro",
-    "Website": "https://www.roboticmagazine.com/androids/kibiro-personal-robot",
+    "Website": "https://www.kibüro.com/",
     "Description": "Kibiro is a small fishing village is controlled by the Bunyoro Kingdom and it is situated along the Southeastern shores of Lake Albert in Uganda where people do fishing, process and sell salt. Kibiro is different from other fishing villages because of its salt gardens.",
     "Industry": "Artificial Intelligence (AI), Robotics, Automation",
     "Founded": "",
@@ -653,7 +653,7 @@
   },
   {
     "Name": "Modalis Therapeutics Corporation",
-    "Website": "https://www.preqin.com/data/profile/asset/modalis-therapeutics-corporation/322006",
+    "Website": "http://modalis.nc.e-2.jp/",
     "Description": "Modalis Therapeutics Corporation is a genome Editing Tools founded by Haru MORITA.",
     "Industry": "Therapeutics, Biomedical engineering, Genetics",
     "Founded": "2016",
@@ -665,7 +665,7 @@
   },
   {
     "Name": "Andpad",
-    "Website": "https://www.tokyodev.com/companies/andpad",
+    "Website": "https://andpad.jp/",
     "Description": "A company in Tokyo, Japan that provides a construction management application for users throughout Japan.",
     "Industry": "Construction",
     "Founded": "2012",
@@ -689,7 +689,7 @@
   },
   {
     "Name": "Liquid Global",
-    "Website": "https://www.marketbeat.com/instant-alerts/filing-capitolis-liquid-global-markets-llc-invests-170-million-in-orix-corp-ads-ix-2026-03-16/",
+    "Website": "https://www.liquid.com/",
     "Description": "Liquid Global is a company offering a cryptocurrency trading platform founded in 2014.",
     "Industry": "Blockchain and cryptocurrency, Cryptocurrency exchange, Cryptocurrency",
     "Founded": "2014",
@@ -701,7 +701,7 @@
   },
   {
     "Name": "Aeronext Inc.",
-    "Website": "https://corporate.jp.canon/en/profile/rb/news/cvc/20241122-01",
+    "Website": "https://aeronext.com/",
     "Description": "Aeronext Inc. is a Tokyo-based company founded in 2017.",
     "Industry": "Electronics, Aerospace, Drones",
     "Founded": "2017",
@@ -713,8 +713,8 @@
   },
   {
     "Name": "JustInCase",
-    "Website": "https://justincase-tech.com/press/news-en/20250929",
-    "Description": "JustInCase is a Tokyo-based insurance technology company develop peer-to-peer insurance and artificial intelligent-based health insurance products.",
+    "Website": "https://justincase-tech.com/",
+    "Description": "Just InCase is a Tokyo-based insurance technology company develop peer-to-peer insurance and artificial intelligent-based health insurance products.",
     "Industry": "Artificial Intelligence (AI), Insurance Technology, Finance",
     "Founded": "2016",
     "Funding": "$1.7M",
@@ -725,7 +725,7 @@
   },
   {
     "Name": "Novars",
-    "Website": "https://www.startupranking.com/startup/novars",
+    "Website": "https://www.novars.space/",
     "Description": "Novars is a Tokyo-based developer of connected batteries.",
     "Industry": "Internet of things (IoT), Energy storage, Battery",
     "Founded": "2015",
@@ -737,7 +737,7 @@
   },
   {
     "Name": "Freee",
-    "Website": "https://japan-dev.com/companies/freee",
+    "Website": "https://freerepublic.com/",
     "Description": "Free is a Tokyo-based online accounting software developer which syncs with bank accounts and automatically categorizes entries to create financial reports.",
     "Industry": "Cloud computing, Software, Software as a service (SaaS)",
     "Founded": "2012",
@@ -749,7 +749,7 @@
   },
   {
     "Name": "Six Apart",
-    "Website": "https://directory.startupluxembourg.com/companies/six_apart",
+    "Website": "https://sixpenny.com/",
     "Description": "Six Apart is a Tokyo-based company founded in 2003.",
     "Industry": "Software, Technology",
     "Founded": "2003",
@@ -761,7 +761,7 @@
   },
   {
     "Name": "Soundraw",
-    "Website": "https://soundraw.io/ai-music-generator/content-creator-bgm",
+    "Website": "https://soundraw.io/",
     "Description": "Soundraw is a music generator for creators.",
     "Industry": "Artificial Intelligence (AI), Technology, Deep learning",
     "Founded": "2020",
@@ -773,7 +773,7 @@
   },
   {
     "Name": "Helical Fusion",
-    "Website": "https://www.helicalfusion.com/en/company",
+    "Website": "https://www.helicalfusion.com/",
     "Description": "Helical Fusion is a Tokyo-based deep-tech company developing advanced nuclear fusion reactors using helical coil technology. Spun out from Japan’s National Institute for Fusion Science, it focuses on delivering safe, sustainable, and scalable clean energy solutions for global climate and energy challenges.",
     "Industry": "Renewable energy, Fusion power, Deep Tech",
     "Founded": "2021",
@@ -785,7 +785,7 @@
   },
   {
     "Name": "Robosoft Technologies",
-    "Website": "https://www.robosoftin.com/about",
+    "Website": "https://www.robosoftin.com/",
     "Description": "Robosoft Technologies is a company founded in 1996.",
     "Industry": "Software, Technology, Cloud computing",
     "Founded": "",
@@ -809,8 +809,8 @@
   },
   {
     "Name": "SanBio",
-    "Website": "https://www.sanbio.com/en/about/overview/",
-    "Description": "SanBio is a regenerative Cell Medicine founded in 2001 by Hideyuki Okano.",
+    "Website": "https://www.sanbio.com/",
+    "Description": "San Bio is a regenerative Cell Medicine founded in 2001 by Hideyuki Okano.",
     "Industry": "Pharmaceutical industry, Cell therapy, Healthcare",
     "Founded": "2001",
     "Funding": "$20.0M",

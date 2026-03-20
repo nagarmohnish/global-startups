@@ -1,7 +1,7 @@
 [
   {
     "Name": "DJI",
-    "Website": "https://www.dji.com/mobile",
+    "Website": "https://www.dji.com/",
     "Description": "DJI is a Shenzen, China-based company developing and manufacturing drone and camera technology.",
     "Industry": "Agriculture, Aeronautics, Photography",
     "Founded": "2006",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "BGI",
-    "Website": "https://en.genomics.cn/en-about.html",
+    "Website": "https://www.bgi-international.com/",
     "Description": "BGI is a life science and genomics organization following a development model of research, production and application.",
     "Industry": "Artificial Intelligence (AI), Food technology, Microbiome",
     "Founded": "1999",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "Autel Robotics",
-    "Website": "https://www.autelrobotics.com/about-us/",
+    "Website": "https://www.autelrobotics.com/",
     "Description": "Autel Robotics is a company offering drones for capturing and streaming high-quality and thermal video.",
     "Industry": "E-commerce, Vertical Takeoff and Landing (VTOL), Security",
     "Founded": "2014",
@@ -38,7 +38,7 @@
   },
   {
     "Name": "ROYBI",
-    "Website": "https://startupsavant.com/startup-center/roybi",
+    "Website": "https://roybi.com/",
     "Description": "Roybi Robot is an AI-powered companion robot for young children in language learning & early childhood education.",
     "Industry": "Natural language processing (NLP), Educational Technology, Robotics",
     "Founded": "2017",
@@ -50,7 +50,7 @@
   },
   {
     "Name": "SHEIN",
-    "Website": "https://futurestartup.com/2023/11/06/a-brief-history-of-shein/",
+    "Website": "https://www.shein.com/",
     "Description": "SHEIN is a chinese online fashion retailer founded in 2012 by Chris Xu.",
     "Industry": "Shopping, Marketplace, Fashion",
     "Founded": "2012",
@@ -63,7 +63,7 @@
   },
   {
     "Name": "FTX (gaming company)",
-    "Website": "https://golden.com/wiki/FTX_(gaming_company)-8JX5Y3Y",
+    "Website": "https://ftxgames.com/",
     "Description": "FTX is an online, mobile game developer for fantasy sports.",
     "Industry": "Video game industry, Gaming, Media and Entertainment",
     "Founded": "",
@@ -75,7 +75,7 @@
   },
   {
     "Name": "BGI Genomics",
-    "Website": "https://finance.yahoo.com/quote/300676.SZ/",
+    "Website": "https://www.bgi.com/",
     "Description": "A life sciences and genomics organization. It was founded in 1999 and is located in Shenzhen, China.",
     "Industry": "Genomics, Genetic engineering, Mpox",
     "Founded": "1999",
@@ -101,7 +101,7 @@
   },
   {
     "Name": "UBTech Robotics",
-    "Website": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_11247031.html",
+    "Website": "https://theubtech.com/",
     "Description": "UBTech Robotics is a company designing, manufacturing and commercializing humanoid robots.",
     "Industry": "Robotics, Domestic robot, Artificial Intelligence (AI)",
     "Founded": "2012",
@@ -113,8 +113,8 @@
   },
   {
     "Name": "RoboSense LiDAR",
-    "Website": "https://www.robosense.ai/en/news-show-1886",
-    "Description": "RoboSense LiDar (Suteng Innovation Technology Co., Ltd.) is a company that provides AI algorithms and IC chipsets, Smart LiDAR Sensor Systems incorporating LiDAR sensors.",
+    "Website": "https://www.robosense.ai/",
+    "Description": "Robo Sense Li Dar (Suteng Innovation Technology Co., Ltd.) is a company that provides AI algorithms and IC chipsets, Smart LiDAR Sensor Systems incorporating LiDAR sensors.",
     "Industry": "Analytics, Technology, Robotics",
     "Founded": "2014",
     "Funding": "$45M",
@@ -125,7 +125,7 @@
   },
   {
     "Name": "Shenzhen Yuejiang Technology Co., Ltd.",
-    "Website": "http://dobot.sz-ying.com/introduce/",
+    "Website": "http://dobot.sh-huayun.com/",
     "Description": "Shenzhen Yuejiang Technology Co., Ltd. is a Guangdong, China-based robotics and industrial automation company.",
     "Industry": "Industrial automation, Electronics, Robotics",
     "Founded": "2015",
@@ -137,7 +137,7 @@
   },
   {
     "Name": "Dorabot",
-    "Website": "https://www.weforum.org/organizations/dorabot/",
+    "Website": "https://dorabot.io/",
     "Description": "Dorabot is a Shenzhen-based company that provides AI-powered logistic solutions.",
     "Industry": "Software, Robotics, Logistics",
     "Founded": "2014",
@@ -149,7 +149,7 @@
   },
   {
     "Name": "Flypro",
-    "Website": "https://search.therobotreport.com/listings/shenzhen-flypro-aerospace-tech/",
+    "Website": "https://www.flypro.com/",
     "Description": "Flypro is a Shenzhen, Guangdong, China-based artificial intelligence company.",
     "Industry": "Information technology, Artificial Intelligence (AI), Technology",
     "Founded": "2012",
@@ -162,7 +162,7 @@
   },
   {
     "Name": "Simtoo",
-    "Website": "https://simtoo.en.ec21.com/company_info.html",
+    "Website": "https://simtoo.en.ec21.com/",
     "Description": "Simtoo is a drone manufacturing company founded in 2015 by Aaron Zhang.",
     "Industry": "Autonomous System, Artificial Intelligence (AI), Machine learning",
     "Founded": "2015",
@@ -174,7 +174,7 @@
   },
   {
     "Name": "GJS",
-    "Website": "https://www.preqin.com/data/profile/asset/gjs-co---ltd-/250762",
+    "Website": "https://www.gjsrobot.com/",
     "Description": "GJS is a Shenzhen, Guangdong, China-based artificial intelligence and robotics company.",
     "Industry": "Robotics, Consumer, Technology",
     "Founded": "2015",
@@ -198,7 +198,7 @@
   },
   {
     "Name": "Shenzhen Feima Robotics Technology Co., Ltd.",
-    "Website": "https://fcc.report/FCC-ID/2a7jasrtk100a/6718411.pdf",
+    "Website": "https://www.feimarobotics.net/",
     "Description": "Shenzhen Feima Robotics Technology Co., Ltd. is a robotics company.",
     "Industry": "Information Technology & Services, Robotics, Technology",
     "Founded": "",
@@ -210,7 +210,7 @@
   },
   {
     "Name": "Shenzhen Raybow Optoelectronics",
-    "Website": "https://raybowopto.en.alibaba.com/company_profile.html",
+    "Website": "https://raybowopto.en.alibaba.com/",
     "Description": "Shenzhen Raybow Optoelectronics is a China-based technology company that manufactures high-power semiconductor laser products.",
     "Industry": "Photonics, Retail, Hardware",
     "Founded": "",
@@ -222,7 +222,7 @@
   },
   {
     "Name": "Malong Technologies",
-    "Website": "https://malongtech.com/en/home.html",
+    "Website": "https://malongtech.com/",
     "Description": "Malong Technologies is a company founded by Dinglong Huang.",
     "Industry": "Software, Information technology, Computer Vision",
     "Founded": "",
@@ -246,7 +246,7 @@
   },
   {
     "Name": "Roadstar.ai",
-    "Website": "https://www.uwseba.com/roadstar-ai",
+    "Website": "https://www.roadstar.com/",
     "Description": "Roadstar.ai is an AI company that specializes in the research, development, and implementation of Level 4 autonomous driving technologies.",
     "Industry": "Artificial Intelligence (AI), Machine learning, Technology",
     "Founded": "2017",
@@ -258,7 +258,7 @@
   },
   {
     "Name": "Royole",
-    "Website": "https://www.oled-info.com/royole",
+    "Website": "https://www.oled-info.com/",
     "Description": "Royole Corporation is a company developing and manufacturing flexible displays, flexible sensors, and smart devices.",
     "Industry": "Smart home, Mobile device, Metamaterial",
     "Founded": "2012",
@@ -270,7 +270,7 @@
   },
   {
     "Name": "AptaCam",
-    "Website": "https://www.twoinstitute.com/ent/aptacam/",
+    "Website": "http://www.aptaca.eu/",
     "Description": "A company that builds biosensors for HPV and other infectious disease detection.",
     "Industry": "Diagnostic tools, Healthcare, Medical device",
     "Founded": "2014",
@@ -282,7 +282,7 @@
   },
   {
     "Name": "YH Global",
-    "Website": "https://www.trueup.io/co/yh-global",
+    "Website": "https://www.yhglobal.com/",
     "Description": "YH Global or Yuehai Global is a supply chain management and logistics company providing transport distribution, international freight forwarding and commerce logistics services.",
     "Industry": "Supply chain management, Logistics, Freight transport",
     "Founded": "1997",
@@ -294,7 +294,7 @@
   },
   {
     "Name": "China United Smart Technology (SZ) Co., Ltd.",
-    "Website": "https://www.cnverify.com/company/China-United-Smart-Technology-Sz-Co-Ltd",
+    "Website": "https://www.registrationchina.com/",
     "Description": "China United Smart Technology (SZ) Co., Ltd. is a company that specializes in research and development, production of intelligent image robots.",
     "Industry": "Artificial Intelligence (AI), Robotics, Image recognition",
     "Founded": "2003",
@@ -318,7 +318,7 @@
   },
   {
     "Name": "Cfuas",
-    "Website": "https://peterson.ventureradar.com/organisation/THE+LIGHT+AIRCRAFT+COMPANY+LTD/afdb4761-5337-48f6-8554-eec82a6d07e6/",
+    "Website": "http://www.cfuas.net/",
     "Description": "Cfuas, a company known as Shenzhen Changfeng Information Technology Company Limited, is a company that provides application solutions for the industrial-grade UAV systems.",
     "Industry": "Military robot, Artificial Intelligence (AI), Machine learning",
     "Founded": "",
@@ -330,7 +330,7 @@
   },
   {
     "Name": "Codemao﻿",
-    "Website": "https://equalocean.com/company/codemao",
+    "Website": "https://www.codemao.cn/",
     "Description": "Codemao is a Shenzhen-based developer of an online and mobile application for teaching children programming.",
     "Industry": "B2C, Educational Technology, Programming",
     "Founded": "2015",
@@ -342,7 +342,7 @@
   },
   {
     "Name": "Taobotics",
-    "Website": "https://shop.taobotics.com/pages/our-company?srsltid=AfmBOoqacXskxrKy-BFrzwb1XhlBiF7swr4zwaSTb9N4cAza5Kpg1PhW",
+    "Website": "https://www.taobotics.com/",
     "Description": "Taobotics is a company in China.",
     "Industry": "Manufacturing, Artificial Intelligence (AI), Computer Software",
     "Founded": "2018",
@@ -354,7 +354,7 @@
   },
   {
     "Name": "Soocas",
-    "Website": "https://soocastech.com/index.html?lan=en",
+    "Website": "https://soocastech.com/",
     "Description": "Founded in 2015, SOOCAS is guided with the intention to simplify personal care routines, SOOCAS strives to provide innovative and user-centric products in order to encourage people to gain confidence while living a simpler life.",
     "Industry": "Pharmaceutical industry, Shopping",
     "Founded": "2015",
@@ -366,7 +366,7 @@
   },
   {
     "Name": "Shenzhen Neoway Technology Co.,Ltd.",
-    "Website": "https://en.neoway.com/about-neoway.html",
+    "Website": "https://www.neoway.com/",
     "Description": "Shenzhen Neoway Technology Co.,Ltd. is a Shenzhen-based company founded in 2006.",
     "Industry": "Internet of things (IoT), Communications infrastructure",
     "Founded": "2006",
@@ -378,7 +378,7 @@
   },
   {
     "Name": "Youibot Robotics Co., Ltd.",
-    "Website": "https://en.youibot.com/",
+    "Website": "https://youibotindonesia.com/",
     "Description": "Youibot is the innovative high-tech company with robot research and development as its core. Youibot Robotics has core algorithms for mobile robots with completely independent intellectual property rights and has a lot of experience in unmanned transformation of business scenarios.",
     "Industry": "Automation, Robotics, Technology",
     "Founded": "",
@@ -390,8 +390,8 @@
   },
   {
     "Name": "ICarbonX",
-    "Website": "https://www.whatchina.cn/icarbonx.html",
-    "Description": "iCarbonX is a company building an artificial intelligence platform for health data.",
+    "Website": "https://www.zoom.com/",
+    "Description": "i CarbonX is a company building an artificial intelligence platform for health data.",
     "Industry": "Technology, Machine learning, Artificial Intelligence (AI)",
     "Founded": "2015",
     "Funding": "$45.0M",
@@ -402,7 +402,7 @@
   },
   {
     "Name": "Shenzhen Smart Drone",
-    "Website": "https://super-uav.en.made-in-china.com/company-Shenzhen-Smart-Drone-UAV-Co-Ltd.html",
+    "Website": "http://x-droners.com/",
     "Description": "Shenzhen Smart Drone is a drone provider in China.",
     "Industry": "Electronics, Technology, Consumer goods",
     "Founded": "2014",
@@ -414,8 +414,8 @@
   },
   {
     "Name": "MicroMultiCopter Aero Technology Co., Ltd",
-    "Website": "https://m.globalsources.com/shenzhen-micromulticopter/homepage_6008849726834.htm",
-    "Description": "MicroMultiCopter Aero Technology Co., Ltd is a company founded by Lu Zhihui.",
+    "Website": "https://mmcuav01.en.alibaba.com/",
+    "Description": "Micro Multi Copter Aero Technology Co., Ltd is a company founded by Lu Zhihui.",
     "Industry": "Artificial Intelligence (AI), Computer, Aerospace",
     "Founded": "2008",
     "Funding": "$30.0M",
@@ -426,7 +426,7 @@
   },
   {
     "Name": "Shenzhen Crystal Video Technology Co., Ltd.",
-    "Website": "https://www.gotosuppliers.com/supplier/cv-hd/profile.html",
+    "Website": "https://www.q-crystal.com/",
     "Description": "Shenzhen Crystal Video Technology CO., Ltd. is a wireless video manufacturing company.",
     "Industry": "Hardware, Technology, Telecommunications",
     "Founded": "2010",
@@ -438,7 +438,7 @@
   },
   {
     "Name": "Xunlei",
-    "Website": "https://web.archive.org/web/20201213094842/https://wiki2.org/en/Xunlei",
+    "Website": "https://www.xunlei.com/",
     "Description": "Xunlei is a chinese internet company founded in 2003 by Shenglong Zou.",
     "Industry": "Internet, Wireless router, Telecommunications",
     "Founded": "2003",
@@ -486,7 +486,7 @@
   },
   {
     "Name": "Xingyun B2B",
-    "Website": "https://goldevelopment.com/startups/Xingyun_B2B-MNE8DMM",
+    "Website": "https://www.xingyungroup.com/",
     "Description": "Xingyun B2B is a Shenzhen-based company.",
     "Industry": "E-Commerce",
     "Founded": "2015",
@@ -498,7 +498,7 @@
   },
   {
     "Name": "EngineAI",
-    "Website": "https://en.engineai.com.cn/about-process-se01.html",
+    "Website": "https://en.engineai.com.cn/",
     "Description": "EngineAI, founded in Shenzhen in 2023 by Zhao Tongyang, develops humanoid and intelligent enterprise robotics for industrial and service use. The B2B startup supports global research and operations, backed by AI and robotics tech with multi-channel support and outreach.",
     "Industry": "Artificial Intelligence (AI), Robotics",
     "Founded": "2022",
@@ -510,8 +510,8 @@
   },
   {
     "Name": "Shenzhen MileBot Robotics Co., Ltd.",
-    "Website": "https://www.mile-bot.com/blog/",
-    "Description": "B502, Shenzhen National Engineering Laboratory Building, Nanshan District, Shenzhen, China ... Copyright © Shenzhen MileBot Robotics Co., Ltd. All Rights Reserved ...",
+    "Website": "https://www.mile-bot.com/",
+    "Description": "B502, Shenzhen National Engineering Laboratory Building, Nanshan District, Shenzhen, China ... Copyright © Shenzhen Mile Bot Robotics Co., Ltd. All Rights Reserved ...",
     "Industry": "Robotics, Technology",
     "Founded": "2016",
     "Funding": "",
@@ -522,7 +522,7 @@
   },
   {
     "Name": "Remo Tech Co.,Ltd",
-    "Website": "https://ifdesign.com/en/brands-creatives/company/remo-tech-co-ltd/12909",
+    "Website": "https://coltd.hk/",
     "Description": "Remo Technology Company Limited is a camera company.",
     "Industry": "Technology, Robotics, Consumer electronics",
     "Founded": "",
@@ -534,7 +534,7 @@
   },
   {
     "Name": "ZKS",
-    "Website": "https://www.preqin.com/data/profile/asset/zks/781857",
+    "Website": "http://www.zks.net/",
     "Description": "ZKS is an IoT pharmaceutical company founded in 2015",
     "Industry": "Internet of things (IoT), Healthcare",
     "Founded": "2015",
@@ -546,7 +546,7 @@
   },
   {
     "Name": "Direct Genomics",
-    "Website": "https://www.engineering10.com/CN/Shenzhen/265835963783305/Direct-Genomics",
+    "Website": "https://www.genomics.com/",
     "Description": "Direct Genomics is a digital health company.",
     "Industry": "Genomics",
     "Founded": "2012",
@@ -558,7 +558,7 @@
   },
   {
     "Name": "HEYTEA",
-    "Website": "https://www.worldcoffeeportal.com/news/chinas-heytea-ramps-up-international-expansion-amid-fierce-competition-at-home/",
+    "Website": "https://www.heytea.com/",
     "Description": "HEYTEA is a Shenzhen-based company.",
     "Industry": "AI",
     "Founded": "2012",
@@ -570,7 +570,7 @@
   },
   {
     "Name": "Hive Box",
-    "Website": "https://officesnapshots.com/2025/07/22/hive-box-network-technology-offices-shenzhen/",
+    "Website": "https://hive.com/",
     "Description": "Hive Box is a Shenzhen-based company.",
     "Industry": "E-Commerce",
     "Founded": "2015",
@@ -582,7 +582,7 @@
   },
   {
     "Name": "Lamabang",
-    "Website": "https://www.feedough.com/startup-resources/unicorn-companies-in-shenzhen/",
+    "Website": "",
     "Description": "Lamabang is a company offering an e-commerce platform for mothers founded in 2012.",
     "Industry": "E-commerce",
     "Founded": "2012",
@@ -594,7 +594,7 @@
   },
   {
     "Name": "JMGO",
-    "Website": "https://baike.baidu.com/en/item/JMGO/663334",
+    "Website": "https://jmgo.jp/",
     "Description": "JMGO is a Shenzhen-based company founded in 2011 by Eric Hu.",
     "Industry": "Entertainment, Electronics, Manufacturing",
     "Founded": "2011",
@@ -606,7 +606,7 @@
   },
   {
     "Name": "Zhuiyi Technology",
-    "Website": "https://www.cnverify.com/company/Shenzhen-Zhuiyi-Technology-Co-Ltd",
+    "Website": "",
     "Description": "An artificial intelligence company that develops an AI platform.",
     "Industry": "Machine learning, Technology, Artificial Intelligence (AI)",
     "Founded": "2016",
@@ -618,8 +618,8 @@
   },
   {
     "Name": "GoWild",
-    "Website": "https://www.chinamoneynetwork.com/2018/10/24/chinese-ai-speaker-maker-gowild-raises-22m-in-series-a-round",
-    "Description": "GoWildis a travel-tech platform designed for adventure seekers, explorers, and nature lovers. Discover hidden trails, record your journey, navigate self-camping spots, rent vehicles, and hire expert guides—all in one app.",
+    "Website": "https://gowild.wi.gov/",
+    "Description": "Go Wildis a travel-tech platform designed for adventure seekers, explorers, and nature lovers. Discover hidden trails, record your journey, navigate self-camping spots, rent vehicles, and hire expert guides—all in one app.",
     "Industry": "Hunting, Artificial Intelligence (AI), Technology",
     "Founded": "2017",
     "Funding": "$22.0M",
@@ -630,7 +630,7 @@
   },
   {
     "Name": "Tubatu.com",
-    "Website": "https://canvasbusinessmodel.com/blogs/brief-history/tubatu-com-brief-history",
+    "Website": "http://www.tuba4u.com/",
     "Description": "Tubatu.com is a Shenzhen-based company.",
     "Industry": "Home improvement, Interior design",
     "Founded": "",
@@ -642,7 +642,7 @@
   },
   {
     "Name": "Jusda",
-    "Website": "https://www.eximpedia.app/companies/shenzhen-qianhai-jusda-supply-chain-management/70749278",
+    "Website": "https://www.jusdausa.com/",
     "Description": "Jusda is a business-to-business supply chain management firm based out of Shenzhen, China.",
     "Industry": "Supply chain management",
     "Founded": "2010",
@@ -654,7 +654,7 @@
   },
   {
     "Name": "Shenzhen Qianhai Dasudian Technology Co., Ltd.",
-    "Website": "https://en.sedaily.com/international/2026/03/09/chinas-shenzhen-offers-zero-cost-startup-support-for",
+    "Website": "https://dasudian.com/",
     "Description": "Shenzhen Qianhai Dasudian Technology Co., Ltd. is a Shenzhen-based company founded in 2015 by Jie Di.",
     "Industry": "Information Technology & Services, Big data",
     "Founded": "2015",
@@ -666,7 +666,7 @@
   },
   {
     "Name": "Touna",
-    "Website": "https://www.chinamoneynetwork.com/2015/06/02/chinese-p2p-platform-touna-completes-24m-series-b-round",
+    "Website": "https://www.toluna.com/",
     "Description": "Touna is a Shenzhen-based company founded in 2013 by Yongwu Xian.",
     "Industry": "Finance, Financial services, Peer-to-peer lending",
     "Founded": "2013",
@@ -678,7 +678,7 @@
   },
   {
     "Name": "To8to",
-    "Website": "https://www.tripadvisor.com/Attractions-g297415-Activities-Shenzhen_Guangdong.html",
+    "Website": "https://www.to8to.com/",
     "Description": "A company connecting renovation and decoration contractors with home owners.",
     "Industry": "Manufacturing",
     "Founded": "",
@@ -690,7 +690,7 @@
   },
   {
     "Name": "Dashu Finance",
-    "Website": "https://app.dealroom.co/companies/dashu_finance",
+    "Website": "https://www.dashuf.com/",
     "Description": "Dashu Finance is a Shenzhen-based company.",
     "Industry": "Finance, Financial services, Financial technology",
     "Founded": "2014",
@@ -714,7 +714,7 @@
   },
   {
     "Name": "Rock Space",
-    "Website": "https://www.space.com/11804-nasa-moon-rock-sting-apollo17.html",
+    "Website": "https://www.space.com/",
     "Description": "Rock Space is a company founded by Renqing Zhang.",
     "Industry": "Wi-Fi, Telecommunications, Wireless",
     "Founded": "",
@@ -738,7 +738,7 @@
   },
   {
     "Name": "Nayuki",
-    "Website": "https://www.yicaiglobal.com/news/nayuki-sinks-after-loss-making-chinese-tea-chain-is-booted-out-of-hong-kong-stock-connect",
+    "Website": "https://sachiyonayuki.com/",
     "Description": "Nayuki is a Shenzhen-based company founded in 2015.",
     "Industry": "Delivery/Logistics",
     "Founded": "2015",
@@ -763,7 +763,7 @@
   {
     "Name": "AiDriving",
     "Website": "https://aidriving.com/",
-    "Description": "AiDriving is a Shenzhen-based company.",
+    "Description": "Ai Driving is a Shenzhen-based company.",
     "Industry": "Technology, Artificial Intelligence (AI)",
     "Founded": "2011",
     "Funding": "$14.6M",
@@ -774,7 +774,7 @@
   },
   {
     "Name": "Sinosun Technology",
-    "Website": "https://www.sinosunmesh.com/blog.html",
+    "Website": "https://www.sinosunmesh.com/",
     "Description": "Sinosun Technology is a Shenzhen-based company.",
     "Industry": "Fraud detection, Anti-money laundering (AML)",
     "Founded": "2003",
@@ -798,7 +798,7 @@
   },
   {
     "Name": "Digital China Information Technology Services Company",
-    "Website": "https://bouncewatch.com/explore/startup/d1evcom",
+    "Website": "https://www.digitalchina.com/",
     "Description": "Digital China Information Technology Services Company is a company founded in 1994.",
     "Industry": "Fintech",
     "Founded": "1994",
@@ -810,7 +810,7 @@
   },
   {
     "Name": "Fibocom Wireless",
-    "Website": "https://www.hiredchina.com/companys/fibocom_wireless_1605759885045",
+    "Website": "https://www.fibocom.com/",
     "Description": "Fibocom Wireless is a Shenzhen-based company.",
     "Industry": "Internet of things (IoT), Telecommunications",
     "Founded": "1999",

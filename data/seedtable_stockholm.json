@@ -25,7 +25,7 @@
   },
   {
     "Name": "Klarna",
-    "Website": "https://www.klarna.com/international/about-us/",
+    "Website": "https://www.klarna.com/",
     "Description": "Klarna is a global digital bank and flexible payments provider founded in 2005 by Victor Jacobsson, Sebastian Siemiatkowski and Niklas Adalberth.",
     "Industry": "Credit (finance), E-commerce, Microcredit",
     "Founded": "2005",
@@ -37,7 +37,7 @@
   },
   {
     "Name": "Truecaller",
-    "Website": "https://corporate.truecaller.com/about-us/this-is-truecaller",
+    "Website": "https://www.truecaller.com/",
     "Description": "Truecaller is a Stockholm-based smartphone application company offering caller identification, call blocking, flash messaging, call recording, and chat and voice features.",
     "Industry": "Technology, Caller ID",
     "Founded": "2009",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "Distil Networks",
-    "Website": "https://www.bizjournals.com/washington/inno/stories/news/2016/01/13/distil-networks-expands-bot-killing-army-with.html",
+    "Website": "",
     "Description": "Distil Networks was an American cybersecurity company founded in 2011 and headquartered in San Francisco, California.",
     "Industry": "Data management, Social media, Software",
     "Founded": "2011",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Proxy",
-    "Website": "https://multilogin.com/gateway/sweden-proxy-and-antidetect-browser/",
+    "Website": "https://proxy.music/",
     "Description": "A mobile application allowing its users access their office, building or apartment",
     "Industry": "Personalization, Enterprise software, Internet of things (IoT)",
     "Founded": "2001",
@@ -97,8 +97,8 @@
   },
   {
     "Name": "LeadCold",
-    "Website": "https://www.nucnet.org/news/leadcold-to-begin-smr-feasibility-study-with-aim-of-mass-production-3-2-2023",
-    "Description": "LeadCold is a company developing lead-cooled small nuclear reactor technology founded in 2013 by Janne Wallenius, Jesper Ejenstam and Peter Szakalos.",
+    "Website": "https://leadcold.com/",
+    "Description": "Lead Cold is a company developing lead-cooled small nuclear reactor technology founded in 2013 by Janne Wallenius, Jesper Ejenstam and Peter Szakalos.",
     "Industry": "Manufacturing, Nuclear reactor, Nuclear power",
     "Founded": "",
     "Funding": "$21.1M",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Bambuser",
-    "Website": "https://jp.bambuser.com/about-us",
+    "Website": "https://bambuser.com/",
     "Description": "Bambuser is a Software-as-a-Service company specializing in interactive live video streaming for enterprises that offer live video shopping.",
     "Industry": "Media and Entertainment, Mobile Devices, E-commerce",
     "Founded": "2007",
@@ -157,7 +157,7 @@
   },
   {
     "Name": "BIMA",
-    "Website": "https://bimasweden.se/om-bima/medarbetare/",
+    "Website": "https://bimasweden.se/",
     "Description": "An insurance technology company offering insurance and mobile health services to emerging markets.",
     "Industry": "Insurance, Insurance Technology, Software",
     "Founded": "2010",
@@ -171,7 +171,7 @@
   {
     "Name": "EnginZyme",
     "Website": "https://enginzyme.com/",
-    "Description": "EnginZyme is a biotechnology company that focuses on enzyme immobilization, they engineer biocatalytic solutions for industries ranging from API manufacturing to agriculture.",
+    "Description": "Engin Zyme is a biotechnology company that focuses on enzyme immobilization, they engineer biocatalytic solutions for industries ranging from API manufacturing to agriculture.",
     "Industry": "Biotechnology, Biology, Synthetic biology",
     "Founded": "2014",
     "Funding": "$46.7M",
@@ -206,7 +206,7 @@
   },
   {
     "Name": "Alex Therapeutics",
-    "Website": "https://www.alextherapeutics.com/news",
+    "Website": "https://www.alextherapeutics.com/",
     "Description": "AI-powered CBT therapeutic platform.",
     "Industry": "Therapeutics, Digital therapeutics, Artificial Intelligence (AI)",
     "Founded": "2018",
@@ -242,7 +242,7 @@
   },
   {
     "Name": "Radio Innovation",
-    "Website": "https://discovery-patsnap-com.libproxy.mit.edu/company/radio-innovation-sweden/",
+    "Website": "https://radioinnovation.net/",
     "Description": "Radio Innovation Sweden is a telecom company creating an antenna for mobile communication in rural areas.",
     "Industry": "Internet access, Wi-Fi, Internet",
     "Founded": "2020",
@@ -254,7 +254,7 @@
   },
   {
     "Name": "Stockeld Dreamery",
-    "Website": "https://www.stockeld.com/about-us",
+    "Website": "https://www.stockeld.com/",
     "Description": "Stockeld Dreamery is a food company making plant-based cheese alternatives.",
     "Industry": "Alternative proteins, Plant-based milk, Plant-based dairy",
     "Founded": "2019",
@@ -266,7 +266,7 @@
   },
   {
     "Name": "Wrapp",
-    "Website": "https://sifted.eu/articles/wrapp-swedish-startup",
+    "Website": "https://www.wrapp.org/",
     "Description": "Wrapp is a company founded in 2011 by Hjalmar Winbladh, Carl Fritjofsson, Andreas Ehn, Magnus Hultman, Aurore Belfrage, Aage Reerslev and Leo Giertz.",
     "Industry": "Finance, Financial technology, Payment",
     "Founded": "2011",
@@ -278,7 +278,7 @@
   },
   {
     "Name": "Anyfin",
-    "Website": "https://anyfin.com/en_SE/about",
+    "Website": "https://anyfin.com/",
     "Description": "App that helps people understand and improve their finances.",
     "Industry": "Financial services, Refinancing, Loan",
     "Founded": "2017",
@@ -290,7 +290,7 @@
   },
   {
     "Name": "Detectify",
-    "Website": "https://detectify.com/about",
+    "Website": "https://detectify.com/",
     "Description": "Detectify is a Stockholm-based cybersecurity company developing tools for security analysis of web applications.",
     "Industry": "Small- and medium-sized enterprises, Security, Software as a service (SaaS)",
     "Founded": "2013",
@@ -302,7 +302,7 @@
   },
   {
     "Name": "Elypta",
-    "Website": "https://nordicstartups.weebly.com/elypta.html",
+    "Website": "https://www.elypta.com/",
     "Description": "Elypta is a Stockholm-based biotechnology company focused on preventing cancer mortality through a liquid biopsy platform for detection and monitoring of the disease.",
     "Industry": "Technology, Medical diagnostics, Biomedical engineering",
     "Founded": "2017",
@@ -338,7 +338,7 @@
   },
   {
     "Name": "Acast",
-    "Website": "https://investors.acast.com/press-releases/acast-has-been-approved-for-listing-on-nasdaq-stockholm",
+    "Website": "https://www.acast.com/",
     "Description": "Acast is an audio-on-demand and podcast platform that hosts, monetizes, and distributes audio content globally.",
     "Industry": "Audio, Podcast, Podcast platform",
     "Founded": "2014",
@@ -350,7 +350,7 @@
   },
   {
     "Name": "Northmill",
-    "Website": "https://news.cision.com/northmill",
+    "Website": "https://www.northmill.com/",
     "Description": "Neobank offering personalized financial services to improve individuals' financial lives in Sweden.",
     "Industry": "Finance, Financial technology",
     "Founded": "2006",
@@ -362,8 +362,8 @@
   },
   {
     "Name": "MAJORITY",
-    "Website": "https://majority.com/en?srsltid=AfmBOop9xw_8XIy6Q6gcN-GaH_VxnxujC_RO0eZ8wq4fmUMa7zlQC15o",
-    "Description": "Majority is a neobank based in United States offering Personal accounts including a debit card, with all transactions being managed from an iPhone or Android application. Majority currently accepts to open mobile bank accounts for residents of United States.",
+    "Website": "https://majority.com/",
+    "Description": "Majority is a neobank based in United States offering Personal accounts including a debit card, with all transactions being managed from an i Phone or Android application. Majority currently accepts to open mobile bank accounts for residents of United States.",
     "Industry": "Financial technology, Neobanking, Finance",
     "Founded": "2019",
     "Funding": "$125.2M",
@@ -375,8 +375,8 @@
   },
   {
     "Name": "CorPower Ocean",
-    "Website": "https://corpowerocean.com/about-us/",
-    "Description": "CorPower Ocean is a wave energy converter solutions provider founded in 2012 by Patrik Möller .",
+    "Website": "https://corpowerocean.com/",
+    "Description": "Cor Power Ocean is a wave energy converter solutions provider founded in 2012 by Patrik Möller .",
     "Industry": "Hardware, Clean technology, Service industry",
     "Founded": "2012",
     "Funding": "$73.3M",
@@ -387,7 +387,7 @@
   },
   {
     "Name": "Goals",
-    "Website": "https://studio.playgoals.com/",
+    "Website": "https://playgoals.com/",
     "Description": "GOALS is a gameplay-first football game. Free to play, cross-play, multiplayer-focused, and esports ready. Own your assets and trade them freely.",
     "Industry": "Cryptocurrency, Blockchain, Smart contract",
     "Founded": "2021",
@@ -399,7 +399,7 @@
   },
   {
     "Name": "Mentimeter",
-    "Website": "https://www.mentimeter.com/blog/menti-news/mentimeter-named-the-fastest-growing-startup-in-sweden",
+    "Website": "https://www.mentimeter.com/",
     "Description": "Interactive software that makes presentations, events, and classrooms engaging and fun.",
     "Industry": "Adtech, Software as a service (SaaS), Sales and Marketing",
     "Founded": "2012",
@@ -412,7 +412,7 @@
   },
   {
     "Name": "Treyd",
-    "Website": "https://www.treyd.io/about",
+    "Website": "https://www.treyd.io/",
     "Description": "Treyd is a B2B pay-later platform for suppliers founded in 2019 by Peter Beckman.",
     "Industry": "Financial technology, Software as a service (SaaS), Payment",
     "Founded": "2019",
@@ -424,7 +424,7 @@
   },
   {
     "Name": "Natural Cycles",
-    "Website": "https://www.naturalcycles.com/about",
+    "Website": "https://www.naturalcycles.com/",
     "Description": "Natural Cycles is a Sweedish company that developed an app that acts as a digital birth control tracking and monitoring fertility periods.",
     "Industry": "Health technology, Health, Fertility",
     "Founded": "2013",
@@ -436,7 +436,7 @@
   },
   {
     "Name": "Normative (software company)",
-    "Website": "https://golden.com/wiki/Normative_(software_company)-999KK89",
+    "Website": "https://www.normative.com/",
     "Description": "Normative is a Stockholm-based software company helping enterprises address their social and environmental impact.",
     "Industry": "Sustainability, Business intelligence (BI), Enterprise software",
     "Founded": "2017",
@@ -448,8 +448,8 @@
   },
   {
     "Name": "Epidemic Sound",
-    "Website": "https://www.epidemicsound.com/about-us/",
-    "Description": "Developer of a royalty-free music library to provide production music for films, TV and YouTube.",
+    "Website": "https://www.epidemicsound.com/",
+    "Description": "Developer of a royalty-free music library to provide production music for films, TV and You Tube.",
     "Industry": "Production music, Software as a service (SaaS), Audio",
     "Founded": "2009",
     "Funding": "$541.9M",
@@ -460,7 +460,7 @@
   },
   {
     "Name": "TrusTrace",
-    "Website": "https://trustrace.com/about-us",
+    "Website": "https://trustrace.com/",
     "Description": "Trustrace ensures the traceability and transparency of a supply chain.",
     "Industry": "Software as a service (SaaS), Traceability, Supply chain",
     "Founded": "2016",
@@ -484,7 +484,7 @@
   },
   {
     "Name": "Budbee",
-    "Website": "https://budbee.com/about-us/",
+    "Website": "https://budbee.com/",
     "Description": "Budbee develops technical solutions to create e-commerce shopping experiences",
     "Industry": "E-commerce, Software as a service (SaaS), Artificial Intelligence (AI)",
     "Founded": "2015",
@@ -496,7 +496,7 @@
   },
   {
     "Name": "Yabie",
-    "Website": "https://yabie.com/en/about-us/",
+    "Website": "https://yabie.com/",
     "Description": "Easy-to-use POS and payments platform for retail owners.",
     "Industry": "Artificial Intelligence (AI), E-commerce, Mobile Devices",
     "Founded": "2017",
@@ -508,7 +508,7 @@
   },
   {
     "Name": "Artificial Solutions",
-    "Website": "https://hardmanandco.com/companies/artificial-solutions/",
+    "Website": "https://artificialsolutions.net/",
     "Description": "An artificial intelligence company developing conversational chatbots for enterprise.",
     "Industry": "Software as a service (SaaS), Artificial Intelligence (AI), Chat (industry)",
     "Founded": "2001",
@@ -520,7 +520,7 @@
   },
   {
     "Name": "Wilson Therapeutics",
-    "Website": "https://www.investeurope.eu/about-private-equity/private-equity-and-venture-capital-success-stories/wilson-therapeutics/",
+    "Website": "https://www.voyagertherapeutics.com/",
     "Description": "Wilson Therapeutics is an every Day We Change Lives founded in 1992.",
     "Industry": "Pharmaceutical industry, Rare disease",
     "Founded": "2012",
@@ -532,8 +532,8 @@
   },
   {
     "Name": "BehavioSec",
-    "Website": "https://finance.nl/bedrijf/behaviosec",
-    "Description": "BehavioSec is a Stockholm-based fraud detection systems developer based on models of behavior.",
+    "Website": "http://www.behaviosec.com/",
+    "Description": "Behavio Sec is a Stockholm-based fraud detection systems developer based on models of behavior.",
     "Industry": "Behavioral biometrics, Biometrics, Consumer behaviour",
     "Founded": "",
     "Funding": "$19.5M",
@@ -544,7 +544,7 @@
   },
   {
     "Name": "Tictail",
-    "Website": "https://www.highperformr.ai/company/tictail",
+    "Website": "https://nordicstartupnews.com/",
     "Description": "Tictail is a company founded in 2012 by Carl Waldekranz.",
     "Industry": "E-commerce, Fashion",
     "Founded": "2011",
@@ -556,7 +556,7 @@
   },
   {
     "Name": "Tiptapp",
-    "Website": "https://tiptapp.com/en-gb/home/",
+    "Website": "https://tiptapp.com/",
     "Description": "Digital marketplace for moving, recycling or delivering items.",
     "Industry": "Recycling, Logistics, Waste management",
     "Founded": "2016",
@@ -568,7 +568,7 @@
   },
   {
     "Name": "Lassie",
-    "Website": "https://www.lassie.co/en",
+    "Website": "https://www.lassie.co/",
     "Description": "Lassie is a digital pet insurance platform founded in 2020 by Johan Jonsson, Hedda Båverud Olsson and Sophie Wilkinson.",
     "Industry": "Health technology, Software as a service (SaaS), Insurance Technology",
     "Founded": "2020",
@@ -580,7 +580,7 @@
   },
   {
     "Name": "Skyqraft",
-    "Website": "https://www.eu-startups.com/directory/skyqraft/",
+    "Website": "https://dfkcompany.com/",
     "Description": "Skyqraft's AI system automatically detects powerline equipment and powerline issues enabling its customers to conduct smarter and safer powerline inspections in a more cost-efficient and environmentally sustainable way.",
     "Industry": "Automation, Artificial Intelligence (AI), Technology",
     "Founded": "2019",
@@ -592,7 +592,7 @@
   },
   {
     "Name": "Stravito",
-    "Website": "https://www.stravito.com/about",
+    "Website": "https://www.stravito.com/",
     "Description": "Stravito is an enterprise-grade insights for all platform founded in 2017 by Thor Olof Philogène.",
     "Industry": "B2B, Adtech, Technology",
     "Founded": "2017",
@@ -616,7 +616,7 @@
   },
   {
     "Name": "Lovable",
-    "Website": "https://lovable.dev/blog/2025-01-21-how-lovable-is-redefining-software-creation-from-the-heart-of-stockholm",
+    "Website": "https://lovable.dev/",
     "Description": "Lovable is an AI-powered software development platform for GPT engineer founded in 2023 by Anton Osika.",
     "Industry": "Artificial Intelligence (AI), Software as a service (SaaS)",
     "Founded": "2023",
@@ -628,7 +628,7 @@
   },
   {
     "Name": "Hypertype",
-    "Website": "https://www.eu-startups.com/directory/hypertype/",
+    "Website": "https://www.hypertype.ai/",
     "Description": "Hypertype.co combines AI and sales intelligence for smarter business email communications.",
     "Industry": "AI text generation, Technology, Artificial Intelligence (AI)",
     "Founded": "2021",
@@ -652,7 +652,7 @@
   },
   {
     "Name": "Kavall",
-    "Website": "https://www.eu-startups.com/directory/kavall/",
+    "Website": "https://ferdinandkavall.com/",
     "Description": "Kavall is a grocery delivery startup that offers a 10-minute delivery service. The company was launched in May 2021 by John Tengberg, Peter Simon, and Robin Rendahl and is based in Stockholm, Sweden.",
     "Industry": "Grocery and Convenience Retailers, Mobile Apps, Delivery Service",
     "Founded": "2021",
@@ -664,7 +664,7 @@
   },
   {
     "Name": "Agreement24",
-    "Website": "https://thenextweb.com/news/online-legal-startup-avtal24-secures-1-5m-as-it-expands-beyond-sweden-as-agreement24",
+    "Website": "https://scamflare.com/",
     "Description": "Agreement24 is a company founded in 2004 by Magnus Stein, Anders Perméus and Johan Wiberg.",
     "Industry": "Legal technology, Software as a service (SaaS), Cloud computing",
     "Founded": "2004",
@@ -688,7 +688,7 @@
   },
   {
     "Name": "H2 Green Steel",
-    "Website": "https://www.oecd.org/content/dam/oecd/en/about/programmes/cefim/green-hydrogen/H2-green-steel-case-study.pdf/_jcr_content/renditions/original./H2-green-",
+    "Website": "https://www.h2greensteel.com/",
     "Description": "Large-scale, integrated, digitalized, and automated steel plants with lower carbon impact.",
     "Industry": "Steelmaking, Manufacturing, Clean technology",
     "Founded": "2020",
@@ -712,7 +712,7 @@
   },
   {
     "Name": "Sverve",
-    "Website": "https://finance.yahoo.com/news/fifth-annual-startup-debut-ces-160000834.html",
+    "Website": "https://thesverve.com/",
     "Description": "Sverve is an end-to-end influencer marketing platform founded in 2012 by Rohit Vashisht.",
     "Industry": "Software as a service (SaaS), Sales and Marketing, Advertising",
     "Founded": "2012",
@@ -736,7 +736,7 @@
   },
   {
     "Name": "Apica",
-    "Website": "https://www.apica.io/news/welcome-the-latest-from-swedens-startup-tech-sector/",
+    "Website": "https://www.apica.io/",
     "Description": "Apica is a web performance and load testing monitoring tools founded in 2005.",
     "Industry": "Software as a service (SaaS), Developer Tools, Software",
     "Founded": "2005",
@@ -748,7 +748,7 @@
   },
   {
     "Name": "Norbloc",
-    "Website": "https://www.norbloc.com/about-us/",
+    "Website": "https://www.norbloc.com/",
     "Description": "Norbloc is a blockchain and software development company creating a Know-Your-Customer (KYC) blockchain platform.",
     "Industry": "Financial services, Finance, Technology",
     "Founded": "2016",
@@ -772,7 +772,7 @@
   },
   {
     "Name": "Earthbanc",
-    "Website": "https://www.eu-startups.com/directory/earthbanc/",
+    "Website": "https://earthbanc.io/",
     "Description": "The world's most advanced data driven carbon and finance marketplace. Venture backed by the European Space Agency incubator.",
     "Industry": "Mobile Devices, Artificial Intelligence (AI), Financial technology",
     "Founded": "2019",
@@ -784,7 +784,7 @@
   },
   {
     "Name": "Vässla",
-    "Website": "https://www.vassla.com/en",
+    "Website": "https://melanielyne.com/",
     "Description": "Vässla was founded by Rickard Bröms in 2017 and is an electric moped company based in Stockholm, Sweden.",
     "Industry": "Electric vehicle, Clean technology, Automotive industry",
     "Founded": "2017",

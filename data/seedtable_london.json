@@ -1,7 +1,7 @@
 [
   {
     "Name": "Qredo",
-    "Website": "https://www.qredo.com/blog/qredo-faq",
+    "Website": "https://www.qredo.com/",
     "Description": "Qredo is a cross-chain protocol for asset managers and traders active in the digital asset markets.",
     "Industry": "Blockchain and cryptocurrency, Smart contract, Cybersecurity",
     "Founded": "2012",
@@ -25,7 +25,7 @@
   },
   {
     "Name": "What3words",
-    "Website": "https://what3words.com/about",
+    "Website": "https://what3words.com/",
     "Description": "What3words is a London-based company developing a global address system. The company was founded by Jack Waley-Cohen, Chris Sheldrick, Mohan Ganesalingam, and Michael Dent.",
     "Industry": "Logistics, Mobility Technology, Automotive industry",
     "Founded": "2013",
@@ -37,7 +37,7 @@
   },
   {
     "Name": "Permutive",
-    "Website": "https://find-and-update.company-information.service.gov.uk/company/08738815",
+    "Website": "https://permutive.com/",
     "Description": "Company providing user behavioral analytics for revenue optimization for websites and smartphone applications",
     "Industry": "Advertising, Big data, Technology",
     "Founded": "2013",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "Snyk",
-    "Website": "https://snyk.io/contact-us/",
+    "Website": "https://snyk.io/",
     "Description": "Snyk is a technology company offering a software development security platform using open-source code.",
     "Industry": "Data analysis, Software, Open-source software",
     "Founded": "2015",
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Sky and Space Global",
-    "Website": "https://spaceindividuals.com/company-details?id=5a3f8852da2f26fd7c0dcf77",
+    "Website": "https://spaceindividuals.com/",
     "Description": "Sky and Space Global is an Australian nanosatellite company focused on IoT networks.",
     "Industry": "Internet of things (IoT), Satellite, Satellite IoT",
     "Founded": "",
@@ -110,7 +110,7 @@
   },
   {
     "Name": "Aura Vision",
-    "Website": "https://auravision.ai/about/",
+    "Website": "https://auravision.ai/",
     "Description": "Aura Vision is an AI computer vision company for generating insights into shop floors. Aura Vision uses existing security cameras in stores to provide customer demographics and behavior data.",
     "Industry": "Software as a service (SaaS), Data analysis, Machine learning",
     "Founded": "2017",
@@ -122,7 +122,7 @@
   },
   {
     "Name": "42Crunch",
-    "Website": "https://42crunch.com/company/",
+    "Website": "https://42crunch.com/",
     "Description": "42Crunch is an enterprise API security platform with integrated services, including an API firewall, to discover and remediate API security vulnerabilities.",
     "Industry": "Network security, Technology, Developer Tools",
     "Founded": "",
@@ -135,7 +135,7 @@
   {
     "Name": "AppZen",
     "Website": "https://www.appzen.com/",
-    "Description": "AppZen is a San Jose, California-based company that provides an AI-based auditing platform for finance teams.",
+    "Description": "App Zen is a San Jose, California-based company that provides an AI-based auditing platform for finance teams.",
     "Industry": "Software as a service (SaaS), Enterprise software, Artificial Intelligence (AI)",
     "Founded": "",
     "Funding": "$280.9M",
@@ -146,7 +146,7 @@
   },
   {
     "Name": "Tacit Knowledge",
-    "Website": "https://www.findglocal.com/GB/London/193027987440389/Tacit-Knowledge,-a-Grid-Dynamics-company",
+    "Website": "https://tacitknows.com/",
     "Description": "Tacit Knowledge is a London-headquartered software and IT consulting company developing enterprise software solutions for digital commerce companies.",
     "Industry": "E-commerce, Enterprise software, Software",
     "Founded": "2002",
@@ -159,8 +159,8 @@
   },
   {
     "Name": "Wise",
-    "Website": "https://wise.com/gb/about/our-story",
-    "Description": "Wise, previously TransferWise, is a company that offers money transfers services founded by Kristo Käärmann and Taavet Hinrikus.",
+    "Website": "https://wise.com/",
+    "Description": "Wise, previously Transfer Wise, is a company that offers money transfers services founded by Kristo Käärmann and Taavet Hinrikus.",
     "Industry": "Consumer, Neobanking, Blockchain and cryptocurrency",
     "Founded": "2011",
     "Funding": "$898.4M",
@@ -195,8 +195,8 @@
   },
   {
     "Name": "TradingView",
-    "Website": "https://find-and-update.company-information.service.gov.uk/company/16004270",
-    "Description": "TradingView is a platform which provides instruments for publication and the viewing of trading ideas.",
+    "Website": "https://www.tradingview.com/",
+    "Description": "Trading View is a platform which provides instruments for publication and the viewing of trading ideas.",
     "Industry": "Software as a service (SaaS), Social media, Financial services",
     "Founded": "2011",
     "Funding": "$638.8M",
@@ -208,7 +208,7 @@
   },
   {
     "Name": "Currency.com",
-    "Website": "https://www.craincurrency.com/investing/silicon-valley-bank-clients-are-regaining-access-accounts",
+    "Website": "https://www.craincurrency.com/",
     "Description": "Regulated crypto exchange. Built the world's first regulated tokenised assets platform. It aims to revolutionise cryptocurrency investment.",
     "Industry": "Cryptocurrency, Blockchain, Smart contract",
     "Founded": "2018",
@@ -220,7 +220,7 @@
   },
   {
     "Name": "Revolut",
-    "Website": "https://www.revolut.com/en-US/",
+    "Website": "https://www.revolut.com/",
     "Description": "Revolut is a London-based Fintech startup and bank offering mobile banking, card payments, money remittance, and foreign exchange services.",
     "Industry": "Financial services, Payment system, Mobile payment",
     "Founded": "2015",
@@ -232,7 +232,7 @@
   },
   {
     "Name": "Adarga",
-    "Website": "https://adarga.ai/about",
+    "Website": "https://adarga.ai/",
     "Description": "Adarga is a UK-based artificial intelligence software provider working with customers across defense, national security, and commercial organizations.",
     "Industry": "Natural language processing (NLP), Artificial Intelligence (AI), Information technology",
     "Founded": "2016",
@@ -244,7 +244,7 @@
   },
   {
     "Name": "MariaDB",
-    "Website": "https://find-and-update.company-information.service.gov.uk/company/14106499",
+    "Website": "https://mariadb.com/",
     "Description": "Database management system, relational, open source, community developed fork of mysql",
     "Industry": "Software as a service (SaaS), Database, Technology",
     "Founded": "2010",
@@ -256,7 +256,7 @@
   },
   {
     "Name": "Memgraph",
-    "Website": "https://www.eu-startups.com/directory/memgraph/",
+    "Website": "https://memgraph.com/",
     "Description": "Memgraph is an in-memory Cypher-compatible graph database.",
     "Industry": "Developer Tools, Big data, Database",
     "Founded": "2016",
@@ -280,7 +280,7 @@
   },
   {
     "Name": "Chronomics",
-    "Website": "https://store.chronomics.com/pages/about-us",
+    "Website": "https://store.chronomics.com/",
     "Description": "Chronomics is an AI-driven platform company that tracks epigenetics for personalized healthcare based in the United Kingdom.",
     "Industry": "Biotechnology, Technology, Biology",
     "Founded": "2017",
@@ -292,7 +292,7 @@
   },
   {
     "Name": "Vungle",
-    "Website": "https://vungle.com/news/vungle-acquires-gamerefinery-a-leading-saas-mobile-gaming-analytics-company/",
+    "Website": "https://vungle.com/",
     "Description": "Vungle (Vungle, Inc.) is startup which powers video advertisements inside of mobile apps and games.",
     "Industry": "Software, Technology, Software development",
     "Founded": "",
@@ -317,8 +317,8 @@
   },
   {
     "Name": "Eleven Labs",
-    "Website": "https://elevenlabs.io/blog/london-office-opening",
-    "Description": "ElevenLabs is a voice artificial intelligence (AI) research and development company developing text-to-speech and voice cloning software.",
+    "Website": "https://elevenlabs.io/",
+    "Description": "Eleven Labs is a voice artificial intelligence (AI) research and development company developing text-to-speech and voice cloning software.",
     "Industry": "E-commerce, Web development, Architecture",
     "Founded": "2022",
     "Funding": "$21.0M",
@@ -329,7 +329,7 @@
   },
   {
     "Name": "Starling Bank",
-    "Website": "https://www.starlingbank.com/about/",
+    "Website": "https://www.starlingbank.com/",
     "Description": "Starling is an UK-based mobile-first digital banking startup.",
     "Industry": "Software, Software development, Financial services",
     "Founded": "2014",
@@ -353,7 +353,7 @@
   },
   {
     "Name": "Outreach",
-    "Website": "https://www.outreach.io/company/london",
+    "Website": "https://www.outreach.io/",
     "Description": "Outreach is a sales engagement platform that uses artificial intelligence (AI) for predictive analytics as it relates to sales.",
     "Industry": "Technology, Communication, Enterprise",
     "Founded": "",
@@ -389,8 +389,8 @@
   },
   {
     "Name": "GoCardless",
-    "Website": "https://gocardless.com/en-us/blog/gocardless-grows-by-over-50-percent-in-north-america/",
-    "Description": "GoCardless is a payments company that developed global payments network based on the bank to bank payment systems. It participated in the S11 cohort of Y Combinator",
+    "Website": "https://gocardless.com/",
+    "Description": "Go Cardless is a payments company that developed global payments network based on the bank to bank payment systems. It participated in the S11 cohort of Y Combinator",
     "Industry": "Banking, Payment system, Financial services",
     "Founded": "2011",
     "Funding": "$914.3M",
@@ -425,7 +425,7 @@
   },
   {
     "Name": "Voyager Labs",
-    "Website": "https://finder.startupnationcentral.org/company_page/voyager-labs",
+    "Website": "https://www.voyager-labs.com/",
     "Description": "Voyager Labs is an artificial intelligence-based analytics and investigation solution provider, offering insights about individuals, groups, and topics.",
     "Industry": "Artificial Intelligence (AI), Analytics, Big data",
     "Founded": "2012",
@@ -437,7 +437,7 @@
   },
   {
     "Name": "SysDig",
-    "Website": "https://www.sysdig.com/blog/whats-new-in-sysdig-november-2023",
+    "Website": "https://www.sysdig.com/",
     "Description": "Sysdig is a unified approach to container security, microservices monitoring, and forensics, with Kubernetes, Prometheus, and Falco support.",
     "Industry": "DevOps, Open-source software, Cybersecurity",
     "Founded": "",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "Tessian",
-    "Website": "https://www.eu-startups.com/directory/tessian-2/",
+    "Website": "https://www.tessian-platform.com/",
     "Description": "Tessian (formerly Checkrecipient) is an artificial intelligence email security platform.",
     "Industry": "Information security, Analytics, Privacy",
     "Founded": "2013",
@@ -497,7 +497,7 @@
   },
   {
     "Name": "Yewno",
-    "Website": "https://thesiliconreview.com/magazine/profile/transforming-information-into-knowledge-yewno",
+    "Website": "https://knowledge.cloudquant.com/",
     "Description": "Yewno is a company that has built AI technology for research and idea generation.",
     "Industry": "Technology, Artificial Intelligence (AI), Learning management system",
     "Founded": "2016",
@@ -509,8 +509,8 @@
   },
   {
     "Name": "Fnatic",
-    "Website": "https://fnatic.com/about",
-    "Description": "Fnatic is a professional eSports organization with headquarters in London.",
+    "Website": "https://fnatic.com/",
+    "Description": "Fnatic is a professional e Sports organization with headquarters in London.",
     "Industry": "eSports, Gaming, Video game industry",
     "Founded": "2004",
     "Funding": "$19.0M",
@@ -521,8 +521,8 @@
   },
   {
     "Name": "CrossLend",
-    "Website": "https://www.fintechfutures.com/fintech-lending/santander-leads-35m-funding-round-in-digital-debt-marketplace-crosslend",
-    "Description": "CrossLend is a FinTech company whose mission is to make the private debt space more efficient, transparent, and profitable by providing technology & infrastructure solutions for debt asset transactions.",
+    "Website": "https://crosslend.com/",
+    "Description": "Cross Lend is a Fin Tech company whose mission is to make the private debt space more efficient, transparent, and profitable by providing technology & infrastructure solutions for debt asset transactions.",
     "Industry": "Marketplace, Technology, Lending",
     "Founded": "2014",
     "Funding": "$54.3M",
@@ -557,7 +557,7 @@
   },
   {
     "Name": "Kuur Therapeutics",
-    "Website": "https://www.ipgroupplc.com/news-and-events/portfolio-news/2021/2021-05-05a",
+    "Website": "",
     "Description": "Kuur Therapeutics focuses on the development of CAR-NKT cell therapies platform for applications in cancer treatment.",
     "Industry": "Healthcare, Medical, Biomedical engineering",
     "Founded": "2014",
@@ -570,7 +570,7 @@
   },
   {
     "Name": "Talos Trading",
-    "Website": "https://www.talos.com/our-solutions/trading",
+    "Website": "https://www.talos.com/",
     "Description": "Talos Trading is a developer of institutional-grade technology infrastructure for digital assets trading and support for the full lifecycle of that trading, including price discovery, execution, and settlement.",
     "Industry": "Blockchain and cryptocurrency, Cryptocurrency, Cryptocurrency exchange",
     "Founded": "",
@@ -583,7 +583,7 @@
   {
     "Name": "ZeroAvia",
     "Website": "https://zeroavia.com/",
-    "Description": "ZeroAvia is an aerospace company developing practical zero emission aviation powertrains using hydrogen power.",
+    "Description": "Zero Avia is an aerospace company developing practical zero emission aviation powertrains using hydrogen power.",
     "Industry": "Manufacturing, Aerospace manufacturer, Aerospace",
     "Founded": "2017",
     "Funding": "$230.7M",
@@ -618,7 +618,7 @@
   },
   {
     "Name": "Azimo",
-    "Website": "https://www.eu-startups.com/directory/azimo/",
+    "Website": "https://azimo.com/",
     "Description": "Azimo is an online remittance service founded by Marta Krupinska.",
     "Industry": "Financial services, Payment system, Mobile payment",
     "Founded": "2012",
@@ -630,7 +630,7 @@
   },
   {
     "Name": "EDITED",
-    "Website": "https://edited.com/about-us/",
+    "Website": "https://edited.com/",
     "Description": "EDITED is a London-headquartered retail intelligence and real-time analytics platform.",
     "Industry": "Business intelligence (BI), Fashion, Machine learning",
     "Founded": "2009",
@@ -667,8 +667,8 @@
   },
   {
     "Name": "Minimum (carbon offsetting company)",
-    "Website": "https://golden.com/wiki/Minimum_(carbon_offsetting_company)-BWRX3ZR",
-    "Description": "iProov is a user authentication technology company based in London.",
+    "Website": "https://www.minimum.com/",
+    "Description": "i Proov is a user authentication technology company based in London.",
     "Industry": "Software as a service (SaaS), Mobile Devices, Financial technology, Consumer behaviour, Biometrics, Facial recognition",
     "Founded": "",
     "Funding": "$140.0M",
@@ -691,7 +691,7 @@
   },
   {
     "Name": "Elvie",
-    "Website": "https://global.elvie.com/en-gb",
+    "Website": "https://www.elvie.com/",
     "Description": "Elvie is a London-based consumer electronics company making sexual health and pregnancy products for women.",
     "Industry": "Consumer electronics, Femtech, Lifestyle",
     "Founded": "2013",
@@ -715,7 +715,7 @@
   },
   {
     "Name": "LabGenius",
-    "Website": "https://www.hargreaveaimvcts.co.uk/news-and-events/vct-news/labgenius-therapeutics-investment/",
+    "Website": "https://geniuschemical.com/",
     "Description": "Synthetic biology company that uses AI, DNA synthesis, and robotics to discover biological molecules.",
     "Industry": "Automation, Machine learning, Artificial Intelligence (AI)",
     "Founded": "2012",
@@ -727,8 +727,8 @@
   },
   {
     "Name": "Drift",
-    "Website": "https://drift.energy/team",
-    "Description": "EmitWise helps large businesses monitor and reduce their carbon footprints.",
+    "Website": "https://drift.energy/",
+    "Description": "Emit Wise helps large businesses monitor and reduce their carbon footprints.",
     "Industry": "Marketing automation, Software as a service (SaaS), Marketing, Software, Machine learning, Platform as a service (PaaS)",
     "Founded": "",
     "Funding": "$39.7M",
@@ -763,7 +763,7 @@
   },
   {
     "Name": "Mimecast",
-    "Website": "https://www.mimecast.com/resources/press-releases/new-london-headquarters/",
+    "Website": "https://www.mimecast.com/",
     "Description": "Mimecast is a London-based cybersecurity and email management platform company founded by Neil Murray and Peter Bauer.",
     "Industry": "Encryption, Cybersecurity, Email Security",
     "Founded": "2003",
@@ -775,7 +775,7 @@
   },
   {
     "Name": "Streem",
-    "Website": "https://www.wfw.com/press/wfw-advises-streem-on-sustainable-private-placement/",
+    "Website": "https://www.streem.com.au/",
     "Description": "Artificial Intelligence company using Augmented Reality for collaborative professional services",
     "Industry": "Augmented reality, Machine learning, Computer Vision",
     "Founded": "2016",
@@ -787,7 +787,7 @@
   },
   {
     "Name": "Yieldify",
-    "Website": "https://www.instagram.com/yieldify/",
+    "Website": "https://www.yieldify.com/",
     "Description": "Yieldify is a website and mobile personalized engine no-code software for e-commerce brands used for improving sales conversion rates.",
     "Industry": "Software as a service (SaaS), E-commerce, Analytics",
     "Founded": "2012",

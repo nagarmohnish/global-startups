@@ -1,7 +1,7 @@
 [
   {
     "Name": "Mistral AI",
-    "Website": "https://mistral.ai/en/",
+    "Website": "https://mistral.ai/",
     "Description": "Mistral AI is an AI-driven LLMs platform founded in 2023 by Arthur Mensch, Timothée Lacroix and Guillaume Lample.",
     "Industry": "Software as a service (SaaS), Machine learning, Artificial Intelligence (AI)",
     "Founded": "2023",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Hugging Face",
-    "Website": "https://liora.io/hugging-face-tout-savoir",
+    "Website": "https://huggingface.co/",
     "Description": "Hugging Face is an open-source hosting platform for natural language processing and machine learning domains, such as computer vision and reinforcement learning, and for developing and deploying machine learning models for various applications.",
     "Industry": "Artificial Intelligence (AI), Natural language processing (NLP), Machine learning",
     "Founded": "2016",
@@ -37,7 +37,7 @@
   },
   {
     "Name": "Pasqal",
-    "Website": "https://www.pasqal.com/newsroom/pasqal-a-global-leader-in-neutral-atom-quantum-computing-to-go-public-via-business-combination-with-bleichroeder-acquisition-corp-ii/",
+    "Website": "https://www.pasqal.com/",
     "Description": "Pasqal is a company building programmable quantum simulators and quantum computers made of 2D and 3D arrays of neutral atoms.",
     "Industry": "Energy industry, Manufacturing, Quantum computing",
     "Founded": "2016",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "Ledger (cryptocurrency wallet company)",
-    "Website": "https://golden.com/wiki/Ledger_(cryptocurrency_wallet_company)-39WAJ8K",
+    "Website": "https://www.ledger.com/",
     "Description": "Hardware wallet for crypto assets such as Bitcoin, Ethereum, XRP, Monero and more.",
     "Industry": "Blockchain, Cryptocurrency, Cryptocurrency wallet",
     "Founded": "2008",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Algolia",
-    "Website": "https://www.annuaire-startups.pro/startup/algolia/",
+    "Website": "https://www.algolia.com/",
     "Description": "Algolia is a company designing and building search and discovery API for websites and mobile apps. It participated in the W14 cohort of Y Combinator.",
     "Industry": "Software as a service (SaaS), Application programming interface (API), Artificial Intelligence (AI)",
     "Founded": "2012",
@@ -73,7 +73,7 @@
   },
   {
     "Name": "Arianee",
-    "Website": "https://www.arianee.com/about",
+    "Website": "https://www.arianee.com/",
     "Description": "The Arianee is a multichain token and protocol built on both the Ethereum core network and the Ethereum sidechain called POAnetwork.",
     "Industry": "Smart contract, Web3, Blockchain and cryptocurrency",
     "Founded": "2018",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "Massa",
-    "Website": "https://annuaire-entreprises.data.gouv.fr/entreprise/massa-labs-881320592",
+    "Website": "https://www.mass.gov/",
     "Description": "Massa is a decentralized and scaled blockchain.",
     "Industry": "Blockchain, Blockchain and cryptocurrency, Cryptocurrency",
     "Founded": "2019",
@@ -97,8 +97,8 @@
   },
   {
     "Name": "Eleven Labs",
-    "Website": "https://elevenlabs.io/careers",
-    "Description": "ElevenLabs is a voice artificial intelligence (AI) research and development company developing text-to-speech and voice cloning software.",
+    "Website": "https://elevenlabs.io/",
+    "Description": "Eleven Labs is a voice artificial intelligence (AI) research and development company developing text-to-speech and voice cloning software.",
     "Industry": "E-commerce, Web development, Architecture",
     "Founded": "2011",
     "Funding": "$21.0M",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Back Market",
-    "Website": "https://www.backmarket.com/en-us/c/press-release/2025-business-growth",
+    "Website": "https://www.backmarket.com/",
     "Description": "Back Market is an online refurbished goods marketplace connecting consumers with sellers of electronic devices.",
     "Industry": "Electronics, Web development, Sustainability",
     "Founded": "2014",
@@ -134,7 +134,7 @@
   },
   {
     "Name": "Quandela",
-    "Website": "https://www.quandela.com/about-us/newsroom/quandela-secures-e50-million-to-support-international-expansion/",
+    "Website": "https://www.quandela.com/",
     "Description": "Quandela is a Paris-based company developing optical quantum technology integrated into photonic chips.",
     "Industry": "Metamaterial, Quantum sensor, Quantum communication",
     "Founded": "2017",
@@ -146,7 +146,7 @@
   },
   {
     "Name": "Shift Technology",
-    "Website": "https://www.shift-technology.com/fr/about",
+    "Website": "https://www.shift-technology.com/",
     "Description": "An insurance technology company offering artificially intelligent software for insurance fraud detection and claims handling.",
     "Industry": "Software, Insurance, Big data",
     "Founded": "2014",
@@ -158,7 +158,7 @@
   },
   {
     "Name": "Aircall",
-    "Website": "https://aircall.io/about-us/",
+    "Website": "https://aircall.io/",
     "Description": "Cloud based phone system and call center software with integrations into CRMs & helpdesk software.",
     "Industry": "Telephony, Software, Small business",
     "Founded": "2014",
@@ -170,7 +170,7 @@
   },
   {
     "Name": "Storefront",
-    "Website": "https://www.annuaire-startups.pro/startup/storefront/",
+    "Website": "https://storefront.awginc.com/",
     "Description": "Storefront is a sharing-economy company that provides short-term retail spaces for rent to companies through an online platform, used specifically as pop-up retail locations.",
     "Industry": "Online to offline, Sharing economy, Retail",
     "Founded": "",
@@ -182,7 +182,7 @@
   },
   {
     "Name": "Eligo Bioscience",
-    "Website": "https://eligo.bio/france2030/",
+    "Website": "https://eligo.bio/",
     "Description": "Eligo Bioscience is a developer of novel genetic medicines founded in 2014 by Timothy Lu, Xavier Duportet, Luciano Marraffini and David Bikard.",
     "Industry": "Synthetic biology, Therapeutics, Drug discovery",
     "Founded": "2014",
@@ -194,7 +194,7 @@
   },
   {
     "Name": "Kiln",
-    "Website": "https://www.eu-startups.com/directory/kiln/",
+    "Website": "https://paragonkilns.com/",
     "Description": "Kiln is an entreprise-grade staking platform.",
     "Industry": "Blockchain, IT Services and IT Consulting, Blockchain and cryptocurrency",
     "Founded": "2022",
@@ -206,7 +206,7 @@
   },
   {
     "Name": "Alan",
-    "Website": "https://techfundingnews.com/alan-raises-100m-healthtech-profitability-france-5b-valuation/",
+    "Website": "https://www.alanwalker.com/",
     "Description": "Alan is a digital health insurance provider for companies and freelancers.",
     "Industry": "Financial technology, Technology, Health technology",
     "Founded": "2016",
@@ -218,7 +218,7 @@
   },
   {
     "Name": "Mirakl",
-    "Website": "https://startups.in/france/mirakl",
+    "Website": "https://www.mirakl.com/",
     "Description": "Mirakl is a Paris, France-based company offering software solutions for e-commerce marketplace companies.",
     "Industry": "Enterprise software, Marketplace, Retail",
     "Founded": "2012",
@@ -231,7 +231,7 @@
   {
     "Name": "ContentSquare",
     "Website": "https://contentsquare.com/",
-    "Description": "ContentSquare is an experience optimization platform for business that captures visitor behavior insights, designed to help increase conversions. It uses artificial intelligence to provide automatic recommendations.",
+    "Description": "Content Square is an experience optimization platform for business that captures visitor behavior insights, designed to help increase conversions. It uses artificial intelligence to provide automatic recommendations.",
     "Industry": "Technology, Retail, Analytics",
     "Founded": "2012",
     "Funding": "$1.5B",
@@ -242,7 +242,7 @@
   },
   {
     "Name": "Gleamer",
-    "Website": "https://www.gleamer.ai/company",
+    "Website": "https://www.gleamer.ai/",
     "Description": "Gleamer is an AI solutions provider for radiology founded in 2017 by Nicolas COSME, Christian Allouche, Alexis Ducarouge and Nor-Eddine Regnard.",
     "Industry": "Software engineering, Medical imaging, Radiology",
     "Founded": "2017",
@@ -266,7 +266,7 @@
   },
   {
     "Name": "Qonto",
-    "Website": "https://qonto.com/en/about",
+    "Website": "https://qonto.com/",
     "Description": "Qonto is a French online payment institution for freelancers and small and medium enterprises.",
     "Industry": "Neobanking, Financial technology, Software as a service (SaaS)",
     "Founded": "2017",
@@ -278,8 +278,8 @@
   },
   {
     "Name": "PhotoRoom",
-    "Website": "https://france-photoroom.com/about.html",
-    "Description": "PhotoRoom is a French company that provides photo editing software via an AI-powered photo editor.",
+    "Website": "https://france-photoroom.com/",
+    "Description": "Photo Room is a French company that provides photo editing software via an AI-powered photo editor.",
     "Industry": "Photography, Digital photography, Photo editing",
     "Founded": "2019",
     "Funding": "$93.3M",
@@ -290,7 +290,7 @@
   },
   {
     "Name": "Actiondesk",
-    "Website": "https://www.annuaire-startups.pro/startup/actiondesk/",
+    "Website": "https://actiondesk.app/",
     "Description": "A software company headquartered in San Francisco, California providing spreadsheet workflow automation software for businesses.",
     "Industry": "Technology, No-code / low-code development, Automation",
     "Founded": "2018",
@@ -302,7 +302,7 @@
   },
   {
     "Name": "Dust",
-    "Website": "https://sifted.eu/articles/genai-dust-silicon-valley-paris",
+    "Website": "https://www.dustmoto.com/",
     "Description": "Dust is a French artificial intelligence start-up using large language models (LLMs) on internal company data to improve productivity.",
     "Industry": "Machine learning, Artificial Intelligence (AI), Generative AI",
     "Founded": "2022",
@@ -350,8 +350,8 @@
   },
   {
     "Name": "ClipDrop",
-    "Website": "https://stability.ai/news/stability-ai-acquires-init-ml-makers-of-clipdrop-application",
-    "Description": "ClipDrop is an application developed to turn mobile photons into professional product visuals. The application and the company behind it were acquired by Stability AI in 2023.",
+    "Website": "https://clipdrop.co/",
+    "Description": "Clip Drop is an application developed to turn mobile photons into professional product visuals. The application and the company behind it were acquired by Stability AI in 2023.",
     "Industry": "Technology, Computer Vision, Generative AI",
     "Founded": "2020",
     "Funding": "$1.7M",
@@ -362,7 +362,7 @@
   },
   {
     "Name": "Le Wagon",
-    "Website": "https://www.lewagon.com/fr/startups",
+    "Website": "https://www.lewagon.com/",
     "Description": "Le Wagon runs immersive coding bootcamps in 44 campuses worldwide.",
     "Industry": "Training, Educational Technology, Education",
     "Founded": "2013",
@@ -374,8 +374,8 @@
   },
   {
     "Name": "FairMoney",
-    "Website": "https://www.eu-startups.com/directory/fairmoney/",
-    "Description": "FairMoney is a Paris-based start-up which offers micro loans in Nigeria through their mobile, Android app.",
+    "Website": "https://fairmoney.com/",
+    "Description": "Fair Money is a Paris-based start-up which offers micro loans in Nigeria through their mobile, Android app.",
     "Industry": "Financial technology, Financial services, Microcredit",
     "Founded": "2017",
     "Funding": "$64.0M",
@@ -387,7 +387,7 @@
   {
     "Name": "BeReal.",
     "Website": "https://bereal.com/",
-    "Description": "BeReal is social media platform that prompts users to take one photo each day at a random time.",
+    "Description": "Be Real is social media platform that prompts users to take one photo each day at a random time.",
     "Industry": "Social media, Photography, Social media marketing",
     "Founded": "2019",
     "Funding": "$30.0M",
@@ -398,7 +398,7 @@
   },
   {
     "Name": "HighRadius",
-    "Website": "https://www.highradius.com/about/news/highradius-named-to-2021-cbinsights-fintech250-list/",
+    "Website": "https://www.highradius.com/",
     "Description": "Receivables and Treasury cloud software, powered by AI to optimize working capital.",
     "Industry": "Artificial Intelligence (AI), Computer Software, Automation",
     "Founded": "",
@@ -410,7 +410,7 @@
   },
   {
     "Name": "Luko",
-    "Website": "https://www.eu-startups.com/directory/luko-3/",
+    "Website": "https://playluko.com/",
     "Description": "Luko is a home insurance company that uses technology to streamline the process of getting home insurance and making claims. It is located in Paris, France and was founded in 2016.",
     "Industry": "Insurance, Technology, Artificial Intelligence (AI)",
     "Founded": "2016",
@@ -435,7 +435,7 @@
   },
   {
     "Name": "Viadeo",
-    "Website": "https://www.eu-startups.com/directory/viadeo/",
+    "Website": "https://viadeo.en.softonic.com/",
     "Description": "Viadeo is a social networking service founded in 2004 by Dan Serfaty.",
     "Industry": "Social networking service, Social network, Social media",
     "Founded": "2004",
@@ -472,7 +472,7 @@
   {
     "Name": "OpenWeb",
     "Website": "https://www.openweb.com/",
-    "Description": "OpenWeb, previously known as Spot.IM, is a conversation platform intended for publishers to start meaningful user discussions.",
+    "Description": "Open Web, previously known as Spot.IM, is a conversation platform intended for publishers to start meaningful user discussions.",
     "Industry": "Marketing, Chat (industry), Social media",
     "Founded": "2015",
     "Funding": "$383.0M",
@@ -483,7 +483,7 @@
   },
   {
     "Name": "Alice & Bob",
-    "Website": "https://alice-bob.com/newsroom/alice-bob-product-development-lab/",
+    "Website": "https://alice-bob.com/",
     "Description": "Alice & Bob is an universal fault-tolerant quantum computer creator founded in 2020 by Théau Péronnin.",
     "Industry": "Technology, Quantum computing, Manufacturing",
     "Founded": "2020",
@@ -507,7 +507,7 @@
   },
   {
     "Name": "Ikonisys",
-    "Website": "https://live.euronext.com/en/product/equities/FR00140048X2-ALXP/company-information",
+    "Website": "https://ikonisys.com/",
     "Description": "A medical diagnostic products company focused on the diagnosis of cancers",
     "Industry": "Medical diagnostics, Biomedical engineering, Engineering",
     "Founded": "2017",
@@ -555,7 +555,7 @@
   },
   {
     "Name": "Hootsuite",
-    "Website": "https://www.hootsuite.com/about/contact-us?srsltid=AfmBOorT7LSBdeteu2C44Cu0pt09J-_BwLfqFtd3ZhIodckA3OVhW_RN",
+    "Website": "https://www.hootsuite.com/",
     "Description": "Hootsuite is a social network management platform created to interact, listen and analyze results.",
     "Industry": "Software, Productivity software, Social media",
     "Founded": "2012",
@@ -567,7 +567,7 @@
   },
   {
     "Name": "73 Strings",
-    "Website": "https://www.preqin.com/data/profile/asset/73-strings-sas/554494",
+    "Website": "https://73strings.teamtailor.com/",
     "Description": "73 Strings is an AI-powered financial intelligence platform founded in 2019 by Sambeet Parija, Abhishek Pandey, Vinod Vijapur and Yann Magnan.",
     "Industry": "Market research, Financial services, Finance",
     "Founded": "2018",
@@ -579,8 +579,8 @@
   },
   {
     "Name": "Enterome",
-    "Website": "https://yourstory.com/companies/enterome",
-    "Description": "Developer of OncoMimics™ immunotherapy to treat follicular lymphoma.",
+    "Website": "http://www.enterome.com/",
+    "Description": "Developer of Onco Mimics™ immunotherapy to treat follicular lymphoma.",
     "Industry": "Drug discovery, Medical diagnostics, Biomedical engineering",
     "Founded": "2008",
     "Funding": "$351.5M",
@@ -591,8 +591,8 @@
   },
   {
     "Name": "NewsCatcher",
-    "Website": "https://www.newscatcherapi.com/company/about-us",
-    "Description": "NewsCatcher is a developer of a data scraping and crawling API that helps enterprises get instant access to news and events.",
+    "Website": "https://www.newscatcherapi.com/",
+    "Description": "News Catcher is a developer of a data scraping and crawling API that helps enterprises get instant access to news and events.",
     "Industry": "Business intelligence (BI), Analytics, Natural language processing (NLP)",
     "Founded": "2021",
     "Funding": "$500.0K",
@@ -603,7 +603,7 @@
   },
   {
     "Name": "Capsule Social",
-    "Website": "https://www.eu-startups.com/directory/capsule-social/",
+    "Website": "https://www.capsule-official.com/",
     "Description": "Capsule Social is a decentralized publishing platform where writers can share their stories and knowledge without compromising their integrity.",
     "Industry": "Cryptocurrency, Blockchain, Blockchain and cryptocurrency",
     "Founded": "",
@@ -627,7 +627,7 @@
   },
   {
     "Name": "Pennylane",
-    "Website": "https://www.eu-startups.com/directory/pennylane/",
+    "Website": "https://pennylane.ai/",
     "Description": "Provider of financial OS for European SMEs.",
     "Industry": "Software as a service (SaaS), Accounting, Financial technology",
     "Founded": "2020",
@@ -651,7 +651,7 @@
   },
   {
     "Name": "Dawex",
-    "Website": "https://www.businesswire.com/news/home/20250826511588/en/Dawex-Delivers-its-Data-Exchange-Technology-within-the-Decade-X-France-Project-Acting-for-the-Digital-ECosystem-for-Aerospace-and-DEfence",
+    "Website": "https://dawescyclesusa.com/",
     "Description": "A data marketplace for B2B sharing, acquiring, and monetizing data.",
     "Industry": "Big data, Finance, Trade",
     "Founded": "",
@@ -664,7 +664,7 @@
   {
     "Name": "Aplo",
     "Website": "https://www.aplo.io/",
-    "Description": "Aplo (formerly SheeldMarket) is a cryptocurrency broker.",
+    "Description": "Aplo (formerly Sheeld Market) is a cryptocurrency broker.",
     "Industry": "Cryptocurrency, Finance, Technology",
     "Founded": "2019",
     "Funding": "$11.0M",
@@ -675,7 +675,7 @@
   },
   {
     "Name": "LocoNav",
-    "Website": "https://loconav.com/about-us",
+    "Website": "https://loconav.com/",
     "Description": "A software company offering a platform for vehicle fleet management intelligent analytics and the internet of things (IoT).",
     "Industry": "Technology, Software, Fleet management",
     "Founded": "",
@@ -687,7 +687,7 @@
   },
   {
     "Name": "Clustree",
-    "Website": "https://www.eu-startups.com/directory/clustree/",
+    "Website": "https://pyclustree.complextissue.com/",
     "Description": "Clustree is an automated HR recommendation platform.",
     "Industry": "Consulting industry, Software as a service (SaaS), Analytics",
     "Founded": "2014",
@@ -699,7 +699,7 @@
   },
   {
     "Name": "Coave Therapeutics",
-    "Website": "https://yourstory.com/companies/coave-therapeutics",
+    "Website": "https://serobavc.com/",
     "Description": "Coave Therapeutics is a genetic medicines developer founded in 2014.",
     "Industry": "Deep Tech, Tissue engineering, Health technology",
     "Founded": "2014",
@@ -711,7 +711,7 @@
   },
   {
     "Name": "Flowlity",
-    "Website": "https://www.lokad.com/review-of-flowlity-com/",
+    "Website": "https://www.flowlity.com/",
     "Description": "SaaS using AI to build resilient supply chain, predict sales and consumptions and optimize inventories",
     "Industry": "Supply chain, Business intelligence (BI), Technology",
     "Founded": "2018",
@@ -735,7 +735,7 @@
   },
   {
     "Name": "JobTeaser",
-    "Website": "https://www.trustpilot.com/review/www.jobteaser.com",
+    "Website": "https://www.jobteaser.com/",
     "Description": "A software company that has created a mobile application that is a recruitment platform working with students, universities, and companies. It was founded in 2008 and is located in Paris, France.",
     "Industry": "Consulting industry, Recruitment, College recruiting",
     "Founded": "2008",
@@ -747,7 +747,7 @@
   },
   {
     "Name": "Expliseat",
-    "Website": "https://centreforaviation.com/data/profiles/suppliers/expliseat",
+    "Website": "https://expliseat.com/",
     "Description": "Expliseat is a manufacturer of ultra-light aircraft seats founded in 2011.",
     "Industry": "Transportation, Aerospace, Manufacturing",
     "Founded": "2011",
@@ -759,8 +759,8 @@
   },
   {
     "Name": "DeFacto",
-    "Website": "https://www.getdefacto.com/about-us",
-    "Description": "DeFacto is a Turkish brand of men's and women's clothing and accessories.",
+    "Website": "https://www.getdefacto.com/",
+    "Description": "De Facto is a Turkish brand of men's and women's clothing and accessories.",
     "Industry": "B2B, Credit (finance), Payment",
     "Founded": "2021",
     "Funding": "$46.5M",
@@ -771,8 +771,8 @@
   },
   {
     "Name": "PayFit",
-    "Website": "https://topstartups.io/?hq_location=Paris",
-    "Description": "PayFit is Europe's leading cloud-based and integrated payroll and HR software. We give you the visibility and automation you need to easily manage your payroll, with the support of payroll experts. With many businesses often choosing between in-house or outsourced payroll, PayFit looks to offer a hybrid alternative. We believe that by providing the best of both -- e.g. the control and visibility of in-house and the expertise and specialism associated with outsourcing -- you can enjoy the best payroll experience possible.",
+    "Website": "https://payfit.com/",
+    "Description": "Pay Fit is Europe's leading cloud-based and integrated payroll and HR software. We give you the visibility and automation you need to easily manage your payroll, with the support of payroll experts. With many businesses often choosing between in-house or outsourced payroll, Pay Fit looks to offer a hybrid alternative. We believe that by providing the best of both -- e.g. the control and visibility of in-house and the expertise and specialism associated with outsourcing -- you can enjoy the best payroll experience possible.",
     "Industry": "Employee benefits, Cloud computing, Software",
     "Founded": "2015",
     "Funding": "$961.6M",
@@ -783,7 +783,7 @@
   },
   {
     "Name": "Akur8",
-    "Website": "https://fr.akur8.com/",
+    "Website": "https://www.akur8.com/",
     "Description": "Akur8 is an insurance company offering multiple coverages, including life, health, P&C, and home insurance.",
     "Industry": "Machine learning, Insurance Technology, Home insurance",
     "Founded": "2018",
@@ -795,8 +795,8 @@
   },
   {
     "Name": "Actility",
-    "Website": "https://www.iotforall.com/community/companies/actility",
-    "Description": "Actility is a software company providing low power wide area (LoRaWAN and 3GPP connectivity) network connectivity management.",
+    "Website": "https://actility.site.cutestat.com/",
+    "Description": "Actility is a software company providing low power wide area (Lo RaWAN and 3GPP connectivity) network connectivity management.",
     "Industry": "Technology, Facility management, Artificial Intelligence (AI)",
     "Founded": "2010",
     "Funding": "$106.8M",

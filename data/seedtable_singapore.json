@@ -13,7 +13,7 @@
   },
   {
     "Name": "Flint",
-    "Website": "https://www.flintlabs.com/blog/flints-paper-batteries-are-here",
+    "Website": "https://www.flintlabs.com/",
     "Description": "Flint is a global crypto investment app offering a range of passive investment assets to its users built on top of crypto.",
     "Industry": "Web3, Decentralized Finance, Finance",
     "Founded": "2021",
@@ -38,7 +38,7 @@
   },
   {
     "Name": "Cega",
-    "Website": "https://news.fintech.io/post/102ibm4/cega-raises-5m-in-growth-funding",
+    "Website": "https://cega.berkeley.edu/",
     "Description": "Cega is a Singapore-based company developing a decentralized finance application designed to create derivative contracts as well as consumer-facing staking products for the retail audience.",
     "Industry": "Digital currency, Blockchain and cryptocurrency, Decentralized Finance",
     "Founded": "2020",
@@ -50,7 +50,7 @@
   },
   {
     "Name": "Ecxx",
-    "Website": "https://e27.co/startups/ecxx-com/",
+    "Website": "",
     "Description": "World's Leading Digital Asset Exchange | Our aim is to bring digital finance to you by delivering trusted and secured digital asset trading services.",
     "Industry": "Cryptocurrency, Cryptocurrency exchange, Blockchain and cryptocurrency",
     "Founded": "2017",
@@ -63,7 +63,7 @@
   {
     "Name": "Cake DeFi",
     "Website": "https://cake.group/",
-    "Description": "Cake is an all-in-one decentralized finance (DeFi) platform.",
+    "Description": "Cake is an all-in-one decentralized finance (De Fi) platform.",
     "Industry": "Financial technology, Cryptocurrency, Blockchain",
     "Founded": "",
     "Funding": "$2.4M",
@@ -74,7 +74,7 @@
   },
   {
     "Name": "Eat Just",
-    "Website": "https://www.just-food.com/news/eat-just-explains-singapore-production-pause/",
+    "Website": "https://www.just-food.com/",
     "Description": "Eat Just is a San Francisco based food technology company founded in 2011. The company is known for its bean-based egg substitute called Just Egg. Eat Just also produces egg-free mayonnaise.",
     "Industry": "Clean technology, Biology, Food technology",
     "Founded": "2011",
@@ -87,7 +87,7 @@
   {
     "Name": "SynFutures",
     "Website": "https://www.synfutures.com/",
-    "Description": "SynFutures is a decentralized Derivatives Protocol.",
+    "Description": "Syn Futures is a decentralized Derivatives Protocol.",
     "Industry": "Decentralized autonomous organization (DAO), Cryptocurrency, Blockchain",
     "Founded": "",
     "Funding": "$15.4M",
@@ -98,8 +98,8 @@
   },
   {
     "Name": "Footprint Analytics",
-    "Website": "https://sourceforge.net/software/product/Footprint-Analytics/",
-    "Description": "imToken is a company providing a multi-chain cryptocurrency wallet.",
+    "Website": "https://www.footprint.network/",
+    "Description": "im Token is a company providing a multi-chain cryptocurrency wallet.",
     "Industry": "Educational Technology, Finance, Technology, Decentralized application (dApp), Decentralized Finance, Blockchain",
     "Founded": "2021",
     "Funding": "$50.0M",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "VCC Exchange",
-    "Website": "https://airdropalert.com/airdrops/vcc-exchange/",
+    "Website": "https://vcc.exchange/",
     "Description": "Launched on May 19, 2019, VCC Exchange is a centralized exchange that is based in Singapore, operates in Vietnam.VCC features crypto-crypto and VND-crypto trading, which is supported in web, iOS and Android applications. VCC Exchange is backed by Signum Capital and Axiom Associates Capital.",
     "Industry": "Blockchain, Cryptocurrency, Cryptocurrency exchange",
     "Founded": "",
@@ -123,7 +123,7 @@
   },
   {
     "Name": "Matrixport",
-    "Website": "https://www.techinasia.com/singapore-crypto-startup-unicorn-2-years?ref=subexc-homepage",
+    "Website": "https://www.matrixport.ventures/",
     "Description": "Matrixport is a cryptocurrency financial services platform enabling users to earn, invest, trade, loan and purchase crypto assets.",
     "Industry": "Blockchain, Financial services, Decentralized Finance",
     "Founded": "2019",
@@ -135,7 +135,7 @@
   },
   {
     "Name": "Vungle",
-    "Website": "https://www.startupranking.com/startup/vungle",
+    "Website": "https://vungle.com/",
     "Description": "Vungle (Vungle, Inc.) is startup which powers video advertisements inside of mobile apps and games.",
     "Industry": "Software, Technology, Software development",
     "Founded": "",
@@ -147,7 +147,7 @@
   },
   {
     "Name": "Cypherock Wallet",
-    "Website": "https://techcabal.com/2025/12/10/cypherock-eyes-africas-crypto-hardware-market/",
+    "Website": "https://www.cypherock.com/",
     "Description": "Cypherock is building a hardware wallet that does not require a seed phrase.",
     "Industry": "Blockchain and cryptocurrency, Security, Technology",
     "Founded": "2019",
@@ -172,7 +172,7 @@
   },
   {
     "Name": "Phemex",
-    "Website": "https://compworth.com/company/phemex",
+    "Website": "https://phemex.zendesk.com/",
     "Description": "Phemex is a cryptocurrency trading platform",
     "Industry": "Cryptocurrency exchange, Blockchain and cryptocurrency, Blockchain",
     "Founded": "2019",
@@ -196,8 +196,8 @@
   },
   {
     "Name": "MetaPals",
-    "Website": "https://www.sgpbusiness.com/company/Metapals-Pte-Ltd",
-    "Description": "MetaPals is a browser extension that allows users to interact and grow virtual pets directly from their web browser windows.",
+    "Website": "https://metapals.com/",
+    "Description": "Meta Pals is a browser extension that allows users to interact and grow virtual pets directly from their web browser windows.",
     "Industry": "Cryptocurrency, Blockchain, Gaming",
     "Founded": "2021",
     "Funding": "$807.0K",
@@ -233,8 +233,8 @@
   },
   {
     "Name": "COINUT",
-    "Website": "https://coinut.com/aboutUs",
-    "Description": "Coinutis a digital asset platform in Canada andSingaporethat enables users to buy and sell digital assets with SGD or CAD.",
+    "Website": "https://coinut.com/",
+    "Description": "Coinutis a digital asset platform in Canada and Singaporethat enables users to buy and sell digital assets with SGD or CAD.",
     "Industry": "Futures contract, Cryptocurrency exchange, Blockchain",
     "Founded": "2013",
     "Funding": "$1.5M",
@@ -245,8 +245,8 @@
   },
   {
     "Name": "Router Protocol",
-    "Website": "https://yourstory.com/2021/07/router-protocol-orobind-technologies-tjori-ramani-ramachandran",
-    "Description": "Router Protocol is a blockchain that offers cross-chain dApp interoperability to developers.",
+    "Website": "https://paragraph.com/",
+    "Description": "Router Protocol is a blockchain that offers cross-chain d App interoperability to developers.",
     "Industry": "Cryptocurrency, Blockchain, Decentralized Finance",
     "Founded": "2021",
     "Funding": "$4.6M",
@@ -257,8 +257,8 @@
   },
   {
     "Name": "Menlo Security",
-    "Website": "https://www.sgpbusiness.com/company/Menlo-Security-Asia-Pacific-Pte-Ltd",
-    "Description": "Menlo Security is a cloud-based internet isolation to prevent cyber attacks founded in 2013 by Amir Ben-Efraim, Gautam Altekar and Poornima DeBolle.",
+    "Website": "https://www.menlosecurity.com/",
+    "Description": "Menlo Security is a cloud-based internet isolation to prevent cyber attacks founded in 2013 by Amir Ben-Efraim, Gautam Altekar and Poornima De Bolle.",
     "Industry": "Technology, Software, Email Security",
     "Founded": "2013",
     "Funding": "$260.5M",
@@ -270,7 +270,7 @@
   },
   {
     "Name": "Vauld",
-    "Website": "https://blocknews.com/bankrupt-singapore-based-crypto-exchange-vauld-has-received-court-permission-to-restructure/",
+    "Website": "https://www.vauld.com/",
     "Description": "Lend, borrow & trade with Bitcoin (BTC), Ethereum (ETH), Tether (USDT) and other major cryptocurrencies. Buy & sell crypto and earn interest of up to 11.57% APY. Trade while continuing to earn high interest rates.",
     "Industry": "Blockchain and cryptocurrency, Cryptocurrency exchange, Blockchain",
     "Founded": "2018",
@@ -282,7 +282,7 @@
   },
   {
     "Name": "Horizon Quantum Computing",
-    "Website": "https://www.horizonquantum.com/updates/news/horizon-quantum-becomes-first-quantum-software-company-to-own-and-operate-a-quantum-computer",
+    "Website": "https://www.horizonquantum.com/",
     "Description": "Horizon Quantum Computing is a Singapore-based company developing quantum software development tools founded in 2018.",
     "Industry": "Quantum software, Software development, Quantum technology",
     "Founded": "2018",
@@ -294,7 +294,7 @@
   },
   {
     "Name": "Shiok Meats",
-    "Website": "https://unreasonablegroup.com/ventures/shiok-meats",
+    "Website": "https://shiokmeats.com/",
     "Description": "Shiok Meats is a Singapore-based cellular agriculture company focusing on making cultured seafood.",
     "Industry": "Cellular agriculture, Alternative seafood, Clean technology",
     "Founded": "2018",
@@ -307,7 +307,7 @@
   },
   {
     "Name": "C3 Protocol",
-    "Website": "https://singaporehq.co/c3-protocol",
+    "Website": "https://www.c3.app/",
     "Description": "A decentralized capital market powered by a cross-margin cross-collateralization clearing engine protocol.",
     "Industry": "Peer-to-peer lending, Decentralized Finance, Cryptocurrency",
     "Founded": "2018",
@@ -355,7 +355,7 @@
   },
   {
     "Name": "Cellwize",
-    "Website": "https://e27.co/startups/cellwize/",
+    "Website": "https://www.cellwize.com/",
     "Description": "Cellwize is a telecommunications service provider in Singapore.",
     "Industry": "Technology, Big data, Internet of things (IoT)",
     "Founded": "2012",
@@ -367,7 +367,7 @@
   },
   {
     "Name": "Sift Science",
-    "Website": "https://www.siftstack.com/mission-critical/sift-raises-series-a",
+    "Website": "https://www.siftstack.com/",
     "Description": "Sift Science is a San Francisco-based company founded in 2011 by Brandon Ballinger.",
     "Industry": "Artificial Intelligence (AI), Enterprise software, Technology",
     "Founded": "",
@@ -379,7 +379,7 @@
   },
   {
     "Name": "Mercu",
-    "Website": "https://asiatechdaily.com/mercu-raises-1-6m-seed-round-to-boost-deskless-workforce-enablement/",
+    "Website": "https://www.mercuryinsurance.com/",
     "Description": "Mercu is a Singapore-based software-as-a-service company developing an artificially intelligent platform for hiring, training, and engaging remote workforces.",
     "Industry": "Recruitment, Artificial Intelligence (AI), Software as a service (SaaS)",
     "Founded": "2021",
@@ -391,7 +391,7 @@
   },
   {
     "Name": "Jumio",
-    "Website": "https://www.jumio.com/global-coverage/singapore/",
+    "Website": "https://www.jumio.com/",
     "Description": "Jumio is a company offering a platform for identity verification founded in 2010.",
     "Industry": "Infrastructure, Security, Physical security",
     "Founded": "2010",
@@ -403,7 +403,7 @@
   },
   {
     "Name": "Transcelestial Technologies",
-    "Website": "https://transcelestial.com/defense/",
+    "Website": "https://transcelestial.com/",
     "Description": "Transcelestial Technologies is a communications company that is creating a space laser network for communication purposes. It is located in Singapore and was founded in 2016.",
     "Industry": "Information technology, Aerospace, Laser",
     "Founded": "2016",
@@ -415,7 +415,7 @@
   },
   {
     "Name": "MiRXES",
-    "Website": "https://e27.co/startups/mirxes/",
+    "Website": "https://www.mirxes.com/",
     "Description": "MiRXES is a Singapore-based biotechnology company specializing in microRNA-based diagnostics founded in 2014.",
     "Industry": "Engineering, COVID-19 testing, Biomedical engineering",
     "Founded": "2014",
@@ -428,7 +428,7 @@
   },
   {
     "Name": "Docsumo",
-    "Website": "https://www.docsumo.com/contact",
+    "Website": "https://www.docsumo.com/",
     "Description": "Docsumo is an artificial intelligence company that develops solutions for automating data extraction from documents.",
     "Industry": "Machine learning, Artificial Intelligence (AI), Natural language processing (NLP)",
     "Founded": "2019",
@@ -440,7 +440,7 @@
   },
   {
     "Name": "Apiax",
-    "Website": "https://fintechnews.sg/list-fintech-startup-singapore-fintech-companies-directory/fintech/apiax/",
+    "Website": "https://careers.conehealth.com/",
     "Description": "Apiax transforms complex regulations into digital compliance rules, which are constantly up-to-date and verified, accessible via an API.",
     "Industry": "Compliance, Legal technology, Information technology",
     "Founded": "",
@@ -452,7 +452,7 @@
   },
   {
     "Name": "Medios Technologies",
-    "Website": "https://www.sginnovate.com/blog/how-medios-technologies-florian-savoy-prepares-mentees-messy-world-datasets-and-ai",
+    "Website": "https://medios.group/",
     "Description": "Medios Technologies is a software development company creating deep learning software to assist doctors in grading fundus images for detection of diabetic retinopathy, a type of blindness causes by disease related changes in the vasculature of the retina.",
     "Industry": "Healthcare, Computer Vision, Artificial Intelligence (AI)",
     "Founded": "2017",
@@ -464,8 +464,8 @@
   },
   {
     "Name": "MediaMath",
-    "Website": "https://www.mediamath.com/blog/the-new-gdpr-law-europe/",
-    "Description": "MediaMath is a company developing and delivering digital advertising media and data management technology solutions.",
+    "Website": "https://www.mediamath.com/",
+    "Description": "Media Math is a company developing and delivering digital advertising media and data management technology solutions.",
     "Industry": "Advertising, Digital media, Software",
     "Founded": "2007",
     "Funding": "$846.9M",
@@ -476,7 +476,7 @@
   },
   {
     "Name": "Near",
-    "Website": "https://yourstory.com/2020/07/data-analytics-startup-near-adtech-pivot-saas-singapore",
+    "Website": "https://near.ai/",
     "Description": "Near is an artificial Intelligence company, founded in 2012 by Anil Mathews.",
     "Industry": "Retail, Software as a service (SaaS), Technology",
     "Founded": "2012",
@@ -501,7 +501,7 @@
   {
     "Name": "Thunes",
     "Website": "https://www.thunes.com/",
-    "Description": "Thunes is a Singapore-based B2B fintech specializing in cross-border payment infrastructure. Led by CEO Floris de Kort, it enables real-time, multi-currency money movement across 130+ countries using a unified API. Trusted by global platforms like Uber, PayPal, and Grab",
+    "Description": "Thunes is a Singapore-based B2B fintech specializing in cross-border payment infrastructure. Led by CEO Floris de Kort, it enables real-time, multi-currency money movement across 130+ countries using a unified API. Trusted by global platforms like Uber, Pay Pal, and Grab",
     "Industry": "Finance, Technology, Financial technology",
     "Founded": "2016",
     "Funding": "$280.0M",
@@ -512,7 +512,7 @@
   },
   {
     "Name": "BeeX",
-    "Website": "https://www.sginnovate.com/node/15063",
+    "Website": "https://beex.sg/",
     "Description": "BeeX is a Singapore-based manufacturer of autonomous underwater vehicles for underwater inspections.",
     "Industry": "Autonomous underwater vehicle, Robotics, Clean technology",
     "Founded": "2018",
@@ -572,7 +572,7 @@
   },
   {
     "Name": "AMEC",
-    "Website": "https://amecorg.com/summits/2025-speakers/",
+    "Website": "https://amecorg.com/",
     "Description": "AMEC is a company founded in 2004 by James Yang.",
     "Industry": "Semiconductor, Manufacturing, Industrial",
     "Founded": "2004",
@@ -584,7 +584,7 @@
   },
   {
     "Name": "Pine Labs",
-    "Website": "https://www.pinelabs.com/media-analyst/fave-southeast-asias-fast-growing-fintech-startup-acquired-by-pine-labs",
+    "Website": "https://www.pinelabs.com/",
     "Description": "A company providing financing and transaction technology for merchants.",
     "Industry": "Payment, Finance, Technology",
     "Founded": "1998",
@@ -596,7 +596,7 @@
   },
   {
     "Name": "CYBAVO",
-    "Website": "https://www.sgpbusiness.com/company/Cybavo-Pte-Ltd",
+    "Website": "https://www.office.com/",
     "Description": "CYBAVO is a company founded by experts in computer security and blockchain industry.",
     "Industry": "Cryptocurrency, Blockchain, Software",
     "Founded": "2018",
@@ -608,7 +608,7 @@
   },
   {
     "Name": "Ampverse",
-    "Website": "https://e27.co/startups/ampverse/",
+    "Website": "https://ampverse.com/",
     "Description": "Ampverse is a Singapore-based company founded in 2019 by Ferdinand Gutierrez.",
     "Industry": "Online gaming, Gaming, Video game industry",
     "Founded": "2019",
@@ -620,8 +620,8 @@
   },
   {
     "Name": "Polemos",
-    "Website": "https://cryptoslate.com/press-releases/polemos-announces-tge-and-a-game-changing-strategic-partnership-with-buff-accelerating-web3-adoption/",
-    "Description": "Polemos is a global GameFi platform that is a decentralized combination of its own asset lending library, educational hub, and gaming community.",
+    "Website": "https://polemos.squarespace.com/",
+    "Description": "Polemos is a global Game Fi platform that is a decentralized combination of its own asset lending library, educational hub, and gaming community.",
     "Industry": "Blockchain, Video game industry, Metaverse",
     "Founded": "2020",
     "Funding": "$14.0M",
@@ -632,7 +632,7 @@
   },
   {
     "Name": "ZTX",
-    "Website": "https://ecosystem.madrimasd.org/companies/ztx",
+    "Website": "https://ztx.io/",
     "Description": "ZTX is a company developing a Web3 metaverse platform featuring an immersive 3D virtual world.",
     "Industry": "Social networking service, Web3, Non-fungible token (NFT)",
     "Founded": "2022",
@@ -644,7 +644,7 @@
   },
   {
     "Name": "Carousell",
-    "Website": "https://www.cnbc.com/2019/10/08/carousell-how-3-friends-turned-used-goods-into-a-550-million-startup.html",
+    "Website": "https://www.carousell.ph/",
     "Description": "gDEX Metaverse is a gaming platform in the metaverse.",
     "Industry": "Mobile commerce, E-commerce, Marketplace, Gaming, Decentralized Finance, Finance",
     "Founded": "2012",
@@ -669,7 +669,7 @@
   },
   {
     "Name": "Atlan",
-    "Website": "https://atlan.com/atlan-raises-105m-funding/",
+    "Website": "https://atlan.com/",
     "Description": "Atlan is a modern data workspace that helps data teams collaborate and democratize both their internal and external data while automating repetitive tasks.",
     "Industry": "Platform as a service (PaaS), Collaboration, Governance",
     "Founded": "",
@@ -681,8 +681,8 @@
   },
   {
     "Name": "ViSenze",
-    "Website": "https://www.visenze.com/resource-centre/image-recognition-startup-visenze-raises-20m-series-c/",
-    "Description": "ViSenze is an Artificial Intelligence company founded in Singapore, as part of NExT, a joint research centre between the National University of Singapore and Tsinghua University of China.",
+    "Website": "https://www.visenze.com/",
+    "Description": "Vi Senze is an Artificial Intelligence company founded in Singapore, as part of NExT, a joint research centre between the National University of Singapore and Tsinghua University of China.",
     "Industry": "Artificial Intelligence (AI), Commerce, Technology",
     "Founded": "2012",
     "Funding": "$34.0M",
@@ -717,7 +717,7 @@
   },
   {
     "Name": "Tessa Therapeutics",
-    "Website": "https://www.fiercebiotech.com/biotech/tessa-therapeutics-dissolves-after-raising-more-200m",
+    "Website": "https://www.tesseratherapeutics.com/",
     "Description": "A biotechnology company developing t-cell immunotherapies therapies for the treatment of cancer. The company is headquartered in Singapore, and was founded by Malcolm Brenner and Andrew Khoo in 2011.",
     "Industry": "Biomedical engineering, Immunotherapy, Engineering",
     "Founded": "2011",
@@ -729,7 +729,7 @@
   },
   {
     "Name": "Travelstop",
-    "Website": "https://www.webintravel.com/wego-acquires-travelstop-in-bid-to-build-first-corporate-travel-unicorn-in-asia-middle-east/",
+    "Website": "https://www.webintravel.com/",
     "Description": "Travelstop is a SaaS company and business travel platform. The company provides tools to manage business travel, expense reporting, and data analytics for travel and expenses.",
     "Industry": "Cloud computing, Business travel, Management",
     "Founded": "2016",
@@ -753,7 +753,7 @@
   },
   {
     "Name": "SO-COL",
-    "Website": "https://directory.startupluxembourg.com/companies/so_col",
+    "Website": "https://www.socol.io/",
     "Description": "SO-COL is a platform where creators and fans can connect like never before",
     "Industry": "Web3, Non-fungible token (NFT), Blockchain and cryptocurrency",
     "Founded": "2021",
@@ -765,7 +765,7 @@
   },
   {
     "Name": "See-Mode Technologies",
-    "Website": "https://deephealth.com/see-mode/",
+    "Website": "https://www.see-mode.com/",
     "Description": "An artificial intelligence company with an online platform for medical imaging analysis, specifically pertaining to strokes. It has offices in Singapore and Australia and was founded in 2017.",
     "Industry": "Artificial Intelligence (AI), Digital health, Medical device",
     "Founded": "2017",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Karana",
-    "Website": "https://eatkarana.com/introducing-karana/",
+    "Website": "https://eatkarana.com/",
     "Description": "Karana is a Singapore-based company that optimizes natural SE Asian ingredients like jackfruit and banana blossoms for use in food service and other applications.",
     "Industry": "Plant-based meat, Meat, Alternative proteins",
     "Founded": "2018",
@@ -789,7 +789,7 @@
   },
   {
     "Name": "Reap",
-    "Website": "https://reap.global/newsroom/reap-receives-in-principle-approval-for-major-payment-institution-license-from-monetary-authority-of-singapore",
+    "Website": "https://reap.global/",
     "Description": "Reap is an online payment platform that enables small businesses to pay expenses and collect revenue via credit card. Reap aims to facilitate payments between Web3 projects and traditional businesses.",
     "Industry": "Payment system, Credit card, Finance",
     "Founded": "2018",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Nodereal",
-    "Website": "https://nodereal.io/about-us",
+    "Website": "https://nodereal.io/",
     "Description": "Nodereal is a the ultimate web 3 infrastructure solution.",
     "Industry": "Cryptocurrency, Blockchain and cryptocurrency, Web3",
     "Founded": "2021",

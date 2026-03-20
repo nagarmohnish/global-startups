@@ -13,7 +13,7 @@
   },
   {
     "Name": "Wavel.ai",
-    "Website": "https://wavel.ai/get-in-touch",
+    "Website": "https://wavel.ai/",
     "Description": "Wavel.ai is a voice AI solution for scaling and localizing video content.",
     "Industry": "Machine learning, Artificial Intelligence (AI), AI video compression",
     "Founded": "2018",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "Jupiter Exchange",
-    "Website": "https://aventure.vc/investors/firms/jupiter-exchange-new-york-city-ny-us",
+    "Website": "https://www.jupiterexchange.com/",
     "Description": "Jupiter Exchange is a swap aggregator on Solana.",
     "Industry": "Cryptocurrency, Digital currency, Smart contract",
     "Founded": "2021",
@@ -87,7 +87,7 @@
   },
   {
     "Name": "Clearview AI",
-    "Website": "https://www.clearview.ai/overview",
+    "Website": "https://www.clearview.ai/",
     "Description": "Clearview AI is a software company offering a computer vision system using artificial intelligence for serving the law enforcement industry.",
     "Industry": "Facial recognition, Machine learning, Identity management",
     "Founded": "2017",
@@ -112,7 +112,7 @@
   },
   {
     "Name": "Praxis Society",
-    "Website": "https://www.motherjones.com/politics/2023/09/praxis-society-city-dryden-brown-peter-thiel/",
+    "Website": "https://praxis.ets.org/",
     "Description": "Praxis is a membership-based community of creatives and technologists building a city-cryptostate.",
     "Industry": "Blockchain, Blockchain and cryptocurrency",
     "Founded": "2005",
@@ -124,7 +124,7 @@
   },
   {
     "Name": "Tempus Labs",
-    "Website": "https://www.tempus.com/life-sciences/sequencing/?srsltid=AfmBOoooA0nrKH_qUGXN43elzC0PQ7Ll-l388uCKrylxRbMwjLvCa3Ru",
+    "Website": "https://www.tempus.com/",
     "Description": "Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare.",
     "Industry": "Health information technology, Healthcare, Cancer",
     "Founded": "2015",
@@ -136,7 +136,7 @@
   },
   {
     "Name": "Personetics Technologies",
-    "Website": "https://connexy.com/us-company/personetics-technologies/8376872",
+    "Website": "https://personetics.com/",
     "Description": "Personetics' self-driving finance platform for banks to anticipate a customer's personalized banking needs through artificial intelligence.",
     "Industry": "Financial technology, Artificial Intelligence (AI), Finance",
     "Founded": "2011",
@@ -160,8 +160,8 @@
   },
   {
     "Name": "ItBit",
-    "Website": "https://www.datanyze.com/companies/itbit/396009490",
-    "Description": "ItBit is a platform for institutions and active investors to trade cryptocurrency assets.",
+    "Website": "",
+    "Description": "It Bit is a platform for institutions and active investors to trade cryptocurrency assets.",
     "Industry": "Blockchain, Blockchain and cryptocurrency",
     "Founded": "2012",
     "Funding": "$3.3M",
@@ -172,8 +172,8 @@
   },
   {
     "Name": "SirionLabs",
-    "Website": "https://www.geekwire.com/2023/contract-lifecycle-management-startup-sirionlabs-raises-25m/",
-    "Description": "SirionLabs provides a contract lifecycle management (CLM) platform for enterprises.",
+    "Website": "https://www.sirion.ai/",
+    "Description": "Sirion Labs provides a contract lifecycle management (CLM) platform for enterprises.",
     "Industry": "Risk management, Enterprise, Sales",
     "Founded": "2012",
     "Funding": "$146.0M",
@@ -184,7 +184,7 @@
   },
   {
     "Name": "Urban Electric Power",
-    "Website": "https://www.urbanelectricpower.com/blank-2",
+    "Website": "https://www.urbanelectricpower.com/",
     "Description": "Urban Electric Power is a Pearl River, New York-based developer of a zinc manganese dioxide battery technology. The company was spun out of the CUNY Energy Institute in 2013.",
     "Industry": "Sustainability, Clean technology, Renewable energy",
     "Founded": "2013",
@@ -196,7 +196,7 @@
   },
   {
     "Name": "Alloy (software company)",
-    "Website": "https://www.alloy.com/about",
+    "Website": "https://www.alloy.com/",
     "Description": "Alloy is a San Francisco-based software company developing a platform for inventory and shipment visibility, including sell-in and sell-through analytics.",
     "Industry": "Financial technology, Supply chain management, Big data",
     "Founded": "2015",
@@ -233,8 +233,8 @@
   },
   {
     "Name": "BlockFi",
-    "Website": "https://www.coindesk.com/learn/blockfi",
-    "Description": "BlockFi is a blockchain platform for high-interest crypto accounts and low-cost credit products.",
+    "Website": "https://blockfi.com/",
+    "Description": "Block Fi is a blockchain platform for high-interest crypto accounts and low-cost credit products.",
     "Industry": "Digital currency, Blockchain, Investment",
     "Founded": "2017",
     "Funding": "$1.4B",
@@ -269,7 +269,7 @@
   },
   {
     "Name": "Zeel (e-commerce company)",
-    "Website": "https://golden.com/wiki/Zeel_(e-commerce_company)-5KZKK54",
+    "Website": "https://www.nzeel.com/",
     "Description": "Zeel is a New York City-based provider of in-person and virtual on-demand massage and health services from vetted therapists.",
     "Industry": "Massage, E-commerce",
     "Founded": "",
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Flatiron Health",
-    "Website": "https://flatiron.com/careers",
+    "Website": "https://flatiron.com/",
     "Description": "Flatiron Health is a startup that organizes real-time oncology data to help cancer patients and doctors.",
     "Industry": "Cancer, Oncology, Medicine",
     "Founded": "2012",
@@ -329,7 +329,7 @@
   },
   {
     "Name": "Deep Instinct",
-    "Website": "https://www.deepinstinct.com/about-us",
+    "Website": "https://www.deepinstinct.com/",
     "Description": "Deep Instinct is a Tel Aviv- and New York City-based cybersecurity company that applies deep learning to cybersecurity.",
     "Industry": "Artificial Intelligence (AI), Cybersecurity, Mobile device management",
     "Founded": "2015",
@@ -341,8 +341,8 @@
   },
   {
     "Name": "InVision",
-    "Website": "https://www.iv.com/",
-    "Description": "InVision is New York City based startup building a collaborative and wireframing design tool.",
+    "Website": "https://invision-landing-page.vercel.app/",
+    "Description": "In Vision is New York City based startup building a collaborative and wireframing design tool.",
     "Industry": "Graphic design, Design, Customer experience",
     "Founded": "1993",
     "Funding": "$491.5M",
@@ -366,7 +366,7 @@
   {
     "Name": "SmartAsset",
     "Website": "https://smartasset.com/",
-    "Description": "SmartAsset is a financial technology company that provides automated personalized financial advice. It participated in the S12 cohort of Y Combinator.",
+    "Description": "Smart Asset is a financial technology company that provides automated personalized financial advice. It participated in the S12 cohort of Y Combinator.",
     "Industry": "Online marketplace, Financial services, Personal finance",
     "Founded": "2012",
     "Funding": "$161.4M",
@@ -389,7 +389,7 @@
   },
   {
     "Name": "Voximplant",
-    "Website": "https://voximplant.com/careers",
+    "Website": "https://voximplant.com/",
     "Description": "Voximplant is a Palo Alto, California-based company that provides a cloud communications platform with voice, video, and messaging solutions for enterprises, startups, and nonprofit organizations.",
     "Industry": "Web development, VoIP, Cloud computing",
     "Founded": "2013",
@@ -413,8 +413,8 @@
   },
   {
     "Name": "MoneyLion",
-    "Website": "https://www.moneylion.com/learn/moneylion-a-personal-finance-startup-raises-42m",
-    "Description": "MoneyLion is a mobile banking platform for borrowing, saving, and investing.",
+    "Website": "https://www.moneylion.com/",
+    "Description": "Money Lion is a mobile banking platform for borrowing, saving, and investing.",
     "Industry": "Microcredit, Consumer, Software",
     "Founded": "2013",
     "Funding": "$324.5M",
@@ -425,7 +425,7 @@
   },
   {
     "Name": "Big Time Studios",
-    "Website": "https://cryptocurrencyjobs.co/startups/big-time-studios/",
+    "Website": "https://www.bigtime.gg/",
     "Description": "Big Time is a multiplayer action RPG that makes collectable NFTs accessible to everyone.",
     "Industry": "Video game industry, Blockchain, Role-playing game",
     "Founded": "",
@@ -438,7 +438,7 @@
   },
   {
     "Name": "Yewno",
-    "Website": "https://www.datanyze.com/companies/yewno/389928733",
+    "Website": "https://knowledge.cloudquant.com/",
     "Description": "Yewno is a company that has built AI technology for research and idea generation.",
     "Industry": "Technology, Artificial Intelligence (AI), Learning management system",
     "Founded": "2014",
@@ -450,7 +450,7 @@
   },
   {
     "Name": "Agolo",
-    "Website": "https://startupbeat.com/tag/agolo/",
+    "Website": "https://docs.agolo.com/",
     "Description": "An artificial intelligence company developing a platform that helps analysts process and understand information.",
     "Industry": "Natural language processing (NLP), Software, Manufacturing",
     "Founded": "",
@@ -463,7 +463,7 @@
   },
   {
     "Name": "Branch (finance company)",
-    "Website": "https://branch.co/about",
+    "Website": "https://branch.co/",
     "Description": "Branch offers microloans through a free-to-download Android app in emerging markets.",
     "Industry": "Financial services, Personal finance, Loan",
     "Founded": "2019",
@@ -475,7 +475,7 @@
   },
   {
     "Name": "Skillshare",
-    "Website": "https://www.skillshare.com/en/?srsltid=AfmBOoqwyulFIDsHGz5lp6X-GmVeE8jT3J3hRDHiKvbYiL9HF-JKWa63",
+    "Website": "https://www.skillshare.com/",
     "Description": "Skillshare is a New York-based educational technology company offering an online learning community for creative entrepreneurs.",
     "Industry": "Tutor, Technology, E-learning",
     "Founded": "2010",
@@ -499,7 +499,7 @@
   },
   {
     "Name": "Dataminr",
-    "Website": "https://www.dataminr.com/company/",
+    "Website": "https://www.dataminr.com/",
     "Description": "Dataminr is a company providing a real-time AI platform delivering information on high-impact events and breaking news.",
     "Industry": "Public safety, Technology, Big data",
     "Founded": "2009",
@@ -511,7 +511,7 @@
   },
   {
     "Name": "Nydig",
-    "Website": "https://www.nydig.com/about-us",
+    "Website": "https://www.nydig.com/",
     "Description": "Nydig is a provider of bitcoin infrastructure and institutional financial services.",
     "Industry": "Blockchain and cryptocurrency, Blockchain, Asset management",
     "Founded": "2017",
@@ -523,8 +523,8 @@
   },
   {
     "Name": "NestApple",
-    "Website": "https://m.yelp.com/biz/nestapple-new-york",
-    "Description": "NestApple is a New York City-based real estate company.",
+    "Website": "https://www.nestle.com/",
+    "Description": "Nest Apple is a New York City-based real estate company.",
     "Industry": "Internet of things (IoT), Technology, Real estate technology",
     "Founded": "2016",
     "Funding": "$2.0M",
@@ -559,8 +559,8 @@
   },
   {
     "Name": "Aicure",
-    "Website": "https://aicure.com/company",
-    "Description": "AiCure is an advanced data analytics company that uses artificial intelligence to understand how patients respond to treatments.",
+    "Website": "https://aicure.com/",
+    "Description": "Ai Cure is an advanced data analytics company that uses artificial intelligence to understand how patients respond to treatments.",
     "Industry": "Diagnosis, Health information technology, Digital health",
     "Founded": "2010",
     "Funding": "$76.3M",
@@ -572,7 +572,7 @@
   {
     "Name": "AlphaSense",
     "Website": "https://www.alpha-sense.com/",
-    "Description": "AlphaSense is a technology company that has developed an artificial intelligence platform for market intelligence and analysis. It was founded in 2011 and is located in San Francisco, California.",
+    "Description": "Alpha Sense is a technology company that has developed an artificial intelligence platform for market intelligence and analysis. It was founded in 2011 and is located in San Francisco, California.",
     "Industry": "Software as a service (SaaS), Business intelligence (BI), Analytics",
     "Founded": "2011",
     "Funding": "$918.0M",
@@ -595,7 +595,7 @@
   },
   {
     "Name": "CoverWallet",
-    "Website": "https://www.coverwallet.com/business-tips/",
+    "Website": "https://www.coverwallet.com/",
     "Description": "An insurance company using analytics and technology to offer insurance premiums to small businesses.",
     "Industry": "Cybersecurity, Financial technology, Financial inclusion",
     "Founded": "2015",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Stemline Therapeutics",
-    "Website": "https://www.labiotech.eu/trends-news/stemline-therapeutics-breast-cancer-treatment-approved/",
+    "Website": "https://stemline.com/",
     "Description": "A biopharmaceutical company developing therapeutics to attack cancer stem cells.",
     "Industry": "Cell therapy, Healthcare, Immunotherapy",
     "Founded": "2003",
@@ -643,7 +643,7 @@
   },
   {
     "Name": "Ocean Hugger Foods",
-    "Website": "https://sp-edge.com/companies/453581",
+    "Website": "https://oceanhuggerfoods.com/",
     "Description": "Ocean Hugger Foods is making a plant-based raw tuna substitute called Ahimi out of a mixture of 5 ingredients; tomatoes, filtered water, soy sauce, sesame oil, and sugar. The company is located in New York City, New York and was founded in 2015.",
     "Industry": "Plant-based meat, Alternative proteins, Seafood",
     "Founded": "2015",
@@ -680,7 +680,7 @@
   },
   {
     "Name": "T-REX (Financial technology)",
-    "Website": "https://www.lemonade.com/",
+    "Website": "https://www.trexcapitalgroup.com/",
     "Description": "T-REX is a cloud-based SaaS company which combines big data and asset class expertise to provide solutions and enhance performance of complex investments, including renewable energy and structured credit markets.",
     "Industry": "Technology, Financial technology, Finance",
     "Founded": "",
@@ -692,7 +692,7 @@
   },
   {
     "Name": "Headout",
-    "Website": "https://www.headout.com/company-details/",
+    "Website": "https://www.headout.com/",
     "Description": "Headout provides an online platform for locals and tourists to discover and book tours, excursions, day trips and get last-minute tickets to major tourist attractions, museums, shows and events. It was founded by Varun Khona, Suren Sultania, and Vikram Jit Singh in 2014 with headquarters in New York, USA.",
     "Industry": "Tourism, Online to offline, Travel",
     "Founded": "2014",
@@ -704,7 +704,7 @@
   },
   {
     "Name": "Yieldify",
-    "Website": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-acquires-marketing-technology-company-yieldify",
+    "Website": "https://www.yieldify.com/",
     "Description": "Yieldify is a website and mobile personalized engine no-code software for e-commerce brands used for improving sales conversion rates.",
     "Industry": "Software as a service (SaaS), E-commerce, Analytics",
     "Founded": "",
@@ -716,7 +716,7 @@
   },
   {
     "Name": "Ocrolus",
-    "Website": "https://assist-software.net/project/ocrolus",
+    "Website": "https://www.ocrolus.com/",
     "Description": "Ocrolus is a solution provider of automated document reviews in the financial services industry.",
     "Industry": "Technology, Health information technology, Consumer",
     "Founded": "2014",
@@ -728,7 +728,7 @@
   },
   {
     "Name": "Messari",
-    "Website": "https://messari.io/report/messari-announces-21-million-series-a-led-by-point72-ventures",
+    "Website": "https://messari.io/",
     "Description": "Messari is a cryptocurrency data and analytics firm. It's mission is to promote transparency and smarter decision-making in the cryptoasset community. Their open-source data library helps researchers, investors, and regulators make sense of the industry.",
     "Industry": "Decentralized autonomous organization (DAO), Financial technology, Technology",
     "Founded": "2018",
@@ -740,7 +740,7 @@
   },
   {
     "Name": "H1",
-    "Website": "https://www.nyandcompany.com/",
+    "Website": "http://www.h1unlimited.com/",
     "Description": "A software company specializing in making solutions for the healthcare industry. It was founded in 2017 and is located in New York City.",
     "Industry": "Healthcare",
     "Founded": "2017",
@@ -753,7 +753,7 @@
   {
     "Name": "Ironclad",
     "Website": "https://ironcladapp.com/",
-    "Description": "An automated assistant platform that manages legal paperwork for businesses, founded by Cai GoGwilt and Jason Boehmig.",
+    "Description": "An automated assistant platform that manages legal paperwork for businesses, founded by Cai Go Gwilt and Jason Boehmig.",
     "Industry": "Technology, Contract lifecycle management, Law",
     "Founded": "2014",
     "Funding": "$356.8M",
@@ -788,8 +788,8 @@
   },
   {
     "Name": "SpinCar",
-    "Website": "https://impel.ai/about-impel/",
-    "Description": "SpinCar is a company founded in 2014 by Devin Daly, Steven Saporta and Michael Quigley.",
+    "Website": "https://spincar-app-api.spincar.com/",
+    "Description": "Spin Car is a company founded in 2014 by Devin Daly, Steven Saporta and Michael Quigley.",
     "Industry": "Mobile advertising, Software as a service (SaaS), Automotive industry",
     "Founded": "2011",
     "Funding": "$130.0M",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Payfone",
-    "Website": "https://www.instagram.com/payfonelife/?hl=en",
+    "Website": "https://payfone.in/",
     "Description": "A company offering mobile digital identity solutions for businesses.",
     "Industry": "Cybersecurity, Finance, Mobile technology",
     "Founded": "2008",
@@ -825,7 +825,7 @@
   },
   {
     "Name": "75F",
-    "Website": "https://www.75f.io/case-studies",
+    "Website": "https://www.75f.io/",
     "Description": "75F is a Bloomington, Minnesota-based technology company offering an Internet of Things (IoT) building automation system for HVAC, lighting, and equipment control.",
     "Industry": "Energy efficiency, Software, HVAC",
     "Founded": "2012",

@@ -1,8 +1,8 @@
 [
   {
     "Name": "ClimaCell",
-    "Website": "https://climatebase.org/company/5665/climacell",
-    "Description": "ClimaCell is a Boston-based weather intelligence platform for automated weather predictions.",
+    "Website": "https://climatebase.org/",
+    "Description": "Clima Cell is a Boston-based weather intelligence platform for automated weather predictions.",
     "Industry": "General aviation, Big data, Weather",
     "Founded": "",
     "Funding": "$95.0M",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "Immuta",
-    "Website": "https://www.immuta.com/company/",
+    "Website": "https://www.immuta.com/",
     "Description": "Immuta is a Boston-based provider of a cloud-native data governance platform for organizations to automate data access control, security, and privacy compliance.",
     "Industry": "Data management, Software as a service (SaaS), Artificial Intelligence (AI)",
     "Founded": "2015",
@@ -49,8 +49,8 @@
   },
   {
     "Name": "DataRobot",
-    "Website": "https://www.datarobot.com/about-us/",
-    "Description": "DataRobot sells a machine learning platform that helps users build and deploy accurate predictive models. The Boston-based company was founded in 2012 by Jeremy Achin.",
+    "Website": "https://www.datarobot.com/",
+    "Description": "Data Robot sells a machine learning platform that helps users build and deploy accurate predictive models. The Boston-based company was founded in 2012 by Jeremy Achin.",
     "Industry": "Business intelligence (BI), Predictive analytics, Artificial Intelligence (AI)",
     "Founded": "2012",
     "Funding": "$1.0B",
@@ -73,7 +73,7 @@
   },
   {
     "Name": "Catalog",
-    "Website": "https://www.datacenterdynamics.com/en/news/dna-data-storage-startup-biomemory-acquires-catalog-technologies-plans-data-center-deployment-in-h2-2026/",
+    "Website": "https://www.currentcatalog.com/",
     "Description": "Catalog is a Boston, Massachusetts-based company developing a platform for DNA-based digital data storage.",
     "Industry": "Synthetic biology, Computational biology, Information technology",
     "Founded": "2016",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "The RepTrak Company",
-    "Website": "https://www.reptrak.com/about/company/",
+    "Website": "https://www.reptrak.com/",
     "Description": "EGenesis is a gene editing and genome engineering company developing human-compatible engineered organs to treat diseases",
     "Industry": "Analytics, Big data, Consulting industry, Technology, Biotechnology, Health technology",
     "Founded": "1997",
@@ -99,7 +99,7 @@
   {
     "Name": "MachineMetrics",
     "Website": "https://www.machinemetrics.com/",
-    "Description": "MachineMetrics is a developer of industrial IoT analytics and a machine monitoring platform.",
+    "Description": "Machine Metrics is a developer of industrial IoT analytics and a machine monitoring platform.",
     "Industry": "Software, Manufacturing, Enterprise software",
     "Founded": "2014",
     "Funding": "$37.7M",
@@ -110,7 +110,7 @@
   },
   {
     "Name": "Armored Things",
-    "Website": "https://www.ventureradar.com/organisation/Armored+Things/1afd434c-1a71-4a29-8147-88ab6b25f061",
+    "Website": "https://armoredthings.applytojob.com/",
     "Description": "Armored Things is a Boston-based company founded in 2017 by Julie Johnson, Chris Lord and Charles Curran.",
     "Industry": "Big data, Software as a service (SaaS), Security",
     "Founded": "2017",
@@ -122,7 +122,7 @@
   },
   {
     "Name": "Pison",
-    "Website": "https://pison.com/about-us/",
+    "Website": "https://pison.com/",
     "Description": "Pison is a human performance company that optimizes cognitive and physiological capability using gesture control.",
     "Industry": "Military, Augmented reality, Enterprise software",
     "Founded": "2016",
@@ -147,7 +147,7 @@
   },
   {
     "Name": "Orig3n",
-    "Website": "https://www.preqin.com/data/profile/asset/orig3n-inc-/161272",
+    "Website": "https://orig3n.com/",
     "Description": "Orig3n is a biotechnology company developing personalized regenerative medicine treatments based on patient genetic profiles.",
     "Industry": "Regenerative medicine, Genetic testing, Tissue engineering",
     "Founded": "2014",
@@ -159,7 +159,7 @@
   },
   {
     "Name": "Zoe (health science company)",
-    "Website": "https://golden.com/wiki/Zoe_(health_science_company)-R9V9JK5",
+    "Website": "https://joinzoehealth.com/",
     "Description": "Zoe is a Boston and London-based company which builds software for tracking individuals' nutrition response patterns, as well as a mobile application for tracking COVID-19 symptoms.",
     "Industry": "Food technology, Health technology, Mobile Devices",
     "Founded": "",
@@ -171,7 +171,7 @@
   },
   {
     "Name": "Help Scout",
-    "Website": "https://salestools.io/report/help-scout-headquarters",
+    "Website": "https://www.helpscout.com/",
     "Description": "Help Scout is a company developing a software platform for customer service.",
     "Industry": "Healthcare, Financial services, Software as a service (SaaS)",
     "Founded": "2011",
@@ -183,7 +183,7 @@
   },
   {
     "Name": "Empatica",
-    "Website": "https://www.empatica.com/company/",
+    "Website": "https://www.empatica.com/",
     "Description": "Empatica designs and develops wearable health devices for health monitoring, treatment, and research.",
     "Industry": "Internet of things (IoT), Wearable technology, Digital health",
     "Founded": "2013",
@@ -207,7 +207,7 @@
   },
   {
     "Name": "Drift",
-    "Website": "https://thetechnational.com/startup-spotlight-drift/",
+    "Website": "https://drift.co/",
     "Description": "Drift is a software company offering a conversational marketing platform founded in 2015 by David Cancel.",
     "Industry": "Marketing automation, Software as a service (SaaS), Marketing",
     "Founded": "2015",
@@ -219,7 +219,7 @@
   },
   {
     "Name": "Vaxess Technologies",
-    "Website": "https://www.drugdeliverybusiness.com/vaxess-raises-9m-drug-delivery-glp1/",
+    "Website": "https://www.vaxess.com/",
     "Description": "A medical company in Massachusetts focusing on lowering the cost of vaccine distribution.",
     "Industry": "Circular economy, Pharmaceutical industry, Vaccine",
     "Founded": "2012",
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Iora Health",
-    "Website": "https://noblereach.org/stories/iora-health-dr-rushika-fernandopulle/",
+    "Website": "https://iora.gujarat.gov.in/",
     "Description": "Botkeeper combines artificial intelligence and machine learning technology with accountants to deliver a bookkeeping & pre-accounting solution to accounting firms and their clients.",
     "Industry": "Healthcare, Health, Accounting, Bookkeeping, Software as a service (SaaS)",
     "Founded": "2010",
@@ -244,7 +244,7 @@
   },
   {
     "Name": "Neurable",
-    "Website": "https://www.neurable.com/blog-posts/epson-invests-in-bci-technology-development-startup-neurable",
+    "Website": "https://www.neurable.com/",
     "Description": "A brain-computer interface company building software and hardware products, neurotechnology tools that interpret human intent, measure emotion and provide telekinetic control of the digital world based on EEG signals.",
     "Industry": "Virtual reality, Augmented reality, Neuroscience",
     "Founded": "2015",
@@ -268,7 +268,7 @@
   },
   {
     "Name": "Sherlock Biosciences",
-    "Website": "https://sherlock.bio/about/",
+    "Website": "https://sherlock.bio/",
     "Description": "Sherlock Biosciences is a Cambridge, Massachusetts-based company founded in 2019 by David R. Walt, Rahul Dhanda, Feng Zhang, Jim Collins, Deborah Hung, Jonathan Gootenberg, Omar Abudayyeh, Pardis Sabeti and Todd Golub.",
     "Industry": "Genomics, Medical diagnostics, Drug discovery",
     "Founded": "2019",
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Zapata Computing",
-    "Website": "https://justainews.com/technologies/quantum-computing/zapata-computing-ceases-operations-after-4-8m-debt-crisis/",
+    "Website": "https://zapatacomputing.io/",
     "Description": "Zapata Computing is a company developing quantum software and algorithms for business founded in 2017 by Christopher Savoie, Alán Aspuru-Guzik, Jhonathan Romero Fontalvo, Jonathan Olson, Peter Johnson and Yudong Cao.",
     "Industry": "Chemistry, Artificial Intelligence (AI), Computer Software",
     "Founded": "2017",
@@ -317,7 +317,7 @@
   },
   {
     "Name": "Accion Systems",
-    "Website": "https://greentownlabs.com/members/accion-systems-6/",
+    "Website": "https://www.accionlabs.com/",
     "Description": "Accion Systems is a company that provides in-space propulsion systems for satellites",
     "Industry": "Propulsion, Space colonization, Aerospace",
     "Founded": "2014",
@@ -329,7 +329,7 @@
   },
   {
     "Name": "Cybereason",
-    "Website": "https://www.cybereason.com/press/cybereason-named-one-of-bostons-best-places-to-work-by-built-in-boston",
+    "Website": "https://www.cybereason.com/",
     "Description": "Cybereason is a Boston-based cybersecurity company.",
     "Industry": "AI-enabled cybersecurity, Cybersecurity, Artificial Intelligence (AI)",
     "Founded": "2014",
@@ -353,7 +353,7 @@
   },
   {
     "Name": "Metalenz",
-    "Website": "https://metalenz.com/career_locations/boston/",
+    "Website": "https://metalenz.com/",
     "Description": "Metalenz is a fabless semiconductor company specializing in the development and manufacture of a flat lens system based on optical metasurfaces.",
     "Industry": "Microelectronics, Semiconductor, Electronics Manufacturing",
     "Founded": "2016",
@@ -365,7 +365,7 @@
   },
   {
     "Name": "Aetion",
-    "Website": "https://www.builtinboston.com/company/aetion",
+    "Website": "https://aetion.com/",
     "Description": "Leader in delivering real-world evidence (RWE) and outcomes-based analytics solutions to life science companies and payers.",
     "Industry": "Drug discovery, Finance, Financial technology",
     "Founded": "2012",
@@ -401,7 +401,7 @@
   },
   {
     "Name": "Antera Therapeutics",
-    "Website": "https://gust.com/companies/anteratherapeutics",
+    "Website": "https://www.gaebler.com/",
     "Description": "Antera Therapeutics is an allergy prevention development company.",
     "Industry": "Therapeutics, Specialty foods, Medical software",
     "Founded": "2014",
@@ -413,8 +413,8 @@
   },
   {
     "Name": "Intarcia Therapeutics",
-    "Website": "https://www.biopharmadive.com/news/intarcia-i2o-diabetes-fda-series-a-kurt-graves/692286/",
-    "Description": "Formerly BioMedicines, Intarcia Therapeutics is an American biopharmaceutical company developing therapies for diseases with long-term treatment requirements.",
+    "Website": "https://intarcialifesciences.com/",
+    "Description": "Formerly Bio Medicines, Intarcia Therapeutics is an American biopharmaceutical company developing therapies for diseases with long-term treatment requirements.",
     "Industry": "Pharmaceutical industry, Healthcare, Engineering",
     "Founded": "1995",
     "Funding": "$479.5M",
@@ -426,7 +426,7 @@
   {
     "Name": "Aliro Quantum",
     "Website": "https://www.aliroquantum.com/",
-    "Description": "Aliro Technologies (Aliro), a spinout of the NarangLab at Harvard University, makes software that facilitates user access to present day quantum computers.",
+    "Description": "Aliro Technologies (Aliro), a spinout of the Narang Lab at Harvard University, makes software that facilitates user access to present day quantum computers.",
     "Industry": "Software, Quantum technology, Computer Software",
     "Founded": "2019",
     "Funding": "$17.7M",
@@ -449,8 +449,8 @@
   },
   {
     "Name": "Cogito",
-    "Website": "https://www.verint.com/cogito/",
-    "Description": "exCater is a Boston, MA based online catering marketplace.",
+    "Website": "https://cogitocorp.com/",
+    "Description": "ex Cater is a Boston, MA based online catering marketplace.",
     "Industry": "Customer service, Insurance, Financial services, Online marketplace, E-commerce, Professional services",
     "Founded": "2007",
     "Funding": "$287.8M",
@@ -461,7 +461,7 @@
   },
   {
     "Name": "ProdPerfect",
-    "Website": "https://prodperfect.com/company/",
+    "Website": "https://prodperfect.com/",
     "Description": "A company offering a platform for automatically building, running, and maintaining web application QA testing.",
     "Industry": "Technology, Software as a service (SaaS), Software",
     "Founded": "2017",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "Maxwell Health",
-    "Website": "https://connexy.com/us-company/maxwell-health/7712190",
+    "Website": "https://maxwellhealth.com/",
     "Description": "An insurance technology company offering a platform for employee benefits and insurance.",
     "Industry": "Technology, Insurance Technology, Insurance",
     "Founded": "2012",
@@ -487,7 +487,7 @@
   {
     "Name": "LogRocket",
     "Website": "https://logrocket.com/",
-    "Description": "LogRocket is a front-end monitoring and product analytics platform for developers.",
+    "Description": "Log Rocket is a front-end monitoring and product analytics platform for developers.",
     "Industry": "Cloud computing, Software development, Software",
     "Founded": "",
     "Funding": "$70.0M",
@@ -510,7 +510,7 @@
   },
   {
     "Name": "Coin Metrics Inc",
-    "Website": "https://coinmetrics.io/about/",
+    "Website": "https://coinmetrics.io/",
     "Description": "Coin Metrics provides network and market data and analysis for cryptocurrencies.",
     "Industry": "Bitcoin, Blockchain and cryptocurrency, Blockchain",
     "Founded": "2017",
@@ -522,7 +522,7 @@
   },
   {
     "Name": "Rethink Robotics",
-    "Website": "https://www.bostonglobe.com/2024/09/15/business/rethink-robotics-collaborative-industrial/",
+    "Website": "https://www.robotics247.com/",
     "Description": "Rethink Robotics developed and patented Sawyer, a robot that can replace human labor where danger is likely or difficult.",
     "Industry": "Manufacturing, Artificial Intelligence (AI), Robotics",
     "Founded": "2008",
@@ -534,7 +534,7 @@
   },
   {
     "Name": "Flipside Crypto",
-    "Website": "https://boston.bostonstartuphub.com/flipside-crypto",
+    "Website": "https://www.theflipsiderestaurant.com/",
     "Description": "Flipside Crypto is a blockchain company founded in 2017 by Dave Balter, Jim Myers and eric stone.",
     "Industry": "Cryptocurrency, Blockchain, Decentralized Finance",
     "Founded": "2017",
@@ -583,7 +583,7 @@
   },
   {
     "Name": "WHOOP",
-    "Website": "https://qz.com/1705820/this-boston-success-story-is-tracking-to-become-the-next-global-fitness-phenomenon",
+    "Website": "https://www.whoop.com/",
     "Description": "Whoop is a performance optimization system for elite athletes and teams.",
     "Industry": "Internet of things (IoT), Sport, Sleep",
     "Founded": "",
@@ -607,7 +607,7 @@
   },
   {
     "Name": "Alfresco (software)",
-    "Website": "https://thl.com/companies/alfresco-software/",
+    "Website": "https://www.alfresco.com/",
     "Description": "Alfresco is a software company founded in 2005 by John Newton, John Newton and John Powell.",
     "Industry": "Collaboration, Business process management, Cloud computing",
     "Founded": "2005",
@@ -620,7 +620,7 @@
   {
     "Name": "AlgoSec",
     "Website": "https://www.algosec.com/",
-    "Description": "AlgoSec is a Ridgefield Park, New Jersey-based developer of network security software automating security policy management and business applications and ensuring security compliance.",
+    "Description": "Algo Sec is a Ridgefield Park, New Jersey-based developer of network security software automating security policy management and business applications and ensuring security compliance.",
     "Industry": "Automation, Compliance, Network security",
     "Founded": "",
     "Funding": "$72.0M",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Amwell",
-    "Website": "https://www.thecompanycheck.com/company/b/amwell/di7ze4s5qovetu0zx",
+    "Website": "https://amwell.com/",
     "Description": "Amwell is a telemedicine company.",
     "Industry": "Medicine, Electronic health record, Healthcare",
     "Founded": "2006",
@@ -643,7 +643,7 @@
   },
   {
     "Name": "Buoy Health",
-    "Website": "https://www.buoyhealth.com/company",
+    "Website": "https://www.buoyhealth.com/",
     "Description": "Buoy is an AI-driven digital assistant that helps patients self-diagnose and triage to the appropriate care.",
     "Industry": "Digital therapeutics, Health, Technology",
     "Founded": "2014",
@@ -668,7 +668,7 @@
   },
   {
     "Name": "Mighty AI",
-    "Website": "https://www.mightynetworks.com/ai",
+    "Website": "https://www.mightynetworks.com/",
     "Description": "Mighty AI is a company that provides computer vision models for autonomous vehicles..",
     "Industry": "Computer Vision, Artificial Intelligence (AI), Automotive industry",
     "Founded": "",
@@ -680,7 +680,7 @@
   },
   {
     "Name": "Phiar Technologies",
-    "Website": "https://www.bizapedia.com/ma/phiar-technologies-inc.html",
+    "Website": "https://coverager.com/",
     "Description": "Phiar Technologies is a company that provides a vehicle navigation platform based on the combined technologies of deep learning artificial intelligence and augmented reality.",
     "Industry": "Consumer electronics, Augmented reality, Artificial Intelligence (AI)",
     "Founded": "2017",
@@ -692,8 +692,8 @@
   },
   {
     "Name": "IndexZoo",
-    "Website": "https://compworth.com/company/indexzoo",
-    "Description": "IndexZoo is a DeFi ecosystem of tokenized ETFs to protect crypto investors from market downturns and volatility risks.",
+    "Website": "https://www.jaguars.com/",
+    "Description": "Index Zoo is a De Fi ecosystem of tokenized ETFs to protect crypto investors from market downturns and volatility risks.",
     "Industry": "Cryptocurrency, Blockchain, Decentralized Finance",
     "Founded": "2021",
     "Funding": "$2.0M",
@@ -705,7 +705,7 @@
   },
   {
     "Name": "Beagle Learning",
-    "Website": "https://damianadriaanse.com/beagle-learning",
+    "Website": "https://www.beaglelearning.com/",
     "Description": "Beagle Learning is a Boston, Massachusetts-based company that provides a learning and collaboration platform for higher education institutions, corporations, and the military.",
     "Industry": "Artificial Intelligence (AI), Education, Computer Software",
     "Founded": "",
@@ -741,7 +741,7 @@
   },
   {
     "Name": "Yesware",
-    "Website": "https://www.yesware.com/company",
+    "Website": "https://www.yesware.com/",
     "Description": "Yesware developed a software toolkit for sales teams.",
     "Industry": "Productivity, Technology, Cloud computing",
     "Founded": "2010",
@@ -753,7 +753,7 @@
   },
   {
     "Name": "Placester",
-    "Website": "https://directory.coldlytics.com/companies/placester",
+    "Website": "https://placester.com/",
     "Description": "Developer of a real estate marketing platform to help real estate professionals to focus on lead management and collaborate effectively. The company's platform is for real estate professionals that are featuring MLS integration, high-resolution visuals, responsive design, mobile optimization, lead management tools, and marketing automation software for email, social media, and other channels, enabling clients to grow their businesses online.",
     "Industry": "Technology, Software as a service (SaaS), Real Estate",
     "Founded": "2011",
@@ -765,7 +765,7 @@
   },
   {
     "Name": "Reverie Labs",
-    "Website": "https://www.prnewswire.com/news-releases/ginkgo-bioworks-acquires-reverie-labs-platform-enhancing-ai-driven-drug-discovery-capabilities-for-customer-programs-302073641.html",
+    "Website": "https://reverielabs.net/",
     "Description": "Reverie Labs is a drug dicovery company that uses machine learning founded by Jonah Kallenbach.",
     "Industry": "Engineering, Drug development, Drug discovery",
     "Founded": "2017",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Neurala",
-    "Website": "https://www.neurala.com/about-may",
+    "Website": "https://www.neurala.com/",
     "Description": "A company using artificial intelligence to create a platform for solving visual inspection challenges in industrial environments.",
     "Industry": "Drones, Software, Edge computing",
     "Founded": "2006",

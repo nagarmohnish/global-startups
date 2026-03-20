@@ -14,8 +14,8 @@
   },
   {
     "Name": "Perplexity",
-    "Website": "https://www.perplexity.ai/hub/careers",
-    "Description": "PerplexityAI, Inc., or simplyPerplexity, is an American privately held softwarecompanyoffering a web search engine that processes user queries and synthesizes responses. [4]",
+    "Website": "https://www.perplexity.ai/",
+    "Description": "PerplexityAI, Inc., or simply Perplexity, is an American privately held softwarecompanyoffering a web search engine that processes user queries and synthesizes responses. [4]",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$1.5B",
@@ -26,8 +26,8 @@
   },
   {
     "Name": "OpenAI",
-    "Website": "https://openai.com/index/introducing-openai/",
-    "Description": "OpenAI is an American artificial intelligence (AI) research organization comprising both a non-profit foundation and a controlled for-profit public benefit ...FoundingCorporate structureBusiness modelServices",
+    "Website": "https://openai.com/",
+    "Description": "OpenAI is an American artificial intelligence (AI) research organization comprising both a non-profit foundation and a controlled for-profit public benefit ...Founding Corporate structure Business model Services",
     "Industry": "AI",
     "Founded": "2015",
     "Funding": "$78B",
@@ -51,7 +51,7 @@
   {
     "Name": "Anysphere",
     "Website": "https://anysphere.inc/",
-    "Description": "Anysphere is an applied research lab working on the future of programming. We are a group of researchers, engineers, and technologists inventing at the edge ...Missing:Silicon| Show results with:Silicon",
+    "Description": "Anysphereis an applied research lab working on the future of programming. We are a group of researchers, engineers, and technologists inventing at the edge of what’s useful and possible. We have much to learn, try, and build.",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$3.4B",
@@ -62,8 +62,8 @@
   },
   {
     "Name": "Cognition",
-    "Website": "https://cognition.ai/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents",
-    "Description": "CognitionAI, Inc. (also known asCognitionLabs), doing business asCognition, is an artificial intelligence (AI)companyheadquartered in San Francisco in the U.S. state of California.",
+    "Website": "https://cognition.ai/",
+    "Description": "CognitionAI, Inc. (also known as Cognition Labs), doing business as Cognition, is an artificial intelligence (AI)companyheadquartered in San Francisco in the U.S. state of California.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$896M",
@@ -74,8 +74,8 @@
   },
   {
     "Name": "Harness",
-    "Website": "https://www.harness.io/blog/celebrating-150m-in-new-financing-to-accelerate-innovation",
-    "Description": "Dec 11, 2025 ·HarnessInc., a software deliverystartupthat integrates artificial intelligence tools into DevOps workflows, today announced it has raised $240 million in a Series E funding round.",
+    "Website": "https://www.harness.io/",
+    "Description": "Harness Inc., a software deliverystartupthat integrates artificial intelligence tools into Dev Ops workflows, today announced it has raised $240 million in a Series E funding round.",
     "Industry": "AI",
     "Founded": "2017",
     "Funding": "$575M",
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Databricks",
-    "Website": "https://www.databricks.com/company/newsroom/press-releases/databricks-accelerates-bay-area-growth-new-office-sunnyvale",
+    "Website": "https://www.databricks.com/",
     "Description": "Databricks, Inc. is an American software company based in San Francisco. It was founded in 2013 by the original creators of Apache Spark.",
     "Industry": "Software",
     "Founded": "2013",
@@ -99,7 +99,7 @@
   },
   {
     "Name": "Writer",
-    "Website": "https://siliconangle.com/2025/07/29/writer-releases-autonomous-ai-super-agent-enterprise-users/",
+    "Website": "https://writer.com/",
     "Description": "Writer is where the world's leading enterprises orchestrate AI-powered work. With Writer's end-to-end platform, teams can build, activate, and supervise AI ...",
     "Industry": "AI",
     "Founded": "2020",
@@ -161,7 +161,7 @@
   {
     "Name": "Momentum",
     "Website": "https://www.momentum.io/",
-    "Description": "PAX Momentum offers a disciplined, profit-driven approach to launching innovative technology companies outside ofSiliconValley. We provide great founders with the investment, training, and professional network they need to launch successful companies.",
+    "Description": "PAX Momentum offers a disciplined, profit-driven approach to launching innovative technology companies outside of Silicon Valley. We provide great founders with the investment, training, and professional network they need to launch successful companies.",
     "Industry": "Enterprise",
     "Founded": "2020",
     "Funding": "$18M",
@@ -185,7 +185,7 @@
   {
     "Name": "6sense",
     "Website": "http://www.6sense.com/",
-    "Description": "forgeglobal.com has been visited by 10K+ users in the past monthGet access to invest in hundreds of privatecompanieslike6Sense. Navigate the private market with ease and buy shares in late-stage privatecompanies.Industry Insights · 600+ Companies Traded · A Private Market Leader · Investment Oppo...",
+    "Description": "forgeglobal.com has been visited by 10K+ users in the past month Get access to invest in hundreds of privatecompanieslike6Sense. Navigate the private market with ease and buy shares in late-stage privatecompanies.Industry Insights · 600+ Companies Traded · A Private Market Leader · Investment Oppo...",
     "Industry": "AI",
     "Founded": "2013",
     "Funding": "$526M",
@@ -197,7 +197,7 @@
   {
     "Name": "Juniper Square",
     "Website": "https://www.junipersquare.com/",
-    "Description": "Get access to invest in hundreds of privatecompanieslikeJuniperSquare. Navigate the private market with ease and buy shares in late-stage privatecompanies.Analysis & Trading Tools · Investment Opportunities · Private Market Trends · Pre-IPO SolutionServices: Buy Startup Stock, Buy Stock in Startu...",
+    "Description": "Get access to invest in hundreds of privatecompanieslike Juniper Square. Navigate the private market with ease and buy shares in late-stage privatecompanies.Analysis & Trading Tools · Investment Opportunities · Private Market Trends · Pre-IPO Solution Services: Buy Startup Stock, Buy Stock in Startu...",
     "Industry": "Fintech",
     "Founded": "2014",
     "Funding": "$371M",
@@ -209,7 +209,7 @@
   {
     "Name": "Assort Health",
     "Website": "https://assorthealth.com/",
-    "Description": "Sep 30, 2025 ·AssortHealthis the most comprehensive patient experience platform powered by specialty-specific agentic AI.",
+    "Description": "Assort Healthis the most comprehensive patient experience platform powered by specialty-specific agentic AI.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$101.5M",
@@ -221,7 +221,7 @@
   {
     "Name": "Thinking Machines Lab",
     "Website": "https://thinkingmachines.ai/",
-    "Description": "Thinking Machines Lab Inc. is an American artificial intelligence (AI) startup founded by Mira Murati, the former chief technology officer of OpenAI.Missing:USA| Show results with:USA",
+    "Description": "Thinking Machines Labis an artificial intelligence research and product company. We’re building a future where everyone has access to the knowledge and tools to make AI work for their unique needs and goals. While AI capabilities have advanced dramatically, key gaps remain.",
     "Industry": "AI",
     "Founded": "2025",
     "Funding": "$2B",
@@ -233,7 +233,7 @@
   {
     "Name": "Sierra",
     "Website": "https://sierra.ai/",
-    "Description": "Sep 4, 2025 ·Sierrais one of just a handful of AIstartups, including OpenAI, Anthropic, xAI, Safe Superintelligence and Thinking Machines that are valued at or above $10 billion.",
+    "Description": "Sierrais one of just a handful of AIstartups, including OpenAI, Anthropic, xAI, Safe Superintelligence and Thinking Machines that are valued at or above $10 billion.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$635M",
@@ -245,7 +245,7 @@
   },
   {
     "Name": "Apollo.io",
-    "Website": "https://www.apollo.io/",
+    "Website": "https://www.apollo.com/",
     "Description": "Apollo.io is growing rapidly, with 900% revenue growth since 2021, and is looking for world-class talent to keep building with us.",
     "Industry": "AI",
     "Founded": "2015",
@@ -295,7 +295,7 @@
   {
     "Name": "Distyl AI",
     "Website": "https://distyl.ai/",
-    "Description": "Sep 23, 2025 ·Artificial intelligencestartupDistylAIInc. is growing its reputation as an AI consultancy that delivers rapid, real results for enterprises after closing on a bumper $175 million funding...",
+    "Description": "Artificial intelligencestartup DistylAIInc. is growing its reputation as an AI consultancy that delivers rapid, real results for enterprises after closing on a bumper $175 million funding...",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$202M",
@@ -367,7 +367,7 @@
   {
     "Name": "Honeycomb",
     "Website": "https://www.honeycomb.io/",
-    "Description": "Honeycomb (stylized as honeycomb.io) is an American software company known for its eponymous observability and application performance management (APM) ...Missing:USA| Show results with:USA",
+    "Description": "At Honeycomb, our mission is to give all software engineers the observability they need to improve their processes & delight their users. Learn more now!",
     "Industry": "Cloud",
     "Founded": "2016",
     "Funding": "$146.9M",
@@ -427,8 +427,8 @@
   },
   {
     "Name": "CyberCube",
-    "Website": "https://www.cybcube.com/",
-    "Description": "22 Mar 2018—CyberCube Analytics, an innovator in cyber risk analytics for the insurance industry, today announced that it has emerged from stealth mode.",
+    "Website": "https://www.cybercube.com.tw/",
+    "Description": "22 Mar 2018—Cyber Cube Analytics, an innovator in cyber risk analytics for the insurance industry, today announced that it has emerged from stealth mode.",
     "Industry": "Analytics",
     "Founded": "2015",
     "Funding": "$285M",
@@ -440,7 +440,7 @@
   {
     "Name": "Intercom",
     "Website": "https://www.intercom.com/",
-    "Description": "Intercomwas founded in California in 2011 by four Irish designers and engineers, Eoghan McCabe, Des Traynor, Ciaran Lee, and David Barrett. [4] The founders had previously operated a software design consultancy named Contrast, which created the bug tracking tool called Exceptional.",
+    "Description": "Intercomwas founded in California in 2011 by four Irish designers and engineers, Eoghan Mc Cabe, Des Traynor, Ciaran Lee, and David Barrett. [4] The founders had previously operated a software design consultancy named Contrast, which created the bug tracking tool called Exceptional.",
     "Industry": "SaaS",
     "Founded": "2011",
     "Funding": "$240.8M",
@@ -452,7 +452,7 @@
   {
     "Name": "Motion",
     "Website": "https://www.usemotion.com/",
-    "Description": "Sep 8, 2025 ·Founded in 2019 by Harry Qi, Omid Rooholfada, and Ethan Yu,Motionis the first agentic work suite that combines intelligent project and work management with AI agents that execute workflows...",
+    "Description": "Founded in 2019 by Harry Qi, Omid Rooholfada, and Ethan Yu,Motionis the first agentic work suite that combines intelligent project and work management with AI agents that execute workflows...",
     "Industry": "Analytics",
     "Founded": "2019",
     "Funding": "$73.3M",
@@ -488,7 +488,7 @@
   {
     "Name": "Baseten",
     "Website": "https://www.baseten.co/",
-    "Description": "Feb 20, 2025 ·SAN FRANCISCO —Baseten, an inference platform for AI-native products, has closed a $75 million Series C round of funding co-led by IVP and Spark with additional participation from Greylock, Conviction, South Park Commons, 01 Advisors and Lachy Groom.",
+    "Description": "SAN FRANCISCO —Baseten, an inference platform for AI-native products, has closed a $75 million Series C round of funding co-led by IVP and Spark with additional participation from Greylock, Conviction, South Park Commons, 01 Advisors and Lachy Groom.",
     "Industry": "AI",
     "Founded": "2019",
     "Funding": "$285M",
@@ -513,7 +513,7 @@
   {
     "Name": "Burnt",
     "Website": "https://getburnt.ai/",
-    "Description": "Sep 25, 2025 ·Now, a Y CombinatorstartupcalledBurntthinks AI agents — software that can automatically handle tasks typically done by humans — can succeed where traditional enterprise software hasn’t in...",
+    "Description": "Now, a Y Combinatorstartupcalled Burntthinks AI agents — software that can automatically handle tasks typically done by humans — can succeed where traditional enterprise software hasn’t in...",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$4.3M",
@@ -549,7 +549,7 @@
   {
     "Name": "Anything",
     "Website": "https://www.createanything.com/",
-    "Description": "More thananything,SiliconValleybelieves instartups. But that belief may be wavering.Locate outside of the Bay Area and other expensivestartuphubs.Startacompanythat’s less technical and so less in competition with Big Tech for high-level tech talent.",
+    "Description": "More thananything,Silicon Valleybelieves instartups. But that belief may be wavering.Locate outside of the Bay Area and other expensivestartuphubs.Startacompanythat’s less technical and so less in competition with Big Tech for high-level tech talent.",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$19.5M",
@@ -561,7 +561,7 @@
   {
     "Name": "Framework",
     "Website": "https://frame.work/",
-    "Description": "FrameworkComputer, Inc. is an American personal computer manufacturer. [3][4][5][6] Thecompanypositions itself as a proponent of the right-to-repair movement, [7][8][1] and their laptops are designed to be easy to disassemble, with replaceable parts. [3][4]",
+    "Description": "Framework Computer, Inc. is an American personal computer manufacturer. [3][4][5][6] Thecompanypositions itself as a proponent of the right-to-repair movement, [7][8][1] and their laptops are designed to be easy to disassemble, with replaceable parts. [3][4]",
     "Industry": "Hardware",
     "Founded": "2019",
     "Funding": "$45M",
@@ -598,7 +598,7 @@
   {
     "Name": "Innovaccer",
     "Website": "https://www.innovaccer.com/",
-    "Description": "InnovaccerInc. is aSiliconValley-based digital healthcarecompany, founded by Abhinav Shashank, Kanav Hasija,Sandeep Gupta and Ankit Maheshwari that provides physician practices, hospitals, health systems, and other healthcare providers with different digital products.",
+    "Description": "Innovaccer Inc. is a Silicon Valley-based digital healthcarecompany, founded by Abhinav Shashank, Kanav Hasija,Sandeep Gupta and Ankit Maheshwari that provides physician practices, hospitals, health systems, and other healthcare providers with different digital products.",
     "Industry": "Analytics",
     "Founded": "2014",
     "Funding": "$654.1M",
@@ -610,7 +610,7 @@
   {
     "Name": "Audioshake",
     "Website": "https://www.audioshake.ai/",
-    "Description": "/PRNewswire/ -- San FranciscostartupAudioShakeannounced today it has raised $14 million in Series A funding. The round was led by Shine Capital, with...",
+    "Description": "/PRNewswire/ -- San Franciscostartup Audio Shakeannounced today it has raised $14 million in Series A funding. The round was led by Shine Capital, with...",
     "Industry": "AI",
     "Founded": "2020",
     "Funding": "$18.7M",
@@ -622,7 +622,7 @@
   {
     "Name": "Decagon",
     "Website": "https://decagon.ai/",
-    "Description": "... Decagon enables rapid iteration across the entire agent lifecycle, so teams ... Company. About · Careers · Privacy Policy · Security · Contact Sales · Contact ...Missing:Silicon| Show results with:Silicon",
+    "Description": "Decagonhelps brands turn customer experience operations into a strategic growth driver, and scale revenue without growing headcount.",
     "Industry": "AI",
     "Founded": "2023",
     "Funding": "$231M",
@@ -646,7 +646,7 @@
   {
     "Name": "Kong",
     "Website": "https://konghq.com/",
-    "Description": "KongInc. is a softwarecompanythat provides open-source platforms and cloud services for managing, monitoring, and scaling application programming interfaces (APIs) and microservices.",
+    "Description": "Kong Inc. is a softwarecompanythat provides open-source platforms and cloud services for managing, monitoring, and scaling application programming interfaces (APIs) and microservices.",
     "Industry": "AI",
     "Founded": "2017",
     "Funding": "$344.1M",
@@ -658,7 +658,7 @@
   {
     "Name": "HappyRobot",
     "Website": "https://happyrobot.ai/",
-    "Description": "HappyRobot is the AI-native operating system that knows your business, makes intelligent decisions, and acts in real time - powering autonomous operations.Missing:SiliconValley",
+    "Description": "Architecture Happy Robotis an AI orchestration platform purpose-built for AI workers to function at scale, including real-time voice interaction. This article provides a detailed overview of the underlying architecture, integrated AI models, and AI auditing. Intended to inform technical stakeholder...",
     "Industry": "Analytics",
     "Founded": "2022",
     "Funding": "$60.7M",
@@ -670,7 +670,7 @@
   {
     "Name": "Sentry",
     "Website": "https://www.sentry.io/",
-    "Description": "ThestartupSentryhas closed $40 million from Accel and New Enterprise Associates. Here's how thecompanygrew from an open source project.",
+    "Description": "Thestartup Sentryhas closed $40 million from Accel and New Enterprise Associates. Here's how thecompanygrew from an open source project.",
     "Industry": "Infrastructure",
     "Founded": "2012",
     "Funding": "$217M",
@@ -682,7 +682,7 @@
   {
     "Name": "LambdaTest",
     "Website": "https://www.lambdatest.com/",
-    "Description": "Power your software testing with AI and cloud. Test intelligently, deploy and scale faster with TestMu AI (FormerlyLambdaTest) unified testing platform.",
+    "Description": "Power your software testing with AI and cloud. Test intelligently, deploy and scale faster with Test Mu AI (Formerly Lambda Test) unified testing platform.",
     "Industry": "Cloud",
     "Founded": "2017",
     "Funding": "$108M",
@@ -718,7 +718,7 @@
   {
     "Name": "Greptile",
     "Website": "https://greptile.com/",
-    "Description": "Sep 24, 2025 ·Greptile, astartupthat’s building artificial intelligence-based code reviewers to validate human- and AI-generated software, has raised $25 million in an early-stage round of funding as it...",
+    "Description": "Greptile, astartupthat’s building artificial intelligence-based code reviewers to validate human- and AI-generated software, has raised $25 million in an early-stage round of funding as it...",
     "Industry": "Enterprise",
     "Founded": "2023",
     "Funding": "$30.4M",
@@ -731,7 +731,7 @@
   {
     "Name": "Recall.ai",
     "Website": "https://recall.ai/",
-    "Description": "Sep 5, 2025 ·Recall.ai, astartupthat provides backend infrastructure for artificial intelligence that understands human conversations, has closed a $38 million Series B funding round that brings its...",
+    "Description": "Recall.ai, astartupthat provides backend infrastructure for artificial intelligence that understands human conversations, has closed a $38 million Series B funding round that brings its...",
     "Industry": "AI",
     "Founded": "2020",
     "Funding": "$50.7M",
@@ -743,7 +743,7 @@
   {
     "Name": "Redis",
     "Website": "http://redis.io/",
-    "Description": "On August 11, 2021, thecompanychanged its name fromRedisLabs toRedis, having acquired the intellectual property and trademark rights toRedisfrom Sanfilippo back in 2018.",
+    "Description": "On August 11, 2021, thecompanychanged its name from Redis Labs to Redis, having acquired the intellectual property and trademark rights to Redisfrom Sanfilippo back in 2018.",
     "Industry": "Analytics",
     "Founded": "2011",
     "Funding": "$356.8M",
@@ -804,7 +804,7 @@
   {
     "Name": "Numeral",
     "Website": "https://www.numeralhq.com/",
-    "Description": "Sep 18, 2025 ·Sam Ross, the co-founder and CEO ofNumeral, came up with the idea for his sales tax compliancestartupwhile traveling the world after having worked as a product manager at Airbnb.",
+    "Description": "Sam Ross, the co-founder and CEO of Numeral, came up with the idea for his sales tax compliancestartupwhile traveling the world after having worked as a product manager at Airbnb.",
     "Industry": "Enterprise",
     "Founded": "2022",
     "Funding": "$57.5M",
@@ -828,7 +828,7 @@
   {
     "Name": "PostHog",
     "Website": "https://posthog.com/",
-    "Description": "PostHog helps engineers build better products. We provide everything they need to make sure they are building something that people want.",
+    "Description": "Post Hog helps engineers build better products. We provide everything they need to make sure they are building something that people want.",
     "Industry": "Analytics",
     "Founded": "2020",
     "Funding": "$182.2M",
@@ -840,7 +840,7 @@
   {
     "Name": "Pylon",
     "Website": "https://www.usepylon.com/",
-    "Description": "San Francisco Bay Area·Co-Founder·PylonBuilding the most powerful and modern B2B Customer Support Platform. Pylon helps you scale customer support across Slack Connect, Email, In-App Chat, ...",
+    "Description": "San Francisco Bay Area·Co-Founder·Pylon Building the most powerful and modern B2B Customer Support Platform. Pylon helps you scale customer support across Slack Connect, Email, In-App Chat, ...",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$51.3M",
@@ -852,7 +852,7 @@
   {
     "Name": "Coalition",
     "Website": "https://www.coalitioninc.com/",
-    "Description": "About usCoalitionis an early stage venture capital firm powered by active operators. Our sweet spot is Pre-Seed/Seed and an investment of $250K-$500K.",
+    "Description": "About us Coalitionis an early stage venture capital firm powered by active operators. Our sweet spot is Pre-Seed/Seed and an investment of $250K-$500K.",
     "Industry": "Security",
     "Founded": "2017",
     "Funding": "$800M",
@@ -889,7 +889,7 @@
   {
     "Name": "EcoFlow Tech",
     "Website": "https://ecoflow.com/",
-    "Description": "EcoFlow...EcoFlowis a Chinese company that develops portable power stations, smart devices, and home energy systems, established in 2017. [1][2][3]",
+    "Description": "Eco Flow...Eco Flowis a Chinese company that develops portable power stations, smart devices, and home energy systems, established in 2017. [1][2][3]",
     "Industry": "Energy",
     "Founded": "2016",
     "Funding": "$114.4M",
@@ -901,7 +901,7 @@
   {
     "Name": "Stable",
     "Website": "https://www.usestable.com/",
-    "Description": "AtStable, our mission is to make it simple for businesses to start and operate from anywhere. We aim to reduce the friction of operating a business to drive progress and innovation in the world. Our goal is to be a trusted partner for businesses, enabling them to focus on what they do best.",
+    "Description": "At Stable, our mission is to make it simple for businesses to start and operate from anywhere. We aim to reduce the friction of operating a business to drive progress and innovation in the world. Our goal is to be a trusted partner for businesses, enabling them to focus on what they do best.",
     "Industry": "SaaS",
     "Founded": "2019",
     "Funding": "$1M",
@@ -913,7 +913,7 @@
   {
     "Name": "Unstoppable Domains",
     "Website": "https://unstoppabledomains.com/",
-    "Description": "Unstoppable Domains| 14,676 followers on LinkedIn. ICANN-accredited registrar bridging DNS and Web3 domains to make domaining faster, cheaper, and more liquid. |Unstoppable Domainsis an ICANN-accredited registrar and digital identitycompanybuilding infrastructure at the intersection of DNS and on...",
+    "Description": "Unstoppable Domains| 14,676 followers on Linked In. ICANN-accredited registrar bridging DNS and Web3 domains to make domaining faster, cheaper, and more liquid. |Unstoppable Domainsis an ICANN-accredited registrar and digital identitycompanybuilding infrastructure at the intersection of DNS and on...",
     "Industry": "Crypto",
     "Founded": "2018",
     "Funding": "$72M",
@@ -925,7 +925,7 @@
   {
     "Name": "Jasper",
     "Website": "https://www.jasper.ai/",
-    "Description": "Meet theJasperteam and discover our values. Learn about our leadership, vision, and commitment to empowering marketers with AI-driven solutions.",
+    "Description": "Meet the Jasperteam and discover our values. Learn about our leadership, vision, and commitment to empowering marketers with AI-driven solutions.",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$131M",
@@ -937,7 +937,7 @@
   {
     "Name": "Phantom",
     "Website": "https://phantom.com/",
-    "Description": "Apr 8, 2020 ·Bay AreastartupPhantom AI said Wednesday it has closed its series C funding round. Currently, the company is focused on speeding the development of driver-assist technology.",
+    "Description": "Bay Areastartup Phantom AI said Wednesday it has closed its series C funding round. Currently, the company is focused on speeding the development of driver-assist technology.",
     "Industry": "Crypto",
     "Founded": "2021",
     "Funding": "$268M",
@@ -949,7 +949,7 @@
   {
     "Name": "Fieldguide",
     "Website": "https://www.fieldguide.io/",
-    "Description": "Built by former Big Four practitioners andSiliconValleytechnologists, Fieldguide’sAI platform digitizes the end-to-end engagement lifecycle and incorporates the latest in generative and...",
+    "Description": "Built by former Big Four practitioners and Silicon Valleytechnologists, Fieldguide’sAI platform digitizes the end-to-end engagement lifecycle and incorporates the latest in generative and...",
     "Industry": "Fintech",
     "Founded": "2020",
     "Funding": "$50M",
@@ -973,7 +973,7 @@
   {
     "Name": "Hex Technologies",
     "Website": "https://hex.tech/",
-    "Description": "May 29, 2025 ·HexTechnologiesInc., which provide an artificial intelligence-powered workspace for data science and analytics, today announced that it has raised $70 million in new funding to expand...",
+    "Description": "Hex Technologies Inc., which provide an artificial intelligence-powered workspace for data science and analytics, today announced that it has raised $70 million in new funding to expand...",
     "Industry": "Analytics",
     "Founded": "2019",
     "Funding": "$171.5M",
@@ -985,7 +985,7 @@
   {
     "Name": "ClassDojo",
     "Website": "https://www.classdojo.com/",
-    "Description": "ClassDojo is an educational technology company. It connects primary school teachers, students and families through communication features, such as a feed ...",
+    "Description": "Class Dojo is an educational technology company. It connects primary school teachers, students and families through communication features, such as a feed ...",
     "Industry": "Education",
     "Founded": "2011",
     "Funding": "$191.1M",
@@ -997,7 +997,7 @@
   {
     "Name": "Daymark Health",
     "Website": "https://www.daymarkhealth.com/",
-    "Description": "Apr 3, 2025 ·DaymarkHealthwas founded to address the clinical, mental health, and social needs that matter most to patients with cancer, delivered through a comprehensive, proven cancer care platform and...",
+    "Description": "Daymark Healthwas founded to address the clinical, mental health, and social needs that matter most to patients with cancer, delivered through a comprehensive, proven cancer care platform and...",
     "Industry": "Healthcare",
     "Founded": "2022",
     "Funding": "$57.5M",
@@ -1009,7 +1009,7 @@
   {
     "Name": "Deepgram",
     "Website": "https://deepgram.com/",
-    "Description": "Power enterprise voice solutions with Deepgram's Speech-to-Text, Text-to-Speech, and Voice Agent APIs. Real-time, accurate, and built for scale.Missing:SiliconValley",
+    "Description": "Marketing Site Sierra helps businesses build better, more human customer experiences with Al. Our agents handle everything from originating a mortgage to preventing churn and authenticating patients for access to care — and we support some of the world's largest brands.Deepgramis a key component of...",
     "Industry": "AI",
     "Founded": "2015",
     "Funding": "$85.9M",
@@ -1033,7 +1033,7 @@
   {
     "Name": "Cartography Biosciences",
     "Website": "https://cartography.bio/",
-    "Description": "Reach Out. hello@cartography.bio. Partnering. bd@cartography.bio · 833-318-4749 · Privacy Policy Terms & Conditions. © 2026 Cartography Biosciences, Inc.Missing:Silicon| Show results with:Silicon",
+    "Description": "SOUTH SAN FRANCISCO, May 30, 2023 - Cartography Biosciences, an immuno-oncology company creating biologic therapies against novel targets guided by the first-ever comprehensive antigen atlas, today announced that Kevin Parker, Ph.D., co-founder and CEO of Cartography Biosciences, has been selecte...",
     "Industry": "Biotech",
     "Founded": "2020",
     "Funding": "$124M",
@@ -1069,7 +1069,7 @@
   {
     "Name": "Atomic",
     "Website": "https://www.atomicvest.com/",
-    "Description": "Jack Abraham is an American businessperson, serial entrepreneur, investor, and the founding and managing partner ofstartupstudio and investment fundAtomic.",
+    "Description": "Jack Abraham is an American businessperson, serial entrepreneur, investor, and the founding and managing partner ofstartupstudio and investment fund Atomic.",
     "Industry": "Retail",
     "Founded": "2020",
     "Funding": "$55.1M",
@@ -1081,7 +1081,7 @@
   {
     "Name": "Firecrawl",
     "Website": "https://www.firecrawl.dev/",
-    "Description": "17 May 2025—Y Combinator startup Firecrawl is back on the hunt for AI agent employees, after a previous attempt to hire one didn't go as planned.Missing:USA| Show results with:USA",
+    "Description": "Firecrawl/agent is a magic API that searches, navigates, and gathers data from even the most complex websites. Describe what data you want and agent handles the rest. Accomplishes in minutes what takes humans hours.",
     "Industry": "AI",
     "Founded": "2022",
     "Funding": "$14.5M",
@@ -1105,7 +1105,7 @@
   {
     "Name": "Gusto",
     "Website": "https://www.gusto.com/",
-    "Description": "Gusto, Inc. is a company that develops payroll, benefits, and human resource management software for businesses based in the United States.Missing:Silicon| Show results with:Silicon",
+    "Description": "Gusto, Inc.is acompanythat develops payroll, benefits, and human resource management software for businesses based in the United States. [4]",
     "Industry": "Fintech",
     "Founded": "2011",
     "Funding": "$746.1M",
@@ -1117,7 +1117,7 @@
   {
     "Name": "Vanta",
     "Website": "https://vanta.com/",
-    "Description": "Jul 26, 2025 ·SAN FRANCISCO —Vanta, an AI-powered trust management platform, today has raised a $150 million Series D funding round at a $4.15 billion valuation.",
+    "Description": "SAN FRANCISCO —Vanta, an AI-powered trust management platform, today has raised a $150 million Series D funding round at a $4.15 billion valuation.",
     "Industry": "AI",
     "Founded": "2018",
     "Funding": "$503M",
@@ -1153,7 +1153,7 @@
   {
     "Name": "WorkWhile",
     "Website": "https://www.workwhilejobs.com/",
-    "Description": "WorkWhile Secures $23 Million Series B, Fueling AI-Powered Revolution in $650B Staffing Industry https://ow.ly/2il250Wa3X9 WorkWhile ... Silicon Valley ...",
+    "Description": "Work While Secures $23 Million Series B, Fueling AI-Powered Revolution in $650B Staffing Industry https://ow.ly/2il250Wa3X9 Work While ... Silicon Valley ...",
     "Industry": "Education",
     "Founded": "2019",
     "Funding": "$39.5M",
@@ -1165,7 +1165,7 @@
   {
     "Name": "Watershed",
     "Website": "https://watershed.com/",
-    "Description": "Browse the latest remote and in-person job postings from Watershed, a startup building corporate climate software, dual-headquartered in San Francisco and ...Missing:Silicon| Show results with:Silicon",
+    "Description": "Watershedis the leading enterprise sustainability platform. Manage your sustainability data, meet ESG reporting requirements, and take action to reduce your impact — starting now!",
     "Industry": "Cloud",
     "Founded": "2019",
     "Funding": "$239M",
@@ -1177,7 +1177,7 @@
   {
     "Name": "Incode Technologies",
     "Website": "http://www.incode.com/",
-    "Description": "Incode Technologies, Inc. 101 Mission St, Suite 900, San Francisco, CA 94105, USA Tel: +1 (650) 446-3444. Platform. Explore Platform · Orchestration Dashboard.Missing:Silicon| Show results with:Silicon",
+    "Description": "Incodeis reinventing online authentication and identity verification. Our in-house AI-powered technology is designed to eliminate fraud before it happens with fully secure, frictionless, and compliant interactions.",
     "Industry": "Security",
     "Founded": "2015",
     "Funding": "$257.1M",
@@ -1201,7 +1201,7 @@
   {
     "Name": "Automattic",
     "Website": "http://automattic.com/",
-    "Description": "We are passionate about making the web a better place. 20 years of history: explore the Automattic timeline. WordPress.com Your blog or website has a (free!)Missing:Silicon| Show results with:Silicon",
+    "Description": "Automatticis a Most Loved Company and Disability Confident Committed. (Here’s what that might mean for you.) Learn more about our dedication to diversity, equity, and inclusion and our Employee Resource Groups.",
     "Industry": "Media",
     "Founded": "2005",
     "Funding": "$985.9M",

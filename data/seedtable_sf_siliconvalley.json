@@ -1,7 +1,7 @@
 [
   {
     "Name": "OpenAI",
-    "Website": "https://openai.com/sam-and-jony/",
+    "Website": "https://openai.com/",
     "Description": "OpenAI is an AI research and deployment platform.",
     "Industry": "Artificial Intelligence (AI), Machine learning, Software development",
     "Founded": "",
@@ -25,7 +25,7 @@
   },
   {
     "Name": "Cere Network",
-    "Website": "https://www.cere.network/blog/cere-ama-recap-encrypt-club-12-16-introducing-the-decentralized-data-cloud-to-china-544c2",
+    "Website": "https://www.cere.network/",
     "Description": "Cere Network is a decentralized data cloud platform built on Polkadot.",
     "Industry": "Blockchain, Tokenization, Non-fungible token (NFT)",
     "Founded": "",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "Forte",
-    "Website": "https://fortelabs.com/about-forte-labs/",
+    "Website": "https://fortelabs.com/",
     "Description": "An end-to-end blockchain and NFT solution for video games.",
     "Industry": "Video game, Tokenization, Decentralized autonomous organization (DAO)",
     "Founded": "2019",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "Chime Bank",
-    "Website": "https://fortune.com/2019/12/04/chime-bank-debit-card-problems-growth/",
+    "Website": "https://www.chime.com/",
     "Description": "A bank offering online banking services with no user no bank fees, and an option to receive direct deposit up to two days early. Chris Britt and Ryan King founded Chime in 2013, and the company is headquartered in San Francisco, California.",
     "Industry": "Credit (finance), Financial services, Bank",
     "Founded": "",
@@ -109,7 +109,7 @@
   },
   {
     "Name": "Numerai",
-    "Website": "https://avc.com/2017/07/video-of-the-week-richard-craib-numerai/",
+    "Website": "https://numer.ai/",
     "Description": "Numerai is a hedge fund with stock market trades determined by crowdsourced artificial intelligence models. The best models receive rewards in the form of a cryptographic token called Numeraire (NMR) on the Ethereum blockchain.",
     "Industry": "Machine learning, Blockchain, Currency exchange",
     "Founded": "2014",
@@ -121,8 +121,8 @@
   },
   {
     "Name": "LangChain",
-    "Website": "https://siliconangle.com/2025/10/20/ai-agent-tooling-provider-langchain-raises-125m-1-25b-valuation/",
-    "Description": "LangChain is an open-source framework for developing applications powered by language models.",
+    "Website": "https://www.langchain.com/",
+    "Description": "Lang Chain is an open-source framework for developing applications powered by language models.",
     "Industry": "Artificial Intelligence (AI), Generative AI, Technology",
     "Founded": "2022",
     "Funding": "$135.0M",
@@ -133,7 +133,7 @@
   },
   {
     "Name": "Medium",
-    "Website": "https://medium.failfection.com/silicon-valley-a-story-of-failure-and-growth-2e22035be16d",
+    "Website": "https://medium.failfection.com/",
     "Description": "An online publishing platform used by amateur and professional writers. Membership fees are used to pay writers.",
     "Industry": "Blog, Publishing, Digital media",
     "Founded": "",
@@ -146,7 +146,7 @@
   {
     "Name": "CryptoKitties",
     "Website": "https://www.cryptokitties.co/",
-    "Description": "CryptoKitties is a game built on the Ethereum blockchain in which users can collect and trade virtual kittens.",
+    "Description": "Crypto Kitties is a game built on the Ethereum blockchain in which users can collect and trade virtual kittens.",
     "Industry": "Blockchain and cryptocurrency, Cryptocurrency, Blockchain",
     "Founded": "2017",
     "Funding": "$27.0M",
@@ -157,7 +157,7 @@
   },
   {
     "Name": "Celo",
-    "Website": "https://blog.celo.org/announcing-celo-camp-f78ddf07e25d",
+    "Website": "https://celo.org/",
     "Description": "Celo is an open platform that offers financial tools to mobile phone users.",
     "Industry": "Cryptocurrency exchange, Digital currency, Fiat-collateralized",
     "Founded": "",
@@ -170,7 +170,7 @@
   {
     "Name": "TriNet Zenefits",
     "Website": "https://www.trinet.com/",
-    "Description": "TriNet Zenefits is a software as a service (SaaS) company providing a digital human resources platform for small- and medium-sized enterprises (SMEs).",
+    "Description": "Tri Net Zenefits is a software as a service (SaaS) company providing a digital human resources platform for small- and medium-sized enterprises (SMEs).",
     "Industry": "Human resources, Human resource management, Enterprise software",
     "Founded": "",
     "Funding": "$583.6M",
@@ -193,7 +193,7 @@
   },
   {
     "Name": "Calm",
-    "Website": "https://www.businessofapps.com/data/calm-statistics/",
+    "Website": "https://www.calm.com/",
     "Description": "Calm is a health technology start-up based in San Francisco. It was founded in 2012 by Alex Tew and Michael Acton Smith and produces a mobile application for sleep, relaxation, and meditation.",
     "Industry": "Mental health, Meditation, Wellness (alternative medicine)",
     "Founded": "2012",
@@ -205,7 +205,7 @@
   },
   {
     "Name": "Phantom",
-    "Website": "https://siliconangle.com/2023/02/01/phantom-ai-startup-building-advanced-driver-assistance-systems-raises-36-5m-funding/",
+    "Website": "https://phantom.app/",
     "Description": "Phantom is a cryptocurrency wallet by Solana to manage digital assets and access decentralized applications.",
     "Industry": "Blockchain and cryptocurrency, Financial technology, Cryptocurrency wallet",
     "Founded": "2014",
@@ -217,7 +217,7 @@
   },
   {
     "Name": "Humane",
-    "Website": "https://www.fastcompany.com/91281283/hp-just-blew-116-million-of-your-ink-cartridge-money-to-buy-one-of-silicon-valleys-biggest-flops",
+    "Website": "https://www.americanhumane.org/",
     "Description": "Humane develops and commercializes consumer hardware, software, and services.",
     "Industry": "Technology, Artificial Intelligence (AI), Hardware",
     "Founded": "2018",
@@ -229,7 +229,7 @@
   },
   {
     "Name": "Discord",
-    "Website": "https://discord.com/invite/XzB7m8DeWu",
+    "Website": "https://discord.com/",
     "Description": "Discord is an American company that offers users a free messenger with support for IP telephony and video conferencing. About 56 million people use the Discord messenger every month, and its total audience exceeds 270 million users.",
     "Industry": "Entertainment, Chat (industry), Gaming",
     "Founded": "2005",
@@ -241,7 +241,7 @@
   },
   {
     "Name": "Pembient",
-    "Website": "https://www.pembient.com/conservation",
+    "Website": "https://www.pembient.com/",
     "Description": "Pembient uses advances in biotechnology to fabricate horn and other wildlife products to combat the threat to endangered species.",
     "Industry": "3D printing, E-commerce, Pharmaceutical industry",
     "Founded": "2015",
@@ -265,8 +265,8 @@
   },
   {
     "Name": "HashiCorp",
-    "Website": "https://www.hashicorp.com/en/about",
-    "Description": "HashiCorp is a software company providing tools for developers and security professionals to provision, secure, and run infrastructure for distributed applications for organizations.",
+    "Website": "https://www.hashicorp.com/",
+    "Description": "Hashi Corp is a software company providing tools for developers and security professionals to provision, secure, and run infrastructure for distributed applications for organizations.",
     "Industry": "Security automation, Information infrastructure, Enterprise software",
     "Founded": "2012",
     "Funding": "$349.2M",
@@ -277,7 +277,7 @@
   },
   {
     "Name": "Pachama",
-    "Website": "https://www.trueup.io/co/pachama",
+    "Website": "https://pachama.com/",
     "Description": "Pachama is a company estimating carbon storage in forests and predicting future deforestation or potential for forest restoration with the use of satellite images.",
     "Industry": "Machine learning, Forestry, Blockchain",
     "Founded": "2018",
@@ -289,7 +289,7 @@
   },
   {
     "Name": "Parallel Finance",
-    "Website": "https://startup.jobs/director-of-business-development-parallel-finance-3232290",
+    "Website": "https://parallel.fi/",
     "Description": "Parallel Finance is a decentralized lending and staking protocol on Polkadot and Ethereum.",
     "Industry": "Smart contract, Decentralized Finance, Financial services",
     "Founded": "2021",
@@ -301,7 +301,7 @@
   },
   {
     "Name": "Indee Labs",
-    "Website": "https://www.ycombinator.com/companies/indee-labs",
+    "Website": "https://indeedlabs.com/",
     "Description": "Indee Labs focuses on the development of microfluidic vortex shedding for rapidly and efficiently transfecting human primary immune cells with negligible perturbation. The team is focused on developing its core technology for short turnaround chimeric antigen receptor T cell (CAR-T) development and manufacturing.",
     "Industry": "Biopharmaceutical, Genetics, Medical device",
     "Founded": "2015",
@@ -350,7 +350,7 @@
   },
   {
     "Name": "Brex",
-    "Website": "https://bankingfrontiers.com/brex-the-neobank-that-svb-depositors-trusted/",
+    "Website": "http://brexofficial.in/",
     "Description": "Brex is a credit card company that issues corporate credit cards with no security deposit.",
     "Industry": "Biotechnology, Banking, Biology",
     "Founded": "2017",
@@ -362,7 +362,7 @@
   },
   {
     "Name": "Primer",
-    "Website": "https://foundersnetwork.com/how-sean-gourley-primer-founder-and-ceo-pivoted-from-mathematics-of-war-to-two-groundbreaking-tech-startups/",
+    "Website": "https://primer.com/",
     "Description": "Primer is a San Francisco-based company developing AI to generate written intelligence reports.",
     "Industry": "Natural language processing (NLP), Artificial Intelligence (AI), Machine learning",
     "Founded": "2015",
@@ -374,8 +374,8 @@
   },
   {
     "Name": "GitStart",
-    "Website": "https://sourceforge.net/software/product/GitStart/",
-    "Description": "GitStart is a \"Pull Request as a Service\" platform founded in 2019 by Hamza Zia.",
+    "Website": "https://gitstart.com/",
+    "Description": "Git Start is a \"Pull Request as a Service\" platform founded in 2019 by Hamza Zia.",
     "Industry": "Software, Software development, Software engineering",
     "Founded": "",
     "Funding": "$150.0K",
@@ -386,7 +386,7 @@
   },
   {
     "Name": "Mysten Labs",
-    "Website": "https://www.highperformr.ai/company/mysten-labs",
+    "Website": "https://www.mystenlabs.com/",
     "Description": "Data.ai, formerly known as App Annie, is a unified data and artificial intelligence (AI) company that combines consumer and market data to provide AI-powered insights into mobile app market data.",
     "Industry": "Cryptocurrency, Non-fungible token (NFT), Software, Mobile commerce, Software as a service (SaaS), Cloud computing, Analytics, Marketing, Data science",
     "Founded": "2021",
@@ -398,7 +398,7 @@
   },
   {
     "Name": "Clubhouse (social media company)",
-    "Website": "https://www.wired.com/story/what-is-clubhouse-why-does-silicon-valley-care/",
+    "Website": "https://www.clubhouse.com/",
     "Description": "Clubhouse is a San Francisco-based social app offering a space for casual, drop-in audio conversations with friends and other interesting people.",
     "Industry": "Entertainment, Live streaming, Social messaging",
     "Founded": "",
@@ -410,7 +410,7 @@
   },
   {
     "Name": "Sightcall",
-    "Website": "https://sightcall.com/about/",
+    "Website": "https://sightcall.com/",
     "Description": "Sightcall is a San Francisco-based company founded in 2008.",
     "Industry": "Customer experience, Cloud management, Cloud computing",
     "Founded": "",
@@ -422,7 +422,7 @@
   },
   {
     "Name": "Full Circle Biochar",
-    "Website": "https://climatebase.org/company/5925/full-circle-biochar",
+    "Website": "https://www.fullcircle.com/",
     "Description": "Full Circle Biochar is a developer of products and technologies based on bio-charcoal for the agricultural markets.",
     "Industry": "E-commerce, Carbon capture and storage",
     "Founded": "",
@@ -434,7 +434,7 @@
   },
   {
     "Name": "Elastic",
-    "Website": "https://www.elastic.co/about/leadership",
+    "Website": "https://www.elastic.co/",
     "Description": "Elastic is a software company that creates products for searching for information on the Internet. It was founded in 2012 and is headquartered in San Francisco and Amsterdam.",
     "Industry": "Data visualization, Software as a service (SaaS), Artificial Intelligence (AI)",
     "Founded": "2012",
@@ -446,7 +446,7 @@
   },
   {
     "Name": "Perfect Day Foods",
-    "Website": "https://vegconomist.com/top-stories/perfect-day-debuts-worlds-first-animal-free-dairy-ice-cream/",
+    "Website": "https://perfectday.com/",
     "Description": "Perfect Day Foods (formerly Muufri) engineered yeast capable of producing the proteins found in cows milk. They use these proteins to make their own line of animal-free dairy products.",
     "Industry": "Food Production, Dairy, Fermentation",
     "Founded": "2014",
@@ -458,7 +458,7 @@
   },
   {
     "Name": "Paravision",
-    "Website": "https://www.paravision.ai/company/",
+    "Website": "https://www.paravision.ai/",
     "Description": "Paravision is a San Francisco-based provider of facial recognition and activity monitoring software. Paravision was previously known as Ever AI.",
     "Industry": "Biometrics, Video surveillance, Security",
     "Founded": "2013",
@@ -482,7 +482,7 @@
   },
   {
     "Name": "Hasura",
-    "Website": "https://hasura.io/about/",
+    "Website": "https://hasura.io/",
     "Description": "Hasura is a software and development tools company, offering tools for developers to simplify application development.",
     "Industry": "Platform as a service (PaaS), Web development tools, Software",
     "Founded": "2018",
@@ -494,7 +494,7 @@
   },
   {
     "Name": "EquBot",
-    "Website": "https://equbot.com/wp-content/uploads/2022/10/EquBot-HSBC-IBM-case-study_Master-the-data-Master-the-market.pdf",
+    "Website": "https://equbot.com/",
     "Description": "Artificial intelligence company who uses models and IBM's Watson in the management of their AI Powered Equity Fund ETF (AIEQ) and AI Powered International Equity ETF (AIIQ)",
     "Industry": "Financial services, Technology, Investment management",
     "Founded": "",
@@ -506,7 +506,7 @@
   },
   {
     "Name": "Superhuman",
-    "Website": "https://superhuman.com/company/about",
+    "Website": "https://superhuman.com/",
     "Description": "A company offering an email client designed to be the fastest email experience. The company was founded by Conrad Irwin, Rahul Vohra, and Vivek Sodera in 2015 and is headquartered in San Francisco, California.",
     "Industry": "AI email generation, Productivity, Software",
     "Founded": "",
@@ -518,7 +518,7 @@
   },
   {
     "Name": "Loom",
-    "Website": "https://www.capitalbrief.com/article/atlassians-loom-deal-runs-into-a-silicon-valley-vibe-shift-b7ef1219-fafc-4d4a-a3d0-8cd51b35c855/",
+    "Website": "https://www.loom.com/",
     "Description": "Loom is a software company that develops communication software for asynchronous presentations through sharable video recordings.",
     "Industry": "Collaboration tool, Software as a service (SaaS), Platform as a service (PaaS)",
     "Founded": "",
@@ -530,8 +530,8 @@
   },
   {
     "Name": "TrustArc",
-    "Website": "https://www.employbl.com/jobs/associate-technical-account-manager-i-trustarc-1434644",
-    "Description": "TrustArc is a San Francisco-based developer of privacy compliance and risk management software for GDPR, CCPA, and related regulations.",
+    "Website": "https://trustarc.com/",
+    "Description": "Trust Arc is a San Francisco-based developer of privacy compliance and risk management software for GDPR, CCPA, and related regulations.",
     "Industry": "Data Residency, Software, Privacy",
     "Founded": "",
     "Funding": "$107.0M",
@@ -542,8 +542,8 @@
   },
   {
     "Name": "MetaMap",
-    "Website": "https://www.metamap.com/about-metamap/",
-    "Description": "MetaMap is an identity verification platform for businesses. Solutions for user onboarding and authentication and KYC & AML compliance.",
+    "Website": "https://www.metamap.com/",
+    "Description": "Meta Map is an identity verification platform for businesses. Solutions for user onboarding and authentication and KYC & AML compliance.",
     "Industry": "Artificial Intelligence (AI), Biometrics, Security",
     "Founded": "",
     "Funding": "$13.5M",
@@ -555,7 +555,7 @@
   {
     "Name": "CodeSignal",
     "Website": "https://codesignal.com/",
-    "Description": "CodeSignal is developing a skills-based assessment platform for unbiased hiring within companies.",
+    "Description": "Code Signal is developing a skills-based assessment platform for unbiased hiring within companies.",
     "Industry": "Software, Human resources, Employment",
     "Founded": "2015",
     "Funding": "$87.5M",
@@ -566,7 +566,7 @@
   },
   {
     "Name": "Zapier",
-    "Website": "https://www.ycombinator.com/companies/zapier",
+    "Website": "https://zapier.com/",
     "Description": "Zapier is an American for-profit corporation and a web-based service that allows end users to integrate the web applications they use.",
     "Industry": "Data integration, Productivity software, Automation",
     "Founded": "2011",
@@ -578,7 +578,7 @@
   },
   {
     "Name": "New Wave Foods",
-    "Website": "https://www.seafoodsource.com/news/plant-based/new-wave-foods-ceases-operations-finless-foods-folds-over",
+    "Website": "https://www.seafoodsource.com/",
     "Description": "New Wave Foods is a biotechnology company developing plant-based shellfish food products. The company is based out of San Francisco, California and was founded in 2015 by Dominique Barnes and Michelle Wolf.",
     "Industry": "Seafood, Plant-based meat, Alternative proteins",
     "Founded": "2015",
@@ -590,7 +590,7 @@
   },
   {
     "Name": "Iterative.ai",
-    "Website": "https://aibusiness.com/verticals/iterative-ai-raises-20m-to-build-open-source-mlops-tools",
+    "Website": "https://iterativ.ai/",
     "Description": "Iterative.ai is a machine learning and artificial intelligence training platform provider.",
     "Industry": "Big data, Artificial Intelligence (AI), Technology",
     "Founded": "",
@@ -602,8 +602,8 @@
   },
   {
     "Name": "PlanetScale",
-    "Website": "https://venturebeat.com/ai/planetscale-simplifies-distributed-database-complexity",
-    "Description": "PlanetScale is a database-as-a-service platform acting as a middleware system for MySQL.",
+    "Website": "https://planetscale.com/",
+    "Description": "Planet Scale is a database-as-a-service platform acting as a middleware system for MySQL.",
     "Industry": "Big data, Software as a service (SaaS), Enterprise software",
     "Founded": "",
     "Funding": "$108.0M",
@@ -614,7 +614,7 @@
   },
   {
     "Name": "Postman",
-    "Website": "https://www.postman.com/company/about-postman/",
+    "Website": "https://www.postman.com/",
     "Description": "Postman is a San Francisco-based software company offering an API development environment.",
     "Industry": "Software, Web development, Technology",
     "Founded": "2014",
@@ -626,7 +626,7 @@
   },
   {
     "Name": "Finless Foods",
-    "Website": "https://www.foodnavigator-usa.com/Article/2018/06/25/Cultured-fish-co-Finless-Foods-raises-3.5m-predicts-rapid-commercialization-within-years-not-decades/",
+    "Website": "https://www.foodnavigator-usa.com/",
     "Description": "Finless Foods is a biotechnology company producing cultured marine animal food products through implementing cellular agriculture and manufacturing technologies.",
     "Industry": "Food technology, Alternative proteins, Cellular agriculture",
     "Founded": "2017",
@@ -638,7 +638,7 @@
   },
   {
     "Name": "Just, Inc.",
-    "Website": "https://www.businessinsider.com/silicon-valley-startup-just-mayo-hampton-creek-finally-vegan-eggs-grocery-stores-2018-8",
+    "Website": "https://justingredients.com/",
     "Description": "Just, Inc. (formerly known as Hampton Creek) is a food technology company developing and selling plant based food products around the world.",
     "Industry": "Beef, Alternative proteins, Cellular agriculture",
     "Founded": "2011",
@@ -650,7 +650,7 @@
   },
   {
     "Name": "Nurx",
-    "Website": "https://www.cnbc.com/2019/05/04/ubiome-nurx-and-other-health-tech-companies-are-getting-in-trouble.html",
+    "Website": "https://www.businessinsider.com/",
     "Description": "Nurx is a telemedicine service company that delivers oral contraceptives and various testing kits to its customers. It was founded in 2015 and has headquarters in San Francisco, California.",
     "Industry": "Biotechnology, Medicine, Digital health",
     "Founded": "",
@@ -662,7 +662,7 @@
   },
   {
     "Name": "Scale AI",
-    "Website": "https://hyscaler.com/insights/hottest-ai-startups-in-silicon-valley/",
+    "Website": "https://hyscaler.com/",
     "Description": "Scale AI is an artificial intelligence company making an API for validating and training data for applications.",
     "Industry": "Artificial Intelligence (AI), Machine learning, AI Copywriting",
     "Founded": "2016",
@@ -674,8 +674,8 @@
   },
   {
     "Name": "DeHorizon",
-    "Website": "https://www.gunder.com/en/news-insights/client-news/uruguayan-ai-startup-horizon-raises-35-million-usd-seed-investment",
-    "Description": "DeHorizon is committed to becoming the next generation of Metaverse Game Ecosystem, where players can immersively create, socialize, entertain with other peer players.",
+    "Website": "",
+    "Description": "De Horizon is committed to becoming the next generation of Metaverse Game Ecosystem, where players can immersively create, socialize, entertain with other peer players.",
     "Industry": "Gaming, Non-fungible token (NFT), Technology",
     "Founded": "",
     "Funding": "$8.5M",
@@ -686,7 +686,7 @@
   },
   {
     "Name": "Bugcrowd",
-    "Website": "https://www.bugcrowd.com/blog/celebrating-10-years-of-bugcrowd/",
+    "Website": "https://www.bugcrowd.com/",
     "Description": "Bugcrowd is an enterprise cloud computing and computer security crowdsourcing company that offers a platform for security testing, web, mobile, source code, and client-side applications.",
     "Industry": "Computer security, Internet of things (IoT), Crowdsourcing",
     "Founded": "",
@@ -698,7 +698,7 @@
   },
   {
     "Name": "Eat Just",
-    "Website": "https://agfundernews.com/10-years-in-foodtech-with-eat-just-ceo-josh-tetrick-theres-not-a-template-for-how-you-make-egg-from-a-plant-or-meat-from-a-cell",
+    "Website": "https://meetzemeat.com/",
     "Description": "Eat Just is a San Francisco based food technology company founded in 2011. The company is known for its bean-based egg substitute called Just Egg. Eat Just also produces egg-free mayonnaise.",
     "Industry": "Clean technology, Biology, Food technology",
     "Founded": "2011",
@@ -710,7 +710,7 @@
   },
   {
     "Name": "Upside Foods",
-    "Website": "https://upsidefoods.com/company",
+    "Website": "https://upsidefoods.com/",
     "Description": "Upside Foods is a San Francisco-based company making cultured meat products. The company was founded by Uma Valeti, Nicholas Genovese, and Will Clem.",
     "Industry": "Alternative proteins, 3D printing, Cellular agriculture",
     "Founded": "",
@@ -722,7 +722,7 @@
   },
   {
     "Name": "Grail",
-    "Website": "https://www.businessinsider.com/silicon-valley-telomere-blood-test-2018-9",
+    "Website": "https://grail.com/",
     "Description": "Grail is a biotechnology company headquartered in Menlo Park, California that was founded as a spinoff of Illumina Inc and initially headed by Jeffrey Huber in 2016, focused on making a medical device that can detect early stage cancer.",
     "Industry": "In-vitro diagnostics (IVD), Healthcare, Diagnostic tools",
     "Founded": "2015",
@@ -734,7 +734,7 @@
   },
   {
     "Name": "Hinge Health",
-    "Website": "https://www.hingehealth.com/resources/press-releases/hinge-health-closes-90m-series-c/",
+    "Website": "https://www.hingehealth.com/",
     "Description": "The World's First Digital Clinic for Back and Joint Pain",
     "Industry": "Microbiome and Gut Health, Healthcare, Life science",
     "Founded": "",
@@ -746,7 +746,7 @@
   },
   {
     "Name": "Plivo",
-    "Website": "https://www.clay.com/dossier/plivo-funding",
+    "Website": "https://www.plivo.com/",
     "Description": "Plivo is a cloud-based communications platform as a service (CPaaS) company headquartered in San Francisco, California. The company allows software developers to integrate phone calls, text messages, and other communication functions into their applications using its web service APIs.",
     "Industry": "Telecommunications, Software as a service (SaaS), Chat (industry)",
     "Founded": "",
@@ -758,7 +758,7 @@
   },
   {
     "Name": "Distil Networks",
-    "Website": "https://rocketreach.co/imperva-formerly-distil-networks-profile_b5e36737f42e6de6",
+    "Website": "https://district.distilnetworks.com/",
     "Description": "Distil Networks was an American cybersecurity company founded in 2011 and headquartered in San Francisco, California.",
     "Industry": "Data management, Social media, Software",
     "Founded": "2011",
@@ -783,7 +783,7 @@
   },
   {
     "Name": "Grove Collaborative",
-    "Website": "https://investors.grove.co/company-information",
+    "Website": "https://www.grove.co/",
     "Description": "Grove Collaborative is an online, subscription-based retailer selling natural home and health products.",
     "Industry": "Beauty, Subscription box, E-commerce",
     "Founded": "",
@@ -795,8 +795,8 @@
   },
   {
     "Name": "About.me",
-    "Website": "https://www.preethikasireddy.com/post/why-im-leaving-silicon-valley",
-    "Description": "About.me is a company that has developed a platform for users to make personal and professional websites.",
+    "Website": "https://aboutme.style/",
+    "Description": "About.meis such a website with a service that makes all of it easy like a cakewalk. In this article, we will be giving you step-by-step guidance on how to create a website for personal branding withabout.me.",
     "Industry": "Social media, Advertising, Platform as a service (PaaS)",
     "Founded": "2010",
     "Funding": "$16.7M",

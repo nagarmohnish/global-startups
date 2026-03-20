@@ -1,7 +1,7 @@
 [
   {
     "Name": "Auterion",
-    "Website": "https://auterion.com/company/",
+    "Website": "https://auterion.com/",
     "Description": "Auterion is a multi-national software company that develops a common operating system and software apps for autonomous systems, primarily focusing on ...",
     "Industry": "Autonomous Vehicles",
     "Founded": "2017",
@@ -14,7 +14,7 @@
   },
   {
     "Name": "ANYbotics",
-    "Website": "https://www.anybotics.com/about-us/",
+    "Website": "https://www.anybotics.com/",
     "Description": "ANYboticswas founded in 2016 as a spin-off from ETHZurich's research in quadrupedal robotics. [7][8] It was co-founded by Péter Fankhauser and Hanspeter Fässler. [9][10] In May 2023,ANYboticsreceived an investment of $50 million in Series B funding round. [7][11]ANYboticsis known for developing a...",
     "Industry": "Robotics",
     "Founded": "2016",
@@ -26,8 +26,8 @@
   },
   {
     "Name": "Teylor",
-    "Website": "https://new.teylor.com/en/company/",
-    "Description": "TeylorisZurich-based fintech that develops credit technologies and offers Software-as-a-Service to financial institutions as well as digital small business loans online.",
+    "Website": "https://visitmiami.com/",
+    "Description": "Teyloris Zurich-based fintech that develops credit technologies and offers Software-as-a-Service to financial institutions as well as digital small business loans online.",
     "Industry": "Fintech",
     "Founded": "2018",
     "Funding": "$488.7M",
@@ -39,7 +39,7 @@
   {
     "Name": "Climeworks",
     "Website": "https://climeworks.com/",
-    "Description": "Climeworks AG is a Swiss company specializing in direct air capture and sequestration (DACCS) technology. The company's plants filter CO 2 directly from the ...History and structureMajor projectsReception and certification",
+    "Description": "Climeworks AG is a Swiss company specializing in direct air capture and sequestration (DACCS) technology. The company's plants filter CO 2 directly from the ...History and structure Major projects Reception and certification",
     "Industry": "ClimateTech",
     "Founded": "2009",
     "Funding": "$946.1M",
@@ -50,8 +50,8 @@
   },
   {
     "Name": "Cutiss",
-    "Website": "https://www.swissbiotech.org/listing/cutiss/",
-    "Description": "CUTISS is the only late-stage clinical TechBio company developing skin tissue therapeutics and dedicated to bioengineering. We are transforming skin surgery ...",
+    "Website": "https://cutiss.swiss/",
+    "Description": "CUTISS is the only late-stage clinical Tech Bio company developing skin tissue therapeutics and dedicated to bioengineering. We are transforming skin surgery ...",
     "Industry": "Biotech",
     "Founded": "2017",
     "Funding": "$94.7M",
@@ -74,8 +74,8 @@
   },
   {
     "Name": "SIX",
-    "Website": "https://www.fif.com/index.php?option=com_content",
-    "Description": "5 days ago—SIX is a funded company based in Zurich (Switzerland), founded in 2008 by Jos Dijsselhof. It operates as a Provider of stock exchange and ...",
+    "Website": "https://sixthemusical.com/",
+    "Description": "SIX-Company ProfileSIXis a Swisscompanythat has been at the forefront of connecting financial markets to the real economy for over 90 years. It offers a range of services in securities, financial information, and payments, serving a diverse international client base. With a workforce of 4,000 emplo...",
     "Industry": "Fintech",
     "Founded": "2008",
     "Funding": "CHF250M",
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Veezoo",
-    "Website": "https://www.veezoo.com/product/reliability",
+    "Website": "https://www.veezoo.com/",
     "Description": "Veezoo is a chat-based data analytics solution that empowers anyone to find actionable insights from data by literally just asking their ...",
     "Industry": "Data Analytics",
     "Founded": "2016",
@@ -98,7 +98,7 @@
   },
   {
     "Name": "Loft Dynamics",
-    "Website": "https://www.vestbee.com/insights/articles/loft-dynamics-secures-24-m",
+    "Website": "https://www.loftdynamics.com/",
     "Description": "Loft Dynamics is a Swiss aviation simulation and training company based in Dübendorf, a suburb of Zurich. It was established in 2016 by Fabi Riesen, ...History2022202320242025Leadership",
     "Industry": "AR/VR",
     "Founded": "2016",
@@ -110,7 +110,7 @@
   },
   {
     "Name": "21Shares",
-    "Website": "https://www.21shares.com/en-ch/about-us",
+    "Website": "https://www.21shares.com/",
     "Description": "21Shares is a Switzerland-based financial services companythat issues cryptocurrency exchange-traded products (ETPs). The company is headquartered in Zurich, with offices in New York City and London.",
     "Industry": "Blockchain/Crypto",
     "Founded": "2018",
@@ -136,7 +136,7 @@
   {
     "Name": "Squirro",
     "Website": "http://squirro.com/",
-    "Description": "Dec 15, 2025 ·Squirrois a series B company based inZurich(Switzerland), founded in 2012 by Dorian Selz, Felix Hurlimann, Toni Birrer and Patrice Neff. It operates as a Cloud based contextual intelligence and insights solution.Squirrohas raised $15.5M in funding from FormulaVC.Founded in 2012,Squi...",
+    "Description": "Squirrois a series B company based in Zurich(Switzerland), founded in 2012 by Dorian Selz, Felix Hurlimann, Toni Birrer and Patrice Neff. It operates as a Cloud based contextual intelligence and insights solution.Squirrohas raised $15.5M in funding from FormulaVC.Founded in 2012,Squi...",
     "Industry": "AI",
     "Founded": "2012",
     "Funding": "$15.5M",
@@ -148,7 +148,7 @@
   {
     "Name": "Beekeeper",
     "Website": "http://www.beekeeper.io/",
-    "Description": "Beekeeperis founded in 2012 by Cristian Grossmann, Andreas Slotosch, Daniel Sztutwojner, and Flavio Pfaffhauser inZurich,Switzerland. A public transportation company in the city becomes our first customer.",
+    "Description": "Beekeeperis founded in 2012 by Cristian Grossmann, Andreas Slotosch, Daniel Sztutwojner, and Flavio Pfaffhauser in Zurich,Switzerland. A public transportation company in the city becomes our first customer.",
     "Industry": "Enterprise",
     "Founded": "2012",
     "Funding": "$181.5M",
@@ -174,7 +174,7 @@
   {
     "Name": "GenTwo",
     "Website": "https://www.gentwo.com/",
-    "Description": "Founded in 2018, GenTwo is a Swiss-based B2B fintech company that operates globally with the mission to expand the investment universe by making all assets ...",
+    "Description": "Founded in 2018, Gen Two is a Swiss-based B2B fintech company that operates globally with the mission to expand the investment universe by making all assets ...",
     "Industry": "Crypto",
     "Founded": "2018",
     "Funding": "$15M",
@@ -187,7 +187,7 @@
   {
     "Name": "DeepJudge",
     "Website": "https://trydeepjudge.com/",
-    "Description": "DeepJudgewas founded by former Google researchers with PhDs in AI from ETHZurich. Our leadership team has held senior roles at Thomson Reuters, Casetext, Agiloft, and more. Headquartered inZurich,Switzerland, we also have teams in the USA and Canada and serve clients worldwide. Paulina is the CEO...",
+    "Description": "Deep Judgewas founded by former Google researchers with Ph Ds in AI from ETHZurich. Our leadership team has held senior roles at Thomson Reuters, Casetext, Agiloft, and more. Headquartered in Zurich,Switzerland, we also have teams in the USA and Canada and serve clients worldwide. Paulina is the CEO...",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$11.1M",
@@ -223,7 +223,7 @@
   {
     "Name": "PriceHubble",
     "Website": "https://www.pricehubble.com/",
-    "Description": "PriceHubble announces the launch of the Property Lead Engine, the new all-in-one, property-centric growth platform. News. Read more →.",
+    "Description": "Price Hubble announces the launch of the Property Lead Engine, the new all-in-one, property-centric growth platform. News. Read more →.",
     "Industry": "Analytics",
     "Founded": "2016",
     "Funding": "$34M",
@@ -236,7 +236,7 @@
   {
     "Name": "Verity",
     "Website": "https://verity.net/",
-    "Description": "Verity was founded in 2014. Where is Verity headquartered? Verity is headquartered inZurich,Switzerland. What is the size of Verity? Verity has 164 total employees.Headquartered inZurichwith operations in North America and Europe, Verity partners with enterprise customers to scale warehouse intel...",
+    "Description": "Verity was founded in 2014. Where is Verity headquartered? Verity is headquartered in Zurich,Switzerland. What is the size of Verity? Verity has 164 total employees.Headquartered in Zurichwith operations in North America and Europe, Verity partners with enterprise customers to scale warehouse intel...",
     "Industry": "Robotics",
     "Founded": "2014",
     "Funding": "$81M",
@@ -248,7 +248,7 @@
   {
     "Name": "Ledgy",
     "Website": "https://www.ledgy.com/",
-    "Description": "established on July 3, 2017 by Ben Brandt, Timo Horstschaefer, and Yoko Spirig inZurich,Switzerland. Software to automate equity workflows, including granting, document management, and exercising, integrating with HR systems to manage equity plans at scale.Ledgyempowers high-growth companies to m...",
+    "Description": "established on July 3, 2017 by Ben Brandt, Timo Horstschaefer, and Yoko Spirig in Zurich,Switzerland. Software to automate equity workflows, including granting, document management, and exercising, integrating with HR systems to manage equity plans at scale.Ledgyempowers high-growth companies to m...",
     "Industry": "Fintech",
     "Founded": "2017",
     "Funding": "$33.4M",
@@ -260,7 +260,7 @@
   {
     "Name": "FE fundinfo",
     "Website": "https://www.fefundinfo.com/",
-    "Description": "Latest company announcements, product launches and industry news from FE fundinfo. Articles. Expert insights on fund data, regulatory compliance and ...Missing:Zurich| Show results with:Zurich",
+    "Description": "fundinfo.com is a leading international platform for information and mandatory publications of investment funds. The platform offers the largest fund information and document library in Europe and Asia, hosting over 95 million fund documents and covering data on over 410,000 share classes. It pro...",
     "Industry": "Fintech",
     "Founded": "2005",
     "Funding": "£3M",
@@ -273,7 +273,7 @@
   {
     "Name": "Scandit",
     "Website": "http://www.scandit.com/",
-    "Description": "Scandit AG, commonly referred to as Scandit, is aSwisstechnology company that provides smart data capture software. Their technology allows any smart device equipped with a camera to scan barcodes, IDs and text and to perform additional functions using augmented reality and advanced analytics.",
+    "Description": "Scandit AG, commonly referred to as Scandit, is a Swisstechnology company that provides smart data capture software. Their technology allows any smart device equipped with a camera to scan barcodes, IDs and text and to perform additional functions using augmented reality and advanced analytics.",
     "Industry": "Media",
     "Founded": "2009",
     "Funding": "$273.1M",
@@ -333,7 +333,7 @@
   {
     "Name": "Cerrion",
     "Website": "https://www.cerrion.com/",
-    "Description": "Information on valuation, funding, cap tables, investors, and executives forCerrion. Use the PitchBook Platform to explore the full profile.Nov 25, 2025 ·Zurich-based firmCerrionbuilds AI systems that monitor factory operations and detect process, quality, and safety issues in real time, has secu...",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Cerrion. Use the Pitch Book Platform to explore the full profile.Nov 25, 2025 ·Zurich-based firm Cerrionbuilds AI systems that monitor factory operations and detect process, quality, and safety issues in real time, has secu...",
     "Industry": "AI",
     "Founded": "2021",
     "Funding": "$5M",
@@ -345,7 +345,7 @@
   {
     "Name": "Yokoy",
     "Website": "https://yokoy.io/",
-    "Description": "Yokoy is now Perk (formerly TravelPerk) One platform to automate all the time-consuming, frustrating tasks from travel bookings to expenses, ...",
+    "Description": "Yokoy is now Perk (formerly Travel Perk) One platform to automate all the time-consuming, frustrating tasks from travel bookings to expenses, ...",
     "Industry": "AI",
     "Founded": "2019",
     "Funding": "$107.8M",
@@ -381,7 +381,7 @@
   {
     "Name": "Evulpo",
     "Website": "https://www.evulpo.com/",
-    "Description": "Evulpo, aZurich-based EdTechstartup, has secured €9.3 million in a Series A funding round, despite ongoing constraints in the VC market, reflecting a strong belief inEvulpo'sAI-powered approach to education and the capabilities of its founding team.",
+    "Description": "Evulpo, a Zurich-based Ed Techstartup, has secured €9.3 million in a Series A funding round, despite ongoing constraints in the VC market, reflecting a strong belief in Evulpo'sAI-powered approach to education and the capabilities of its founding team.",
     "Industry": "Education",
     "Founded": "2020",
     "Funding": "$21.7M",
@@ -392,7 +392,7 @@
   },
   {
     "Name": "ZATAP",
-    "Website": "https://collectid.io/",
+    "Website": "https://zatap.io/",
     "Description": "We put together an awesome Fan Pass for our artist CRO using ZATAP's technology. It opened up a new way of engagement and brought us closer to our fans on our ...",
     "Industry": "Hardware",
     "Founded": "2017",
@@ -418,7 +418,7 @@
   {
     "Name": "Fu-Gen",
     "Website": "https://www.fu-gen.com/",
-    "Description": "Information on valuation, funding, acquisitions, investors, and executives forFu-Gen. Use the PitchBook Platform to explore the full profile.Fu-Genis an entrepreneurial independent power producer and renewable energy investor.Fu-GenAG, established in 2017 and supported by Arkin, along with Migdal...",
+    "Description": "Information on valuation, funding, acquisitions, investors, and executives for Fu-Gen. Use the Pitch Book Platform to explore the full profile.Fu-Genis an entrepreneurial independent power producer and renewable energy investor.Fu-GenAG, established in 2017 and supported by Arkin, along with Migdal...",
     "Industry": "Energy",
     "Founded": "2017",
     "Funding": "$320M",
@@ -430,7 +430,7 @@
   {
     "Name": "Piomic",
     "Website": "http://www.piomic.com/",
-    "Description": "Jan 20, 2026 ·Piomic is a series Acompanybased inZurich(Switzerland), founded in 2016 by Christopher Hertz, Marc Walter, Jari Kruth, Marc Augsburger and Jurg Frohlich. It operates as a Developer of a non-invasive electroceutical device for the treatment of chronic wounds.",
+    "Description": "Piomic is a series Acompanybased in Zurich(Switzerland), founded in 2016 by Christopher Hertz, Marc Walter, Jari Kruth, Marc Augsburger and Jurg Frohlich. It operates as a Developer of a non-invasive electroceutical device for the treatment of chronic wounds.",
     "Industry": "Healthcare",
     "Founded": "2016",
     "Funding": "CHF10.2M",
@@ -466,7 +466,7 @@
   {
     "Name": "Onchain labs",
     "Website": "https://www.onchainlabs.ch/",
-    "Description": "OnchainLabshas joined the Circle Alliance Program, strengthening our mission to make blockchain more accessible. Boost growth and conversions with our solutions, by creating meaningful digital experiences, visualized in a customizable, fully integrated digital wallet.",
+    "Description": "Onchain Labshas joined the Circle Alliance Program, strengthening our mission to make blockchain more accessible. Boost growth and conversions with our solutions, by creating meaningful digital experiences, visualized in a customizable, fully integrated digital wallet.",
     "Industry": "SaaS",
     "Founded": "2024",
     "Funding": "CHF5M",
@@ -478,7 +478,7 @@
   {
     "Name": "ETFbook",
     "Website": "https://www.etfbook.com/",
-    "Description": "Platform delivering analytics and insights into the world of European-domiciled ETFs. info@etfbook.com. EXPLORE ETFBOOK. HOME · WHO WE ARE · CONTACT US ...Missing:startup| Show results with:startup",
+    "Description": "Request Access Join others who use ouretfbookplatform to get analytic insights into UCITS ETFs.",
     "Industry": "Enterprise",
     "Founded": "2019",
     "Funding": "$4M",

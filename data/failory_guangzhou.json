@@ -1,8 +1,8 @@
 [
   {
     "Name": "LEGO",
-    "Website": "https://www.lego.com/en-us/stores/store/sunac-mall-guangzhou",
-    "Description": "LEGO® Store Sunac Mall Guangzhou, Certified Store Location, 63 Fenghuang North Road Guangzhou, Phone: 020-36999186, Directions & Map.Missing:company| Show results with:company",
+    "Website": "https://www.lego.com/",
+    "Description": "TheLEGOGroup is a privately held company based in Billund, Denmark. The company is still owned by the Kirk Kristiansen family who founded it in 1932.",
     "Industry": "E-Commerce",
     "Founded": "2012",
     "Funding": "CN¥13M",
@@ -13,7 +13,7 @@
   },
   {
     "Name": "XAG",
-    "Website": "https://www.xa.com/en/about",
+    "Website": "https://xag.today/",
     "Description": "Founded in 2007,XAGis a world-leading agricultural roboticscompany, which develops and promotes innovative solutions to make farming more efficient, sustainable, and rewarding for those who feed the world.",
     "Industry": "Robotics",
     "Founded": "2007",
@@ -26,7 +26,7 @@
   },
   {
     "Name": "GAC Aion New Energy Automobile",
-    "Website": "https://equityzen.com/company/gacaionnewenergyautomobile/",
+    "Website": "https://www.gac.com/",
     "Description": "GAC Aion New Energy Automobile is a manufacturer of electric vehicles and offers new energy products and services. It is a Chinese electric vehicle marque ...",
     "Industry": "EV/Mobility",
     "Founded": "2017",
@@ -38,7 +38,7 @@
   },
   {
     "Name": "Billboard",
-    "Website": "https://www.adhaiwell.com/",
+    "Website": "https://www.billboard.com/",
     "Description": "ADHaiwell is a China Supplier | Manufacturer of 3D LED Displays, Outdoor Advertising Billboard, Scrolling light boxes, Digital LED | LCD Signage, ...",
     "Industry": "Marketing/AdTech",
     "Founded": "2016",
@@ -50,7 +50,7 @@
   },
   {
     "Name": "Angitia Biopharmaceuticals",
-    "Website": "https://www.angitiabio.com/news/item?id=48",
+    "Website": "https://www.angitiabio.com/",
     "Description": "About us ; Website: http://www.angitiabio.com. External link for Angitia Biopharmaceuticals ; Industry: Biotechnology Research ; Company size: 51-200 employees.",
     "Industry": "Biotech",
     "Founded": "2018",
@@ -62,7 +62,7 @@
   },
   {
     "Name": "Jianke",
-    "Website": "https://www.privco.com/company/jianke_private_stock_annual_report_financials",
+    "Website": "https://www.jianke.com/",
     "Description": "Jianke is a public company based in Haidian (China), founded in 2009 by Xie Fangmin. It operates as an Online pharmacy for OTC medicines.",
     "Industry": "Healthcare",
     "Founded": "2006",
@@ -74,7 +74,7 @@
   },
   {
     "Name": "AIMIRA Innovation Technology",
-    "Website": "https://startup-seeker.com/company/aimirainnovation~com",
+    "Website": "https://aimirainnovation.com/",
     "Description": "AIMIRA Innovation Technology is an AI-based medical technology company that offers diagnosis, plastic surgery and anti-aging medicines.",
     "Industry": "Software",
     "Founded": "2021",
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Urban Revivo",
-    "Website": "https://global.urbanrevivo.com/pages/about-urban-revivo-hp0036?srsltid=AfmBOopohCRBoDLZD76Zy6GBFI8113RKAvQou0i_FONB2bAld7EMAFoy",
+    "Website": "https://urbanrevivo.com/",
     "Description": "Founded in 2006, Urban Revivo offers the latest and widest range in trendy and stylish high street fashion.",
     "Industry": "Fashion",
     "Founded": "2006",
@@ -98,8 +98,8 @@
   },
   {
     "Name": "TUNGEE",
-    "Website": "https://www.thecompanycheck.com/company/b/tungee/w6t11v9b0gaahocw9",
-    "Description": "Jan 3, 2026 ·Tungeeis a series B company based inGuangzhou(China), founded in 2016 by Li Zhan. It operates as an Enterprise sales intelligence forecasting platform.Tungeehas raised $71.7M in funding from investors like GGV Capital, Sequoia Capital China and Cathay Capital.Tungee was founded in 20...",
+    "Website": "https://www.tungee.com/",
+    "Description": "Tungeeis a series B company based in Guangzhou(China), founded in 2016 by Li Zhan. It operates as an Enterprise sales intelligence forecasting platform.Tungeehas raised $71.7M in funding from investors like GGV Capital, Sequoia Capital China and Cathay Capital.Tungee was founded in 20...",
     "Industry": "AI",
     "Founded": "2016",
     "Funding": "$236.3M",
@@ -122,7 +122,7 @@
   },
   {
     "Name": "VIPThink",
-    "Website": "https://web.vipthink.cn/",
+    "Website": "https://www.vipthink.net/",
     "Description": "VIPThink is an online children's mathematics thinking education brand that focuses on cultivating children aged 3-8 to think and solve problems.",
     "Industry": "Media",
     "Founded": "2016",
@@ -135,7 +135,7 @@
   {
     "Name": "Yifake",
     "Website": "http://www.yifake.com/",
-    "Description": "Yifake is a global, innovative provider of \"Internet + Legal\" services. Its core team is made up of professionals from the legal and Internet fields.Missing:startup| Show results with:startup",
+    "Description": "Yifakeis aglobal, innovative provider of \"Internet + Legal\" services. Its core team is made up of professionals from the legal and Internet fields. EFAK currently serves corporate customers in the Internet, finance, real estate, manufacturing, and other industries.Yifakedeveloped the SaaS cloud s...",
     "Industry": "Cloud",
     "Founded": "2011",
     "Funding": "CN¥63M",
@@ -147,7 +147,7 @@
   {
     "Name": "HeyGears",
     "Website": "https://www.heygears.com/",
-    "Description": "HeyGears is a professional online 3D printing service provider. We specialize in providing professional and effective solutions to meet all your prototyping ...",
+    "Description": "Hey Gears is a professional online 3D printing service provider. We specialize in providing professional and effective solutions to meet all your prototyping ...",
     "Industry": "Manufacturing",
     "Founded": "2015",
     "Funding": "$106.9M",
@@ -171,8 +171,8 @@
   },
   {
     "Name": "RootCloud",
-    "Website": "https://en.rootcloud.com/",
-    "Description": "Where is RootCloud headquartered? RootCloud is headquartered in Guangzhou, China. What is the size of RootCloud? RootCloud has 1,512 total employees.",
+    "Website": "https://www.rootintegration.com/",
+    "Description": "Root Integrated Systems'Root Cloudoffers virtual solution management with easy access to video conferencing applications and content in an affordable way, while eliminating the need for complicated infrastructure or hardware. See what Root can do for you. Connect with Our Team About Root Cloud Servic...",
     "Industry": "Cloud",
     "Founded": "2016",
     "Funding": "CN¥1.3B",
@@ -184,7 +184,7 @@
   {
     "Name": "Bebetter Med",
     "Website": "http://www.bebettermed.cn/",
-    "Description": "When was Bebetter Med founded? Bebetter Med was founded in 2012. Where is Bebetter Med headquartered? Bebetter Med is headquartered in Guangzhou, China.",
+    "Description": "Be Better Medicine Technology Co., LTD.is arapid growth novel drug discovery and developmentcompanylocated in Guangzhou, China. It was founded in 2012 by overseas returnees and aims to create ...",
     "Industry": "Healthcare",
     "Founded": "2012",
     "Funding": "CN¥499M",
@@ -208,7 +208,7 @@
   },
   {
     "Name": "Gu Sheng Tang",
-    "Website": "https://www.gstzy.cn/",
+    "Website": "https://guenergy.com/",
     "Description": "The company was founded in 2010 and is headquartered in Guangzhou, the People's Republic of China. ... Gu Sheng Tang Donates S$1.06 Million to NTU Singapore to ...",
     "Industry": "Healthcare",
     "Founded": "2010",
@@ -221,7 +221,7 @@
   {
     "Name": "CanSemi",
     "Website": "http://www.cansemitech.com/",
-    "Description": "CanSemi. Phase II.China,Guangzhou. 2022.\"StartupFunding: June 2022\". Semiconductor Engineering. ^ \"CanSemistartscapacity expansion for analog chips at 12-inch fab\". DIGITIMES.",
+    "Description": "Can Semi. Phase II.China,Guangzhou. 2022.\"Startup Funding: June 2022\". Semiconductor Engineering. ^ \"Can Semistartscapacity expansion for analog chips at 12-inch fab\". DIGITIMES.",
     "Industry": "Hardware",
     "Founded": "2017",
     "Funding": "$980.7M",
@@ -232,8 +232,8 @@
   },
   {
     "Name": "Creative Biosciences",
-    "Website": "http://www.kangliming.com/",
-    "Description": "Apr 8, 2019 ·Information on valuation, funding, cap tables, investors, and executives forGuangzhouCreative Biosciences. Use the PitchBook Platform to explore the full profile.",
+    "Website": "https://creativemarket.com/",
+    "Description": "Information on valuation, funding, cap tables, investors, and executives for Guangzhou Creative Biosciences. Use the Pitch Book Platform to explore the full profile.",
     "Industry": "Biotech",
     "Founded": "2015",
     "Funding": "$230.9M",
@@ -244,7 +244,7 @@
   },
   {
     "Name": "ON TIME",
-    "Website": "https://www.ruqimobility.com/",
+    "Website": "https://ontime.com/",
     "Description": "ON TIME. SB Score:416. ON TIME is a mobile travel service provider company. Industry: Transportation. Subindustry: Automotive. URL: https://www.ruqimobility.com ...",
     "Industry": "Mobility",
     "Founded": "2019",
@@ -268,7 +268,7 @@
   },
   {
     "Name": "Qdama",
-    "Website": "http://www.qdama.cn/index.html#/",
+    "Website": "http://www.qdama.cn/",
     "Description": "Guangzhou Qiandama Agricultural Products Company Limited (Chinese: 广州 ... qdama.com. A Qiandama location in Suzhou Industrial Park. Contents. 1 Business ...",
     "Industry": "AgTech",
     "Founded": "2012",
@@ -280,8 +280,8 @@
   },
   {
     "Name": "TT Yuyin",
-    "Website": "https://www.52tt.com/",
-    "Description": "TTYuyin(also known asGuangzhouQuwan Network Technology, 广州趣丸网络科技有限公司) is a technology company developing a platform for mobile social games. Its primary application is TT voice which allows users to participate in team hacking, games, and e-sports.",
+    "Website": "https://dfkcompany.com/",
+    "Description": "TTYuyin(also known as Guangzhou Quwan Network Technology, 广州趣丸网络科技有限公司) is a technology company developing a platform for mobile social games. Its primary application is TT voice which allows users to participate in team hacking, games, and e-sports.",
     "Industry": "Media",
     "Founded": "2014",
     "Funding": "$100.5M",
@@ -293,7 +293,7 @@
   {
     "Name": "DataStory",
     "Website": "https://www.datastory.com.cn/",
-    "Description": "Oct 16, 2025 ·DataStory- About the companyDataStoryis a series C company based inGuangzhou(China), founded in 2015 by Dr. Xu Yabo. It operates as an Enterprise central data management platform.DataStoryhas raised $104M in funding from investors like Shunwei Capital, Cathay Capital and Xiaomi.",
+    "Description": "Data Story- About the company Data Storyis a series C company based in Guangzhou(China), founded in 2015 by Dr. Xu Yabo. It operates as an Enterprise central data management platform.Data Storyhas raised $104M in funding from investors like Shunwei Capital, Cathay Capital and Xiaomi.",
     "Industry": "AI",
     "Founded": "2015",
     "Funding": "$104.6M",
@@ -306,7 +306,7 @@
   {
     "Name": "Vital Thin Film Materials",
     "Website": "http://www.vitaltfm.com/",
-    "Description": "VitalThinFilmMaterialsis a researcher, developer, and producer of sputtering targets and evaporation materials for vacuum coatings.VitalMaterialssupportsthinfilmapplications with advanced materials for deposition, coatings, semiconductor devices, and manufacturing reliability.VitalThinFilmMateria...",
+    "Description": "Vital Thin Film Materialsis a researcher, developer, and producer of sputtering targets and evaporation materials for vacuum coatings.Vital Materialssupportsthinfilmapplications with advanced materials for deposition, coatings, semiconductor devices, and manufacturing reliability.Vital Thin Film Materia...",
     "Industry": "Manufacturing",
     "Founded": "2017",
     "Funding": "CN¥5.7B",
@@ -318,7 +318,7 @@
   {
     "Name": "Canway",
     "Website": "https://www.canway.net/",
-    "Description": "Guangzhou CanWay Technology Co., Ltd. was founded in 2001. As a leader in IT R&D and O&M solution, we provide government and enterprise clients with ...",
+    "Description": "Guangzhou Can Way Technology Co., Ltd. was founded in 2001. As a leader in IT R&D and O&M solution, we provide government and enterprise clients with ...",
     "Industry": "Enterprise",
     "Founded": "2001",
     "Funding": "CN¥500M",
@@ -330,7 +330,7 @@
   {
     "Name": "Xbed",
     "Website": "http://www.xbed.com.cn/",
-    "Description": "Where is Xbed headquartered? Xbed is headquartered in Guangzhou, China. What industry is Xbed in? Xbed's primary industry is Business/Productivity Software.",
+    "Description": "Opened in 2018, the Xbedoffers travelers a pleasant stay in Fangchenggang, whether for business or leisure purposes. It's easy to keep connected with the property's Free in-room Wi-Fi. Fangchenggang",
     "Industry": "Travel",
     "Founded": "2015",
     "Funding": "$38.2M",
@@ -342,7 +342,7 @@
   {
     "Name": "MoonBiotech",
     "Website": "https://www.moonbio.com/",
-    "Description": "11 Kaiyuan Huangpu District Ave Rm 301, Guangzhou, China. Phone Number. + ... LtdMoon Biotech Co LtdMoonBiotechSIC Code 87,873NAICS Code 54,541Show more ...",
+    "Description": "11 Kaiyuan Huangpu District Ave Rm 301, Guangzhou, China. Phone Number. + ... Ltd Moon Biotech Co Ltd Moon BiotechSIC Code 87,873NAICS Code 54,541Show more ...",
     "Industry": "Biotech",
     "Founded": "2015",
     "Funding": "CN¥660M",
@@ -354,7 +354,7 @@
   {
     "Name": "Kuaizi Technology",
     "Website": "http://kuaizi.co/",
-    "Description": "KuaiziTechnology(筷子科技) provides an AI driven platform for designing and creating creative contents for marketers or marketing content agencies.Jan 26, 2026 ·Kuaiziis a series B company based inGuangzhou(China), founded in 2017 by Winder Chen. It operates as an AI based video generation platform f...",
+    "Description": "Kuaizi Technology(筷子科技) provides an AI driven platform for designing and creating creative contents for marketers or marketing content agencies.Jan 26, 2026 ·Kuaiziis a series B company based in Guangzhou(China), founded in 2017 by Winder Chen. It operates as an AI based video generation platform f...",
     "Industry": "AI",
     "Founded": "2013",
     "Funding": "CN¥110.8M",
@@ -367,7 +367,7 @@
   {
     "Name": "Liobate",
     "Website": "https://liobate.com/",
-    "Description": "Where is Liobate headquartered? Liobate is headquartered in Nanjing, China. What industry is Liobate in? Liobate's primary industry is Fiberoptic Equipment.",
+    "Description": "Liobatedesigns, manufactures and packages thin-film lithium niobate (TFLN) photonic integrated circuits and components. The company develops compact, low-energy, high-speed photonic integrated circuits, modulators and devices, plus specialized fabrication and packaging equipment.",
     "Industry": "Manufacturing",
     "Founded": "2020",
     "Funding": "CN¥100M",
@@ -378,8 +378,8 @@
   },
   {
     "Name": "MEDSINGLONG",
-    "Website": "http://www.yiliaomsl.cn/",
-    "Description": "Found in 2004, Guangzhou MedSingLong Medical Equipment is one of the biggest Factory Based Professional medical equipment Supplier in China.",
+    "Website": "https://medsinglong.en.made-in-china.com/",
+    "Description": "Found in 2004, Guangzhou Med Sing Long Medical Equipment is one of the biggest Factory Based Professional medical equipment Supplier in China.",
     "Industry": "Healthcare",
     "Founded": "2013",
     "Funding": "CN¥13.5M",
@@ -402,7 +402,7 @@
   },
   {
     "Name": "Juwan Technology",
-    "Website": "http://www.gbtrnd.com/",
+    "Website": "",
     "Description": "Juwan Technology Research is a high-tech private enterprise that designs and builds battery and battery pack production capacity.",
     "Industry": "Hardware",
     "Founded": "2020",
@@ -415,7 +415,7 @@
   {
     "Name": "3vjia.com",
     "Website": "https://www.3vjia.com/",
-    "Description": "3vjia.comis 3D home design and furnishing portal that uses VR technology.3vjia, founded in January, 2013 and headquartered inGuangzhou, is a 3D cloud home design platform. Established by Cai Zhisen, thecompanyhas received financings from Alibaba, Red Star Macalline...",
+    "Description": "3vjia.comis 3D home design and furnishing portal that uses VR technology.3vjia, founded in January, 2013 and headquartered in Guangzhou, is a 3D cloud home design platform. Established by Cai Zhisen, thecompanyhas received financings from Alibaba, Red Star Macalline...",
     "Industry": "Retail",
     "Founded": "2013",
     "Funding": "CN¥800M",
@@ -427,7 +427,7 @@
   {
     "Name": "Canton Biologics",
     "Website": "http://www.cantonbio.com/",
-    "Description": "Sep 9, 2025 ·CantonBiologicsis a series C company based inGuangzhou(China), founded in 2016 by Xiao Shen. It operates as a CDMO focused on manufacturing of cell based therapy products.",
+    "Description": "Canton Biologicsis a series C company based in Guangzhou(China), founded in 2016 by Xiao Shen. It operates as a CDMO focused on manufacturing of cell based therapy products.",
     "Industry": "Biotech",
     "Founded": "2016",
     "Funding": "CN¥303M",
@@ -439,7 +439,7 @@
   {
     "Name": "Leyaoyao",
     "Website": "http://www.leyaoyao.com/",
-    "Description": "Feb 21, 2023 ·GuangzhouLeyaoyaoInformation Technology Co. Ltd. provided online-payment services inGuangzhou,China. In 2017, the company entered the claw-machine market and became the leader in the industry's online-payment services within two years.",
+    "Description": "Guangzhou Leyaoyao Information Technology Co. Ltd. provided online-payment services in Guangzhou,China. In 2017, the company entered the claw-machine market and became the leader in the industry's online-payment services within two years.",
     "Industry": "Fintech",
     "Founded": "2015",
     "Funding": "CN¥493M",
@@ -463,7 +463,7 @@
   {
     "Name": "Vision Medicals",
     "Website": "http://www.visionmedicals.com/",
-    "Description": "Vision Medicals is a gene technology and precision medicine company ... Vision Medicals is located in Guangzhou, Guangdong, China . Who invested in ...",
+    "Description": "Vision Medicals Vision Medicalsis agene technology and precision medicinecompany. 2018 51-100",
     "Industry": "Healthcare",
     "Founded": "2018",
     "Funding": "$119.9M",
@@ -499,7 +499,7 @@
   },
   {
     "Name": "Zhiyi Pharmaceutics",
-    "Website": "http://www.zypharm.com.cn/",
+    "Website": "",
     "Description": "Zhiyi Pharmaceutics focuses on the research and development of second-generation probiotics and Live Biotherapeutics.",
     "Industry": "Biotech",
     "Founded": "2013",
@@ -512,7 +512,7 @@
   {
     "Name": "COLORKEY",
     "Website": "http://www.colorkey.com/",
-    "Description": "Where is Colorkey headquartered? Colorkey is headquartered in Guangzhou, China. What industry is Colorkey in? Colorkey's primary industry is Personal Products.",
+    "Description": "",
     "Industry": "Fashion",
     "Founded": "2018",
     "Funding": "CN¥600M",
@@ -536,7 +536,7 @@
   },
   {
     "Name": "Allianz China General Insurance",
-    "Website": "http://www.allianz.cn/zh/home_page/",
+    "Website": "http://www.allianz.cn/",
     "Description": "Guangzhou International Finance Center, No. 5. Zhujiang Xi Road Zhujiang New Town, Guangzhou ... Allianz China General Insurance Company Ltd Shanghai Branch ...",
     "Industry": "InsurTech",
     "Founded": "2003",
@@ -550,7 +550,7 @@
   {
     "Name": "Mancando",
     "Website": "http://www.mancando.cn/",
-    "Description": "Where is Mancando headquartered? Mancando is headquartered in Guangzhou, China. What industry is Mancando in? Mancando's primary industry is Automotive.",
+    "Description": "Mancandois an automotive parts supplier company that provides car wearing parts for auto repair factory.",
     "Industry": "Mobility",
     "Founded": "2015",
     "Funding": "$114.3M",
@@ -562,7 +562,7 @@
   {
     "Name": "Huakong Power",
     "Website": "https://www.huakongpower.com/",
-    "Description": "As theChinesecompanyincreases its new energy commitments,HuakongPowerGroup has signed agreements to raise 5 billion yuan ($692.7 million) in strategic finance from two domestic investors.",
+    "Description": "As the Chinesecompanyincreases its new energy commitments,Huakong Power Group has signed agreements to raise 5 billion yuan ($692.7 million) in strategic finance from two domestic investors.",
     "Industry": "Energy",
     "Founded": "2020",
     "Funding": "CN¥5B",
@@ -573,8 +573,8 @@
   },
   {
     "Name": "Guangdong Xinyue",
-    "Website": "https://www.ascenpower.com/",
-    "Description": "Find company research, competitor information, contact details & financial data forGuangdongXinyueGroup Co., Ltd. ofGuangzhou,Guangdong. Get the latest business insights from Dun & Bradstreet.",
+    "Website": "https://www.san-bang.cn/",
+    "Description": "Find company research, competitor information, contact details & financial data for Guangdong Xinyue Group Co., Ltd. of Guangzhou,Guangdong. Get the latest business insights from Dun & Bradstreet.",
     "Industry": "Analytics",
     "Founded": "2021",
     "Funding": "CN¥1B",
@@ -622,7 +622,7 @@
   {
     "Name": "Simple Love",
     "Website": "http://www.simplelove.com.cn/",
-    "Description": "Sep 29, 2022 ·Guangzhou-based Honest Dairy Group Co. Ltd owns Simple Love. The company currently produces a line of high-protein and probiotic yogurts, and yogurt-based drinks.",
+    "Description": "Guangzhou-based Honest Dairy Group Co. Ltd owns Simple Love. The company currently produces a line of high-protein and probiotic yogurts, and yogurt-based drinks.",
     "Industry": "Food",
     "Founded": "2014",
     "Funding": "CN¥1.2B",
@@ -634,7 +634,7 @@
   {
     "Name": "9kus",
     "Website": "https://www.9kus.com/",
-    "Description": "Jun 23, 2025 ·9kusis a seed company based inGuangzhou(China), founded in 2014. It operates as an Online digital library and a community for readers and authors.9kushas raised $1.18M in funding from China Merchants Capital and Shenzhen Chuangdong Investment.",
+    "Description": "9kusis a seed company based in Guangzhou(China), founded in 2014. It operates as an Online digital library and a community for readers and authors.9kushas raised $1.18M in funding from China Merchants Capital and Shenzhen Chuangdong Investment.",
     "Industry": "Media",
     "Founded": "2014",
     "Funding": "CN¥18M",
