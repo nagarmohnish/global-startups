@@ -1,11 +1,9 @@
-version: "3.9"
-
 services:
   neo4j:
     image: neo4j:5-community
     ports:
-      - "7474:7474"   # Browser
-      - "7687:7687"   # Bolt
+      - "7474:7474"
+      - "7687:7687"
     environment:
       NEO4J_AUTH: neo4j/startupgraph
       NEO4J_PLUGINS: '[]'
@@ -37,10 +35,13 @@ services:
   frontend:
     build: ./frontend
     ports:
-      - "5173:5173"
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://backend:8000
     volumes:
       - ./frontend:/app
       - /app/node_modules
+      - /app/.next
     depends_on:
       - backend
 

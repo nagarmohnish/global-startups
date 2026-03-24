@@ -13,6 +13,11 @@ page_debug.html
 # Progress tracking (resumable state, not needed in repo)
 data/_*_progress.json
 
+# Node
+node_modules/
+.next/
+next-env.d.ts
+
 # Old output files
 f6s_tel_aviv_startups*.xlsx
 tel_aviv_startups.xlsx
