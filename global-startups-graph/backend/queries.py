@@ -624,9 +624,10 @@ class StartupGraph:
 
         # Industries with SPECIALIZES_IN LQ scores
         specializations = self._query("""
-            MATCH (c:City {name: $city})-[r:SPECIALIZES_IN]->(i:Industry)
-            RETURN i.name AS industry, r.lq AS lq, r.count AS count
-            ORDER BY r.lq DESC
+            MATCH (c:City {name: $city})-[r:SPECIALIZES_IN]->(ic)
+            RETURN ic.name AS industry, r.location_quotient AS location_quotient,
+                   r.startup_count AS startup_count, r.city_share AS city_share
+            ORDER BY r.location_quotient DESC
         """, city=city_name)
 
         # Fallback: compute industry breakdown from startups
@@ -687,9 +688,18 @@ class StartupGraph:
             ORDER BY count DESC
         """, city=city_name)
 
+        # Country and region
+        geo = self._query("""
+            MATCH (c:City {name: $city})-[:IN_COUNTRY]->(co:Country)-[:IN_REGION]->(r:Region)
+            RETURN co.name AS country, r.name AS region
+        """, city=city_name)
+
         stat = stats[0] if stats else {}
+        g = geo[0] if geo else {}
         return {
             "city": city_name,
+            "country": g.get("country"),
+            "region": g.get("region"),
             "startup_count": stat.get("startup_count", 0),
             "total_funding": stat.get("total_funding"),
             "avg_funding": stat.get("avg_funding"),

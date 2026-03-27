@@ -3,7 +3,7 @@ from contextlib import asynccontextmanager
 from typing import List, Optional
 from urllib.parse import unquote
 
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Path, Query
 from fastapi.middleware.cors import CORSMiddleware
 
 from queries import StartupGraph
@@ -48,14 +48,14 @@ def industries_ranking(limit: int = 10):
     return graph.top_industries_by_funding(limit=limit)
 
 
-@app.get("/industries/{name}")
-def industry_performance(name: str):
-    return graph.industry_performance(unquote(name))
-
-
-@app.get("/industries/{name}/startups")
+@app.get("/industries/{name:path}/startups")
 def industry_startups(name: str, sort_by: str = "funding_usd", limit: int = 50):
     return graph.startups_in_industry(unquote(name), sort_by=sort_by, limit=limit)
+
+
+@app.get("/industries/{name:path}")
+def industry_performance(name: str):
+    return graph.industry_performance(unquote(name))
 
 
 # ------------------------------------------------------------------
@@ -81,7 +81,7 @@ def investor_top_pairs(limit: int = 20):
     return graph.top_investor_pairs(limit=limit)
 
 
-@app.get("/investors/by-industry/{industry}")
+@app.get("/investors/by-industry/{industry:path}")
 def investors_by_industry(industry: str):
     return graph.investors_by_industry(unquote(industry))
 
@@ -215,6 +215,12 @@ def city_profile(name: str):
 # ------------------------------------------------------------------
 # Industry overview
 # ------------------------------------------------------------------
+
+@app.get("/industry/overview")
+def industry_overview_query(name: str = Query(...)):
+    """Industry overview by query param (handles names with slashes)."""
+    return graph.industry_overview(unquote(name))
+
 
 @app.get("/industry/{name}/overview")
 def industry_overview(name: str):
